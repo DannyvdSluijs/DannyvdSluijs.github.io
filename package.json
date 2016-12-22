@@ -1,0 +1,22 @@
+{
+  "name": "dannyvandersluijs.nl",
+  "version": "1.0.0",
+  "description": "Dannyvandersluijs.nl personal webspace",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DannyvdSluijs/dannyvandersluijs.nl.git"
+  },
+  "author": "Danny van der Sluijs",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DannyvdSluijs/dannyvandersluijs.nl/issues"
+  },
+  "homepage": "https://github.com/DannyvdSluijs/dannyvandersluijs.nl#readme",
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
