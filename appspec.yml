@@ -3,3 +3,8 @@ os: linux
 files:
   - source: /
     destination: /var/www/html/
+hooks:
+  AfterInstall:
+    - location: .aws/after-install.sh
+      timeout: 30
+      runas: root
