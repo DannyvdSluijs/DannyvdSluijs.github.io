@@ -8,4 +8,5 @@
 
     # Compile CSS and JS
     npm install;
+    npm build;
 )
