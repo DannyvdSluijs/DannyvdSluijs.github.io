@@ -1,12 +1,15 @@
-/*
- * Globals
- */
+/* You can add global styles to this file, and also import other style files */
+@import '~bootstrap/dist/css/bootstrap.min.css';
 
-/* Links */
 a,
 a:focus,
 a:hover {
     color: #fff;
+}
+
+h1, .h1, h2, .h2, h3, .h3 {
+    margin-top: 20px;
+    margin-bottom: 10px;
 }
 
 /* Custom default button */
@@ -18,11 +21,6 @@ a:hover {
     background-color: #fff;
     border: 1px solid #fff;
 }
-
-
-/*
- * Base structure
- */
 
 html,
 body {
@@ -58,7 +56,6 @@ body {
     padding: 30px;
 }
 
-
 /*
  * Header
  */
@@ -88,9 +85,9 @@ body {
     border-bottom-color: #a9a9a9;
     border-bottom-color: rgba(255,255,255,.25);
 }
-.masthead-nav > .active > a,
-.masthead-nav > .active > a:hover,
-.masthead-nav > .active > a:focus {
+.masthead-nav > li > a.active,
+.masthead-nav > li > a.active:hover,
+.masthead-nav > li > a.active:focus {
     color: #fff;
     border-bottom-color: #fff;
 }
@@ -104,11 +101,6 @@ body {
     }
 }
 
-
-/*
- * Cover
- */
-
 .cover {
     padding: 0 20px;
 }
@@ -117,20 +109,10 @@ body {
     font-weight: bold;
 }
 
-
-/*
- * Footer
- */
-
 .mastfoot {
     color: #999; /* IE8 proofing */
     color: rgba(255,255,255,.5);
 }
-
-
-/*
- * Affix and center
- */
 
 @media (min-width: 768px) {
     /* Pull out the header and footer */
@@ -161,4 +143,3 @@ body {
         width: 700px;
     }
 }
-
