@@ -1,23 +1,30 @@
 import { BrowserModule } from '@angular/platform-browser';
 import { NgModule } from '@angular/core';
+import { HttpClientModule } from '@angular/common/http';
+
 
 import { AppComponent } from './app.component';
-import { SocialMediaComponent } from './social-media/social-media.component';
-import { LandingComponent } from './landing/landing.component';
-
 import { AppRoutingModule } from './app-routing.module';
+import { ContactComponent } from './contact/contact.component';
+import { LandingComponent } from './landing/landing.component';
+import { GithubComponent } from './github/github.component';
+
 
 @NgModule({
   declarations: [
     AppComponent,
-    SocialMediaComponent,
-    LandingComponent
+    ContactComponent,
+    LandingComponent,
+    GithubComponent,
   ],
   imports: [
     BrowserModule,
-    AppRoutingModule
+    AppRoutingModule,
+    HttpClientModule
   ],
   providers: [],
-  bootstrap: [AppComponent]
+  bootstrap: [
+    AppComponent
+  ]
 })
 export class AppModule { }

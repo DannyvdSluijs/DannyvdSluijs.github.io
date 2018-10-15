@@ -1,0 +1,16 @@
+<div class="col-8 p-lg-5 mx-auto my-5">
+  <h1><i class="fab fa-github fa-fw mr-2"></i> Github projects </h1>
+
+    <div class="row">
+      <div *ngFor="let repository of repositories" class="col-4">
+        <div class="clearfix">
+          <strong class="float-left"><a href="{{repository.html_url}}" target="_blank">{{repository.name}}</a></strong>
+          <small class="float-right text-muted">
+            <span class="glyphicon glyphicon-time"></span>{{repository.updated_at | date}}
+          </small>
+        </div>
+        <span class="text-muted">{{repository.description}}</span>
+        <hr class="bg-white"/>
+      </div>
+    </div>
+  </div>
