@@ -1,19 +1,19 @@
 <div class="container-fluid">
     <nav class="navbar navbar-expand-lg navbar-dark bg-dark row fixed-top pl-4">
         <a class="navbar-brand" href="#">Danny van der Sluijs</a>
-        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+        <button class="navbar-toggler" type="button" (click)="menuCollapsed = !menuCollapsed" [attr.aria-expanded]="!menuCollapsed" aria-controls="mainNavigation" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
         </button>
-        <div class="collapse navbar-collapse" id="navbarNav">
+        <div class="collapse navbar-collapse" id="mainNavigation" [ngbCollapse]="menuCollapsed">
             <ul class="navbar-nav">
                 <li class="nav-item">
-                    <a class="nav-link" routerLink="/landing" routerLinkActive="active">Home <span class="sr-only">(current)</span></a>
+                    <a class="nav-link" routerLink="/landing" (click)="menuCollapsed = !menuCollapsed" routerLinkActive="active">Home <span class="sr-only">(current)</span></a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" routerLink="/github" routerLinkActive="active">Github</a>
+                    <a class="nav-link" routerLink="/github" (click)="menuCollapsed = !menuCollapsed" routerLinkActive="active">Github</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" routerLink="/contact" routerLinkActive="active">Contact</a>
+                    <a class="nav-link" routerLink="/contact" (click)="menuCollapsed = !menuCollapsed" routerLinkActive="active">Contact</a>
                 </li>
             </ul>
         </div>
@@ -25,7 +25,7 @@
     </div>
     <div id="footer" class="row bg-dark text-white pt-2">
         <div class="col-sm-12 col-md-4 ">
-            <h6>Latest github projects</h6>
+            <h5>Latest github projects</h5>
             <hr class="bg-white"/>
             <ul class="list-group list-unstyled">
                 <div *ngFor="let repository of repositories | slice:0:5">
@@ -41,13 +41,13 @@
             </ul>
         </div>
         <div class="col-sm-12 col-md-4">
-            <h6>Github activity</h6>
+            <h5>Github activity</h5>
             <hr class="bg-white"/>
             <ul class="list-group list-unstyled">
                 <div *ngFor="let activity of activities | slice:0:7" >
                     <div class="clearfix">
                         <strong class="float-left">
-                            {{activity.getHumanisedType()}} <a href="{{activity.repo.url}}" target="_blank">{{activity.repo.name}}</a>
+                            {{activity.getHumanisedType()}} <a href="{{activity.getHtmlUrl()}}" target="_blank">{{activity.repo.name}}</a>
                         </strong>
                         <small class="float-right text-muted">
                             <span class="glyphicon glyphicon-time"></span>{{activity.created_at | date}}
@@ -57,8 +57,8 @@
                 </div>
             </ul>
         </div>
-        <div class="col-4">
-            <h6>Latest blog posts</h6>
+        <div class="col-sm-12 col-md-4">
+            <h5>Latest blog posts</h5>
             <hr class="bg-white"/>
             <ul class="list-group list-unstyled">
                 <div *ngFor="let blogPost of blogPosts | slice:0:7" >

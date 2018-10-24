@@ -1,8 +1,8 @@
 import { Component, OnInit } from '@angular/core';
 import { GithubService } from './github.service';
 import { BlogService } from './blog.service';
-import { GithubRepository } from './github-repository';
-import { GithubActivity } from './github-activity';
+import { Repository } from './models/GitHub/Repository';
+import { Activity } from './models/GitHub/Activity';
 import { BlogPost } from './models/BlogPost';
 
 @Component({
@@ -15,9 +15,10 @@ export class AppComponent implements OnInit {
 
     title = 'dannyvandersluijs.nl';
 
-    repositories: GithubRepository[] = [];
-    activities: GithubActivity[] = [];
+    repositories: Repository[] = [];
+    activities: Activity[] = [];
     blogPosts: BlogPost[] = [];
+    menuCollapsed = true;
 
     constructor(private gitHubService: GithubService, private blogService: BlogService) { }
 
@@ -36,7 +37,7 @@ export class AppComponent implements OnInit {
         this.gitHubService.getActivities()
             .subscribe(activities => {
                 activities.map(activity => {
-                  const gitHubActivity: GithubActivity = new GithubActivity();
+                  const gitHubActivity: Activity = new Activity();
                   Object.assign(gitHubActivity, activity);
                   this.activities.push(gitHubActivity);
                 });
@@ -50,7 +51,6 @@ export class AppComponent implements OnInit {
                     const blogPost: BlogPost = new BlogPost();
                     Object.assign(blogPost, post);
                     this.blogPosts.push(blogPost);
-                    console.log(blogPost);
                 });
             });
     }

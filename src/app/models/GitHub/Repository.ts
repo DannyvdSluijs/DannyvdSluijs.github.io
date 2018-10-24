@@ -1,4 +1,4 @@
-export class GithubRepository {
+export class Repository {
     name: string;
     fork: boolean;
     url: string;

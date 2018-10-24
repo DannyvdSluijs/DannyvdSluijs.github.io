@@ -1,7 +1,7 @@
 import { Component, OnInit } from '@angular/core';
 
 import { GithubService } from '../github.service';
-import { GithubRepository } from '../github-repository';
+import { Repository } from '../models/GitHub/Repository';
 import {map} from 'rxjs/operators';
 
 @Component({
@@ -11,7 +11,7 @@ import {map} from 'rxjs/operators';
 })
 export class GithubComponent implements OnInit {
 
-  repositories: GithubRepository[];
+  repositories: Repository[];
 
   constructor(private gitHubService: GithubService) { }
 
