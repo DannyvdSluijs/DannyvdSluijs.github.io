@@ -29,9 +29,11 @@ export class Activity {
             case GithubActivityType.PushEvent:
                 return 'Pushed to';
             case GithubActivityType.CreateEvent:
-                return 'Created';
+                return 'Created new ' + this.payload.ref_type + ' on ';
             case GithubActivityType.IssueCommentEvent:
                 return 'Commented on ';
+            case GithubActivityType.PullRequestEvent:
+                return 'Opened pull request on ';
             default:
                 return this.type;
         }
@@ -50,8 +52,16 @@ export class Activity {
                 return  this.payload
                     .comment
                     .html_url;
-            case GithubActivityType.WatchEvent:
+            case GithubActivityType.PullRequestEvent:
+                return  this.payload
+                    .pull_request
+                    .html_url;
             case GithubActivityType.CreateEvent:
+                return this.repo
+                    .url
+                    .replace('https://api.github.com/repos/', 'https://github.com/')
+                    .concat('/tree/' + this.payload.ref);
+            case GithubActivityType.WatchEvent:
             default:
                 return this.repo
                     .url
@@ -64,5 +74,6 @@ enum GithubActivityType {
     WatchEvent = 'WatchEvent',
     PushEvent = 'PushEvent',
     CreateEvent = 'CreateEvent',
-    IssueCommentEvent = 'IssueCommentEvent'
+    IssueCommentEvent = 'IssueCommentEvent',
+    PullRequestEvent = 'PullRequestEvent'
 }
