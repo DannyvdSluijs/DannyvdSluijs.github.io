@@ -10,8 +10,8 @@ export class ActivityPayload {
     before: string;
     commits: Commit[] = [];
     action: string;
-    issue: {};
     comment: {html_url: string};
     pull_request: {html_url: string};
+    issue: {html_url: string};
 
 }

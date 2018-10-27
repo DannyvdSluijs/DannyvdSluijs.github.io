@@ -30,10 +30,14 @@ export class Activity {
                 return 'Pushed to';
             case GithubActivityType.CreateEvent:
                 return 'Created new ' + this.payload.ref_type + ' on ';
+            case GithubActivityType.DeleteEvent:
+                return 'Deleted ' + this.payload.ref_type + ' on ';
             case GithubActivityType.IssueCommentEvent:
                 return 'Commented on ';
             case GithubActivityType.PullRequestEvent:
                 return 'Opened pull request on ';
+            case GithubActivityType.IssuesEvent:
+                return this.payload.action.charAt(0).toUpperCase() + this.payload.action.slice(1) + ' issue on ';
             default:
                 return this.type;
         }
@@ -52,6 +56,10 @@ export class Activity {
                 return  this.payload
                     .comment
                     .html_url;
+            case GithubActivityType.IssuesEvent:
+                return  this.payload
+                    .issue
+                    .html_url;
             case GithubActivityType.PullRequestEvent:
                 return  this.payload
                     .pull_request
@@ -61,6 +69,10 @@ export class Activity {
                     .url
                     .replace('https://api.github.com/repos/', 'https://github.com/')
                     .concat('/tree/' + this.payload.ref);
+            case GithubActivityType.DeleteEvent:
+                return this.repo
+                    .url
+                    .replace('https://api.github.com/repos/', 'https://github.com/');
             case GithubActivityType.WatchEvent:
             default:
                 return this.repo
@@ -74,6 +86,8 @@ enum GithubActivityType {
     WatchEvent = 'WatchEvent',
     PushEvent = 'PushEvent',
     CreateEvent = 'CreateEvent',
+    DeleteEvent = 'DeleteEvent',
     IssueCommentEvent = 'IssueCommentEvent',
-    PullRequestEvent = 'PullRequestEvent'
+    PullRequestEvent = 'PullRequestEvent',
+    IssuesEvent = 'IssuesEvent'
 }
