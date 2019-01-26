@@ -26,6 +26,8 @@ export class Activity {
         switch (this.type) {
             case GithubActivityType.WatchEvent:
                 return 'Starred';
+            case GithubActivityType.ForkEvent:
+                return 'Forked';
             case GithubActivityType.PushEvent:
                 return 'Pushed to';
             case GithubActivityType.CreateEvent:
@@ -51,7 +53,6 @@ export class Activity {
                     .url
                     .replace('https://api.github.com/repos/', 'https://github.com/')
                     .replace('/commits/', '/commit/');
-                return 'Created';
             case GithubActivityType.IssueCommentEvent:
                 return  this.payload
                     .comment
@@ -89,5 +90,6 @@ enum GithubActivityType {
     DeleteEvent = 'DeleteEvent',
     IssueCommentEvent = 'IssueCommentEvent',
     PullRequestEvent = 'PullRequestEvent',
-    IssuesEvent = 'IssuesEvent'
+    IssuesEvent = 'IssuesEvent',
+    ForkEvent = 'ForkEvent'
 }

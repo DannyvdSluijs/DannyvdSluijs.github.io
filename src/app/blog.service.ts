@@ -14,7 +14,7 @@ export class BlogService {
   constructor(private http: HttpClient) { }
 
   getPosts(): Observable<BlogPost[]> {
-    return this.http.get<Blog>('http://blog.dannyvandersluijs.nl/feed.json')
+    return this.http.get<Blog>('https://blog.dannyvandersluijs.nl/feed.json')
         .pipe(map(response => response.items));
   }
 }
