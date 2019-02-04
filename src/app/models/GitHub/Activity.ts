@@ -36,6 +36,8 @@ export class Activity {
                 return 'Deleted ' + this.payload.ref_type + ' on ';
             case GithubActivityType.IssueCommentEvent:
                 return 'Commented on ';
+            case GithubActivityType.PullRequestReviewCommentEvent:
+                return 'Left pull request comment on ';
             case GithubActivityType.PullRequestEvent:
                 return 'Opened pull request on ';
             case GithubActivityType.IssuesEvent:
@@ -74,6 +76,8 @@ export class Activity {
                 return this.repo
                     .url
                     .replace('https://api.github.com/repos/', 'https://github.com/');
+            case GithubActivityType.PullRequestReviewCommentEvent:
+                return this.payload.comment.html_url;
             case GithubActivityType.WatchEvent:
             default:
                 return this.repo
@@ -91,5 +95,6 @@ enum GithubActivityType {
     IssueCommentEvent = 'IssueCommentEvent',
     PullRequestEvent = 'PullRequestEvent',
     IssuesEvent = 'IssuesEvent',
-    ForkEvent = 'ForkEvent'
+    ForkEvent = 'ForkEvent',
+    PullRequestReviewCommentEvent = 'PullRequestReviewCommentEvent'
 }
