@@ -1,13 +1,15 @@
 import { NgModule } from '@angular/core';
 import { RouterModule, Routes } from '@angular/router';
 
-import {SocialMediaComponent} from './social-media/social-media.component';
+import {ContactComponent} from './contact/contact.component';
 import {LandingComponent} from './landing/landing.component';
+import {GithubComponent} from './github/github.component';
 
 const routes: Routes = [
     { path: '', redirectTo: '/landing', pathMatch: 'full' },
     { path: 'landing', component: LandingComponent },
-    { path: 'social-media', component: SocialMediaComponent },
+    { path: 'contact', component: ContactComponent },
+    { path: 'github', component: GithubComponent },
 ];
 
 @NgModule({
