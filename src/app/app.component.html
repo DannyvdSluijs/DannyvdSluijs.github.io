@@ -30,7 +30,7 @@
             <ul class="list-group list-unstyled">
                 <div *ngFor="let repository of repositories | slice:0:5">
                     <div class="clearfix">
-                        <strong class="float-left"><a href="{{repository.html_url}}" target="_blank">{{repository.name}}</a></strong>
+                        <strong class="float-left"><a href="{{repository.html_url}}" target="_blank" rel="noreferrer">{{repository.name}}</a></strong>
                         <small class="float-right text-muted">
                             <span class="glyphicon glyphicon-time"></span>{{repository.updated_at | date}}
                         </small>
@@ -47,7 +47,7 @@
                 <div *ngFor="let activity of activities | slice:0:7" >
                     <div class="clearfix">
                         <strong class="float-left">
-                            {{activity.getHumanisedType()}} <a href="{{activity.getHtmlUrl()}}" target="_blank">{{activity.repo.name}}</a>
+                            {{activity.getHumanisedType()}} <a href="{{activity.getHtmlUrl()}}" target="_blank" rel="noreferrer">{{activity.repo.name}}</a>
                         </strong>
                         <small class="float-right text-muted">
                             <span class="glyphicon glyphicon-time"></span>{{activity.created_at | date}}
@@ -64,7 +64,7 @@
                 <div *ngFor="let blogPost of blogPosts | slice:0:7" >
                     <div class="clearfix">
                         <strong class="float-left">
-                            <a href="{{blogPost.link}}" target="_blank">{{blogPost.title}}</a>
+                            <a href="{{blogPost.link}}" target="_blank" rel="noreferrer">{{blogPost.title}}</a>
                         </strong>
                         <small class="float-right text-muted">
                             <span class="glyphicon glyphicon-time"></span>{{blogPost.pubDate | date}}
