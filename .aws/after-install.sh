@@ -4,5 +4,5 @@
     cd /var/www/html;
 
     npm install;
-    ng build  --prod;
+    npm run build -- --prod;
 )
