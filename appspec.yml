@@ -6,5 +6,5 @@ files:
 hooks:
   AfterInstall:
     - location: .aws/after-install.sh
-      timeout: 90
+      timeout: 360
       runas: root
