@@ -3,20 +3,20 @@
 @import '~@fortawesome/fontawesome-free/css/all.css';
 
 #footer a {
-    color: #ffffff;
+  color: #ffffff;
 }
 
 #inner-view a {
-    color: #000000;
+  color: #000000;
 }
 
 body {
-    background-color: #343a40!important;
+  background-color: #343a40!important;
 }
 
 footer
 {
-    font-size: 0.75rem;
+  font-size: 0.75rem;
 }
 
 .text-muted

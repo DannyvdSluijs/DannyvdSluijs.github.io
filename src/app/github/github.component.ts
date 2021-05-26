@@ -8,22 +8,22 @@ import { ZonedDateTime } from 'js-joda';
 @Component({
   selector: 'app-github',
   templateUrl: './github.component.html',
-  styleUrls: ['./github.component.css']
+  styleUrls: []
 })
 export class GithubComponent implements OnInit {
 
-  repositories: Repository[];
+  repositories: Repository[] = [];
 
   constructor(private gitHubService: GithubService) { }
 
-  ngOnInit() {
-    this.getMyRepositories();
+  ngOnInit(): void {
+    this.loadRepositories();
   }
 
-  getMyRepositories(): void {
+  loadRepositories(): void {
     this.gitHubService.getRepositories()
-      .pipe(map(data => data.filter(githubRepository => githubRepository.fork === false)))
-      .pipe(map(repositories => repositories.sort(function(a: Repository, b: Repository): number {
+      .pipe(map(data => data.filter(githubRepository => !githubRepository.fork)))
+      .pipe(map(repositories => repositories.sort((a: Repository, b: Repository): number => {
         const dateA = ZonedDateTime.parse(a.updated_at);
         const dateB = ZonedDateTime.parse(b.updated_at);
 

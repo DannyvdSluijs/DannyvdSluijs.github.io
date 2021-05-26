@@ -13,45 +13,45 @@ import { BlogPost } from './models/BlogPost';
 
 export class AppComponent implements OnInit {
 
-    title = 'dannyvandersluijs.nl';
+  title = 'dannyvandersluijs.nl';
 
-    repositories: Repository[] = [];
-    activities: Activity[] = [];
-    blogPosts: BlogPost[] = [];
-    menuCollapsed = true;
+  repositories: Repository[] = [];
+  activities: Activity[] = [];
+  blogPosts: BlogPost[] = [];
+  menuCollapsed = true;
 
-    constructor(private gitHubService: GithubService, private blogService: BlogService) { }
+  constructor(private gitHubService: GithubService, private blogService: BlogService) { }
 
-    ngOnInit() {
-      this.getRepositories();
-      this.getActivities();
-      this.getBlogPosts();
-    }
+  ngOnInit() {
+    this.getRepositories();
+    this.getActivities();
+    this.getBlogPosts();
+  }
 
-    getRepositories(): void {
-      this.gitHubService.getRepositories()
-        .subscribe(repositories => this.repositories = repositories);
-    }
+  getRepositories(): void {
+    this.gitHubService.getRepositories()
+      .subscribe(repositories => this.repositories = repositories);
+  }
 
-    getActivities(): void {
-        this.gitHubService.getActivities()
-            .subscribe(activities => {
-                activities.map(activity => {
-                  const gitHubActivity: Activity = new Activity();
-                  Object.assign(gitHubActivity, activity);
-                  this.activities.push(gitHubActivity);
-                });
-            });
-    }
+  getActivities(): void {
+    this.gitHubService.getActivities()
+      .subscribe(activities => {
+        activities.map(activity => {
+          const gitHubActivity: Activity = new Activity();
+          Object.assign(gitHubActivity, activity);
+          this.activities.push(gitHubActivity);
+        });
+      });
+  }
 
-    getBlogPosts(): void {
-        this.blogService.getPosts()
-            .subscribe(posts => {
-                posts.map(post => {
-                    const blogPost: BlogPost = new BlogPost();
-                    Object.assign(blogPost, post);
-                    this.blogPosts.push(blogPost);
-                });
-            });
-    }
+  getBlogPosts(): void {
+    this.blogService.getPosts()
+      .subscribe(posts => {
+        posts.map(post => {
+          const blogPost: BlogPost = new BlogPost();
+          Object.assign(blogPost, post);
+          this.blogPosts.push(blogPost);
+        });
+      });
+  }
 }

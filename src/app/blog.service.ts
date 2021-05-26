@@ -15,6 +15,6 @@ export class BlogService {
 
   getPosts(): Observable<BlogPost[]> {
     return this.http.get<Blog>('https://blog.dannyvandersluijs.nl/feed.json')
-        .pipe(map(response => response.items));
+      .pipe(map(response => response.items));
   }
 }
