@@ -10,7 +10,7 @@ title: 👨‍💻 Current Activities
 
 
 #### 📜 My recent blog posts
-{{range rss "https://dannyvandersluijs.github.io/feed.xml" 5}}
+{{range rss "https://dannyvandersluijs.nl/feed.xml" 5}}
 - [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
 {{- end}}
 
