@@ -5,16 +5,16 @@ title: 👨‍💻 Current Activities
 
 #### 💻 Check out what I'm currently working on
 
+- [jeroenheijmans/sample-angular-oauth2-oidc-with-auth-guards](https://github.com/jeroenheijmans/sample-angular-oauth2-oidc-with-auth-guards) (today)
 - [DannyvdSluijs/DannyvdSluijs.github.io](https://github.com/DannyvdSluijs/DannyvdSluijs.github.io) (today)
 - [DannyvdSluijs/blog](https://github.com/DannyvdSluijs/blog) (today)
-- [EventSaucePHP/EventSauce](https://github.com/EventSaucePHP/EventSauce) (2 days ago)
 - [thephpleague/flysystem](https://github.com/thephpleague/flysystem) (2 days ago)
 - [filamentphp/filament](https://github.com/filamentphp/filament) (2 days ago)
 - [theseer/tokenizer](https://github.com/theseer/tokenizer) (2 days ago)
+- [EventSaucePHP/EventSauce](https://github.com/EventSaucePHP/EventSauce) (2 days ago)
 - [staabm/staabm](https://github.com/staabm/staabm) (2 days ago)
 - [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (2 days ago)
 - [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (1 week ago)
-- [fedeisas/laravel-mail-css-inliner](https://github.com/fedeisas/laravel-mail-css-inliner) (2 weeks ago)
 
 
 #### 📜 My recent blog posts
