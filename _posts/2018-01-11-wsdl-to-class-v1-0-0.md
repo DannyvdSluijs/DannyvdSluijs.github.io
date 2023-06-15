@@ -6,6 +6,8 @@ tags:
 - WsdlToClass
 - WSDL
 
+image: "images/og-images/wsdl-to-class-v1-0-0.md"
+
 ogImage:
     title: "WsdlToClass version V1.0.0  released"
     subtitle: "Becoming PSR-4 compliant"

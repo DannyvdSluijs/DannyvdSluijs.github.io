@@ -5,10 +5,12 @@ layout: post
 tags: 
 - Zend
 
+image: "images/og-images/applying-decorator-pattern-in-zend-framework.jpg"
+
 ogImage:
     title: "Applying Decorator Pattern In ZendFramework"
     subtitle: "Using ViewHelpers as a decorator"
-    imageUrl: "https://avatars.githubusercontent.com/u/618940?s=36"
+    imageUrl: "https://avatars.githubusercontent.com/u/618940"
     fileName: "applying-decorator-pattern-in-zend-framework"
 ---
 A big refactoring job at my workplace has led me to review some of the [ViewHelpers](https://docs.zendframework.com/zend-view/helpers/intro/) we are having in one of our core applications.

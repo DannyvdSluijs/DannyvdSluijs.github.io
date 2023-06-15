@@ -14,7 +14,7 @@ layout: default
 
             {% assign author = page.author | default: site.author %}
             {%- if author -%}
-            • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span class="p-author h-card" itemprop="name"><a href="https://github.com/staabm">{{ author }}</a></span></span>
+            • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span class="p-author h-card" itemprop="name"><a href="https://github.com/dannyvdsluijs">{{ author }}</a></span></span>
             {%- endif -%}
 
             <span>
@@ -31,7 +31,7 @@ layout: default
     <div class="post-content e-content" itemprop="articleBody">
         {{ content }}
 
-        <p><i>Found a bug? Please {% github_edit_link "help improve this article" %}.</i></p>
+        <p><i>Found a typo? Please {% github_edit_link "help improve this article" %}.</i></p>
 
         {% include navlinks.html %}
     </div>

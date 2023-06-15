@@ -5,6 +5,8 @@ layout: post
 tags:
 - Zend
 
+image: "images/og-images/about-mutable-creation-options-interface.jpg"
+
 ogImage:
     title: "About MutableCreationOptionsInterface"
     subtitle: "Providing contextual options"

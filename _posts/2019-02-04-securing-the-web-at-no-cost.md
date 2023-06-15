@@ -6,6 +6,8 @@ tags:
 - https
 - letsencrypt
 
+image: "images/og-images/securing-the-web-at-no-cost.jpg"
+
 ogImage:
     title: "Securing the web at no cost"
     subtitle: "Spent a total of 30 minutes and € 0,00 to secure your site"
