@@ -19,14 +19,15 @@ title: 👨‍💻 Current Activities
 
 #### 📜 My recent blog posts
 
-- [Securing the web at no cost](/2019/02/04/Securing-the-web-at-no-cost.html) (4 years ago)
-- [About MutableCreationOptionsInterface](/2018/10/15/About-MutableCreationOptionsInterface.html) (4 years ago)
-- [WsdlToClass V1.0.0 released](/2018/01/11/WsdlToClassV1-0-0.html) (5 years ago)
-- [WsdlToClass version 0.3.0 released](/2017/12/01/WsdlToClass-version-0-3-0-released.html) (5 years ago)
-- [Applying Decorator Pattern In ZendFramework](/2017/11/08/Applying-decorator-pattern-in-ZendFramework.html) (5 years ago)
+- [Securing the web at no cost](/2019/02/04/securing-the-web-at-no-cost.html) (4 years ago)
+- [About MutableCreationOptionsInterface](/2018/10/15/about-mutable-creation-options-interface.html) (4 years ago)
+- [WsdlToClass V1.0.0 released](/2018/01/11/wsdl-to-class-v1-0-0.html) (5 years ago)
+- [WsdlToClass version 0.3.0 released](/2017/12/01/wsdl-to-class-version-0-3-0-released.html) (5 years ago)
+- [Applying Decorator Pattern In ZendFramework](/2017/11/08/applying-decorator-pattern-in-zend-framework.html) (5 years ago)
 
 #### 🔨 My recent Pull Requests
 
+- [Update ci-workflow.yml to use GitHub Actions V3](https://github.com/jeroenheijmans/sample-angular-oauth2-oidc-with-auth-guards/pull/138) on [jeroenheijmans/sample-angular-oauth2-oidc-with-auth-guards](https://github.com/jeroenheijmans/sample-angular-oauth2-oidc-with-auth-guards) (today)
 - [Update downgraded_release.yaml to use GitHub actions v3](https://github.com/webservco/configuration/pull/1) on [webservco/configuration](https://github.com/webservco/configuration) (today)
 - [Update set-subsplit-default-branch.yml replacing checkout@v2 for checkout@v3](https://github.com/thephpleague/flysystem/pull/1671) on [thephpleague/flysystem](https://github.com/thephpleague/flysystem) (2 days ago)
 - [Update ci.yml replacing GitHub Actions V2 (Deprecated) for V3](https://github.com/theseer/tokenizer/pull/16) on [theseer/tokenizer](https://github.com/theseer/tokenizer) (2 days ago)
@@ -41,7 +42,6 @@ title: 👨‍💻 Current Activities
 - [Update action.yml](https://github.com/thenabeel/action-phpcs/pull/3) on [thenabeel/action-phpcs](https://github.com/thenabeel/action-phpcs) (3 days ago)
 - [ci: Upgrade to actions/checkout@v3](https://github.com/JsonMapper/JsonMapper/pull/168) on [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (6 days ago)
 - [fix: Avoid integer keys being replaced in CaseConversion middleware](https://github.com/JsonMapper/JsonMapper/pull/166) on [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (1 week ago)
-- [fix: Fix constructor not being called on nested array of objects](https://github.com/JsonMapper/JsonMapper/pull/164) on [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
