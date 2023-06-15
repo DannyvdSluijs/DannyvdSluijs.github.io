@@ -27,6 +27,7 @@ title: 👨‍💻 Current Activities
 
 #### 🔨 My recent Pull Requests
 
+- [Update downgraded_release.yaml to use GitHub actions v3](https://github.com/webservco/configuration/pull/1) on [webservco/configuration](https://github.com/webservco/configuration) (today)
 - [Update set-subsplit-default-branch.yml replacing checkout@v2 for checkout@v3](https://github.com/thephpleague/flysystem/pull/1671) on [thephpleague/flysystem](https://github.com/thephpleague/flysystem) (2 days ago)
 - [Update ci.yml replacing GitHub Actions V2 (Deprecated) for V3](https://github.com/theseer/tokenizer/pull/16) on [theseer/tokenizer](https://github.com/theseer/tokenizer) (2 days ago)
 - [Update ci.yaml replacing GitHub Actions V2 (Deprecated) for V3](https://github.com/webmozarts/assert/pull/287) on [webmozarts/assert](https://github.com/webmozarts/assert) (2 days ago)
@@ -41,7 +42,6 @@ title: 👨‍💻 Current Activities
 - [ci: Upgrade to actions/checkout@v3](https://github.com/JsonMapper/JsonMapper/pull/168) on [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (6 days ago)
 - [fix: Avoid integer keys being replaced in CaseConversion middleware](https://github.com/JsonMapper/JsonMapper/pull/166) on [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (1 week ago)
 - [fix: Fix constructor not being called on nested array of objects](https://github.com/JsonMapper/JsonMapper/pull/164) on [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (1 week ago)
-- [build: Set version constraint on guzzlehttp/psr7 to avoid CVE-2023-29197](https://github.com/fedeisas/laravel-mail-css-inliner/pull/307) on [fedeisas/laravel-mail-css-inliner](https://github.com/fedeisas/laravel-mail-css-inliner) (2 weeks ago)
 
 
 #### 🔭 Latest releases I've contributed to
