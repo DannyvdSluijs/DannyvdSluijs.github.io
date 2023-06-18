@@ -5,15 +5,15 @@ title: 👨‍💻 Current Activities
 
 #### 💻 Check out what I'm currently working on
 
-- [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (1 day ago)
-- [jeroenheijmans/sample-angular-oauth2-oidc-with-auth-guards](https://github.com/jeroenheijmans/sample-angular-oauth2-oidc-with-auth-guards) (2 days ago)
-- [DannyvdSluijs/DannyvdSluijs.github.io](https://github.com/DannyvdSluijs/DannyvdSluijs.github.io) (2 days ago)
-- [DannyvdSluijs/blog](https://github.com/DannyvdSluijs/blog) (2 days ago)
-- [filamentphp/filament](https://github.com/filamentphp/filament) (4 days ago)
-- [theseer/tokenizer](https://github.com/theseer/tokenizer) (4 days ago)
-- [EventSaucePHP/EventSauce](https://github.com/EventSaucePHP/EventSauce) (4 days ago)
-- [thephpleague/flysystem](https://github.com/thephpleague/flysystem) (4 days ago)
-- [staabm/staabm](https://github.com/staabm/staabm) (4 days ago)
+- [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (2 days ago)
+- [jeroenheijmans/sample-angular-oauth2-oidc-with-auth-guards](https://github.com/jeroenheijmans/sample-angular-oauth2-oidc-with-auth-guards) (3 days ago)
+- [DannyvdSluijs/DannyvdSluijs.github.io](https://github.com/DannyvdSluijs/DannyvdSluijs.github.io) (3 days ago)
+- [DannyvdSluijs/blog](https://github.com/DannyvdSluijs/blog) (3 days ago)
+- [filamentphp/filament](https://github.com/filamentphp/filament) (5 days ago)
+- [theseer/tokenizer](https://github.com/theseer/tokenizer) (5 days ago)
+- [EventSaucePHP/EventSauce](https://github.com/EventSaucePHP/EventSauce) (5 days ago)
+- [thephpleague/flysystem](https://github.com/thephpleague/flysystem) (5 days ago)
+- [staabm/staabm](https://github.com/staabm/staabm) (5 days ago)
 - [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (1 week ago)
 
 
@@ -27,26 +27,26 @@ title: 👨‍💻 Current Activities
 
 #### 🔨 My recent Pull Requests
 
-- [Update ci-workflow.yml to use GitHub Actions V3](https://github.com/jeroenheijmans/sample-angular-oauth2-oidc-with-auth-guards/pull/138) on [jeroenheijmans/sample-angular-oauth2-oidc-with-auth-guards](https://github.com/jeroenheijmans/sample-angular-oauth2-oidc-with-auth-guards) (2 days ago)
-- [Update downgraded_release.yaml to use GitHub actions v3](https://github.com/webservco/configuration/pull/1) on [webservco/configuration](https://github.com/webservco/configuration) (2 days ago)
-- [Update set-subsplit-default-branch.yml replacing checkout@v2 for checkout@v3](https://github.com/thephpleague/flysystem/pull/1671) on [thephpleague/flysystem](https://github.com/thephpleague/flysystem) (4 days ago)
-- [Update ci.yml replacing GitHub Actions V2 (Deprecated) for V3](https://github.com/theseer/tokenizer/pull/16) on [theseer/tokenizer](https://github.com/theseer/tokenizer) (4 days ago)
-- [Update ci.yaml replacing GitHub Actions V2 (Deprecated) for V3](https://github.com/webmozarts/assert/pull/287) on [webmozarts/assert](https://github.com/webmozarts/assert) (4 days ago)
-- [Update main.yml to use GitHub Actions V3](https://github.com/nikic/PHP-Parser/pull/926) on [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) (4 days ago)
-- [ci: Update to use GitHub Actions V3](https://github.com/Seldaek/monolog/pull/1812) on [Seldaek/monolog](https://github.com/Seldaek/monolog) (4 days ago)
-- [ci: Update to Actions V3](https://github.com/filamentphp/filament/pull/6761) on [filamentphp/filament](https://github.com/filamentphp/filament) (4 days ago)
-- [Update ci.yml to use actions/checkout@v3](https://github.com/msgpack/msgpack-php/pull/170) on [msgpack/msgpack-php](https://github.com/msgpack/msgpack-php) (4 days ago)
-- [Update readme-scribe.yml to use checkout v3](https://github.com/staabm/staabm/pull/3) on [staabm/staabm](https://github.com/staabm/staabm) (4 days ago)
-- [ci: Update deprecated set-output command to use GITHUB environment files](https://github.com/EventSaucePHP/EventSauce/pull/214) on [EventSaucePHP/EventSauce](https://github.com/EventSaucePHP/EventSauce) (4 days ago)
-- [Update GitHub actions workflow to use actions/checkout@v3](https://github.com/picqer/exact-php-client/pull/613) on [picqer/exact-php-client](https://github.com/picqer/exact-php-client) (4 days ago)
-- [Update action.yml](https://github.com/thenabeel/action-phpcs/pull/3) on [thenabeel/action-phpcs](https://github.com/thenabeel/action-phpcs) (5 days ago)
+- [Update ci-workflow.yml to use GitHub Actions V3](https://github.com/jeroenheijmans/sample-angular-oauth2-oidc-with-auth-guards/pull/138) on [jeroenheijmans/sample-angular-oauth2-oidc-with-auth-guards](https://github.com/jeroenheijmans/sample-angular-oauth2-oidc-with-auth-guards) (3 days ago)
+- [Update downgraded_release.yaml to use GitHub actions v3](https://github.com/webservco/configuration/pull/1) on [webservco/configuration](https://github.com/webservco/configuration) (3 days ago)
+- [Update set-subsplit-default-branch.yml replacing checkout@v2 for checkout@v3](https://github.com/thephpleague/flysystem/pull/1671) on [thephpleague/flysystem](https://github.com/thephpleague/flysystem) (5 days ago)
+- [Update ci.yml replacing GitHub Actions V2 (Deprecated) for V3](https://github.com/theseer/tokenizer/pull/16) on [theseer/tokenizer](https://github.com/theseer/tokenizer) (5 days ago)
+- [Update ci.yaml replacing GitHub Actions V2 (Deprecated) for V3](https://github.com/webmozarts/assert/pull/287) on [webmozarts/assert](https://github.com/webmozarts/assert) (5 days ago)
+- [Update main.yml to use GitHub Actions V3](https://github.com/nikic/PHP-Parser/pull/926) on [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) (5 days ago)
+- [ci: Update to use GitHub Actions V3](https://github.com/Seldaek/monolog/pull/1812) on [Seldaek/monolog](https://github.com/Seldaek/monolog) (5 days ago)
+- [ci: Update to Actions V3](https://github.com/filamentphp/filament/pull/6761) on [filamentphp/filament](https://github.com/filamentphp/filament) (5 days ago)
+- [Update ci.yml to use actions/checkout@v3](https://github.com/msgpack/msgpack-php/pull/170) on [msgpack/msgpack-php](https://github.com/msgpack/msgpack-php) (5 days ago)
+- [Update readme-scribe.yml to use checkout v3](https://github.com/staabm/staabm/pull/3) on [staabm/staabm](https://github.com/staabm/staabm) (5 days ago)
+- [ci: Update deprecated set-output command to use GITHUB environment files](https://github.com/EventSaucePHP/EventSauce/pull/214) on [EventSaucePHP/EventSauce](https://github.com/EventSaucePHP/EventSauce) (5 days ago)
+- [Update GitHub actions workflow to use actions/checkout@v3](https://github.com/picqer/exact-php-client/pull/613) on [picqer/exact-php-client](https://github.com/picqer/exact-php-client) (5 days ago)
+- [Update action.yml](https://github.com/thenabeel/action-phpcs/pull/3) on [thenabeel/action-phpcs](https://github.com/thenabeel/action-phpcs) (6 days ago)
 - [ci: Upgrade to actions/checkout@v3](https://github.com/JsonMapper/JsonMapper/pull/168) on [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (1 week ago)
 - [fix: Avoid integer keys being replaced in CaseConversion middleware](https://github.com/JsonMapper/JsonMapper/pull/166) on [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
-- [filamentphp/filament](https://github.com/filamentphp/filament) - [v2.17.47](https://github.com/filamentphp/filament/releases/tag/v2.17.47) (6 days ago)
+- [filamentphp/filament](https://github.com/filamentphp/filament) - [v2.17.47](https://github.com/filamentphp/filament/releases/tag/v2.17.47) (1 week ago)
 - [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) - [2.19.0](https://github.com/JsonMapper/JsonMapper/releases/tag/2.19.0) (1 week ago)
 - [picqer/exact-php-client](https://github.com/picqer/exact-php-client) - [v3.49.0](https://github.com/picqer/exact-php-client/releases/tag/v3.49.0) (2 weeks ago)
 - [DannyvdSluijs/exact-online-meta-data-tool](https://github.com/DannyvdSluijs/exact-online-meta-data-tool) - [1.9.1](https://github.com/DannyvdSluijs/exact-online-meta-data-tool/releases/tag/1.9.1) (2 months ago)
