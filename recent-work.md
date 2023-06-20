@@ -5,15 +5,15 @@ title: 👨‍💻 Current Activities
 
 #### 💻 Check out what I'm currently working on
 
-- [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (today)
-- [Seldaek/monolog](https://github.com/Seldaek/monolog) (today)
 - [DannyvdSluijs/PhpParallelProcessing](https://github.com/DannyvdSluijs/PhpParallelProcessing) (today)
 - [phpmd/phpmd](https://github.com/phpmd/phpmd) (today)
-- [jeroenheijmans/sample-angular-oauth2-oidc-with-auth-guards](https://github.com/jeroenheijmans/sample-angular-oauth2-oidc-with-auth-guards) (5 days ago)
+- [pdepend/pdepend](https://github.com/pdepend/pdepend) (today)
+- [Seldaek/monolog](https://github.com/Seldaek/monolog) (today)
+- [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (today)
 - [DannyvdSluijs/blog](https://github.com/DannyvdSluijs/blog) (5 days ago)
+- [jeroenheijmans/sample-angular-oauth2-oidc-with-auth-guards](https://github.com/jeroenheijmans/sample-angular-oauth2-oidc-with-auth-guards) (5 days ago)
 - [DannyvdSluijs/DannyvdSluijs.github.io](https://github.com/DannyvdSluijs/DannyvdSluijs.github.io) (5 days ago)
-- [picqer/exact-php-client](https://github.com/picqer/exact-php-client) (1 week ago)
-- [thephpleague/flysystem](https://github.com/thephpleague/flysystem) (1 week ago)
+- [theseer/tokenizer](https://github.com/theseer/tokenizer) (1 week ago)
 - [filamentphp/filament](https://github.com/filamentphp/filament) (1 week ago)
 
 
@@ -49,10 +49,10 @@ title: 👨‍💻 Current Activities
 - [filamentphp/filament](https://github.com/filamentphp/filament) - [v2.17.49](https://github.com/filamentphp/filament/releases/tag/v2.17.49) (2 days ago)
 - [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) - [2.19.0](https://github.com/JsonMapper/JsonMapper/releases/tag/2.19.0) (2 weeks ago)
 - [picqer/exact-php-client](https://github.com/picqer/exact-php-client) - [v3.49.0](https://github.com/picqer/exact-php-client/releases/tag/v3.49.0) (3 weeks ago)
+- [pdepend/pdepend](https://github.com/pdepend/pdepend) - [2.14.0](https://github.com/pdepend/pdepend/releases/tag/2.14.0) (3 weeks ago)
 - [DannyvdSluijs/exact-online-meta-data-tool](https://github.com/DannyvdSluijs/exact-online-meta-data-tool) - [1.9.1](https://github.com/DannyvdSluijs/exact-online-meta-data-tool/releases/tag/1.9.1) (2 months ago)
 - [JsonMapper/SymfonyBundle](https://github.com/JsonMapper/SymfonyBundle) - [2.2.1](https://github.com/JsonMapper/SymfonyBundle/releases/tag/2.2.1) (2 months ago)
 - [JsonMapper/LaravelPackage](https://github.com/JsonMapper/LaravelPackage) - [2.4.0](https://github.com/JsonMapper/LaravelPackage/releases/tag/2.4.0) (2 months ago)
 - [fedeisas/laravel-mail-css-inliner](https://github.com/fedeisas/laravel-mail-css-inliner) - [5.2.0](https://github.com/fedeisas/laravel-mail-css-inliner/releases/tag/5.2.0) (3 months ago)
 - [Seldaek/monolog](https://github.com/Seldaek/monolog) - [3.3.1](https://github.com/Seldaek/monolog/releases/tag/3.3.1) (4 months ago)
 - [phpmd/phpmd](https://github.com/phpmd/phpmd) - [2.13.0](https://github.com/phpmd/phpmd/releases/tag/2.13.0) (9 months ago)
-- [thephpleague/flysystem](https://github.com/thephpleague/flysystem) - [3.0.0](https://github.com/thephpleague/flysystem/releases/tag/3.0.0) (1 year ago)
