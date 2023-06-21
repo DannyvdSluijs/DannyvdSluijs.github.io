@@ -46,6 +46,7 @@ title: 👨‍💻 Current Activities
 
 #### 🔭 Latest releases I've contributed to
 
+- [Seldaek/monolog](https://github.com/Seldaek/monolog) - [3.4.0](https://github.com/Seldaek/monolog/releases/tag/3.4.0) (today)
 - [filamentphp/filament](https://github.com/filamentphp/filament) - [v2.17.49](https://github.com/filamentphp/filament/releases/tag/v2.17.49) (3 days ago)
 - [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) - [2.19.0](https://github.com/JsonMapper/JsonMapper/releases/tag/2.19.0) (2 weeks ago)
 - [picqer/exact-php-client](https://github.com/picqer/exact-php-client) - [v3.49.0](https://github.com/picqer/exact-php-client/releases/tag/v3.49.0) (3 weeks ago)
@@ -54,5 +55,4 @@ title: 👨‍💻 Current Activities
 - [JsonMapper/SymfonyBundle](https://github.com/JsonMapper/SymfonyBundle) - [2.2.1](https://github.com/JsonMapper/SymfonyBundle/releases/tag/2.2.1) (2 months ago)
 - [JsonMapper/LaravelPackage](https://github.com/JsonMapper/LaravelPackage) - [2.4.0](https://github.com/JsonMapper/LaravelPackage/releases/tag/2.4.0) (2 months ago)
 - [fedeisas/laravel-mail-css-inliner](https://github.com/fedeisas/laravel-mail-css-inliner) - [5.2.0](https://github.com/fedeisas/laravel-mail-css-inliner/releases/tag/5.2.0) (3 months ago)
-- [Seldaek/monolog](https://github.com/Seldaek/monolog) - [3.3.1](https://github.com/Seldaek/monolog/releases/tag/3.3.1) (4 months ago)
 - [phpmd/phpmd](https://github.com/phpmd/phpmd) - [2.13.0](https://github.com/phpmd/phpmd/releases/tag/2.13.0) (9 months ago)
