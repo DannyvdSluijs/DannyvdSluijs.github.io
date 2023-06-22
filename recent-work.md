@@ -19,11 +19,11 @@ title: 👨‍💻 Current Activities
 
 #### 📜 My recent blog posts
 
+- [Introduction](/2023/06/21/figuring-out-how-parallel-processing-works-in-php.html) (1 day ago)
 - [Securing the web at no cost](/2019/02/04/securing-the-web-at-no-cost.html) (4 years ago)
 - [About MutableCreationOptionsInterface](/2018/10/15/about-mutable-creation-options-interface.html) (4 years ago)
 - [WsdlToClass V1.0.0 released](/2018/01/11/wsdl-to-class-v1-0-0.html) (5 years ago)
 - [WsdlToClass version 0.3.0 released](/2017/12/01/wsdl-to-class-version-0-3-0-released.html) (5 years ago)
-- [Applying Decorator Pattern In ZendFramework](/2017/11/08/applying-decorator-pattern-in-zend-framework.html) (5 years ago)
 
 #### 🔨 My recent Pull Requests
 
