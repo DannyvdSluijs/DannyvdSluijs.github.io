@@ -5,12 +5,12 @@ title: 👨‍💻 Current Activities
 
 #### 💻 Check out what I'm currently working on
 
+- [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (today)
 - [DannyvdSluijs/DannyvdSluijs.github.io](https://github.com/DannyvdSluijs/DannyvdSluijs.github.io) (1 day ago)
 - [phpmd/phpmd](https://github.com/phpmd/phpmd) (2 days ago)
 - [pdepend/pdepend](https://github.com/pdepend/pdepend) (2 days ago)
-- [Seldaek/monolog](https://github.com/Seldaek/monolog) (2 days ago)
 - [DannyvdSluijs/PhpParallelProcessing](https://github.com/DannyvdSluijs/PhpParallelProcessing) (2 days ago)
-- [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (2 days ago)
+- [Seldaek/monolog](https://github.com/Seldaek/monolog) (2 days ago)
 - [DannyvdSluijs/blog](https://github.com/DannyvdSluijs/blog) (1 week ago)
 - [jeroenheijmans/sample-angular-oauth2-oidc-with-auth-guards](https://github.com/jeroenheijmans/sample-angular-oauth2-oidc-with-auth-guards) (1 week ago)
 - [filamentphp/filament](https://github.com/filamentphp/filament) (1 week ago)
