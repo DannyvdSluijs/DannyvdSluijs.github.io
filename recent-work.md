@@ -7,14 +7,14 @@ title: 👨‍💻 Current Activities
 
 - [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (2 days ago)
 - [DannyvdSluijs/DannyvdSluijs.github.io](https://github.com/DannyvdSluijs/DannyvdSluijs.github.io) (3 days ago)
-- [phpmd/phpmd](https://github.com/phpmd/phpmd) (4 days ago)
-- [pdepend/pdepend](https://github.com/pdepend/pdepend) (4 days ago)
 - [DannyvdSluijs/PhpParallelProcessing](https://github.com/DannyvdSluijs/PhpParallelProcessing) (4 days ago)
+- [pdepend/pdepend](https://github.com/pdepend/pdepend) (4 days ago)
+- [phpmd/phpmd](https://github.com/phpmd/phpmd) (4 days ago)
 - [Seldaek/monolog](https://github.com/Seldaek/monolog) (4 days ago)
-- [DannyvdSluijs/blog](https://github.com/DannyvdSluijs/blog) (1 week ago)
 - [jeroenheijmans/sample-angular-oauth2-oidc-with-auth-guards](https://github.com/jeroenheijmans/sample-angular-oauth2-oidc-with-auth-guards) (1 week ago)
-- [filamentphp/filament](https://github.com/filamentphp/filament) (1 week ago)
-- [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) (1 week ago)
+- [webservco/configuration](https://github.com/webservco/configuration) (1 week ago)
+- [DannyvdSluijs/blog](https://github.com/DannyvdSluijs/blog) (1 week ago)
+- [picqer/exact-php-client](https://github.com/picqer/exact-php-client) (1 week ago)
 
 
 #### 📜 My recent blog posts
