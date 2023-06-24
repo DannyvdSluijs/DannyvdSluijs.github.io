@@ -14,7 +14,7 @@ title: 👨‍💻 Current Activities
 - [DannyvdSluijs/blog](https://github.com/DannyvdSluijs/blog) (1 week ago)
 - [jeroenheijmans/sample-angular-oauth2-oidc-with-auth-guards](https://github.com/jeroenheijmans/sample-angular-oauth2-oidc-with-auth-guards) (1 week ago)
 - [filamentphp/filament](https://github.com/filamentphp/filament) (1 week ago)
-- [thephpleague/flysystem](https://github.com/thephpleague/flysystem) (1 week ago)
+- [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) (1 week ago)
 
 
 #### 📜 My recent blog posts
@@ -46,6 +46,7 @@ title: 👨‍💻 Current Activities
 
 #### 🔭 Latest releases I've contributed to
 
+- [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) - [v5.0.0alpha3](https://github.com/nikic/PHP-Parser/releases/tag/v5.0.0alpha3) (today)
 - [Seldaek/monolog](https://github.com/Seldaek/monolog) - [3.4.0](https://github.com/Seldaek/monolog/releases/tag/3.4.0) (3 days ago)
 - [filamentphp/filament](https://github.com/filamentphp/filament) - [v2.17.49](https://github.com/filamentphp/filament/releases/tag/v2.17.49) (6 days ago)
 - [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) - [2.19.0](https://github.com/JsonMapper/JsonMapper/releases/tag/2.19.0) (2 weeks ago)
@@ -55,4 +56,3 @@ title: 👨‍💻 Current Activities
 - [JsonMapper/SymfonyBundle](https://github.com/JsonMapper/SymfonyBundle) - [2.2.1](https://github.com/JsonMapper/SymfonyBundle/releases/tag/2.2.1) (2 months ago)
 - [JsonMapper/LaravelPackage](https://github.com/JsonMapper/LaravelPackage) - [2.4.0](https://github.com/JsonMapper/LaravelPackage/releases/tag/2.4.0) (2 months ago)
 - [fedeisas/laravel-mail-css-inliner](https://github.com/fedeisas/laravel-mail-css-inliner) - [5.2.0](https://github.com/fedeisas/laravel-mail-css-inliner/releases/tag/5.2.0) (4 months ago)
-- [phpmd/phpmd](https://github.com/phpmd/phpmd) - [2.13.0](https://github.com/phpmd/phpmd/releases/tag/2.13.0) (9 months ago)
