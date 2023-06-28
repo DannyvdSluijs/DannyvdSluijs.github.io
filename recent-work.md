@@ -5,8 +5,8 @@ title: 👨‍💻 Current Activities
 
 #### 💻 Check out what I'm currently working on
 
-- [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (today)
-- [DannyvdSluijs/DannyvdSluijs.github.io](https://github.com/DannyvdSluijs/DannyvdSluijs.github.io) (today)
+- [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (1 day ago)
+- [DannyvdSluijs/DannyvdSluijs.github.io](https://github.com/DannyvdSluijs/DannyvdSluijs.github.io) (1 day ago)
 - [DannyvdSluijs/PhpParallelProcessing](https://github.com/DannyvdSluijs/PhpParallelProcessing) (1 week ago)
 - [pdepend/pdepend](https://github.com/pdepend/pdepend) (1 week ago)
 - [phpmd/phpmd](https://github.com/phpmd/phpmd) (1 week ago)
@@ -19,7 +19,7 @@ title: 👨‍💻 Current Activities
 
 #### 📜 My recent blog posts
 
-- [Figuring out how parallel processing works in PHP](/2023/06/21/figuring-out-how-parallel-processing-works-in-php.html) (6 days ago)
+- [Figuring out how parallel processing works in PHP](/2023/06/21/figuring-out-how-parallel-processing-works-in-php.html) (1 week ago)
 - [Securing the web at no cost](/2019/02/04/securing-the-web-at-no-cost.html) (4 years ago)
 - [About MutableCreationOptionsInterface](/2018/10/15/about-mutable-creation-options-interface.html) (4 years ago)
 - [WsdlToClass V1.0.0 released](/2018/01/11/wsdl-to-class-v1-0-0.html) (5 years ago)
@@ -46,8 +46,8 @@ title: 👨‍💻 Current Activities
 
 #### 🔭 Latest releases I've contributed to
 
-- [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) - [v4.16.0](https://github.com/nikic/PHP-Parser/releases/tag/v4.16.0) (2 days ago)
-- [Seldaek/monolog](https://github.com/Seldaek/monolog) - [3.4.0](https://github.com/Seldaek/monolog/releases/tag/3.4.0) (6 days ago)
+- [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) - [v4.16.0](https://github.com/nikic/PHP-Parser/releases/tag/v4.16.0) (3 days ago)
+- [Seldaek/monolog](https://github.com/Seldaek/monolog) - [3.4.0](https://github.com/Seldaek/monolog/releases/tag/3.4.0) (1 week ago)
 - [filamentphp/filament](https://github.com/filamentphp/filament) - [v2.17.49](https://github.com/filamentphp/filament/releases/tag/v2.17.49) (1 week ago)
 - [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) - [2.19.0](https://github.com/JsonMapper/JsonMapper/releases/tag/2.19.0) (3 weeks ago)
 - [picqer/exact-php-client](https://github.com/picqer/exact-php-client) - [v3.49.0](https://github.com/picqer/exact-php-client/releases/tag/v3.49.0) (4 weeks ago)
