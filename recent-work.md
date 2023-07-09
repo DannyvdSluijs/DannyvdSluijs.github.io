@@ -5,8 +5,8 @@ title: 👨‍💻 Current Activities
 
 #### 💻 Check out what I'm currently working on
 
-- [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (3 days ago)
-- [fedeisas/laravel-mail-css-inliner](https://github.com/fedeisas/laravel-mail-css-inliner) (5 days ago)
+- [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (4 days ago)
+- [fedeisas/laravel-mail-css-inliner](https://github.com/fedeisas/laravel-mail-css-inliner) (6 days ago)
 - [DannyvdSluijs/DannyvdSluijs.github.io](https://github.com/DannyvdSluijs/DannyvdSluijs.github.io) (1 week ago)
 - [Seldaek/monolog](https://github.com/Seldaek/monolog) (2 weeks ago)
 - [pdepend/pdepend](https://github.com/pdepend/pdepend) (2 weeks ago)
@@ -27,7 +27,7 @@ title: 👨‍💻 Current Activities
 
 #### 🔨 My recent Pull Requests
 
-- [feat: Update models based on documentation d.d. 2023-07-08](https://github.com/picqer/exact-php-client/pull/614) on [picqer/exact-php-client](https://github.com/picqer/exact-php-client) (today)
+- [feat: Update models based on documentation d.d. 2023-07-08](https://github.com/picqer/exact-php-client/pull/614) on [picqer/exact-php-client](https://github.com/picqer/exact-php-client) (1 day ago)
 - [ci: Use GitHub Actions V3](https://github.com/pdepend/pdepend/pull/670) on [pdepend/pdepend](https://github.com/pdepend/pdepend) (2 weeks ago)
 - [ci: Include PHP 8.2 in Actions matrix](https://github.com/phpmd/phpmd/pull/1013) on [phpmd/phpmd](https://github.com/phpmd/phpmd) (2 weeks ago)
 - [ci: Update to use GitHub Actions V3](https://github.com/phpmd/phpmd/pull/1012) on [phpmd/phpmd](https://github.com/phpmd/phpmd) (2 weeks ago)
@@ -46,8 +46,8 @@ title: 👨‍💻 Current Activities
 
 #### 🔭 Latest releases I've contributed to
 
-- [filamentphp/filament](https://github.com/filamentphp/filament) - [v2.17.50](https://github.com/filamentphp/filament/releases/tag/v2.17.50) (5 days ago)
-- [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) - [v4.16.0](https://github.com/nikic/PHP-Parser/releases/tag/v4.16.0) (1 week ago)
+- [filamentphp/filament](https://github.com/filamentphp/filament) - [v2.17.50](https://github.com/filamentphp/filament/releases/tag/v2.17.50) (6 days ago)
+- [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) - [v4.16.0](https://github.com/nikic/PHP-Parser/releases/tag/v4.16.0) (2 weeks ago)
 - [Seldaek/monolog](https://github.com/Seldaek/monolog) - [3.4.0](https://github.com/Seldaek/monolog/releases/tag/3.4.0) (2 weeks ago)
 - [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) - [2.19.0](https://github.com/JsonMapper/JsonMapper/releases/tag/2.19.0) (1 month ago)
 - [picqer/exact-php-client](https://github.com/picqer/exact-php-client) - [v3.49.0](https://github.com/picqer/exact-php-client/releases/tag/v3.49.0) (1 month ago)
