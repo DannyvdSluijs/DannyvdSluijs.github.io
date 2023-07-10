@@ -6,6 +6,7 @@ title: 👨‍💻 Current Activities
 #### 💻 Check out what I'm currently working on
 
 - [infi-nl/the-infi-way](https://github.com/infi-nl/the-infi-way) (today)
+- [picqer/exact-php-client](https://github.com/picqer/exact-php-client) (2 days ago)
 - [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (5 days ago)
 - [fedeisas/laravel-mail-css-inliner](https://github.com/fedeisas/laravel-mail-css-inliner) (1 week ago)
 - [DannyvdSluijs/DannyvdSluijs.github.io](https://github.com/DannyvdSluijs/DannyvdSluijs.github.io) (1 week ago)
@@ -14,7 +15,6 @@ title: 👨‍💻 Current Activities
 - [phpmd/phpmd](https://github.com/phpmd/phpmd) (2 weeks ago)
 - [Seldaek/monolog](https://github.com/Seldaek/monolog) (2 weeks ago)
 - [DannyvdSluijs/blog](https://github.com/DannyvdSluijs/blog) (3 weeks ago)
-- [jeroenheijmans/sample-angular-oauth2-oidc-with-auth-guards](https://github.com/jeroenheijmans/sample-angular-oauth2-oidc-with-auth-guards) (3 weeks ago)
 
 
 #### 📜 My recent blog posts
@@ -46,11 +46,11 @@ title: 👨‍💻 Current Activities
 
 #### 🔭 Latest releases I've contributed to
 
+- [picqer/exact-php-client](https://github.com/picqer/exact-php-client) - [v3.50.0](https://github.com/picqer/exact-php-client/releases/tag/v3.50.0) (today)
 - [filamentphp/filament](https://github.com/filamentphp/filament) - [v2.17.50](https://github.com/filamentphp/filament/releases/tag/v2.17.50) (1 week ago)
 - [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) - [v4.16.0](https://github.com/nikic/PHP-Parser/releases/tag/v4.16.0) (2 weeks ago)
 - [Seldaek/monolog](https://github.com/Seldaek/monolog) - [3.4.0](https://github.com/Seldaek/monolog/releases/tag/3.4.0) (2 weeks ago)
 - [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) - [2.19.0](https://github.com/JsonMapper/JsonMapper/releases/tag/2.19.0) (1 month ago)
-- [picqer/exact-php-client](https://github.com/picqer/exact-php-client) - [v3.49.0](https://github.com/picqer/exact-php-client/releases/tag/v3.49.0) (1 month ago)
 - [pdepend/pdepend](https://github.com/pdepend/pdepend) - [2.14.0](https://github.com/pdepend/pdepend/releases/tag/2.14.0) (1 month ago)
 - [DannyvdSluijs/exact-online-meta-data-tool](https://github.com/DannyvdSluijs/exact-online-meta-data-tool) - [1.9.1](https://github.com/DannyvdSluijs/exact-online-meta-data-tool/releases/tag/1.9.1) (3 months ago)
 - [JsonMapper/SymfonyBundle](https://github.com/JsonMapper/SymfonyBundle) - [2.2.1](https://github.com/JsonMapper/SymfonyBundle/releases/tag/2.2.1) (3 months ago)
