@@ -5,16 +5,16 @@ title: 👨‍💻 Current Activities
 
 #### 💻 Check out what I'm currently working on
 
+- [infi-nl/the-infi-way](https://github.com/infi-nl/the-infi-way) (today)
 - [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (5 days ago)
 - [fedeisas/laravel-mail-css-inliner](https://github.com/fedeisas/laravel-mail-css-inliner) (1 week ago)
 - [DannyvdSluijs/DannyvdSluijs.github.io](https://github.com/DannyvdSluijs/DannyvdSluijs.github.io) (1 week ago)
-- [Seldaek/monolog](https://github.com/Seldaek/monolog) (2 weeks ago)
 - [pdepend/pdepend](https://github.com/pdepend/pdepend) (2 weeks ago)
-- [phpmd/phpmd](https://github.com/phpmd/phpmd) (2 weeks ago)
 - [DannyvdSluijs/PhpParallelProcessing](https://github.com/DannyvdSluijs/PhpParallelProcessing) (2 weeks ago)
-- [jeroenheijmans/sample-angular-oauth2-oidc-with-auth-guards](https://github.com/jeroenheijmans/sample-angular-oauth2-oidc-with-auth-guards) (3 weeks ago)
-- [webservco/configuration](https://github.com/webservco/configuration) (3 weeks ago)
+- [phpmd/phpmd](https://github.com/phpmd/phpmd) (2 weeks ago)
+- [Seldaek/monolog](https://github.com/Seldaek/monolog) (2 weeks ago)
 - [DannyvdSluijs/blog](https://github.com/DannyvdSluijs/blog) (3 weeks ago)
+- [jeroenheijmans/sample-angular-oauth2-oidc-with-auth-guards](https://github.com/jeroenheijmans/sample-angular-oauth2-oidc-with-auth-guards) (3 weeks ago)
 
 
 #### 📜 My recent blog posts
@@ -27,6 +27,7 @@ title: 👨‍💻 Current Activities
 
 #### 🔨 My recent Pull Requests
 
+- [Update README.md with correct issue number for license information](https://github.com/infi-nl/the-infi-way/pull/75) on [infi-nl/the-infi-way](https://github.com/infi-nl/the-infi-way) (today)
 - [feat: Update models based on documentation d.d. 2023-07-08](https://github.com/picqer/exact-php-client/pull/614) on [picqer/exact-php-client](https://github.com/picqer/exact-php-client) (2 days ago)
 - [ci: Use GitHub Actions V3](https://github.com/pdepend/pdepend/pull/670) on [pdepend/pdepend](https://github.com/pdepend/pdepend) (2 weeks ago)
 - [ci: Include PHP 8.2 in Actions matrix](https://github.com/phpmd/phpmd/pull/1013) on [phpmd/phpmd](https://github.com/phpmd/phpmd) (2 weeks ago)
@@ -41,7 +42,6 @@ title: 👨‍💻 Current Activities
 - [ci: Update to Actions V3](https://github.com/filamentphp/filament/pull/6761) on [filamentphp/filament](https://github.com/filamentphp/filament) (3 weeks ago)
 - [Update ci.yml to use actions/checkout@v3](https://github.com/msgpack/msgpack-php/pull/170) on [msgpack/msgpack-php](https://github.com/msgpack/msgpack-php) (3 weeks ago)
 - [Update readme-scribe.yml to use checkout v3](https://github.com/staabm/staabm/pull/3) on [staabm/staabm](https://github.com/staabm/staabm) (3 weeks ago)
-- [ci: Update deprecated set-output command to use GITHUB environment files](https://github.com/EventSaucePHP/EventSauce/pull/214) on [EventSaucePHP/EventSauce](https://github.com/EventSaucePHP/EventSauce) (3 weeks ago)
 
 
 #### 🔭 Latest releases I've contributed to
