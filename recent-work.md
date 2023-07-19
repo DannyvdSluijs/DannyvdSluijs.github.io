@@ -5,6 +5,7 @@ title: 👨‍💻 Current Activities
 
 #### 💻 Check out what I'm currently working on
 
+- [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (today)
 - [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (1 week ago)
 - [infi-nl/the-infi-way](https://github.com/infi-nl/the-infi-way) (1 week ago)
 - [picqer/exact-php-client](https://github.com/picqer/exact-php-client) (1 week ago)
@@ -14,7 +15,6 @@ title: 👨‍💻 Current Activities
 - [Seldaek/monolog](https://github.com/Seldaek/monolog) (4 weeks ago)
 - [phpmd/phpmd](https://github.com/phpmd/phpmd) (4 weeks ago)
 - [DannyvdSluijs/PhpParallelProcessing](https://github.com/DannyvdSluijs/PhpParallelProcessing) (4 weeks ago)
-- [DannyvdSluijs/blog](https://github.com/DannyvdSluijs/blog) (1 month ago)
 
 
 #### 📜 My recent blog posts
