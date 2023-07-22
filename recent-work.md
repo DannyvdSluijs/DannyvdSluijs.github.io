@@ -5,10 +5,10 @@ title: 👨‍💻 Current Activities
 
 #### 💻 Check out what I'm currently working on
 
-- [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (today)
+- [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (1 day ago)
 - [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (1 week ago)
 - [infi-nl/the-infi-way](https://github.com/infi-nl/the-infi-way) (1 week ago)
-- [picqer/exact-php-client](https://github.com/picqer/exact-php-client) (1 week ago)
+- [picqer/exact-php-client](https://github.com/picqer/exact-php-client) (2 weeks ago)
 - [fedeisas/laravel-mail-css-inliner](https://github.com/fedeisas/laravel-mail-css-inliner) (2 weeks ago)
 - [DannyvdSluijs/DannyvdSluijs.github.io](https://github.com/DannyvdSluijs/DannyvdSluijs.github.io) (3 weeks ago)
 - [pdepend/pdepend](https://github.com/pdepend/pdepend) (1 month ago)
@@ -28,7 +28,7 @@ title: 👨‍💻 Current Activities
 #### 🔨 My recent Pull Requests
 
 - [Update README.md with correct issue number for license information](https://github.com/infi-nl/the-infi-way/pull/75) on [infi-nl/the-infi-way](https://github.com/infi-nl/the-infi-way) (1 week ago)
-- [feat: Update models based on documentation d.d. 2023-07-08](https://github.com/picqer/exact-php-client/pull/614) on [picqer/exact-php-client](https://github.com/picqer/exact-php-client) (1 week ago)
+- [feat: Update models based on documentation d.d. 2023-07-08](https://github.com/picqer/exact-php-client/pull/614) on [picqer/exact-php-client](https://github.com/picqer/exact-php-client) (2 weeks ago)
 - [ci: Use GitHub Actions V3](https://github.com/pdepend/pdepend/pull/670) on [pdepend/pdepend](https://github.com/pdepend/pdepend) (1 month ago)
 - [ci: Include PHP 8.2 in Actions matrix](https://github.com/phpmd/phpmd/pull/1013) on [phpmd/phpmd](https://github.com/phpmd/phpmd) (1 month ago)
 - [ci: Update to use GitHub Actions V3](https://github.com/phpmd/phpmd/pull/1012) on [phpmd/phpmd](https://github.com/phpmd/phpmd) (1 month ago)
@@ -46,7 +46,7 @@ title: 👨‍💻 Current Activities
 
 #### 🔭 Latest releases I've contributed to
 
-- [filamentphp/filament](https://github.com/filamentphp/filament) - [v3.0.0-beta1](https://github.com/filamentphp/filament/releases/tag/v3.0.0-beta1) (1 day ago)
+- [filamentphp/filament](https://github.com/filamentphp/filament) - [v3.0.0-beta1](https://github.com/filamentphp/filament/releases/tag/v3.0.0-beta1) (2 days ago)
 - [picqer/exact-php-client](https://github.com/picqer/exact-php-client) - [v3.50.0](https://github.com/picqer/exact-php-client/releases/tag/v3.50.0) (1 week ago)
 - [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) - [v4.16.0](https://github.com/nikic/PHP-Parser/releases/tag/v4.16.0) (3 weeks ago)
 - [Seldaek/monolog](https://github.com/Seldaek/monolog) - [3.4.0](https://github.com/Seldaek/monolog/releases/tag/3.4.0) (1 month ago)
