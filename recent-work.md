@@ -5,13 +5,13 @@ title: 👨‍💻 Current Activities
 
 #### 💻 Check out what I'm currently working on
 
-- [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (today)
-- [picqer/exact-php-client](https://github.com/picqer/exact-php-client) (1 day ago)
-- [earthrobot/php-project-lvl1](https://github.com/earthrobot/php-project-lvl1) (1 day ago)
-- [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (5 days ago)
+- [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (1 day ago)
+- [picqer/exact-php-client](https://github.com/picqer/exact-php-client) (2 days ago)
+- [earthrobot/php-project-lvl1](https://github.com/earthrobot/php-project-lvl1) (2 days ago)
+- [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (6 days ago)
 - [infi-nl/the-infi-way](https://github.com/infi-nl/the-infi-way) (2 weeks ago)
 - [fedeisas/laravel-mail-css-inliner](https://github.com/fedeisas/laravel-mail-css-inliner) (3 weeks ago)
-- [DannyvdSluijs/DannyvdSluijs.github.io](https://github.com/DannyvdSluijs/DannyvdSluijs.github.io) (4 weeks ago)
+- [DannyvdSluijs/DannyvdSluijs.github.io](https://github.com/DannyvdSluijs/DannyvdSluijs.github.io) (1 month ago)
 - [pdepend/pdepend](https://github.com/pdepend/pdepend) (1 month ago)
 - [DannyvdSluijs/PhpParallelProcessing](https://github.com/DannyvdSluijs/PhpParallelProcessing) (1 month ago)
 - [phpmd/phpmd](https://github.com/phpmd/phpmd) (1 month ago)
@@ -27,13 +27,13 @@ title: 👨‍💻 Current Activities
 
 #### 🔨 My recent Pull Requests
 
-- [feat: Update models based on documentation d.d. 2023-07-25](https://github.com/picqer/exact-php-client/pull/615) on [picqer/exact-php-client](https://github.com/picqer/exact-php-client) (1 day ago)
-- [ci: Use GitHub Actions V3](https://github.com/nikic/FastRoute/pull/257) on [nikic/FastRoute](https://github.com/nikic/FastRoute) (1 day ago)
-- [ci: Use GitHub Actions V3](https://github.com/robrichards/xmlseclibs/pull/253) on [robrichards/xmlseclibs](https://github.com/robrichards/xmlseclibs) (1 day ago)
-- [ci: Use GitHub Actions V3](https://github.com/barryvdh/laravel-dompdf/pull/990) on [barryvdh/laravel-dompdf](https://github.com/barryvdh/laravel-dompdf) (1 day ago)
-- [ci: Use GitHub Actions V3](https://github.com/thephpleague/container/pull/252) on [thephpleague/container](https://github.com/thephpleague/container) (1 day ago)
-- [ci: Use GitHub Actions V3 due to Node12 deprecation](https://github.com/earthrobot/php-project-lvl1/pull/1) on [earthrobot/php-project-lvl1](https://github.com/earthrobot/php-project-lvl1) (1 day ago)
-- [ci: Use GitHub Actions V3](https://github.com/deployteam/laravel-polytranslate/pull/2) on [deployteam/laravel-polytranslate](https://github.com/deployteam/laravel-polytranslate) (1 day ago)
+- [feat: Update models based on documentation d.d. 2023-07-25](https://github.com/picqer/exact-php-client/pull/615) on [picqer/exact-php-client](https://github.com/picqer/exact-php-client) (2 days ago)
+- [ci: Use GitHub Actions V3](https://github.com/nikic/FastRoute/pull/257) on [nikic/FastRoute](https://github.com/nikic/FastRoute) (2 days ago)
+- [ci: Use GitHub Actions V3](https://github.com/robrichards/xmlseclibs/pull/253) on [robrichards/xmlseclibs](https://github.com/robrichards/xmlseclibs) (2 days ago)
+- [ci: Use GitHub Actions V3](https://github.com/barryvdh/laravel-dompdf/pull/990) on [barryvdh/laravel-dompdf](https://github.com/barryvdh/laravel-dompdf) (2 days ago)
+- [ci: Use GitHub Actions V3](https://github.com/thephpleague/container/pull/252) on [thephpleague/container](https://github.com/thephpleague/container) (2 days ago)
+- [ci: Use GitHub Actions V3 due to Node12 deprecation](https://github.com/earthrobot/php-project-lvl1/pull/1) on [earthrobot/php-project-lvl1](https://github.com/earthrobot/php-project-lvl1) (2 days ago)
+- [ci: Use GitHub Actions V3](https://github.com/deployteam/laravel-polytranslate/pull/2) on [deployteam/laravel-polytranslate](https://github.com/deployteam/laravel-polytranslate) (2 days ago)
 - [Update README.md with correct issue number for license information](https://github.com/infi-nl/the-infi-way/pull/75) on [infi-nl/the-infi-way](https://github.com/infi-nl/the-infi-way) (2 weeks ago)
 - [feat: Update models based on documentation d.d. 2023-07-08](https://github.com/picqer/exact-php-client/pull/614) on [picqer/exact-php-client](https://github.com/picqer/exact-php-client) (2 weeks ago)
 - [ci: Use GitHub Actions V3](https://github.com/pdepend/pdepend/pull/670) on [pdepend/pdepend](https://github.com/pdepend/pdepend) (1 month ago)
@@ -46,8 +46,8 @@ title: 👨‍💻 Current Activities
 
 #### 🔭 Latest releases I've contributed to
 
-- [picqer/exact-php-client](https://github.com/picqer/exact-php-client) - [v3.51.0](https://github.com/picqer/exact-php-client/releases/tag/v3.51.0) (today)
-- [filamentphp/filament](https://github.com/filamentphp/filament) - [v3.0.0-beta8](https://github.com/filamentphp/filament/releases/tag/v3.0.0-beta8) (2 days ago)
+- [picqer/exact-php-client](https://github.com/picqer/exact-php-client) - [v3.51.0](https://github.com/picqer/exact-php-client/releases/tag/v3.51.0) (1 day ago)
+- [filamentphp/filament](https://github.com/filamentphp/filament) - [v3.0.0-beta8](https://github.com/filamentphp/filament/releases/tag/v3.0.0-beta8) (3 days ago)
 - [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) - [v4.16.0](https://github.com/nikic/PHP-Parser/releases/tag/v4.16.0) (1 month ago)
 - [Seldaek/monolog](https://github.com/Seldaek/monolog) - [3.4.0](https://github.com/Seldaek/monolog/releases/tag/3.4.0) (1 month ago)
 - [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) - [2.19.0](https://github.com/JsonMapper/JsonMapper/releases/tag/2.19.0) (1 month ago)
