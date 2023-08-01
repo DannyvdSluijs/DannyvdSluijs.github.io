@@ -5,8 +5,8 @@ title: 👨‍💻 Current Activities
 
 #### 💻 Check out what I'm currently working on
 
+- [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (today)
 - [robrichards/xmlseclibs](https://github.com/robrichards/xmlseclibs) (1 day ago)
-- [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (4 days ago)
 - [picqer/exact-php-client](https://github.com/picqer/exact-php-client) (1 week ago)
 - [earthrobot/php-project-lvl1](https://github.com/earthrobot/php-project-lvl1) (1 week ago)
 - [nikic/FastRoute](https://github.com/nikic/FastRoute) (1 week ago)
