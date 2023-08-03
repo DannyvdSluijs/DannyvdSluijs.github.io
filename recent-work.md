@@ -5,8 +5,8 @@ title: 👨‍💻 Current Activities
 
 #### 💻 Check out what I'm currently working on
 
-- [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (1 day ago)
-- [robrichards/xmlseclibs](https://github.com/robrichards/xmlseclibs) (2 days ago)
+- [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (2 days ago)
+- [robrichards/xmlseclibs](https://github.com/robrichards/xmlseclibs) (3 days ago)
 - [picqer/exact-php-client](https://github.com/picqer/exact-php-client) (1 week ago)
 - [earthrobot/php-project-lvl1](https://github.com/earthrobot/php-project-lvl1) (1 week ago)
 - [nikic/FastRoute](https://github.com/nikic/FastRoute) (1 week ago)
@@ -46,7 +46,7 @@ title: 👨‍💻 Current Activities
 
 #### 🔭 Latest releases I've contributed to
 
-- [filamentphp/filament](https://github.com/filamentphp/filament) - [v3.0.4](https://github.com/filamentphp/filament/releases/tag/v3.0.4) (today)
+- [filamentphp/filament](https://github.com/filamentphp/filament) - [v3.0.4](https://github.com/filamentphp/filament/releases/tag/v3.0.4) (1 day ago)
 - [picqer/exact-php-client](https://github.com/picqer/exact-php-client) - [v3.51.0](https://github.com/picqer/exact-php-client/releases/tag/v3.51.0) (1 week ago)
 - [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) - [v4.16.0](https://github.com/nikic/PHP-Parser/releases/tag/v4.16.0) (1 month ago)
 - [Seldaek/monolog](https://github.com/Seldaek/monolog) - [3.4.0](https://github.com/Seldaek/monolog/releases/tag/3.4.0) (1 month ago)
