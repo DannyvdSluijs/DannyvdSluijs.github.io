@@ -46,7 +46,7 @@ title: 👨‍💻 Current Activities
 
 #### 🔭 Latest releases I've contributed to
 
-- [filamentphp/filament](https://github.com/filamentphp/filament) - [v3.0.20](https://github.com/filamentphp/filament/releases/tag/v3.0.20) (1 day ago)
+- [filamentphp/filament](https://github.com/filamentphp/filament) - [v3.0.21](https://github.com/filamentphp/filament/releases/tag/v3.0.21) (today)
 - [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) - [v4.17.1](https://github.com/nikic/PHP-Parser/releases/tag/v4.17.1) (1 day ago)
 - [picqer/exact-php-client](https://github.com/picqer/exact-php-client) - [v3.51.0](https://github.com/picqer/exact-php-client/releases/tag/v3.51.0) (2 weeks ago)
 - [Seldaek/monolog](https://github.com/Seldaek/monolog) - [3.4.0](https://github.com/Seldaek/monolog/releases/tag/3.4.0) (1 month ago)
