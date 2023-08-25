@@ -13,7 +13,7 @@ ogImage:
     title: "Figuring out how parallel processing works in PHP"
     subtitle: "Saving time of a CI/CD pipeline and learning how parallel processing works"
     imageUrl: "https://avatars.githubusercontent.com/u/618940?s=36"
-    fileName: "figuring-ou-how-parallel-processing-works-in-php"
+    fileName: "figuring-out-how-parallel-processing-works-in-php"
 ---
 
 # Figuring out how parallel processing works in PHP
