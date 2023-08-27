@@ -5,16 +5,16 @@ title: 👨‍💻 Current Activities
 
 #### 💻 Check out what I'm currently working on
 
+- [barryvdh/laravel-dompdf](https://github.com/barryvdh/laravel-dompdf) (today)
 - [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (1 day ago)
 - [DannyvdSluijs/DannyvdSluijs.github.io](https://github.com/DannyvdSluijs/DannyvdSluijs.github.io) (2 days ago)
-- [DannyvdSluijs/AoC-2015](https://github.com/DannyvdSluijs/AoC-2015) (3 days ago)
 - [DannyvdSluijs/AoC-2018](https://github.com/DannyvdSluijs/AoC-2018) (3 days ago)
+- [DannyvdSluijs/AoC-2015](https://github.com/DannyvdSluijs/AoC-2015) (3 days ago)
 - [robrichards/xmlseclibs](https://github.com/robrichards/xmlseclibs) (3 weeks ago)
-- [nikic/FastRoute](https://github.com/nikic/FastRoute) (1 month ago)
-- [picqer/exact-php-client](https://github.com/picqer/exact-php-client) (1 month ago)
 - [earthrobot/php-project-lvl1](https://github.com/earthrobot/php-project-lvl1) (1 month ago)
+- [picqer/exact-php-client](https://github.com/picqer/exact-php-client) (1 month ago)
+- [nikic/FastRoute](https://github.com/nikic/FastRoute) (1 month ago)
 - [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (1 month ago)
-- [infi-nl/the-infi-way](https://github.com/infi-nl/the-infi-way) (1 month ago)
 
 
 #### 📜 My recent blog posts
