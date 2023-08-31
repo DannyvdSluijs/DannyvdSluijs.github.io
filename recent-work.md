@@ -5,9 +5,9 @@ title: 👨‍💻 Current Activities
 
 #### 💻 Check out what I'm currently working on
 
+- [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (today)
 - [infi-nl/con.infi.nl](https://github.com/infi-nl/con.infi.nl) (1 day ago)
 - [barryvdh/laravel-dompdf](https://github.com/barryvdh/laravel-dompdf) (4 days ago)
-- [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (5 days ago)
 - [DannyvdSluijs/DannyvdSluijs.github.io](https://github.com/DannyvdSluijs/DannyvdSluijs.github.io) (6 days ago)
 - [DannyvdSluijs/AoC-2018](https://github.com/DannyvdSluijs/AoC-2018) (1 week ago)
 - [DannyvdSluijs/AoC-2015](https://github.com/DannyvdSluijs/AoC-2015) (1 week ago)
