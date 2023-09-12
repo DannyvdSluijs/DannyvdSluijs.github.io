@@ -5,16 +5,16 @@ title: 👨‍💻 Current Activities
 
 #### 💻 Check out what I'm currently working on
 
+- [DannyvdSluijs/Laravel10MailCssInliner](https://github.com/DannyvdSluijs/Laravel10MailCssInliner) (today)
 - [JsonMapper/jsonmapper.github.io](https://github.com/JsonMapper/jsonmapper.github.io) (1 day ago)
 - [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (3 days ago)
 - [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (4 days ago)
 - [infi-nl/con.infi.nl](https://github.com/infi-nl/con.infi.nl) (1 week ago)
 - [barryvdh/laravel-dompdf](https://github.com/barryvdh/laravel-dompdf) (2 weeks ago)
 - [DannyvdSluijs/DannyvdSluijs.github.io](https://github.com/DannyvdSluijs/DannyvdSluijs.github.io) (2 weeks ago)
-- [DannyvdSluijs/AoC-2018](https://github.com/DannyvdSluijs/AoC-2018) (2 weeks ago)
 - [DannyvdSluijs/AoC-2015](https://github.com/DannyvdSluijs/AoC-2015) (2 weeks ago)
+- [DannyvdSluijs/AoC-2018](https://github.com/DannyvdSluijs/AoC-2018) (2 weeks ago)
 - [robrichards/xmlseclibs](https://github.com/robrichards/xmlseclibs) (1 month ago)
-- [earthrobot/php-project-lvl1](https://github.com/earthrobot/php-project-lvl1) (1 month ago)
 
 
 #### 📜 My recent blog posts
