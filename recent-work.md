@@ -5,9 +5,9 @@ title: 👨‍💻 Current Activities
 
 #### 💻 Check out what I'm currently working on
 
-- [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (today)
-- [DannyvdSluijs/Laravel10MailCssInliner](https://github.com/DannyvdSluijs/Laravel10MailCssInliner) (3 days ago)
-- [JsonMapper/jsonmapper.github.io](https://github.com/JsonMapper/jsonmapper.github.io) (4 days ago)
+- [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (1 day ago)
+- [DannyvdSluijs/Laravel10MailCssInliner](https://github.com/DannyvdSluijs/Laravel10MailCssInliner) (4 days ago)
+- [JsonMapper/jsonmapper.github.io](https://github.com/JsonMapper/jsonmapper.github.io) (5 days ago)
 - [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (1 week ago)
 - [infi-nl/con.infi.nl](https://github.com/infi-nl/con.infi.nl) (2 weeks ago)
 - [barryvdh/laravel-dompdf](https://github.com/barryvdh/laravel-dompdf) (2 weeks ago)
@@ -46,7 +46,7 @@ title: 👨‍💻 Current Activities
 
 #### 🔭 Latest releases I've contributed to
 
-- [filamentphp/filament](https://github.com/filamentphp/filament) - [v3.0.51](https://github.com/filamentphp/filament/releases/tag/v3.0.51) (today)
+- [filamentphp/filament](https://github.com/filamentphp/filament) - [v3.0.51](https://github.com/filamentphp/filament/releases/tag/v3.0.51) (1 day ago)
 - [thephpleague/flysystem](https://github.com/thephpleague/flysystem) - [3.16.0](https://github.com/thephpleague/flysystem/releases/tag/3.16.0) (1 week ago)
 - [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) - [v4.17.1](https://github.com/nikic/PHP-Parser/releases/tag/v4.17.1) (1 month ago)
 - [picqer/exact-php-client](https://github.com/picqer/exact-php-client) - [v3.51.0](https://github.com/picqer/exact-php-client/releases/tag/v3.51.0) (1 month ago)
