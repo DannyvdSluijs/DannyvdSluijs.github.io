@@ -5,6 +5,7 @@ title: 👨‍💻 Current Activities
 
 #### 💻 Check out what I'm currently working on
 
+- [fedeisas/laravel-mail-css-inliner](https://github.com/fedeisas/laravel-mail-css-inliner) (today)
 - [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (3 days ago)
 - [DannyvdSluijs/Laravel10MailCssInliner](https://github.com/DannyvdSluijs/Laravel10MailCssInliner) (6 days ago)
 - [JsonMapper/jsonmapper.github.io](https://github.com/JsonMapper/jsonmapper.github.io) (1 week ago)
@@ -12,9 +13,8 @@ title: 👨‍💻 Current Activities
 - [infi-nl/con.infi.nl](https://github.com/infi-nl/con.infi.nl) (2 weeks ago)
 - [barryvdh/laravel-dompdf](https://github.com/barryvdh/laravel-dompdf) (3 weeks ago)
 - [DannyvdSluijs/DannyvdSluijs.github.io](https://github.com/DannyvdSluijs/DannyvdSluijs.github.io) (3 weeks ago)
-- [DannyvdSluijs/AoC-2015](https://github.com/DannyvdSluijs/AoC-2015) (3 weeks ago)
 - [DannyvdSluijs/AoC-2018](https://github.com/DannyvdSluijs/AoC-2018) (3 weeks ago)
-- [robrichards/xmlseclibs](https://github.com/robrichards/xmlseclibs) (1 month ago)
+- [DannyvdSluijs/AoC-2015](https://github.com/DannyvdSluijs/AoC-2015) (3 weeks ago)
 
 
 #### 📜 My recent blog posts
@@ -46,6 +46,7 @@ title: 👨‍💻 Current Activities
 
 #### 🔭 Latest releases I've contributed to
 
+- [fedeisas/laravel-mail-css-inliner](https://github.com/fedeisas/laravel-mail-css-inliner) - [5.2.1](https://github.com/fedeisas/laravel-mail-css-inliner/releases/tag/5.2.1) (today)
 - [filamentphp/filament](https://github.com/filamentphp/filament) - [v3.0.53](https://github.com/filamentphp/filament/releases/tag/v3.0.53) (today)
 - [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) - [v5.0.0beta1](https://github.com/nikic/PHP-Parser/releases/tag/v5.0.0beta1) (1 day ago)
 - [thephpleague/flysystem](https://github.com/thephpleague/flysystem) - [3.16.0](https://github.com/thephpleague/flysystem/releases/tag/3.16.0) (1 week ago)
@@ -55,4 +56,3 @@ title: 👨‍💻 Current Activities
 - [pdepend/pdepend](https://github.com/pdepend/pdepend) - [2.14.0](https://github.com/pdepend/pdepend/releases/tag/2.14.0) (3 months ago)
 - [DannyvdSluijs/exact-online-meta-data-tool](https://github.com/DannyvdSluijs/exact-online-meta-data-tool) - [1.9.1](https://github.com/DannyvdSluijs/exact-online-meta-data-tool/releases/tag/1.9.1) (5 months ago)
 - [JsonMapper/SymfonyBundle](https://github.com/JsonMapper/SymfonyBundle) - [2.2.1](https://github.com/JsonMapper/SymfonyBundle/releases/tag/2.2.1) (5 months ago)
-- [JsonMapper/LaravelPackage](https://github.com/JsonMapper/LaravelPackage) - [2.4.0](https://github.com/JsonMapper/LaravelPackage/releases/tag/2.4.0) (5 months ago)
