@@ -46,7 +46,7 @@ title: 👨‍💻 Current Activities
 
 #### 🔭 Latest releases I've contributed to
 
-- [picqer/exact-php-client](https://github.com/picqer/exact-php-client) - [v3.52.0](https://github.com/picqer/exact-php-client/releases/tag/v3.52.0) (today)
+- [picqer/exact-php-client](https://github.com/picqer/exact-php-client) - [v4.0.0](https://github.com/picqer/exact-php-client/releases/tag/v4.0.0) (today)
 - [fedeisas/laravel-mail-css-inliner](https://github.com/fedeisas/laravel-mail-css-inliner) - [5.2.1](https://github.com/fedeisas/laravel-mail-css-inliner/releases/tag/5.2.1) (2 days ago)
 - [filamentphp/filament](https://github.com/filamentphp/filament) - [v3.0.53](https://github.com/filamentphp/filament/releases/tag/v3.0.53) (2 days ago)
 - [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) - [v5.0.0beta1](https://github.com/nikic/PHP-Parser/releases/tag/v5.0.0beta1) (3 days ago)
