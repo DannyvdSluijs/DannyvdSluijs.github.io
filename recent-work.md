@@ -46,7 +46,7 @@ title: 👨‍💻 Current Activities
 
 #### 🔭 Latest releases I've contributed to
 
-- [filamentphp/filament](https://github.com/filamentphp/filament) - [v3.0.61](https://github.com/filamentphp/filament/releases/tag/v3.0.61) (today)
+- [filamentphp/filament](https://github.com/filamentphp/filament) - [v3.0.62](https://github.com/filamentphp/filament/releases/tag/v3.0.62) (today)
 - [pdepend/pdepend](https://github.com/pdepend/pdepend) - [2.15.0](https://github.com/pdepend/pdepend/releases/tag/2.15.0) (2 days ago)
 - [picqer/exact-php-client](https://github.com/picqer/exact-php-client) - [v4.0.0](https://github.com/picqer/exact-php-client/releases/tag/v4.0.0) (5 days ago)
 - [fedeisas/laravel-mail-css-inliner](https://github.com/fedeisas/laravel-mail-css-inliner) - [5.2.1](https://github.com/fedeisas/laravel-mail-css-inliner/releases/tag/5.2.1) (1 week ago)
