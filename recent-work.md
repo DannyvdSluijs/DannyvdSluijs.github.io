@@ -5,11 +5,11 @@ title: 👨‍💻 Current Activities
 
 #### 💻 Check out what I'm currently working on
 
-- [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (1 day ago)
-- [picqer/exact-php-client](https://github.com/picqer/exact-php-client) (5 days ago)
-- [fedeisas/laravel-mail-css-inliner](https://github.com/fedeisas/laravel-mail-css-inliner) (6 days ago)
+- [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (2 days ago)
+- [picqer/exact-php-client](https://github.com/picqer/exact-php-client) (6 days ago)
+- [fedeisas/laravel-mail-css-inliner](https://github.com/fedeisas/laravel-mail-css-inliner) (1 week ago)
 - [DannyvdSluijs/Laravel10MailCssInliner](https://github.com/DannyvdSluijs/Laravel10MailCssInliner) (1 week ago)
-- [JsonMapper/jsonmapper.github.io](https://github.com/JsonMapper/jsonmapper.github.io) (1 week ago)
+- [JsonMapper/jsonmapper.github.io](https://github.com/JsonMapper/jsonmapper.github.io) (2 weeks ago)
 - [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (2 weeks ago)
 - [infi-nl/con.infi.nl](https://github.com/infi-nl/con.infi.nl) (3 weeks ago)
 - [barryvdh/laravel-dompdf](https://github.com/barryvdh/laravel-dompdf) (4 weeks ago)
@@ -27,7 +27,7 @@ title: 👨‍💻 Current Activities
 
 #### 🔨 My recent Pull Requests
 
-- [feat: Update api using documentation d.d. 2023-09-19](https://github.com/picqer/exact-php-client/pull/620) on [picqer/exact-php-client](https://github.com/picqer/exact-php-client) (5 days ago)
+- [feat: Update api using documentation d.d. 2023-09-19](https://github.com/picqer/exact-php-client/pull/620) on [picqer/exact-php-client](https://github.com/picqer/exact-php-client) (6 days ago)
 - [Create PULL_REQUEST_TEMPLATE.md](https://github.com/JsonMapper/JsonMapper/pull/170) on [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (2 weeks ago)
 - [Add github-pages deploy workflow](https://github.com/infi-nl/con.infi.nl/pull/2) on [infi-nl/con.infi.nl](https://github.com/infi-nl/con.infi.nl) (3 weeks ago)
 - [fix: Correct some profile and social links; Content corrections](https://github.com/infi-nl/con.infi.nl/pull/1) on [infi-nl/con.infi.nl](https://github.com/infi-nl/con.infi.nl) (3 weeks ago)
@@ -46,10 +46,10 @@ title: 👨‍💻 Current Activities
 
 #### 🔭 Latest releases I've contributed to
 
-- [pdepend/pdepend](https://github.com/pdepend/pdepend) - [2.15.0](https://github.com/pdepend/pdepend/releases/tag/2.15.0) (1 day ago)
-- [filamentphp/filament](https://github.com/filamentphp/filament) - [v3.0.60](https://github.com/filamentphp/filament/releases/tag/v3.0.60) (2 days ago)
-- [picqer/exact-php-client](https://github.com/picqer/exact-php-client) - [v4.0.0](https://github.com/picqer/exact-php-client/releases/tag/v4.0.0) (4 days ago)
-- [fedeisas/laravel-mail-css-inliner](https://github.com/fedeisas/laravel-mail-css-inliner) - [5.2.1](https://github.com/fedeisas/laravel-mail-css-inliner/releases/tag/5.2.1) (6 days ago)
+- [pdepend/pdepend](https://github.com/pdepend/pdepend) - [2.15.0](https://github.com/pdepend/pdepend/releases/tag/2.15.0) (2 days ago)
+- [filamentphp/filament](https://github.com/filamentphp/filament) - [v3.0.60](https://github.com/filamentphp/filament/releases/tag/v3.0.60) (3 days ago)
+- [picqer/exact-php-client](https://github.com/picqer/exact-php-client) - [v4.0.0](https://github.com/picqer/exact-php-client/releases/tag/v4.0.0) (5 days ago)
+- [fedeisas/laravel-mail-css-inliner](https://github.com/fedeisas/laravel-mail-css-inliner) - [5.2.1](https://github.com/fedeisas/laravel-mail-css-inliner/releases/tag/5.2.1) (1 week ago)
 - [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) - [v5.0.0beta1](https://github.com/nikic/PHP-Parser/releases/tag/v5.0.0beta1) (1 week ago)
 - [thephpleague/flysystem](https://github.com/thephpleague/flysystem) - [3.16.0](https://github.com/thephpleague/flysystem/releases/tag/3.16.0) (2 weeks ago)
 - [Seldaek/monolog](https://github.com/Seldaek/monolog) - [3.4.0](https://github.com/Seldaek/monolog/releases/tag/3.4.0) (3 months ago)
