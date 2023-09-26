@@ -46,6 +46,7 @@ title: 👨‍💻 Current Activities
 
 #### 🔭 Latest releases I've contributed to
 
+- [phpmd/phpmd](https://github.com/phpmd/phpmd) - [2.14.0](https://github.com/phpmd/phpmd/releases/tag/2.14.0) (today)
 - [filamentphp/filament](https://github.com/filamentphp/filament) - [v3.0.62](https://github.com/filamentphp/filament/releases/tag/v3.0.62) (1 day ago)
 - [pdepend/pdepend](https://github.com/pdepend/pdepend) - [2.15.0](https://github.com/pdepend/pdepend/releases/tag/2.15.0) (3 days ago)
 - [picqer/exact-php-client](https://github.com/picqer/exact-php-client) - [v4.0.0](https://github.com/picqer/exact-php-client/releases/tag/v4.0.0) (6 days ago)
@@ -55,4 +56,3 @@ title: 👨‍💻 Current Activities
 - [Seldaek/monolog](https://github.com/Seldaek/monolog) - [3.4.0](https://github.com/Seldaek/monolog/releases/tag/3.4.0) (3 months ago)
 - [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) - [2.19.0](https://github.com/JsonMapper/JsonMapper/releases/tag/2.19.0) (3 months ago)
 - [DannyvdSluijs/exact-online-meta-data-tool](https://github.com/DannyvdSluijs/exact-online-meta-data-tool) - [1.9.1](https://github.com/DannyvdSluijs/exact-online-meta-data-tool/releases/tag/1.9.1) (5 months ago)
-- [JsonMapper/SymfonyBundle](https://github.com/JsonMapper/SymfonyBundle) - [2.2.1](https://github.com/JsonMapper/SymfonyBundle/releases/tag/2.2.1) (5 months ago)
