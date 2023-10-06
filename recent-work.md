@@ -27,6 +27,7 @@ title: 👨‍💻 Current Activities
 
 #### 🔨 My recent Pull Requests
 
+- [Add test proofing solution to #169](https://github.com/JsonMapper/JsonMapper/pull/171) on [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (today)
 - [Correct return type of `Generator::unique()`](https://github.com/FakerPHP/Faker/pull/787) on [FakerPHP/Faker](https://github.com/FakerPHP/Faker) (1 week ago)
 - [Create CODE_OF_CONDUCT.md](https://github.com/infi-nl/the-infi-way/pull/97) on [infi-nl/the-infi-way](https://github.com/infi-nl/the-infi-way) (1 week ago)
 - [feat: Update api using documentation d.d. 2023-09-19](https://github.com/picqer/exact-php-client/pull/620) on [picqer/exact-php-client](https://github.com/picqer/exact-php-client) (2 weeks ago)
@@ -41,7 +42,6 @@ title: 👨‍💻 Current Activities
 - [ci: Use GitHub Actions V3](https://github.com/thephpleague/container/pull/252) on [thephpleague/container](https://github.com/thephpleague/container) (2 months ago)
 - [ci: Use GitHub Actions V3 due to Node12 deprecation](https://github.com/earthrobot/php-project-lvl1/pull/1) on [earthrobot/php-project-lvl1](https://github.com/earthrobot/php-project-lvl1) (2 months ago)
 - [ci: Use GitHub Actions V3](https://github.com/deployteam/laravel-polytranslate/pull/2) on [deployteam/laravel-polytranslate](https://github.com/deployteam/laravel-polytranslate) (2 months ago)
-- [Update README.md with correct issue number for license information](https://github.com/infi-nl/the-infi-way/pull/75) on [infi-nl/the-infi-way](https://github.com/infi-nl/the-infi-way) (2 months ago)
 
 
 #### 🔭 Latest releases I've contributed to
