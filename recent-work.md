@@ -5,7 +5,7 @@ title: 👨‍💻 Current Activities
 
 #### 💻 Check out what I'm currently working on
 
-- [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (today)
+- [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (1 day ago)
 - [picqer/exact-php-client](https://github.com/picqer/exact-php-client) (1 week ago)
 - [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (1 week ago)
 - [DannyvdSluijs/AoC-2018](https://github.com/DannyvdSluijs/AoC-2018) (1 week ago)
@@ -20,7 +20,7 @@ title: 👨‍💻 Current Activities
 #### 📜 My recent blog posts
 
 - [The unknown Composer commands](/2023/08/25/the-unknown-composer-commands.html) (1 month ago)
-- [Figuring out how parallel processing works in PHP](/2023/06/21/figuring-out-how-parallel-processing-works-in-php.html) (3 months ago)
+- [Figuring out how parallel processing works in PHP](/2023/06/21/figuring-out-how-parallel-processing-works-in-php.html) (4 months ago)
 - [Securing the web at no cost](/2019/02/04/securing-the-web-at-no-cost.html) (4 years ago)
 - [About MutableCreationOptionsInterface](/2018/10/15/about-mutable-creation-options-interface.html) (5 years ago)
 - [WsdlToClass V1.0.0 released](/2018/01/11/wsdl-to-class-v1-0-0.html) (5 years ago)
@@ -29,9 +29,9 @@ title: 👨‍💻 Current Activities
 
 - [Update client to docs d.d. 2023-10-10](https://github.com/picqer/exact-php-client/pull/622) on [picqer/exact-php-client](https://github.com/picqer/exact-php-client) (1 week ago)
 - [Support public properties comments when using Constructor middleware](https://github.com/JsonMapper/JsonMapper/pull/171) on [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (1 week ago)
-- [Correct return type of `Generator::unique()`](https://github.com/FakerPHP/Faker/pull/787) on [FakerPHP/Faker](https://github.com/FakerPHP/Faker) (2 weeks ago)
+- [Correct return type of `Generator::unique()`](https://github.com/FakerPHP/Faker/pull/787) on [FakerPHP/Faker](https://github.com/FakerPHP/Faker) (3 weeks ago)
 - [Create CODE_OF_CONDUCT.md](https://github.com/infi-nl/the-infi-way/pull/97) on [infi-nl/the-infi-way](https://github.com/infi-nl/the-infi-way) (3 weeks ago)
-- [feat: Update api using documentation d.d. 2023-09-19](https://github.com/picqer/exact-php-client/pull/620) on [picqer/exact-php-client](https://github.com/picqer/exact-php-client) (4 weeks ago)
+- [feat: Update api using documentation d.d. 2023-09-19](https://github.com/picqer/exact-php-client/pull/620) on [picqer/exact-php-client](https://github.com/picqer/exact-php-client) (1 month ago)
 - [Create PULL_REQUEST_TEMPLATE.md](https://github.com/JsonMapper/JsonMapper/pull/170) on [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (1 month ago)
 - [Add github-pages deploy workflow](https://github.com/infi-nl/con.infi.nl/pull/2) on [infi-nl/con.infi.nl](https://github.com/infi-nl/con.infi.nl) (1 month ago)
 - [fix: Correct some profile and social links; Content corrections](https://github.com/infi-nl/con.infi.nl/pull/1) on [infi-nl/con.infi.nl](https://github.com/infi-nl/con.infi.nl) (1 month ago)
@@ -46,13 +46,13 @@ title: 👨‍💻 Current Activities
 
 #### 🔭 Latest releases I've contributed to
 
-- [filamentphp/filament](https://github.com/filamentphp/filament) - [v3.0.80](https://github.com/filamentphp/filament/releases/tag/v3.0.80) (today)
-- [picqer/exact-php-client](https://github.com/picqer/exact-php-client) - [v4.1.0](https://github.com/picqer/exact-php-client/releases/tag/v4.1.0) (5 days ago)
+- [filamentphp/filament](https://github.com/filamentphp/filament) - [v3.0.80](https://github.com/filamentphp/filament/releases/tag/v3.0.80) (1 day ago)
+- [picqer/exact-php-client](https://github.com/picqer/exact-php-client) - [v4.1.0](https://github.com/picqer/exact-php-client/releases/tag/v4.1.0) (6 days ago)
 - [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) - [2.20.0](https://github.com/JsonMapper/JsonMapper/releases/tag/2.20.0) (1 week ago)
-- [phpmd/phpmd](https://github.com/phpmd/phpmd) - [2.14.1](https://github.com/phpmd/phpmd/releases/tag/2.14.1) (2 weeks ago)
-- [pdepend/pdepend](https://github.com/pdepend/pdepend) - [2.15.1](https://github.com/pdepend/pdepend/releases/tag/2.15.1) (2 weeks ago)
+- [phpmd/phpmd](https://github.com/phpmd/phpmd) - [2.14.1](https://github.com/phpmd/phpmd/releases/tag/2.14.1) (3 weeks ago)
+- [pdepend/pdepend](https://github.com/pdepend/pdepend) - [2.15.1](https://github.com/pdepend/pdepend/releases/tag/2.15.1) (3 weeks ago)
 - [fedeisas/laravel-mail-css-inliner](https://github.com/fedeisas/laravel-mail-css-inliner) - [5.2.1](https://github.com/fedeisas/laravel-mail-css-inliner/releases/tag/5.2.1) (1 month ago)
 - [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) - [v5.0.0beta1](https://github.com/nikic/PHP-Parser/releases/tag/v5.0.0beta1) (1 month ago)
 - [thephpleague/flysystem](https://github.com/thephpleague/flysystem) - [3.16.0](https://github.com/thephpleague/flysystem/releases/tag/3.16.0) (1 month ago)
-- [Seldaek/monolog](https://github.com/Seldaek/monolog) - [3.4.0](https://github.com/Seldaek/monolog/releases/tag/3.4.0) (3 months ago)
+- [Seldaek/monolog](https://github.com/Seldaek/monolog) - [3.4.0](https://github.com/Seldaek/monolog/releases/tag/3.4.0) (4 months ago)
 - [DannyvdSluijs/exact-online-meta-data-tool](https://github.com/DannyvdSluijs/exact-online-meta-data-tool) - [1.9.1](https://github.com/DannyvdSluijs/exact-online-meta-data-tool/releases/tag/1.9.1) (6 months ago)
