@@ -5,14 +5,14 @@ title: 👨‍💻 Current Activities
 
 #### 💻 Check out what I'm currently working on
 
-- [DannyvdSluijs/AoC-2018](https://github.com/DannyvdSluijs/AoC-2018) (today)
-- [DannyvdSluijs/AoC-2023](https://github.com/DannyvdSluijs/AoC-2023) (5 days ago)
-- [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (5 days ago)
+- [DannyvdSluijs/AoC-2018](https://github.com/DannyvdSluijs/AoC-2018) (1 day ago)
+- [DannyvdSluijs/AoC-2023](https://github.com/DannyvdSluijs/AoC-2023) (6 days ago)
+- [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (6 days ago)
 - [picqer/exact-php-client](https://github.com/picqer/exact-php-client) (2 weeks ago)
 - [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (1 month ago)
 - [DannyvdSluijs/JsonMapperDoctrineArrayCollection](https://github.com/DannyvdSluijs/JsonMapperDoctrineArrayCollection) (1 month ago)
 - [JsonMapper/jsonmapper.github.io](https://github.com/JsonMapper/jsonmapper.github.io) (1 month ago)
-- [fedeisas/laravel-mail-css-inliner](https://github.com/fedeisas/laravel-mail-css-inliner) (1 month ago)
+- [fedeisas/laravel-mail-css-inliner](https://github.com/fedeisas/laravel-mail-css-inliner) (2 months ago)
 - [DannyvdSluijs/Laravel10MailCssInliner](https://github.com/DannyvdSluijs/Laravel10MailCssInliner) (2 months ago)
 - [infi-nl/con.infi.nl](https://github.com/infi-nl/con.infi.nl) (2 months ago)
 
@@ -46,13 +46,13 @@ title: 👨‍💻 Current Activities
 
 #### 🔭 Latest releases I've contributed to
 
-- [filamentphp/filament](https://github.com/filamentphp/filament) - [v3.0.97](https://github.com/filamentphp/filament/releases/tag/v3.0.97) (today)
-- [Seldaek/monolog](https://github.com/Seldaek/monolog) - [3.5.0](https://github.com/Seldaek/monolog/releases/tag/3.5.0) (2 weeks ago)
+- [filamentphp/filament](https://github.com/filamentphp/filament) - [v3.0.97](https://github.com/filamentphp/filament/releases/tag/v3.0.97) (1 day ago)
+- [Seldaek/monolog](https://github.com/Seldaek/monolog) - [3.5.0](https://github.com/Seldaek/monolog/releases/tag/3.5.0) (3 weeks ago)
 - [picqer/exact-php-client](https://github.com/picqer/exact-php-client) - [v4.2.0](https://github.com/picqer/exact-php-client/releases/tag/v4.2.0) (3 weeks ago)
 - [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) - [2.20.0](https://github.com/JsonMapper/JsonMapper/releases/tag/2.20.0) (1 month ago)
 - [phpmd/phpmd](https://github.com/phpmd/phpmd) - [2.14.1](https://github.com/phpmd/phpmd/releases/tag/2.14.1) (1 month ago)
 - [pdepend/pdepend](https://github.com/pdepend/pdepend) - [2.15.1](https://github.com/pdepend/pdepend/releases/tag/2.15.1) (1 month ago)
-- [fedeisas/laravel-mail-css-inliner](https://github.com/fedeisas/laravel-mail-css-inliner) - [5.2.1](https://github.com/fedeisas/laravel-mail-css-inliner/releases/tag/5.2.1) (1 month ago)
+- [fedeisas/laravel-mail-css-inliner](https://github.com/fedeisas/laravel-mail-css-inliner) - [5.2.1](https://github.com/fedeisas/laravel-mail-css-inliner/releases/tag/5.2.1) (2 months ago)
 - [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) - [v5.0.0beta1](https://github.com/nikic/PHP-Parser/releases/tag/v5.0.0beta1) (2 months ago)
 - [thephpleague/flysystem](https://github.com/thephpleague/flysystem) - [3.16.0](https://github.com/thephpleague/flysystem/releases/tag/3.16.0) (2 months ago)
 - [DannyvdSluijs/exact-online-meta-data-tool](https://github.com/DannyvdSluijs/exact-online-meta-data-tool) - [1.9.1](https://github.com/DannyvdSluijs/exact-online-meta-data-tool/releases/tag/1.9.1) (7 months ago)
