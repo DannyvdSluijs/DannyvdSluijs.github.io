@@ -5,9 +5,9 @@ title: 👨‍💻 Current Activities
 
 #### 💻 Check out what I'm currently working on
 
-- [DannyvdSluijs/AoC-2018](https://github.com/DannyvdSluijs/AoC-2018) (1 day ago)
-- [DannyvdSluijs/AoC-2023](https://github.com/DannyvdSluijs/AoC-2023) (6 days ago)
-- [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (6 days ago)
+- [DannyvdSluijs/AoC-2018](https://github.com/DannyvdSluijs/AoC-2018) (2 days ago)
+- [DannyvdSluijs/AoC-2023](https://github.com/DannyvdSluijs/AoC-2023) (1 week ago)
+- [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (1 week ago)
 - [picqer/exact-php-client](https://github.com/picqer/exact-php-client) (2 weeks ago)
 - [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (1 month ago)
 - [DannyvdSluijs/JsonMapperDoctrineArrayCollection](https://github.com/DannyvdSluijs/JsonMapperDoctrineArrayCollection) (1 month ago)
@@ -20,7 +20,7 @@ title: 👨‍💻 Current Activities
 #### 📜 My recent blog posts
 
 - [The unknown Composer commands](/2023/08/25/the-unknown-composer-commands.html) (2 months ago)
-- [Figuring out how parallel processing works in PHP](/2023/06/21/figuring-out-how-parallel-processing-works-in-php.html) (4 months ago)
+- [Figuring out how parallel processing works in PHP](/2023/06/21/figuring-out-how-parallel-processing-works-in-php.html) (5 months ago)
 - [Securing the web at no cost](/2019/02/04/securing-the-web-at-no-cost.html) (4 years ago)
 - [About MutableCreationOptionsInterface](/2018/10/15/about-mutable-creation-options-interface.html) (5 years ago)
 - [WsdlToClass V1.0.0 released](/2018/01/11/wsdl-to-class-v1-0-0.html) (5 years ago)
@@ -33,7 +33,7 @@ title: 👨‍💻 Current Activities
 - [Support public properties comments when using Constructor middleware](https://github.com/JsonMapper/JsonMapper/pull/171) on [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (1 month ago)
 - [Correct return type of `Generator::unique()`](https://github.com/FakerPHP/Faker/pull/787) on [FakerPHP/Faker](https://github.com/FakerPHP/Faker) (1 month ago)
 - [Create CODE_OF_CONDUCT.md](https://github.com/infi-nl/the-infi-way/pull/97) on [infi-nl/the-infi-way](https://github.com/infi-nl/the-infi-way) (1 month ago)
-- [feat: Update api using documentation d.d. 2023-09-19](https://github.com/picqer/exact-php-client/pull/620) on [picqer/exact-php-client](https://github.com/picqer/exact-php-client) (1 month ago)
+- [feat: Update api using documentation d.d. 2023-09-19](https://github.com/picqer/exact-php-client/pull/620) on [picqer/exact-php-client](https://github.com/picqer/exact-php-client) (2 months ago)
 - [Create PULL_REQUEST_TEMPLATE.md](https://github.com/JsonMapper/JsonMapper/pull/170) on [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (2 months ago)
 - [Add github-pages deploy workflow](https://github.com/infi-nl/con.infi.nl/pull/2) on [infi-nl/con.infi.nl](https://github.com/infi-nl/con.infi.nl) (2 months ago)
 - [fix: Correct some profile and social links; Content corrections](https://github.com/infi-nl/con.infi.nl/pull/1) on [infi-nl/con.infi.nl](https://github.com/infi-nl/con.infi.nl) (2 months ago)
@@ -46,7 +46,7 @@ title: 👨‍💻 Current Activities
 
 #### 🔭 Latest releases I've contributed to
 
-- [filamentphp/filament](https://github.com/filamentphp/filament) - [v3.0.97](https://github.com/filamentphp/filament/releases/tag/v3.0.97) (1 day ago)
+- [filamentphp/filament](https://github.com/filamentphp/filament) - [v3.0.97](https://github.com/filamentphp/filament/releases/tag/v3.0.97) (2 days ago)
 - [Seldaek/monolog](https://github.com/Seldaek/monolog) - [3.5.0](https://github.com/Seldaek/monolog/releases/tag/3.5.0) (3 weeks ago)
 - [picqer/exact-php-client](https://github.com/picqer/exact-php-client) - [v4.2.0](https://github.com/picqer/exact-php-client/releases/tag/v4.2.0) (3 weeks ago)
 - [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) - [2.20.0](https://github.com/JsonMapper/JsonMapper/releases/tag/2.20.0) (1 month ago)
