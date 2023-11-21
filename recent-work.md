@@ -5,7 +5,7 @@ title: 👨‍💻 Current Activities
 
 #### 💻 Check out what I'm currently working on
 
-- [DannyvdSluijs/AoC-2018](https://github.com/DannyvdSluijs/AoC-2018) (4 days ago)
+- [DannyvdSluijs/AoC-2018](https://github.com/DannyvdSluijs/AoC-2018) (5 days ago)
 - [DannyvdSluijs/AoC-2023](https://github.com/DannyvdSluijs/AoC-2023) (1 week ago)
 - [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (1 week ago)
 - [picqer/exact-php-client](https://github.com/picqer/exact-php-client) (3 weeks ago)
@@ -46,10 +46,10 @@ title: 👨‍💻 Current Activities
 
 #### 🔭 Latest releases I've contributed to
 
-- [filamentphp/filament](https://github.com/filamentphp/filament) - [v3.0.99](https://github.com/filamentphp/filament/releases/tag/v3.0.99) (today)
-- [theseer/tokenizer](https://github.com/theseer/tokenizer) - [1.2.2](https://github.com/theseer/tokenizer/releases/tag/1.2.2) (today)
+- [filamentphp/filament](https://github.com/filamentphp/filament) - [v3.0.99](https://github.com/filamentphp/filament/releases/tag/v3.0.99) (1 day ago)
+- [theseer/tokenizer](https://github.com/theseer/tokenizer) - [1.2.2](https://github.com/theseer/tokenizer/releases/tag/1.2.2) (1 day ago)
 - [Seldaek/monolog](https://github.com/Seldaek/monolog) - [3.5.0](https://github.com/Seldaek/monolog/releases/tag/3.5.0) (3 weeks ago)
-- [picqer/exact-php-client](https://github.com/picqer/exact-php-client) - [v4.2.0](https://github.com/picqer/exact-php-client/releases/tag/v4.2.0) (4 weeks ago)
+- [picqer/exact-php-client](https://github.com/picqer/exact-php-client) - [v4.2.0](https://github.com/picqer/exact-php-client/releases/tag/v4.2.0) (1 month ago)
 - [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) - [2.20.0](https://github.com/JsonMapper/JsonMapper/releases/tag/2.20.0) (1 month ago)
 - [phpmd/phpmd](https://github.com/phpmd/phpmd) - [2.14.1](https://github.com/phpmd/phpmd/releases/tag/2.14.1) (1 month ago)
 - [pdepend/pdepend](https://github.com/pdepend/pdepend) - [2.15.1](https://github.com/pdepend/pdepend/releases/tag/2.15.1) (1 month ago)
