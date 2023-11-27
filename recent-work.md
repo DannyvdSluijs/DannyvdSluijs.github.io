@@ -27,6 +27,7 @@ title: 👨‍💻 Current Activities
 
 #### 🔨 My recent Pull Requests
 
+- [Correct status badge url as per needs](https://github.com/FakerPHP/fakerphp.github.io/pull/95) on [FakerPHP/fakerphp.github.io](https://github.com/FakerPHP/fakerphp.github.io) (today)
 - [refactor: Add more native type hints](https://github.com/picqer/exact-php-client/pull/626) on [picqer/exact-php-client](https://github.com/picqer/exact-php-client) (3 weeks ago)
 - [refactor: Introduce type hinting in Connection class](https://github.com/picqer/exact-php-client/pull/625) on [picqer/exact-php-client](https://github.com/picqer/exact-php-client) (4 weeks ago)
 - [Update client to docs d.d. 2023-10-10](https://github.com/picqer/exact-php-client/pull/622) on [picqer/exact-php-client](https://github.com/picqer/exact-php-client) (1 month ago)
@@ -41,7 +42,6 @@ title: 👨‍💻 Current Activities
 - [feat: Update models based on documentation d.d. 2023-07-25](https://github.com/picqer/exact-php-client/pull/615) on [picqer/exact-php-client](https://github.com/picqer/exact-php-client) (4 months ago)
 - [ci: Use GitHub Actions V3](https://github.com/nikic/FastRoute/pull/257) on [nikic/FastRoute](https://github.com/nikic/FastRoute) (4 months ago)
 - [ci: Use GitHub Actions V3](https://github.com/robrichards/xmlseclibs/pull/253) on [robrichards/xmlseclibs](https://github.com/robrichards/xmlseclibs) (4 months ago)
-- [ci: Use GitHub Actions V3](https://github.com/barryvdh/laravel-dompdf/pull/990) on [barryvdh/laravel-dompdf](https://github.com/barryvdh/laravel-dompdf) (4 months ago)
 
 
 #### 🔭 Latest releases I've contributed to
