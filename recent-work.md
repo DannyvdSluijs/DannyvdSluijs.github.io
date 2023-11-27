@@ -6,7 +6,7 @@ title: 👨‍💻 Current Activities
 #### 💻 Check out what I'm currently working on
 
 - [FakerPHP/fakerphp.github.io](https://github.com/FakerPHP/fakerphp.github.io) (today)
-- [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (6 days ago)
+- [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (today)
 - [DannyvdSluijs/AoC-2018](https://github.com/DannyvdSluijs/AoC-2018) (6 days ago)
 - [DannyvdSluijs/AoC-2023](https://github.com/DannyvdSluijs/AoC-2023) (2 weeks ago)
 - [picqer/exact-php-client](https://github.com/picqer/exact-php-client) (4 weeks ago)
@@ -27,6 +27,7 @@ title: 👨‍💻 Current Activities
 
 #### 🔨 My recent Pull Requests
 
+- [Merging develop into main](https://github.com/DannyvdSluijs/exact-online-meta-data-tool/pull/191) on [DannyvdSluijs/exact-online-meta-data-tool](https://github.com/DannyvdSluijs/exact-online-meta-data-tool) (today)
 - [Correct status badge url as per needs](https://github.com/FakerPHP/fakerphp.github.io/pull/95) on [FakerPHP/fakerphp.github.io](https://github.com/FakerPHP/fakerphp.github.io) (today)
 - [refactor: Add more native type hints](https://github.com/picqer/exact-php-client/pull/626) on [picqer/exact-php-client](https://github.com/picqer/exact-php-client) (3 weeks ago)
 - [refactor: Introduce type hinting in Connection class](https://github.com/picqer/exact-php-client/pull/625) on [picqer/exact-php-client](https://github.com/picqer/exact-php-client) (4 weeks ago)
@@ -41,7 +42,6 @@ title: 👨‍💻 Current Activities
 - [Correct pluralization of the word space/spaces depending on the spacing value](https://github.com/squizlabs/PHP_CodeSniffer/pull/3881) on [squizlabs/PHP_CodeSniffer](https://github.com/squizlabs/PHP_CodeSniffer) (3 months ago)
 - [feat: Update models based on documentation d.d. 2023-07-25](https://github.com/picqer/exact-php-client/pull/615) on [picqer/exact-php-client](https://github.com/picqer/exact-php-client) (4 months ago)
 - [ci: Use GitHub Actions V3](https://github.com/nikic/FastRoute/pull/257) on [nikic/FastRoute](https://github.com/nikic/FastRoute) (4 months ago)
-- [ci: Use GitHub Actions V3](https://github.com/robrichards/xmlseclibs/pull/253) on [robrichards/xmlseclibs](https://github.com/robrichards/xmlseclibs) (4 months ago)
 
 
 #### 🔭 Latest releases I've contributed to
