@@ -6,10 +6,10 @@ title: 👨‍💻 Current Activities
 #### 💻 Check out what I'm currently working on
 
 - [DannyvdSluijs/AoC-2023](https://github.com/DannyvdSluijs/AoC-2023) (today)
+- [DannyvdSluijs/AoC-2018](https://github.com/DannyvdSluijs/AoC-2018) (today)
 - [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (2 days ago)
 - [DannyvdSluijs/exact-online-meta-data-tool](https://github.com/DannyvdSluijs/exact-online-meta-data-tool) (3 days ago)
 - [FakerPHP/fakerphp.github.io](https://github.com/FakerPHP/fakerphp.github.io) (4 days ago)
-- [DannyvdSluijs/AoC-2018](https://github.com/DannyvdSluijs/AoC-2018) (1 week ago)
 - [picqer/exact-php-client](https://github.com/picqer/exact-php-client) (1 month ago)
 - [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (1 month ago)
 - [DannyvdSluijs/JsonMapperDoctrineArrayCollection](https://github.com/DannyvdSluijs/JsonMapperDoctrineArrayCollection) (2 months ago)
