@@ -5,11 +5,11 @@ title: 👨‍💻 Current Activities
 
 #### 💻 Check out what I'm currently working on
 
-- [DannyvdSluijs/AoC-2023](https://github.com/DannyvdSluijs/AoC-2023) (today)
-- [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (1 day ago)
-- [DannyvdSluijs/AoC-2018](https://github.com/DannyvdSluijs/AoC-2018) (2 days ago)
-- [DannyvdSluijs/exact-online-meta-data-tool](https://github.com/DannyvdSluijs/exact-online-meta-data-tool) (5 days ago)
-- [FakerPHP/fakerphp.github.io](https://github.com/FakerPHP/fakerphp.github.io) (6 days ago)
+- [DannyvdSluijs/AoC-2023](https://github.com/DannyvdSluijs/AoC-2023) (1 day ago)
+- [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (2 days ago)
+- [DannyvdSluijs/AoC-2018](https://github.com/DannyvdSluijs/AoC-2018) (3 days ago)
+- [DannyvdSluijs/exact-online-meta-data-tool](https://github.com/DannyvdSluijs/exact-online-meta-data-tool) (6 days ago)
+- [FakerPHP/fakerphp.github.io](https://github.com/FakerPHP/fakerphp.github.io) (1 week ago)
 - [picqer/exact-php-client](https://github.com/picqer/exact-php-client) (1 month ago)
 - [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (1 month ago)
 - [DannyvdSluijs/JsonMapperDoctrineArrayCollection](https://github.com/DannyvdSluijs/JsonMapperDoctrineArrayCollection) (2 months ago)
@@ -27,9 +27,9 @@ title: 👨‍💻 Current Activities
 
 #### 🔨 My recent Pull Requests
 
-- [Add mandatory field info](https://github.com/DannyvdSluijs/exact-online-meta-data-tool/pull/193) on [DannyvdSluijs/exact-online-meta-data-tool](https://github.com/DannyvdSluijs/exact-online-meta-data-tool) (6 days ago)
-- [Merging develop into main](https://github.com/DannyvdSluijs/exact-online-meta-data-tool/pull/191) on [DannyvdSluijs/exact-online-meta-data-tool](https://github.com/DannyvdSluijs/exact-online-meta-data-tool) (6 days ago)
-- [Correct status badge url as per needs](https://github.com/FakerPHP/fakerphp.github.io/pull/95) on [FakerPHP/fakerphp.github.io](https://github.com/FakerPHP/fakerphp.github.io) (6 days ago)
+- [Add mandatory field info](https://github.com/DannyvdSluijs/exact-online-meta-data-tool/pull/193) on [DannyvdSluijs/exact-online-meta-data-tool](https://github.com/DannyvdSluijs/exact-online-meta-data-tool) (1 week ago)
+- [Merging develop into main](https://github.com/DannyvdSluijs/exact-online-meta-data-tool/pull/191) on [DannyvdSluijs/exact-online-meta-data-tool](https://github.com/DannyvdSluijs/exact-online-meta-data-tool) (1 week ago)
+- [Correct status badge url as per needs](https://github.com/FakerPHP/fakerphp.github.io/pull/95) on [FakerPHP/fakerphp.github.io](https://github.com/FakerPHP/fakerphp.github.io) (1 week ago)
 - [refactor: Add more native type hints](https://github.com/picqer/exact-php-client/pull/626) on [picqer/exact-php-client](https://github.com/picqer/exact-php-client) (1 month ago)
 - [refactor: Introduce type hinting in Connection class](https://github.com/picqer/exact-php-client/pull/625) on [picqer/exact-php-client](https://github.com/picqer/exact-php-client) (1 month ago)
 - [Update client to docs d.d. 2023-10-10](https://github.com/picqer/exact-php-client/pull/622) on [picqer/exact-php-client](https://github.com/picqer/exact-php-client) (1 month ago)
@@ -46,10 +46,10 @@ title: 👨‍💻 Current Activities
 
 #### 🔭 Latest releases I've contributed to
 
-- [filamentphp/filament](https://github.com/filamentphp/filament) - [v3.1.8](https://github.com/filamentphp/filament/releases/tag/v3.1.8) (1 day ago)
-- [pdepend/pdepend](https://github.com/pdepend/pdepend) - [2.16.0](https://github.com/pdepend/pdepend/releases/tag/2.16.0) (4 days ago)
-- [DannyvdSluijs/exact-online-meta-data-tool](https://github.com/DannyvdSluijs/exact-online-meta-data-tool) - [1.10.0](https://github.com/DannyvdSluijs/exact-online-meta-data-tool/releases/tag/1.10.0) (5 days ago)
-- [theseer/tokenizer](https://github.com/theseer/tokenizer) - [1.2.2](https://github.com/theseer/tokenizer/releases/tag/1.2.2) (1 week ago)
+- [filamentphp/filament](https://github.com/filamentphp/filament) - [v3.1.9](https://github.com/filamentphp/filament/releases/tag/v3.1.9) (1 day ago)
+- [pdepend/pdepend](https://github.com/pdepend/pdepend) - [2.16.0](https://github.com/pdepend/pdepend/releases/tag/2.16.0) (5 days ago)
+- [DannyvdSluijs/exact-online-meta-data-tool](https://github.com/DannyvdSluijs/exact-online-meta-data-tool) - [1.10.0](https://github.com/DannyvdSluijs/exact-online-meta-data-tool/releases/tag/1.10.0) (6 days ago)
+- [theseer/tokenizer](https://github.com/theseer/tokenizer) - [1.2.2](https://github.com/theseer/tokenizer/releases/tag/1.2.2) (2 weeks ago)
 - [Seldaek/monolog](https://github.com/Seldaek/monolog) - [3.5.0](https://github.com/Seldaek/monolog/releases/tag/3.5.0) (1 month ago)
 - [picqer/exact-php-client](https://github.com/picqer/exact-php-client) - [v4.2.0](https://github.com/picqer/exact-php-client/releases/tag/v4.2.0) (1 month ago)
 - [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) - [2.20.0](https://github.com/JsonMapper/JsonMapper/releases/tag/2.20.0) (1 month ago)
