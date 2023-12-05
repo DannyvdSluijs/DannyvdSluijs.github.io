@@ -5,11 +5,11 @@ title: 👨‍💻 Current Activities
 
 #### 💻 Check out what I'm currently working on
 
-- [PHPCSStandards/PHP_CodeSniffer](https://github.com/PHPCSStandards/PHP_CodeSniffer) (today)
-- [DannyvdSluijs/AoC-2023](https://github.com/DannyvdSluijs/AoC-2023) (1 day ago)
-- [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (2 days ago)
-- [DannyvdSluijs/AoC-2018](https://github.com/DannyvdSluijs/AoC-2018) (3 days ago)
-- [DannyvdSluijs/exact-online-meta-data-tool](https://github.com/DannyvdSluijs/exact-online-meta-data-tool) (6 days ago)
+- [PHPCSStandards/PHP_CodeSniffer](https://github.com/PHPCSStandards/PHP_CodeSniffer) (1 day ago)
+- [DannyvdSluijs/AoC-2023](https://github.com/DannyvdSluijs/AoC-2023) (2 days ago)
+- [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (3 days ago)
+- [DannyvdSluijs/AoC-2018](https://github.com/DannyvdSluijs/AoC-2018) (4 days ago)
+- [DannyvdSluijs/exact-online-meta-data-tool](https://github.com/DannyvdSluijs/exact-online-meta-data-tool) (1 week ago)
 - [FakerPHP/fakerphp.github.io](https://github.com/FakerPHP/fakerphp.github.io) (1 week ago)
 - [picqer/exact-php-client](https://github.com/picqer/exact-php-client) (1 month ago)
 - [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (1 month ago)
@@ -27,16 +27,16 @@ title: 👨‍💻 Current Activities
 
 #### 🔨 My recent Pull Requests
 
-- [Correct spelling issues in contributing](https://github.com/PHPCSStandards/PHP_CodeSniffer/pull/130) on [PHPCSStandards/PHP_CodeSniffer](https://github.com/PHPCSStandards/PHP_CodeSniffer) (today)
-- [Correct spelling issues in readme](https://github.com/PHPCSStandards/PHP_CodeSniffer/pull/129) on [PHPCSStandards/PHP_CodeSniffer](https://github.com/PHPCSStandards/PHP_CodeSniffer) (today)
-- [fix: Port https://github.com/squizlabs/PHP_CodeSniffer/pull/3881 to this repo](https://github.com/PHPCSStandards/PHP_CodeSniffer/pull/128) on [PHPCSStandards/PHP_CodeSniffer](https://github.com/PHPCSStandards/PHP_CodeSniffer) (today)
+- [Correct spelling issues in contributing](https://github.com/PHPCSStandards/PHP_CodeSniffer/pull/130) on [PHPCSStandards/PHP_CodeSniffer](https://github.com/PHPCSStandards/PHP_CodeSniffer) (1 day ago)
+- [Correct spelling issues in readme](https://github.com/PHPCSStandards/PHP_CodeSniffer/pull/129) on [PHPCSStandards/PHP_CodeSniffer](https://github.com/PHPCSStandards/PHP_CodeSniffer) (1 day ago)
+- [Correct pluralization of the word space/spaces depending on the spacing value](https://github.com/PHPCSStandards/PHP_CodeSniffer/pull/128) on [PHPCSStandards/PHP_CodeSniffer](https://github.com/PHPCSStandards/PHP_CodeSniffer) (1 day ago)
 - [Add mandatory field info](https://github.com/DannyvdSluijs/exact-online-meta-data-tool/pull/193) on [DannyvdSluijs/exact-online-meta-data-tool](https://github.com/DannyvdSluijs/exact-online-meta-data-tool) (1 week ago)
 - [Merging develop into main](https://github.com/DannyvdSluijs/exact-online-meta-data-tool/pull/191) on [DannyvdSluijs/exact-online-meta-data-tool](https://github.com/DannyvdSluijs/exact-online-meta-data-tool) (1 week ago)
 - [Correct status badge url as per needs](https://github.com/FakerPHP/fakerphp.github.io/pull/95) on [FakerPHP/fakerphp.github.io](https://github.com/FakerPHP/fakerphp.github.io) (1 week ago)
 - [refactor: Add more native type hints](https://github.com/picqer/exact-php-client/pull/626) on [picqer/exact-php-client](https://github.com/picqer/exact-php-client) (1 month ago)
 - [refactor: Introduce type hinting in Connection class](https://github.com/picqer/exact-php-client/pull/625) on [picqer/exact-php-client](https://github.com/picqer/exact-php-client) (1 month ago)
 - [Update client to docs d.d. 2023-10-10](https://github.com/picqer/exact-php-client/pull/622) on [picqer/exact-php-client](https://github.com/picqer/exact-php-client) (1 month ago)
-- [Support public properties comments when using Constructor middleware](https://github.com/JsonMapper/JsonMapper/pull/171) on [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (1 month ago)
+- [Support public properties comments when using Constructor middleware](https://github.com/JsonMapper/JsonMapper/pull/171) on [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (2 months ago)
 - [Correct return type of `Generator::unique()`](https://github.com/FakerPHP/Faker/pull/787) on [FakerPHP/Faker](https://github.com/FakerPHP/Faker) (2 months ago)
 - [Create CODE_OF_CONDUCT.md](https://github.com/infi-nl/the-infi-way/pull/97) on [infi-nl/the-infi-way](https://github.com/infi-nl/the-infi-way) (2 months ago)
 - [feat: Update api using documentation d.d. 2023-09-19](https://github.com/picqer/exact-php-client/pull/620) on [picqer/exact-php-client](https://github.com/picqer/exact-php-client) (2 months ago)
@@ -46,9 +46,9 @@ title: 👨‍💻 Current Activities
 
 #### 🔭 Latest releases I've contributed to
 
-- [filamentphp/filament](https://github.com/filamentphp/filament) - [v3.1.10](https://github.com/filamentphp/filament/releases/tag/v3.1.10) (today)
-- [pdepend/pdepend](https://github.com/pdepend/pdepend) - [2.16.0](https://github.com/pdepend/pdepend/releases/tag/2.16.0) (5 days ago)
-- [DannyvdSluijs/exact-online-meta-data-tool](https://github.com/DannyvdSluijs/exact-online-meta-data-tool) - [1.10.0](https://github.com/DannyvdSluijs/exact-online-meta-data-tool/releases/tag/1.10.0) (6 days ago)
+- [filamentphp/filament](https://github.com/filamentphp/filament) - [v3.1.10](https://github.com/filamentphp/filament/releases/tag/v3.1.10) (1 day ago)
+- [pdepend/pdepend](https://github.com/pdepend/pdepend) - [2.16.0](https://github.com/pdepend/pdepend/releases/tag/2.16.0) (6 days ago)
+- [DannyvdSluijs/exact-online-meta-data-tool](https://github.com/DannyvdSluijs/exact-online-meta-data-tool) - [1.10.0](https://github.com/DannyvdSluijs/exact-online-meta-data-tool/releases/tag/1.10.0) (1 week ago)
 - [theseer/tokenizer](https://github.com/theseer/tokenizer) - [1.2.2](https://github.com/theseer/tokenizer/releases/tag/1.2.2) (2 weeks ago)
 - [PHPCSStandards/PHP_CodeSniffer](https://github.com/PHPCSStandards/PHP_CodeSniffer) - [3.7.2](https://github.com/PHPCSStandards/PHP_CodeSniffer/releases/tag/3.7.2) (3 weeks ago)
 - [Seldaek/monolog](https://github.com/Seldaek/monolog) - [3.5.0](https://github.com/Seldaek/monolog/releases/tag/3.5.0) (1 month ago)
