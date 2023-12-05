@@ -27,6 +27,7 @@ title: 👨‍💻 Current Activities
 
 #### 🔨 My recent Pull Requests
 
+- [refactor: Require PHP 8.0](https://github.com/DannyvdSluijs/exact-online-meta-data-tool/pull/194) on [DannyvdSluijs/exact-online-meta-data-tool](https://github.com/DannyvdSluijs/exact-online-meta-data-tool) (today)
 - [build: Update workflow to use v5 of create pull request action](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference/pull/120) on [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (today)
 - [Correct spelling issues in contributing](https://github.com/PHPCSStandards/PHP_CodeSniffer/pull/130) on [PHPCSStandards/PHP_CodeSniffer](https://github.com/PHPCSStandards/PHP_CodeSniffer) (1 day ago)
 - [Correct spelling issues in readme](https://github.com/PHPCSStandards/PHP_CodeSniffer/pull/129) on [PHPCSStandards/PHP_CodeSniffer](https://github.com/PHPCSStandards/PHP_CodeSniffer) (1 day ago)
@@ -41,7 +42,6 @@ title: 👨‍💻 Current Activities
 - [Correct return type of `Generator::unique()`](https://github.com/FakerPHP/Faker/pull/787) on [FakerPHP/Faker](https://github.com/FakerPHP/Faker) (2 months ago)
 - [Create CODE_OF_CONDUCT.md](https://github.com/infi-nl/the-infi-way/pull/97) on [infi-nl/the-infi-way](https://github.com/infi-nl/the-infi-way) (2 months ago)
 - [feat: Update api using documentation d.d. 2023-09-19](https://github.com/picqer/exact-php-client/pull/620) on [picqer/exact-php-client](https://github.com/picqer/exact-php-client) (2 months ago)
-- [Create PULL_REQUEST_TEMPLATE.md](https://github.com/JsonMapper/JsonMapper/pull/170) on [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (2 months ago)
 
 
 #### 🔭 Latest releases I've contributed to
