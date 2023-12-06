@@ -46,7 +46,7 @@ title: 👨‍💻 Current Activities
 
 #### 🔭 Latest releases I've contributed to
 
-- [filamentphp/filament](https://github.com/filamentphp/filament) - [v3.1.12](https://github.com/filamentphp/filament/releases/tag/v3.1.12) (1 day ago)
+- [filamentphp/filament](https://github.com/filamentphp/filament) - [v3.1.13](https://github.com/filamentphp/filament/releases/tag/v3.1.13) (today)
 - [pdepend/pdepend](https://github.com/pdepend/pdepend) - [2.16.0](https://github.com/pdepend/pdepend/releases/tag/2.16.0) (1 week ago)
 - [DannyvdSluijs/exact-online-meta-data-tool](https://github.com/DannyvdSluijs/exact-online-meta-data-tool) - [1.10.0](https://github.com/DannyvdSluijs/exact-online-meta-data-tool/releases/tag/1.10.0) (1 week ago)
 - [theseer/tokenizer](https://github.com/theseer/tokenizer) - [1.2.2](https://github.com/theseer/tokenizer/releases/tag/1.2.2) (2 weeks ago)
