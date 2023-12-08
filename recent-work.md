@@ -46,11 +46,11 @@ title: 👨‍💻 Current Activities
 
 #### 🔭 Latest releases I've contributed to
 
-- [filamentphp/filament](https://github.com/filamentphp/filament) - [v3.1.15](https://github.com/filamentphp/filament/releases/tag/v3.1.15) (1 day ago)
+- [filamentphp/filament](https://github.com/filamentphp/filament) - [v3.1.16](https://github.com/filamentphp/filament/releases/tag/v3.1.16) (today)
+- [PHPCSStandards/PHP_CodeSniffer](https://github.com/PHPCSStandards/PHP_CodeSniffer) - [3.8.0](https://github.com/PHPCSStandards/PHP_CodeSniffer/releases/tag/3.8.0) (today)
 - [pdepend/pdepend](https://github.com/pdepend/pdepend) - [2.16.0](https://github.com/pdepend/pdepend/releases/tag/2.16.0) (1 week ago)
 - [DannyvdSluijs/exact-online-meta-data-tool](https://github.com/DannyvdSluijs/exact-online-meta-data-tool) - [1.10.0](https://github.com/DannyvdSluijs/exact-online-meta-data-tool/releases/tag/1.10.0) (1 week ago)
 - [theseer/tokenizer](https://github.com/theseer/tokenizer) - [1.2.2](https://github.com/theseer/tokenizer/releases/tag/1.2.2) (2 weeks ago)
-- [PHPCSStandards/PHP_CodeSniffer](https://github.com/PHPCSStandards/PHP_CodeSniffer) - [3.7.2](https://github.com/PHPCSStandards/PHP_CodeSniffer/releases/tag/3.7.2) (1 month ago)
 - [Seldaek/monolog](https://github.com/Seldaek/monolog) - [3.5.0](https://github.com/Seldaek/monolog/releases/tag/3.5.0) (1 month ago)
 - [picqer/exact-php-client](https://github.com/picqer/exact-php-client) - [v4.2.0](https://github.com/picqer/exact-php-client/releases/tag/v4.2.0) (1 month ago)
 - [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) - [2.20.0](https://github.com/JsonMapper/JsonMapper/releases/tag/2.20.0) (2 months ago)
