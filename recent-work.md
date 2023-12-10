@@ -46,6 +46,7 @@ title: 👨‍💻 Current Activities
 
 #### 🔭 Latest releases I've contributed to
 
+- [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) - [v4.18.0](https://github.com/nikic/PHP-Parser/releases/tag/v4.18.0) (today)
 - [pdepend/pdepend](https://github.com/pdepend/pdepend) - [2.16.1](https://github.com/pdepend/pdepend/releases/tag/2.16.1) (today)
 - [filamentphp/filament](https://github.com/filamentphp/filament) - [v3.1.18](https://github.com/filamentphp/filament/releases/tag/v3.1.18) (today)
 - [PHPCSStandards/PHP_CodeSniffer](https://github.com/PHPCSStandards/PHP_CodeSniffer) - [3.8.0](https://github.com/PHPCSStandards/PHP_CodeSniffer/releases/tag/3.8.0) (2 days ago)
@@ -55,4 +56,3 @@ title: 👨‍💻 Current Activities
 - [picqer/exact-php-client](https://github.com/picqer/exact-php-client) - [v4.2.0](https://github.com/picqer/exact-php-client/releases/tag/v4.2.0) (1 month ago)
 - [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) - [2.20.0](https://github.com/JsonMapper/JsonMapper/releases/tag/2.20.0) (2 months ago)
 - [phpmd/phpmd](https://github.com/phpmd/phpmd) - [2.14.1](https://github.com/phpmd/phpmd/releases/tag/2.14.1) (2 months ago)
-- [fedeisas/laravel-mail-css-inliner](https://github.com/fedeisas/laravel-mail-css-inliner) - [5.2.1](https://github.com/fedeisas/laravel-mail-css-inliner/releases/tag/5.2.1) (2 months ago)
