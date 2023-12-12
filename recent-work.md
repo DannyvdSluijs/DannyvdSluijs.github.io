@@ -46,12 +46,12 @@ title: 👨‍💻 Current Activities
 
 #### 🔭 Latest releases I've contributed to
 
+- [filamentphp/filament](https://github.com/filamentphp/filament) - [v3.1.19](https://github.com/filamentphp/filament/releases/tag/v3.1.19) (today)
 - [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) - [2.21.0](https://github.com/JsonMapper/JsonMapper/releases/tag/2.21.0) (today)
 - [DannyvdSluijs/exact-online-meta-data-tool](https://github.com/DannyvdSluijs/exact-online-meta-data-tool) - [2.0.0](https://github.com/DannyvdSluijs/exact-online-meta-data-tool/releases/tag/2.0.0) (today)
 - [phpmd/phpmd](https://github.com/phpmd/phpmd) - [2.15.0](https://github.com/phpmd/phpmd/releases/tag/2.15.0) (1 day ago)
 - [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) - [v4.18.0](https://github.com/nikic/PHP-Parser/releases/tag/v4.18.0) (2 days ago)
 - [pdepend/pdepend](https://github.com/pdepend/pdepend) - [2.16.1](https://github.com/pdepend/pdepend/releases/tag/2.16.1) (2 days ago)
-- [filamentphp/filament](https://github.com/filamentphp/filament) - [v3.1.18](https://github.com/filamentphp/filament/releases/tag/v3.1.18) (2 days ago)
 - [PHPCSStandards/PHP_CodeSniffer](https://github.com/PHPCSStandards/PHP_CodeSniffer) - [3.8.0](https://github.com/PHPCSStandards/PHP_CodeSniffer/releases/tag/3.8.0) (4 days ago)
 - [theseer/tokenizer](https://github.com/theseer/tokenizer) - [1.2.2](https://github.com/theseer/tokenizer/releases/tag/1.2.2) (3 weeks ago)
 - [Seldaek/monolog](https://github.com/Seldaek/monolog) - [3.5.0](https://github.com/Seldaek/monolog/releases/tag/3.5.0) (1 month ago)
