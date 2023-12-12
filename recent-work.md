@@ -5,6 +5,7 @@ title: 👨‍💻 Current Activities
 
 #### 💻 Check out what I'm currently working on
 
+- [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (today)
 - [DannyvdSluijs/exact-online-meta-data-tool](https://github.com/DannyvdSluijs/exact-online-meta-data-tool) (today)
 - [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (today)
 - [DannyvdSluijs/AoC-2023](https://github.com/DannyvdSluijs/AoC-2023) (1 day ago)
@@ -12,7 +13,6 @@ title: 👨‍💻 Current Activities
 - [DannyvdSluijs/AoC-2018](https://github.com/DannyvdSluijs/AoC-2018) (1 week ago)
 - [FakerPHP/fakerphp.github.io](https://github.com/FakerPHP/fakerphp.github.io) (2 weeks ago)
 - [picqer/exact-php-client](https://github.com/picqer/exact-php-client) (1 month ago)
-- [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (2 months ago)
 - [DannyvdSluijs/JsonMapperDoctrineArrayCollection](https://github.com/DannyvdSluijs/JsonMapperDoctrineArrayCollection) (2 months ago)
 - [JsonMapper/jsonmapper.github.io](https://github.com/JsonMapper/jsonmapper.github.io) (2 months ago)
 
@@ -27,6 +27,8 @@ title: 👨‍💻 Current Activities
 
 #### 🔨 My recent Pull Requests
 
+- [Fix final callback no called after previous exception](https://github.com/JsonMapper/JsonMapper/pull/175) on [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (today)
+- [fix: Corrected master for main in workflows and docs](https://github.com/JsonMapper/JsonMapper/pull/174) on [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (today)
 - [feat: Bump to exact online meta data 2.0](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference/pull/122) on [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (today)
 - [Update README.md to use latest major version](https://github.com/SimenB/github-actions-cpu-cores/pull/51) on [SimenB/github-actions-cpu-cores](https://github.com/SimenB/github-actions-cpu-cores) (4 days ago)
 - [refactor: Require PHP 8.0](https://github.com/DannyvdSluijs/exact-online-meta-data-tool/pull/194) on [DannyvdSluijs/exact-online-meta-data-tool](https://github.com/DannyvdSluijs/exact-online-meta-data-tool) (1 week ago)
@@ -40,12 +42,11 @@ title: 👨‍💻 Current Activities
 - [refactor: Add more native type hints](https://github.com/picqer/exact-php-client/pull/626) on [picqer/exact-php-client](https://github.com/picqer/exact-php-client) (1 month ago)
 - [refactor: Introduce type hinting in Connection class](https://github.com/picqer/exact-php-client/pull/625) on [picqer/exact-php-client](https://github.com/picqer/exact-php-client) (1 month ago)
 - [Update client to docs d.d. 2023-10-10](https://github.com/picqer/exact-php-client/pull/622) on [picqer/exact-php-client](https://github.com/picqer/exact-php-client) (2 months ago)
-- [Support public properties comments when using Constructor middleware](https://github.com/JsonMapper/JsonMapper/pull/171) on [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (2 months ago)
-- [Correct return type of `Generator::unique()`](https://github.com/FakerPHP/Faker/pull/787) on [FakerPHP/Faker](https://github.com/FakerPHP/Faker) (2 months ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
+- [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) - [2.21.0](https://github.com/JsonMapper/JsonMapper/releases/tag/2.21.0) (today)
 - [DannyvdSluijs/exact-online-meta-data-tool](https://github.com/DannyvdSluijs/exact-online-meta-data-tool) - [2.0.0](https://github.com/DannyvdSluijs/exact-online-meta-data-tool/releases/tag/2.0.0) (today)
 - [phpmd/phpmd](https://github.com/phpmd/phpmd) - [2.15.0](https://github.com/phpmd/phpmd/releases/tag/2.15.0) (1 day ago)
 - [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) - [v4.18.0](https://github.com/nikic/PHP-Parser/releases/tag/v4.18.0) (2 days ago)
@@ -55,4 +56,3 @@ title: 👨‍💻 Current Activities
 - [theseer/tokenizer](https://github.com/theseer/tokenizer) - [1.2.2](https://github.com/theseer/tokenizer/releases/tag/1.2.2) (3 weeks ago)
 - [Seldaek/monolog](https://github.com/Seldaek/monolog) - [3.5.0](https://github.com/Seldaek/monolog/releases/tag/3.5.0) (1 month ago)
 - [picqer/exact-php-client](https://github.com/picqer/exact-php-client) - [v4.2.0](https://github.com/picqer/exact-php-client/releases/tag/v4.2.0) (1 month ago)
-- [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) - [2.20.0](https://github.com/JsonMapper/JsonMapper/releases/tag/2.20.0) (2 months ago)
