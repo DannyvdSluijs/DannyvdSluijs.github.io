@@ -5,10 +5,10 @@ title: 👨‍💻 Current Activities
 
 #### 💻 Check out what I'm currently working on
 
-- [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (today)
-- [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (4 days ago)
+- [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (1 day ago)
+- [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (5 days ago)
 - [DannyvdSluijs/AoC-2023](https://github.com/DannyvdSluijs/AoC-2023) (1 week ago)
-- [DannyvdSluijs/exact-online-meta-data-tool](https://github.com/DannyvdSluijs/exact-online-meta-data-tool) (2 weeks ago)
+- [DannyvdSluijs/exact-online-meta-data-tool](https://github.com/DannyvdSluijs/exact-online-meta-data-tool) (3 weeks ago)
 - [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (1 month ago)
 - [PHPCSStandards/PHP_CodeSniffer](https://github.com/PHPCSStandards/PHP_CodeSniffer) (1 month ago)
 - [DannyvdSluijs/AoC-2018](https://github.com/DannyvdSluijs/AoC-2018) (1 month ago)
@@ -27,9 +27,9 @@ title: 👨‍💻 Current Activities
 
 #### 🔨 My recent Pull Requests
 
-- [Correct parameter name](https://github.com/thephpleague/fractal/pull/566) on [thephpleague/fractal](https://github.com/thephpleague/fractal) (1 day ago)
+- [Correct parameter name](https://github.com/thephpleague/fractal/pull/566) on [thephpleague/fractal](https://github.com/thephpleague/fractal) (2 days ago)
 - [Add support for YouTrack in TodoByTicketRule](https://github.com/staabm/phpstan-todo-by/pull/51) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (1 week ago)
-- [fix: Revert back to original phpcs](https://github.com/DannyvdSluijs/exact-online-meta-data-tool/pull/196) on [DannyvdSluijs/exact-online-meta-data-tool](https://github.com/DannyvdSluijs/exact-online-meta-data-tool) (2 weeks ago)
+- [fix: Revert back to original phpcs](https://github.com/DannyvdSluijs/exact-online-meta-data-tool/pull/196) on [DannyvdSluijs/exact-online-meta-data-tool](https://github.com/DannyvdSluijs/exact-online-meta-data-tool) (3 weeks ago)
 - [Fix final callback no called after previous exception](https://github.com/JsonMapper/JsonMapper/pull/175) on [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (1 month ago)
 - [fix: Corrected master for main in workflows and docs](https://github.com/JsonMapper/JsonMapper/pull/174) on [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (1 month ago)
 - [feat: Bump to exact online meta data 2.0](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference/pull/122) on [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (1 month ago)
@@ -46,10 +46,10 @@ title: 👨‍💻 Current Activities
 
 #### 🔭 Latest releases I've contributed to
 
-- [filamentphp/filament](https://github.com/filamentphp/filament) - [v3.1.46](https://github.com/filamentphp/filament/releases/tag/v3.1.46) (today)
-- [PHPCSStandards/PHP_CodeSniffer](https://github.com/PHPCSStandards/PHP_CodeSniffer) - [3.8.1](https://github.com/PHPCSStandards/PHP_CodeSniffer/releases/tag/3.8.1) (1 day ago)
-- [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) - [0.1.21](https://github.com/staabm/phpstan-todo-by/releases/tag/0.1.21) (4 days ago)
-- [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) - [v5.0.0](https://github.com/nikic/PHP-Parser/releases/tag/v5.0.0) (5 days ago)
+- [filamentphp/filament](https://github.com/filamentphp/filament) - [v3.1.46](https://github.com/filamentphp/filament/releases/tag/v3.1.46) (1 day ago)
+- [PHPCSStandards/PHP_CodeSniffer](https://github.com/PHPCSStandards/PHP_CodeSniffer) - [3.8.1](https://github.com/PHPCSStandards/PHP_CodeSniffer/releases/tag/3.8.1) (2 days ago)
+- [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) - [0.1.21](https://github.com/staabm/phpstan-todo-by/releases/tag/0.1.21) (5 days ago)
+- [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) - [v5.0.0](https://github.com/nikic/PHP-Parser/releases/tag/v5.0.0) (6 days ago)
 - [pdepend/pdepend](https://github.com/pdepend/pdepend) - [2.16.2](https://github.com/pdepend/pdepend/releases/tag/2.16.2) (3 weeks ago)
 - [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) - [2.21.0](https://github.com/JsonMapper/JsonMapper/releases/tag/2.21.0) (1 month ago)
 - [DannyvdSluijs/exact-online-meta-data-tool](https://github.com/DannyvdSluijs/exact-online-meta-data-tool) - [2.0.0](https://github.com/DannyvdSluijs/exact-online-meta-data-tool/releases/tag/2.0.0) (1 month ago)
