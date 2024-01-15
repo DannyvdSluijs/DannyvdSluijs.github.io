@@ -46,7 +46,7 @@ title: 👨‍💻 Current Activities
 
 #### 🔭 Latest releases I've contributed to
 
-- [filamentphp/filament](https://github.com/filamentphp/filament) - [v3.2.0](https://github.com/filamentphp/filament/releases/tag/v3.2.0) (today)
+- [filamentphp/filament](https://github.com/filamentphp/filament) - [v3.2.2](https://github.com/filamentphp/filament/releases/tag/v3.2.2) (today)
 - [PHPCSStandards/PHP_CodeSniffer](https://github.com/PHPCSStandards/PHP_CodeSniffer) - [3.8.1](https://github.com/PHPCSStandards/PHP_CodeSniffer/releases/tag/3.8.1) (4 days ago)
 - [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) - [0.1.21](https://github.com/staabm/phpstan-todo-by/releases/tag/0.1.21) (1 week ago)
 - [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) - [v5.0.0](https://github.com/nikic/PHP-Parser/releases/tag/v5.0.0) (1 week ago)
