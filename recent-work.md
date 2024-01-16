@@ -14,7 +14,7 @@ title: 👨‍💻 Current Activities
 - [PHPCSStandards/PHP_CodeSniffer](https://github.com/PHPCSStandards/PHP_CodeSniffer) (1 month ago)
 - [DannyvdSluijs/AoC-2018](https://github.com/DannyvdSluijs/AoC-2018) (1 month ago)
 - [FakerPHP/fakerphp.github.io](https://github.com/FakerPHP/fakerphp.github.io) (1 month ago)
-- [picqer/exact-php-client](https://github.com/picqer/exact-php-client) (2 months ago)
+- [picqer/exact-php-client](https://github.com/picqer/exact-php-client) (1 month ago)
 
 
 #### 📜 My recent blog posts
@@ -46,6 +46,7 @@ title: 👨‍💻 Current Activities
 
 #### 🔭 Latest releases I've contributed to
 
+- [picqer/exact-php-client](https://github.com/picqer/exact-php-client) - [v4.3.0](https://github.com/picqer/exact-php-client/releases/tag/v4.3.0) (today)
 - [r7kamura/redocly-problem-matchers](https://github.com/r7kamura/redocly-problem-matchers) - [v1.1.0](https://github.com/r7kamura/redocly-problem-matchers/releases/tag/v1.1.0) (today)
 - [filamentphp/filament](https://github.com/filamentphp/filament) - [v3.2.2](https://github.com/filamentphp/filament/releases/tag/v3.2.2) (1 day ago)
 - [PHPCSStandards/PHP_CodeSniffer](https://github.com/PHPCSStandards/PHP_CodeSniffer) - [3.8.1](https://github.com/PHPCSStandards/PHP_CodeSniffer/releases/tag/3.8.1) (5 days ago)
@@ -55,4 +56,3 @@ title: 👨‍💻 Current Activities
 - [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) - [2.21.0](https://github.com/JsonMapper/JsonMapper/releases/tag/2.21.0) (1 month ago)
 - [DannyvdSluijs/exact-online-meta-data-tool](https://github.com/DannyvdSluijs/exact-online-meta-data-tool) - [2.0.0](https://github.com/DannyvdSluijs/exact-online-meta-data-tool/releases/tag/2.0.0) (1 month ago)
 - [phpmd/phpmd](https://github.com/phpmd/phpmd) - [2.15.0](https://github.com/phpmd/phpmd/releases/tag/2.15.0) (1 month ago)
-- [theseer/tokenizer](https://github.com/theseer/tokenizer) - [1.2.2](https://github.com/theseer/tokenizer/releases/tag/1.2.2) (1 month ago)
