@@ -27,6 +27,7 @@ title: 👨‍💻 Current Activities
 
 #### 🔨 My recent Pull Requests
 
+- [Add initial values for type properties.](https://github.com/picqer/exact-php-client/pull/634) on [picqer/exact-php-client](https://github.com/picqer/exact-php-client) (today)
 - [Change Node.js runtime version from 12 to 20](https://github.com/r7kamura/redocly-problem-matchers/pull/1) on [r7kamura/redocly-problem-matchers](https://github.com/r7kamura/redocly-problem-matchers) (1 day ago)
 - [Correct parameter name](https://github.com/thephpleague/fractal/pull/566) on [thephpleague/fractal](https://github.com/thephpleague/fractal) (5 days ago)
 - [Add support for YouTrack in TodoByTicketRule](https://github.com/staabm/phpstan-todo-by/pull/51) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (2 weeks ago)
@@ -41,7 +42,6 @@ title: 👨‍💻 Current Activities
 - [Correct spelling issues in readme](https://github.com/PHPCSStandards/PHP_CodeSniffer/pull/129) on [PHPCSStandards/PHP_CodeSniffer](https://github.com/PHPCSStandards/PHP_CodeSniffer) (1 month ago)
 - [Correct pluralization of the word space/spaces depending on the spacing value](https://github.com/PHPCSStandards/PHP_CodeSniffer/pull/128) on [PHPCSStandards/PHP_CodeSniffer](https://github.com/PHPCSStandards/PHP_CodeSniffer) (1 month ago)
 - [Add mandatory field info](https://github.com/DannyvdSluijs/exact-online-meta-data-tool/pull/193) on [DannyvdSluijs/exact-online-meta-data-tool](https://github.com/DannyvdSluijs/exact-online-meta-data-tool) (1 month ago)
-- [Merging develop into main](https://github.com/DannyvdSluijs/exact-online-meta-data-tool/pull/191) on [DannyvdSluijs/exact-online-meta-data-tool](https://github.com/DannyvdSluijs/exact-online-meta-data-tool) (1 month ago)
 
 
 #### 🔭 Latest releases I've contributed to
