@@ -5,6 +5,7 @@ title: 👨‍💻 Current Activities
 
 #### 💻 Check out what I'm currently working on
 
+- [picqer/exact-php-client](https://github.com/picqer/exact-php-client) (1 day ago)
 - [r7kamura/redocly-problem-matchers](https://github.com/r7kamura/redocly-problem-matchers) (2 days ago)
 - [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (5 days ago)
 - [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (1 week ago)
@@ -14,7 +15,6 @@ title: 👨‍💻 Current Activities
 - [PHPCSStandards/PHP_CodeSniffer](https://github.com/PHPCSStandards/PHP_CodeSniffer) (1 month ago)
 - [DannyvdSluijs/AoC-2018](https://github.com/DannyvdSluijs/AoC-2018) (1 month ago)
 - [FakerPHP/fakerphp.github.io](https://github.com/FakerPHP/fakerphp.github.io) (1 month ago)
-- [picqer/exact-php-client](https://github.com/picqer/exact-php-client) (1 month ago)
 
 
 #### 📜 My recent blog posts
@@ -46,7 +46,7 @@ title: 👨‍💻 Current Activities
 
 #### 🔭 Latest releases I've contributed to
 
-- [picqer/exact-php-client](https://github.com/picqer/exact-php-client) - [v4.3.0](https://github.com/picqer/exact-php-client/releases/tag/v4.3.0) (1 day ago)
+- [picqer/exact-php-client](https://github.com/picqer/exact-php-client) - [v4.3.1](https://github.com/picqer/exact-php-client/releases/tag/v4.3.1) (today)
 - [r7kamura/redocly-problem-matchers](https://github.com/r7kamura/redocly-problem-matchers) - [v1.1.0](https://github.com/r7kamura/redocly-problem-matchers/releases/tag/v1.1.0) (1 day ago)
 - [filamentphp/filament](https://github.com/filamentphp/filament) - [v3.2.2](https://github.com/filamentphp/filament/releases/tag/v3.2.2) (2 days ago)
 - [PHPCSStandards/PHP_CodeSniffer](https://github.com/PHPCSStandards/PHP_CodeSniffer) - [3.8.1](https://github.com/PHPCSStandards/PHP_CodeSniffer/releases/tag/3.8.1) (6 days ago)
