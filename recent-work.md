@@ -5,11 +5,11 @@ title: 👨‍💻 Current Activities
 
 #### 💻 Check out what I'm currently working on
 
+- [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (today)
 - [DannyvdSluijs/AoC-2023](https://github.com/DannyvdSluijs/AoC-2023) (1 day ago)
 - [Redocly/redocly-cli-cookbook](https://github.com/Redocly/redocly-cli-cookbook) (1 day ago)
 - [picqer/exact-php-client](https://github.com/picqer/exact-php-client) (1 week ago)
 - [r7kamura/redocly-problem-matchers](https://github.com/r7kamura/redocly-problem-matchers) (1 week ago)
-- [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (1 week ago)
 - [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (2 weeks ago)
 - [DannyvdSluijs/exact-online-meta-data-tool](https://github.com/DannyvdSluijs/exact-online-meta-data-tool) (1 month ago)
 - [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (1 month ago)
