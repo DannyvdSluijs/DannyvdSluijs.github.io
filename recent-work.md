@@ -46,7 +46,7 @@ title: 👨‍💻 Current Activities
 
 #### 🔭 Latest releases I've contributed to
 
-- [filamentphp/filament](https://github.com/filamentphp/filament) - [v3.2.17](https://github.com/filamentphp/filament/releases/tag/v3.2.17) (1 day ago)
+- [filamentphp/filament](https://github.com/filamentphp/filament) - [v3.2.20](https://github.com/filamentphp/filament/releases/tag/v3.2.20) (today)
 - [picqer/exact-php-client](https://github.com/picqer/exact-php-client) - [v4.3.2](https://github.com/picqer/exact-php-client/releases/tag/v4.3.2) (5 days ago)
 - [r7kamura/redocly-problem-matchers](https://github.com/r7kamura/redocly-problem-matchers) - [v1.1.0](https://github.com/r7kamura/redocly-problem-matchers/releases/tag/v1.1.0) (2 weeks ago)
 - [PHPCSStandards/PHP_CodeSniffer](https://github.com/PHPCSStandards/PHP_CodeSniffer) - [3.8.1](https://github.com/PHPCSStandards/PHP_CodeSniffer/releases/tag/3.8.1) (2 weeks ago)
