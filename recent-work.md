@@ -5,7 +5,7 @@ title: 👨‍💻 Current Activities
 
 #### 💻 Check out what I'm currently working on
 
-- [TomasVotruba/tomasvotruba.com](https://github.com/TomasVotruba/tomasvotruba.com) (5 days ago)
+- [TomasVotruba/tomasvotruba.com](https://github.com/TomasVotruba/tomasvotruba.com) (6 days ago)
 - [picqer/exact-php-client](https://github.com/picqer/exact-php-client) (1 week ago)
 - [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (1 week ago)
 - [DannyvdSluijs/AoC-2023](https://github.com/DannyvdSluijs/AoC-2023) (1 week ago)
@@ -27,7 +27,7 @@ title: 👨‍💻 Current Activities
 
 #### 🔨 My recent Pull Requests
 
-- [Correct phpunit.xml filename reference](https://github.com/TomasVotruba/tomasvotruba.com/pull/1452) on [TomasVotruba/tomasvotruba.com](https://github.com/TomasVotruba/tomasvotruba.com) (5 days ago)
+- [Correct phpunit.xml filename reference](https://github.com/TomasVotruba/tomasvotruba.com/pull/1452) on [TomasVotruba/tomasvotruba.com](https://github.com/TomasVotruba/tomasvotruba.com) (6 days ago)
 - [feat: Update to documentation d.d. 23-02-2024](https://github.com/picqer/exact-php-client/pull/635) on [picqer/exact-php-client](https://github.com/picqer/exact-php-client) (1 week ago)
 - [Correct typo](https://github.com/Redocly/redocly-cli-cookbook/pull/26) on [Redocly/redocly-cli-cookbook](https://github.com/Redocly/redocly-cli-cookbook) (1 week ago)
 - [Add initial values for type properties.](https://github.com/picqer/exact-php-client/pull/634) on [picqer/exact-php-client](https://github.com/picqer/exact-php-client) (2 weeks ago)
@@ -46,12 +46,12 @@ title: 👨‍💻 Current Activities
 
 #### 🔭 Latest releases I've contributed to
 
-- [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) - [0.1.22](https://github.com/staabm/phpstan-todo-by/releases/tag/0.1.22) (1 day ago)
-- [filamentphp/filament](https://github.com/filamentphp/filament) - [v3.2.23](https://github.com/filamentphp/filament/releases/tag/v3.2.23) (2 days ago)
+- [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) - [0.1.22](https://github.com/staabm/phpstan-todo-by/releases/tag/0.1.22) (2 days ago)
+- [filamentphp/filament](https://github.com/filamentphp/filament) - [v3.2.23](https://github.com/filamentphp/filament/releases/tag/v3.2.23) (3 days ago)
 - [picqer/exact-php-client](https://github.com/picqer/exact-php-client) - [v4.3.2](https://github.com/picqer/exact-php-client/releases/tag/v4.3.2) (1 week ago)
 - [r7kamura/redocly-problem-matchers](https://github.com/r7kamura/redocly-problem-matchers) - [v1.1.0](https://github.com/r7kamura/redocly-problem-matchers/releases/tag/v1.1.0) (2 weeks ago)
 - [PHPCSStandards/PHP_CodeSniffer](https://github.com/PHPCSStandards/PHP_CodeSniffer) - [3.8.1](https://github.com/PHPCSStandards/PHP_CodeSniffer/releases/tag/3.8.1) (3 weeks ago)
-- [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) - [v5.0.0](https://github.com/nikic/PHP-Parser/releases/tag/v5.0.0) (3 weeks ago)
+- [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) - [v5.0.0](https://github.com/nikic/PHP-Parser/releases/tag/v5.0.0) (4 weeks ago)
 - [pdepend/pdepend](https://github.com/pdepend/pdepend) - [2.16.2](https://github.com/pdepend/pdepend/releases/tag/2.16.2) (1 month ago)
 - [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) - [2.21.0](https://github.com/JsonMapper/JsonMapper/releases/tag/2.21.0) (1 month ago)
 - [DannyvdSluijs/exact-online-meta-data-tool](https://github.com/DannyvdSluijs/exact-online-meta-data-tool) - [2.0.0](https://github.com/DannyvdSluijs/exact-online-meta-data-tool/releases/tag/2.0.0) (1 month ago)
