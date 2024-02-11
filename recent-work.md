@@ -5,8 +5,8 @@ title: 👨‍💻 Current Activities
 
 #### 💻 Check out what I'm currently working on
 
-- [SimenB/github-actions-cpu-cores](https://github.com/SimenB/github-actions-cpu-cores) (1 day ago)
-- [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (3 days ago)
+- [SimenB/github-actions-cpu-cores](https://github.com/SimenB/github-actions-cpu-cores) (2 days ago)
+- [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (4 days ago)
 - [TomasVotruba/tomasvotruba.com](https://github.com/TomasVotruba/tomasvotruba.com) (1 week ago)
 - [picqer/exact-php-client](https://github.com/picqer/exact-php-client) (2 weeks ago)
 - [Redocly/redocly-cli-cookbook](https://github.com/Redocly/redocly-cli-cookbook) (2 weeks ago)
@@ -27,7 +27,7 @@ title: 👨‍💻 Current Activities
 
 #### 🔨 My recent Pull Requests
 
-- [Addresses Content-Type mismatch on HTTP 301 Moved Permanently with FileGetContents](https://github.com/justinrainbow/json-schema/pull/709) on [justinrainbow/json-schema](https://github.com/justinrainbow/json-schema) (5 days ago)
+- [Addresses Content-Type mismatch on HTTP 301 Moved Permanently with FileGetContents](https://github.com/justinrainbow/json-schema/pull/709) on [justinrainbow/json-schema](https://github.com/justinrainbow/json-schema) (6 days ago)
 - [Correct phpunit.xml filename reference](https://github.com/TomasVotruba/tomasvotruba.com/pull/1452) on [TomasVotruba/tomasvotruba.com](https://github.com/TomasVotruba/tomasvotruba.com) (1 week ago)
 - [feat: Update to documentation d.d. 23-02-2024](https://github.com/picqer/exact-php-client/pull/635) on [picqer/exact-php-client](https://github.com/picqer/exact-php-client) (2 weeks ago)
 - [Correct typo](https://github.com/Redocly/redocly-cli-cookbook/pull/26) on [Redocly/redocly-cli-cookbook](https://github.com/Redocly/redocly-cli-cookbook) (2 weeks ago)
@@ -46,8 +46,8 @@ title: 👨‍💻 Current Activities
 
 #### 🔭 Latest releases I've contributed to
 
-- [filamentphp/filament](https://github.com/filamentphp/filament) - [v3.2.30](https://github.com/filamentphp/filament/releases/tag/v3.2.30) (today)
-- [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) - [0.1.24](https://github.com/staabm/phpstan-todo-by/releases/tag/0.1.24) (today)
+- [filamentphp/filament](https://github.com/filamentphp/filament) - [v3.2.30](https://github.com/filamentphp/filament/releases/tag/v3.2.30) (1 day ago)
+- [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) - [0.1.24](https://github.com/staabm/phpstan-todo-by/releases/tag/0.1.24) (1 day ago)
 - [picqer/exact-php-client](https://github.com/picqer/exact-php-client) - [v4.3.2](https://github.com/picqer/exact-php-client/releases/tag/v4.3.2) (2 weeks ago)
 - [r7kamura/redocly-problem-matchers](https://github.com/r7kamura/redocly-problem-matchers) - [v1.1.0](https://github.com/r7kamura/redocly-problem-matchers/releases/tag/v1.1.0) (3 weeks ago)
 - [PHPCSStandards/PHP_CodeSniffer](https://github.com/PHPCSStandards/PHP_CodeSniffer) - [3.8.1](https://github.com/PHPCSStandards/PHP_CodeSniffer/releases/tag/3.8.1) (1 month ago)
