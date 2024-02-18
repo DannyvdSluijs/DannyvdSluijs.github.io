@@ -27,7 +27,7 @@ title: 👨‍💻 Current Activities
 
 #### 🔨 My recent Pull Requests
 
-- [refactor: Remove dead block of code](https://github.com/justinrainbow/json-schema/pull/710) on [justinrainbow/json-schema](https://github.com/justinrainbow/json-schema) (5 days ago)
+- [refactor: Remove dead block of code](https://github.com/justinrainbow/json-schema/pull/710) on [justinrainbow/json-schema](https://github.com/justinrainbow/json-schema) (6 days ago)
 - [Addresses Content-Type mismatch on HTTP 301 Moved Permanently with FileGetContents](https://github.com/justinrainbow/json-schema/pull/709) on [justinrainbow/json-schema](https://github.com/justinrainbow/json-schema) (1 week ago)
 - [Correct phpunit.xml filename reference](https://github.com/TomasVotruba/tomasvotruba.com/pull/1452) on [TomasVotruba/tomasvotruba.com](https://github.com/TomasVotruba/tomasvotruba.com) (2 weeks ago)
 - [feat: Update to documentation d.d. 23-02-2024](https://github.com/picqer/exact-php-client/pull/635) on [picqer/exact-php-client](https://github.com/picqer/exact-php-client) (3 weeks ago)
@@ -46,9 +46,9 @@ title: 👨‍💻 Current Activities
 
 #### 🔭 Latest releases I've contributed to
 
-- [PHPCSStandards/PHP_CodeSniffer](https://github.com/PHPCSStandards/PHP_CodeSniffer) - [3.9.0](https://github.com/PHPCSStandards/PHP_CodeSniffer/releases/tag/3.9.0) (1 day ago)
-- [filamentphp/filament](https://github.com/filamentphp/filament) - [v3.2.34](https://github.com/filamentphp/filament/releases/tag/v3.2.34) (4 days ago)
-- [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) - [0.1.25](https://github.com/staabm/phpstan-todo-by/releases/tag/0.1.25) (5 days ago)
+- [PHPCSStandards/PHP_CodeSniffer](https://github.com/PHPCSStandards/PHP_CodeSniffer) - [3.9.0](https://github.com/PHPCSStandards/PHP_CodeSniffer/releases/tag/3.9.0) (2 days ago)
+- [filamentphp/filament](https://github.com/filamentphp/filament) - [v3.2.34](https://github.com/filamentphp/filament/releases/tag/v3.2.34) (5 days ago)
+- [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) - [0.1.25](https://github.com/staabm/phpstan-todo-by/releases/tag/0.1.25) (6 days ago)
 - [picqer/exact-php-client](https://github.com/picqer/exact-php-client) - [v4.3.2](https://github.com/picqer/exact-php-client/releases/tag/v4.3.2) (3 weeks ago)
 - [r7kamura/redocly-problem-matchers](https://github.com/r7kamura/redocly-problem-matchers) - [v1.1.0](https://github.com/r7kamura/redocly-problem-matchers/releases/tag/v1.1.0) (1 month ago)
 - [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) - [v5.0.0](https://github.com/nikic/PHP-Parser/releases/tag/v5.0.0) (1 month ago)
