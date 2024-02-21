@@ -5,21 +5,21 @@ title: 👨‍💻 Current Activities
 
 #### 💻 Check out what I'm currently working on
 
-- [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (today)
+- [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (1 day ago)
 - [SimenB/github-actions-cpu-cores](https://github.com/SimenB/github-actions-cpu-cores) (1 week ago)
 - [TomasVotruba/tomasvotruba.com](https://github.com/TomasVotruba/tomasvotruba.com) (3 weeks ago)
 - [picqer/exact-php-client](https://github.com/picqer/exact-php-client) (4 weeks ago)
-- [Redocly/redocly-cli-cookbook](https://github.com/Redocly/redocly-cli-cookbook) (4 weeks ago)
-- [DannyvdSluijs/AoC-2023](https://github.com/DannyvdSluijs/AoC-2023) (4 weeks ago)
+- [Redocly/redocly-cli-cookbook](https://github.com/Redocly/redocly-cli-cookbook) (1 month ago)
+- [DannyvdSluijs/AoC-2023](https://github.com/DannyvdSluijs/AoC-2023) (1 month ago)
 - [r7kamura/redocly-problem-matchers](https://github.com/r7kamura/redocly-problem-matchers) (1 month ago)
 - [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (1 month ago)
-- [DannyvdSluijs/exact-online-meta-data-tool](https://github.com/DannyvdSluijs/exact-online-meta-data-tool) (1 month ago)
+- [DannyvdSluijs/exact-online-meta-data-tool](https://github.com/DannyvdSluijs/exact-online-meta-data-tool) (2 months ago)
 - [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (2 months ago)
 
 
 #### 📜 My recent blog posts
 
-- [The unknown Composer commands](/2023/08/25/the-unknown-composer-commands.html) (5 months ago)
+- [The unknown Composer commands](/2023/08/25/the-unknown-composer-commands.html) (6 months ago)
 - [Figuring out how parallel processing works in PHP](/2023/06/21/figuring-out-how-parallel-processing-works-in-php.html) (8 months ago)
 - [Securing the web at no cost](/2019/02/04/securing-the-web-at-no-cost.html) (5 years ago)
 - [About MutableCreationOptionsInterface](/2018/10/15/about-mutable-creation-options-interface.html) (5 years ago)
@@ -31,12 +31,12 @@ title: 👨‍💻 Current Activities
 - [Addresses Content-Type mismatch on HTTP 301 Moved Permanently with FileGetContents](https://github.com/justinrainbow/json-schema/pull/709) on [justinrainbow/json-schema](https://github.com/justinrainbow/json-schema) (2 weeks ago)
 - [Correct phpunit.xml filename reference](https://github.com/TomasVotruba/tomasvotruba.com/pull/1452) on [TomasVotruba/tomasvotruba.com](https://github.com/TomasVotruba/tomasvotruba.com) (3 weeks ago)
 - [feat: Update to documentation d.d. 23-02-2024](https://github.com/picqer/exact-php-client/pull/635) on [picqer/exact-php-client](https://github.com/picqer/exact-php-client) (4 weeks ago)
-- [Correct typo](https://github.com/Redocly/redocly-cli-cookbook/pull/26) on [Redocly/redocly-cli-cookbook](https://github.com/Redocly/redocly-cli-cookbook) (4 weeks ago)
+- [Correct typo](https://github.com/Redocly/redocly-cli-cookbook/pull/26) on [Redocly/redocly-cli-cookbook](https://github.com/Redocly/redocly-cli-cookbook) (1 month ago)
 - [Add initial values for type properties.](https://github.com/picqer/exact-php-client/pull/634) on [picqer/exact-php-client](https://github.com/picqer/exact-php-client) (1 month ago)
 - [Change Node.js runtime version from 12 to 20](https://github.com/r7kamura/redocly-problem-matchers/pull/1) on [r7kamura/redocly-problem-matchers](https://github.com/r7kamura/redocly-problem-matchers) (1 month ago)
 - [Correct parameter name](https://github.com/thephpleague/fractal/pull/566) on [thephpleague/fractal](https://github.com/thephpleague/fractal) (1 month ago)
 - [Add support for YouTrack in TodoByTicketRule](https://github.com/staabm/phpstan-todo-by/pull/51) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (1 month ago)
-- [fix: Revert back to original phpcs](https://github.com/DannyvdSluijs/exact-online-meta-data-tool/pull/196) on [DannyvdSluijs/exact-online-meta-data-tool](https://github.com/DannyvdSluijs/exact-online-meta-data-tool) (1 month ago)
+- [fix: Revert back to original phpcs](https://github.com/DannyvdSluijs/exact-online-meta-data-tool/pull/196) on [DannyvdSluijs/exact-online-meta-data-tool](https://github.com/DannyvdSluijs/exact-online-meta-data-tool) (2 months ago)
 - [Fix final callback no called after previous exception](https://github.com/JsonMapper/JsonMapper/pull/175) on [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (2 months ago)
 - [fix: Corrected master for main in workflows and docs](https://github.com/JsonMapper/JsonMapper/pull/174) on [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (2 months ago)
 - [feat: Bump to exact online meta data 2.0](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference/pull/122) on [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (2 months ago)
@@ -46,8 +46,8 @@ title: 👨‍💻 Current Activities
 
 #### 🔭 Latest releases I've contributed to
 
-- [filamentphp/filament](https://github.com/filamentphp/filament) - [v3.2.35](https://github.com/filamentphp/filament/releases/tag/v3.2.35) (today)
-- [PHPCSStandards/PHP_CodeSniffer](https://github.com/PHPCSStandards/PHP_CodeSniffer) - [3.9.0](https://github.com/PHPCSStandards/PHP_CodeSniffer/releases/tag/3.9.0) (4 days ago)
+- [filamentphp/filament](https://github.com/filamentphp/filament) - [v3.2.35](https://github.com/filamentphp/filament/releases/tag/v3.2.35) (1 day ago)
+- [PHPCSStandards/PHP_CodeSniffer](https://github.com/PHPCSStandards/PHP_CodeSniffer) - [3.9.0](https://github.com/PHPCSStandards/PHP_CodeSniffer/releases/tag/3.9.0) (5 days ago)
 - [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) - [0.1.25](https://github.com/staabm/phpstan-todo-by/releases/tag/0.1.25) (1 week ago)
 - [picqer/exact-php-client](https://github.com/picqer/exact-php-client) - [v4.3.2](https://github.com/picqer/exact-php-client/releases/tag/v4.3.2) (3 weeks ago)
 - [r7kamura/redocly-problem-matchers](https://github.com/r7kamura/redocly-problem-matchers) - [v1.1.0](https://github.com/r7kamura/redocly-problem-matchers/releases/tag/v1.1.0) (1 month ago)
