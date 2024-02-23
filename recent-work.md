@@ -5,6 +5,7 @@ title: 👨‍💻 Current Activities
 
 #### 💻 Check out what I'm currently working on
 
+- [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (today)
 - [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (2 days ago)
 - [SimenB/github-actions-cpu-cores](https://github.com/SimenB/github-actions-cpu-cores) (2 weeks ago)
 - [TomasVotruba/tomasvotruba.com](https://github.com/TomasVotruba/tomasvotruba.com) (3 weeks ago)
@@ -14,7 +15,6 @@ title: 👨‍💻 Current Activities
 - [r7kamura/redocly-problem-matchers](https://github.com/r7kamura/redocly-problem-matchers) (1 month ago)
 - [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (1 month ago)
 - [DannyvdSluijs/exact-online-meta-data-tool](https://github.com/DannyvdSluijs/exact-online-meta-data-tool) (2 months ago)
-- [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (2 months ago)
 
 
 #### 📜 My recent blog posts
@@ -27,6 +27,8 @@ title: 👨‍💻 Current Activities
 
 #### 🔨 My recent Pull Requests
 
+- [ci: Include PHP 8.3 in build matrix](https://github.com/JsonMapper/JsonMapper/pull/178) on [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (today)
+- [Remove dependabot](https://github.com/JsonMapper/JsonMapper/pull/177) on [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (today)
 - [refactor: Remove dead block of code](https://github.com/justinrainbow/json-schema/pull/710) on [justinrainbow/json-schema](https://github.com/justinrainbow/json-schema) (1 week ago)
 - [Addresses Content-Type mismatch on HTTP 301 Moved Permanently with FileGetContents](https://github.com/justinrainbow/json-schema/pull/709) on [justinrainbow/json-schema](https://github.com/justinrainbow/json-schema) (2 weeks ago)
 - [Correct phpunit.xml filename reference](https://github.com/TomasVotruba/tomasvotruba.com/pull/1452) on [TomasVotruba/tomasvotruba.com](https://github.com/TomasVotruba/tomasvotruba.com) (3 weeks ago)
@@ -40,8 +42,6 @@ title: 👨‍💻 Current Activities
 - [Fix final callback no called after previous exception](https://github.com/JsonMapper/JsonMapper/pull/175) on [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (2 months ago)
 - [fix: Corrected master for main in workflows and docs](https://github.com/JsonMapper/JsonMapper/pull/174) on [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (2 months ago)
 - [feat: Bump to exact online meta data 2.0](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference/pull/122) on [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (2 months ago)
-- [Update README.md to use latest major version](https://github.com/SimenB/github-actions-cpu-cores/pull/51) on [SimenB/github-actions-cpu-cores](https://github.com/SimenB/github-actions-cpu-cores) (2 months ago)
-- [refactor: Require PHP 8.0](https://github.com/DannyvdSluijs/exact-online-meta-data-tool/pull/194) on [DannyvdSluijs/exact-online-meta-data-tool](https://github.com/DannyvdSluijs/exact-online-meta-data-tool) (2 months ago)
 
 
 #### 🔭 Latest releases I've contributed to
