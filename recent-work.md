@@ -27,6 +27,8 @@ title: 👨‍💻 Current Activities
 
 #### 🔨 My recent Pull Requests
 
+- [docs: Update badges](https://github.com/JsonMapper/JsonMapper/pull/181) on [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (today)
+- [ci: Remove dependabot workflow](https://github.com/JsonMapper/JsonMapper/pull/180) on [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (today)
 - [docs: Tweak pull request template](https://github.com/JsonMapper/JsonMapper/pull/179) on [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (today)
 - [ci: Include PHP 8.3 in build matrix](https://github.com/JsonMapper/JsonMapper/pull/178) on [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (today)
 - [Remove dependabot](https://github.com/JsonMapper/JsonMapper/pull/177) on [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (today)
@@ -40,8 +42,6 @@ title: 👨‍💻 Current Activities
 - [Correct parameter name](https://github.com/thephpleague/fractal/pull/566) on [thephpleague/fractal](https://github.com/thephpleague/fractal) (1 month ago)
 - [Add support for YouTrack in TodoByTicketRule](https://github.com/staabm/phpstan-todo-by/pull/51) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (1 month ago)
 - [fix: Revert back to original phpcs](https://github.com/DannyvdSluijs/exact-online-meta-data-tool/pull/196) on [DannyvdSluijs/exact-online-meta-data-tool](https://github.com/DannyvdSluijs/exact-online-meta-data-tool) (2 months ago)
-- [Fix final callback no called after previous exception](https://github.com/JsonMapper/JsonMapper/pull/175) on [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (2 months ago)
-- [fix: Corrected master for main in workflows and docs](https://github.com/JsonMapper/JsonMapper/pull/174) on [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (2 months ago)
 
 
 #### 🔭 Latest releases I've contributed to
