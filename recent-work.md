@@ -6,15 +6,15 @@ title: 👨‍💻 Current Activities
 #### 💻 Check out what I'm currently working on
 
 - [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (today)
+- [infi-nl/timechimp-billability-chart](https://github.com/infi-nl/timechimp-billability-chart) (today)
 - [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (5 days ago)
 - [SimenB/github-actions-cpu-cores](https://github.com/SimenB/github-actions-cpu-cores) (2 weeks ago)
 - [TomasVotruba/tomasvotruba.com](https://github.com/TomasVotruba/tomasvotruba.com) (1 month ago)
 - [picqer/exact-php-client](https://github.com/picqer/exact-php-client) (1 month ago)
-- [Redocly/redocly-cli-cookbook](https://github.com/Redocly/redocly-cli-cookbook) (1 month ago)
 - [DannyvdSluijs/AoC-2023](https://github.com/DannyvdSluijs/AoC-2023) (1 month ago)
+- [Redocly/redocly-cli-cookbook](https://github.com/Redocly/redocly-cli-cookbook) (1 month ago)
 - [r7kamura/redocly-problem-matchers](https://github.com/r7kamura/redocly-problem-matchers) (1 month ago)
 - [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (1 month ago)
-- [DannyvdSluijs/exact-online-meta-data-tool](https://github.com/DannyvdSluijs/exact-online-meta-data-tool) (2 months ago)
 
 
 #### 📜 My recent blog posts
@@ -46,6 +46,7 @@ title: 👨‍💻 Current Activities
 
 #### 🔭 Latest releases I've contributed to
 
+- [infi-nl/timechimp-billability-chart](https://github.com/infi-nl/timechimp-billability-chart) - [v1.8.1](https://github.com/infi-nl/timechimp-billability-chart/releases/tag/v1.8.1) (today)
 - [filamentphp/filament](https://github.com/filamentphp/filament) - [v3.2.40](https://github.com/filamentphp/filament/releases/tag/v3.2.40) (today)
 - [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) - [v5.0.1](https://github.com/nikic/PHP-Parser/releases/tag/v5.0.1) (1 week ago)
 - [PHPCSStandards/PHP_CodeSniffer](https://github.com/PHPCSStandards/PHP_CodeSniffer) - [3.9.0](https://github.com/PHPCSStandards/PHP_CodeSniffer/releases/tag/3.9.0) (1 week ago)
@@ -55,4 +56,3 @@ title: 👨‍💻 Current Activities
 - [pdepend/pdepend](https://github.com/pdepend/pdepend) - [2.16.2](https://github.com/pdepend/pdepend/releases/tag/2.16.2) (2 months ago)
 - [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) - [2.21.0](https://github.com/JsonMapper/JsonMapper/releases/tag/2.21.0) (2 months ago)
 - [DannyvdSluijs/exact-online-meta-data-tool](https://github.com/DannyvdSluijs/exact-online-meta-data-tool) - [2.0.0](https://github.com/DannyvdSluijs/exact-online-meta-data-tool/releases/tag/2.0.0) (2 months ago)
-- [phpmd/phpmd](https://github.com/phpmd/phpmd) - [2.15.0](https://github.com/phpmd/phpmd/releases/tag/2.15.0) (2 months ago)
