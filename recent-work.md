@@ -46,7 +46,7 @@ title: 👨‍💻 Current Activities
 
 #### 🔭 Latest releases I've contributed to
 
-- [filamentphp/filament](https://github.com/filamentphp/filament) - [v3.2.41](https://github.com/filamentphp/filament/releases/tag/v3.2.41) (1 day ago)
+- [filamentphp/filament](https://github.com/filamentphp/filament) - [v3.2.42](https://github.com/filamentphp/filament/releases/tag/v3.2.42) (today)
 - [infi-nl/timechimp-billability-chart](https://github.com/infi-nl/timechimp-billability-chart) - [v1.8.1](https://github.com/infi-nl/timechimp-billability-chart/releases/tag/v1.8.1) (2 days ago)
 - [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) - [v5.0.1](https://github.com/nikic/PHP-Parser/releases/tag/v5.0.1) (1 week ago)
 - [PHPCSStandards/PHP_CodeSniffer](https://github.com/PHPCSStandards/PHP_CodeSniffer) - [3.9.0](https://github.com/PHPCSStandards/PHP_CodeSniffer/releases/tag/3.9.0) (2 weeks ago)
