@@ -46,6 +46,7 @@ title: 👨‍💻 Current Activities
 
 #### 🔭 Latest releases I've contributed to
 
+- [theseer/tokenizer](https://github.com/theseer/tokenizer) - [1.2.3](https://github.com/theseer/tokenizer/releases/tag/1.2.3) (today)
 - [filamentphp/filament](https://github.com/filamentphp/filament) - [v3.2.42](https://github.com/filamentphp/filament/releases/tag/v3.2.42) (2 days ago)
 - [infi-nl/timechimp-billability-chart](https://github.com/infi-nl/timechimp-billability-chart) - [v1.8.1](https://github.com/infi-nl/timechimp-billability-chart/releases/tag/v1.8.1) (4 days ago)
 - [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) - [v5.0.1](https://github.com/nikic/PHP-Parser/releases/tag/v5.0.1) (1 week ago)
@@ -55,4 +56,3 @@ title: 👨‍💻 Current Activities
 - [r7kamura/redocly-problem-matchers](https://github.com/r7kamura/redocly-problem-matchers) - [v1.1.0](https://github.com/r7kamura/redocly-problem-matchers/releases/tag/v1.1.0) (1 month ago)
 - [pdepend/pdepend](https://github.com/pdepend/pdepend) - [2.16.2](https://github.com/pdepend/pdepend/releases/tag/2.16.2) (2 months ago)
 - [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) - [2.21.0](https://github.com/JsonMapper/JsonMapper/releases/tag/2.21.0) (2 months ago)
-- [DannyvdSluijs/exact-online-meta-data-tool](https://github.com/DannyvdSluijs/exact-online-meta-data-tool) - [2.0.0](https://github.com/DannyvdSluijs/exact-online-meta-data-tool/releases/tag/2.0.0) (2 months ago)
