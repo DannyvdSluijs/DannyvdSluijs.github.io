@@ -46,6 +46,7 @@ title: 👨‍💻 Current Activities
 
 #### 🔭 Latest releases I've contributed to
 
+- [barryvdh/laravel-dompdf](https://github.com/barryvdh/laravel-dompdf) - [v2.1.0](https://github.com/barryvdh/laravel-dompdf/releases/tag/v2.1.0) (today)
 - [filamentphp/filament](https://github.com/filamentphp/filament) - [v3.2.46](https://github.com/filamentphp/filament/releases/tag/v3.2.46) (1 day ago)
 - [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) - [v5.0.2](https://github.com/nikic/PHP-Parser/releases/tag/v5.0.2) (4 days ago)
 - [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) - [2.22.0](https://github.com/JsonMapper/JsonMapper/releases/tag/2.22.0) (4 days ago)
@@ -55,4 +56,3 @@ title: 👨‍💻 Current Activities
 - [PHPCSStandards/PHP_CodeSniffer](https://github.com/PHPCSStandards/PHP_CodeSniffer) - [3.9.0](https://github.com/PHPCSStandards/PHP_CodeSniffer/releases/tag/3.9.0) (3 weeks ago)
 - [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) - [0.1.25](https://github.com/staabm/phpstan-todo-by/releases/tag/0.1.25) (3 weeks ago)
 - [picqer/exact-php-client](https://github.com/picqer/exact-php-client) - [v4.3.2](https://github.com/picqer/exact-php-client/releases/tag/v4.3.2) (1 month ago)
-- [r7kamura/redocly-problem-matchers](https://github.com/r7kamura/redocly-problem-matchers) - [v1.1.0](https://github.com/r7kamura/redocly-problem-matchers/releases/tag/v1.1.0) (1 month ago)
