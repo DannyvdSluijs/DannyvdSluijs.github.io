@@ -5,9 +5,9 @@ title: 👨‍💻 Current Activities
 
 #### 💻 Check out what I'm currently working on
 
-- [lucia-auth/lucia](https://github.com/lucia-auth/lucia) (today)
-- [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (2 days ago)
-- [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (6 days ago)
+- [lucia-auth/lucia](https://github.com/lucia-auth/lucia) (1 day ago)
+- [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (3 days ago)
+- [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (1 week ago)
 - [infi-nl/timechimp-billability-chart](https://github.com/infi-nl/timechimp-billability-chart) (1 week ago)
 - [SimenB/github-actions-cpu-cores](https://github.com/SimenB/github-actions-cpu-cores) (1 month ago)
 - [TomasVotruba/tomasvotruba.com](https://github.com/TomasVotruba/tomasvotruba.com) (1 month ago)
@@ -27,9 +27,9 @@ title: 👨‍💻 Current Activities
 
 #### 🔨 My recent Pull Requests
 
-- [Update custom-providers.md parameter name scopes](https://github.com/lucia-auth/lucia/pull/1486) on [lucia-auth/lucia](https://github.com/lucia-auth/lucia) (today)
-- [feat: Update to documentation d.d. 06-03-2024](https://github.com/picqer/exact-php-client/pull/638) on [picqer/exact-php-client](https://github.com/picqer/exact-php-client) (5 days ago)
-- [refactor: Uses Github issue forms](https://github.com/JsonMapper/JsonMapper/pull/182) on [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (6 days ago)
+- [Update custom-providers.md parameter name scopes](https://github.com/lucia-auth/lucia/pull/1486) on [lucia-auth/lucia](https://github.com/lucia-auth/lucia) (1 day ago)
+- [feat: Update to documentation d.d. 06-03-2024](https://github.com/picqer/exact-php-client/pull/638) on [picqer/exact-php-client](https://github.com/picqer/exact-php-client) (6 days ago)
+- [refactor: Uses Github issue forms](https://github.com/JsonMapper/JsonMapper/pull/182) on [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (1 week ago)
 - [fix: Set Ouderschapsverlof as leave task as well](https://github.com/infi-nl/timechimp-billability-chart/pull/15) on [infi-nl/timechimp-billability-chart](https://github.com/infi-nl/timechimp-billability-chart) (2 weeks ago)
 - [docs: Update badges](https://github.com/JsonMapper/JsonMapper/pull/181) on [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (2 weeks ago)
 - [ci: Remove dependabot workflow](https://github.com/JsonMapper/JsonMapper/pull/180) on [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (2 weeks ago)
@@ -46,10 +46,10 @@ title: 👨‍💻 Current Activities
 
 #### 🔭 Latest releases I've contributed to
 
-- [filamentphp/filament](https://github.com/filamentphp/filament) - [v3.2.47](https://github.com/filamentphp/filament/releases/tag/v3.2.47) (today)
-- [barryvdh/laravel-dompdf](https://github.com/barryvdh/laravel-dompdf) - [v2.1.0](https://github.com/barryvdh/laravel-dompdf/releases/tag/v2.1.0) (2 days ago)
-- [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) - [v5.0.2](https://github.com/nikic/PHP-Parser/releases/tag/v5.0.2) (6 days ago)
-- [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) - [2.22.0](https://github.com/JsonMapper/JsonMapper/releases/tag/2.22.0) (6 days ago)
+- [filamentphp/filament](https://github.com/filamentphp/filament) - [v3.2.47](https://github.com/filamentphp/filament/releases/tag/v3.2.47) (1 day ago)
+- [barryvdh/laravel-dompdf](https://github.com/barryvdh/laravel-dompdf) - [v2.1.0](https://github.com/barryvdh/laravel-dompdf/releases/tag/v2.1.0) (3 days ago)
+- [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) - [v5.0.2](https://github.com/nikic/PHP-Parser/releases/tag/v5.0.2) (1 week ago)
+- [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) - [2.22.0](https://github.com/JsonMapper/JsonMapper/releases/tag/2.22.0) (1 week ago)
 - [nikic/FastRoute](https://github.com/nikic/FastRoute) - [2.0.0-beta1](https://github.com/nikic/FastRoute/releases/tag/2.0.0-beta1) (1 week ago)
 - [theseer/tokenizer](https://github.com/theseer/tokenizer) - [1.2.3](https://github.com/theseer/tokenizer/releases/tag/1.2.3) (1 week ago)
 - [infi-nl/timechimp-billability-chart](https://github.com/infi-nl/timechimp-billability-chart) - [v1.8.1](https://github.com/infi-nl/timechimp-billability-chart/releases/tag/v1.8.1) (1 week ago)
