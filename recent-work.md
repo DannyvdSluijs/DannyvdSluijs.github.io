@@ -5,8 +5,8 @@ title: 👨‍💻 Current Activities
 
 #### 💻 Check out what I'm currently working on
 
-- [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (today)
-- [lucia-auth/lucia](https://github.com/lucia-auth/lucia) (2 days ago)
+- [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (1 day ago)
+- [lucia-auth/lucia](https://github.com/lucia-auth/lucia) (3 days ago)
 - [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (1 week ago)
 - [infi-nl/timechimp-billability-chart](https://github.com/infi-nl/timechimp-billability-chart) (2 weeks ago)
 - [SimenB/github-actions-cpu-cores](https://github.com/SimenB/github-actions-cpu-cores) (1 month ago)
@@ -27,7 +27,7 @@ title: 👨‍💻 Current Activities
 
 #### 🔨 My recent Pull Requests
 
-- [Update custom-providers.md parameter name scopes](https://github.com/lucia-auth/lucia/pull/1486) on [lucia-auth/lucia](https://github.com/lucia-auth/lucia) (2 days ago)
+- [Update custom-providers.md parameter name scopes](https://github.com/lucia-auth/lucia/pull/1486) on [lucia-auth/lucia](https://github.com/lucia-auth/lucia) (3 days ago)
 - [feat: Update to documentation d.d. 06-03-2024](https://github.com/picqer/exact-php-client/pull/638) on [picqer/exact-php-client](https://github.com/picqer/exact-php-client) (1 week ago)
 - [refactor: Uses Github issue forms](https://github.com/JsonMapper/JsonMapper/pull/182) on [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (1 week ago)
 - [fix: Set Ouderschapsverlof as leave task as well](https://github.com/infi-nl/timechimp-billability-chart/pull/15) on [infi-nl/timechimp-billability-chart](https://github.com/infi-nl/timechimp-billability-chart) (2 weeks ago)
@@ -46,9 +46,9 @@ title: 👨‍💻 Current Activities
 
 #### 🔭 Latest releases I've contributed to
 
-- [thephpleague/container](https://github.com/thephpleague/container) - [4.2.1](https://github.com/thephpleague/container/releases/tag/4.2.1) (today)
-- [filamentphp/filament](https://github.com/filamentphp/filament) - [v3.2.47](https://github.com/filamentphp/filament/releases/tag/v3.2.47) (2 days ago)
-- [barryvdh/laravel-dompdf](https://github.com/barryvdh/laravel-dompdf) - [v2.1.0](https://github.com/barryvdh/laravel-dompdf/releases/tag/v2.1.0) (4 days ago)
+- [thephpleague/container](https://github.com/thephpleague/container) - [4.2.1](https://github.com/thephpleague/container/releases/tag/4.2.1) (1 day ago)
+- [filamentphp/filament](https://github.com/filamentphp/filament) - [v3.2.47](https://github.com/filamentphp/filament/releases/tag/v3.2.47) (3 days ago)
+- [barryvdh/laravel-dompdf](https://github.com/barryvdh/laravel-dompdf) - [v2.1.0](https://github.com/barryvdh/laravel-dompdf/releases/tag/v2.1.0) (5 days ago)
 - [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) - [v5.0.2](https://github.com/nikic/PHP-Parser/releases/tag/v5.0.2) (1 week ago)
 - [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) - [2.22.0](https://github.com/JsonMapper/JsonMapper/releases/tag/2.22.0) (1 week ago)
 - [nikic/FastRoute](https://github.com/nikic/FastRoute) - [2.0.0-beta1](https://github.com/nikic/FastRoute/releases/tag/2.0.0-beta1) (1 week ago)
