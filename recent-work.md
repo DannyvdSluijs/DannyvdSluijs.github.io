@@ -27,6 +27,7 @@ title: 👨‍💻 Current Activities
 
 #### 🔨 My recent Pull Requests
 
+- [Update README.md replacing Travis badge for Github Actions](https://github.com/thephpleague/container/pull/258) on [thephpleague/container](https://github.com/thephpleague/container) (today)
 - [Node20 actions upgrade](https://github.com/thephpleague/flysystem/pull/1766) on [thephpleague/flysystem](https://github.com/thephpleague/flysystem) (today)
 - [Update GitHub Actions to V4](https://github.com/egulias/EmailValidator/pull/383) on [egulias/EmailValidator](https://github.com/egulias/EmailValidator) (today)
 - [Update to use actions/checkout@v4](https://github.com/theseer/tokenizer/pull/21) on [theseer/tokenizer](https://github.com/theseer/tokenizer) (today)
@@ -41,7 +42,6 @@ title: 👨‍💻 Current Activities
 - [docs: Tweak pull request template](https://github.com/JsonMapper/JsonMapper/pull/179) on [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (2 weeks ago)
 - [ci: Include PHP 8.3 in build matrix](https://github.com/JsonMapper/JsonMapper/pull/178) on [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (2 weeks ago)
 - [Remove dependabot](https://github.com/JsonMapper/JsonMapper/pull/177) on [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (2 weeks ago)
-- [refactor: Remove dead block of code](https://github.com/justinrainbow/json-schema/pull/710) on [justinrainbow/json-schema](https://github.com/justinrainbow/json-schema) (1 month ago)
 
 
 #### 🔭 Latest releases I've contributed to
