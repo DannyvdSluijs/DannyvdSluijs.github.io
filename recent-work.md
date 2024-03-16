@@ -7,6 +7,7 @@ title: 👨‍💻 Current Activities
 
 - [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (today)
 - [thephpleague/container](https://github.com/thephpleague/container) (2 days ago)
+- [thephpleague/flysystem](https://github.com/thephpleague/flysystem) (2 days ago)
 - [lucia-auth/lucia](https://github.com/lucia-auth/lucia) (5 days ago)
 - [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (1 week ago)
 - [infi-nl/timechimp-billability-chart](https://github.com/infi-nl/timechimp-billability-chart) (2 weeks ago)
@@ -14,7 +15,6 @@ title: 👨‍💻 Current Activities
 - [TomasVotruba/tomasvotruba.com](https://github.com/TomasVotruba/tomasvotruba.com) (1 month ago)
 - [picqer/exact-php-client](https://github.com/picqer/exact-php-client) (1 month ago)
 - [DannyvdSluijs/AoC-2023](https://github.com/DannyvdSluijs/AoC-2023) (1 month ago)
-- [Redocly/redocly-cli-cookbook](https://github.com/Redocly/redocly-cli-cookbook) (1 month ago)
 
 
 #### 📜 My recent blog posts
