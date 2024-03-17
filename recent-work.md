@@ -46,9 +46,9 @@ title: 👨‍💻 Current Activities
 
 #### 🔭 Latest releases I've contributed to
 
+- [filamentphp/filament](https://github.com/filamentphp/filament) - [v3.2.51](https://github.com/filamentphp/filament/releases/tag/v3.2.51) (today)
 - [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) - [v4.19.1](https://github.com/nikic/PHP-Parser/releases/tag/v4.19.1) (today)
 - [barryvdh/laravel-dompdf](https://github.com/barryvdh/laravel-dompdf) - [v2.1.1](https://github.com/barryvdh/laravel-dompdf/releases/tag/v2.1.1) (2 days ago)
-- [filamentphp/filament](https://github.com/filamentphp/filament) - [v3.2.48](https://github.com/filamentphp/filament/releases/tag/v3.2.48) (3 days ago)
 - [thephpleague/container](https://github.com/thephpleague/container) - [4.2.1](https://github.com/thephpleague/container/releases/tag/4.2.1) (4 days ago)
 - [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) - [2.22.0](https://github.com/JsonMapper/JsonMapper/releases/tag/2.22.0) (1 week ago)
 - [nikic/FastRoute](https://github.com/nikic/FastRoute) - [2.0.0-beta1](https://github.com/nikic/FastRoute/releases/tag/2.0.0-beta1) (1 week ago)
