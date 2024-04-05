@@ -6,6 +6,7 @@ title: 👨‍💻 Current Activities
 #### 💻 Check out what I'm currently working on
 
 - [infi-nl/the-infi-way](https://github.com/infi-nl/the-infi-way) (today)
+- [JsonMapper/LaravelPackage](https://github.com/JsonMapper/LaravelPackage) (today)
 - [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (1 day ago)
 - [JsonMapper/jsonmapper.github.io](https://github.com/JsonMapper/jsonmapper.github.io) (2 weeks ago)
 - [thephpleague/flysystem](https://github.com/thephpleague/flysystem) (3 weeks ago)
@@ -14,7 +15,6 @@ title: 👨‍💻 Current Activities
 - [lucia-auth/lucia](https://github.com/lucia-auth/lucia) (3 weeks ago)
 - [picqer/exact-php-client](https://github.com/picqer/exact-php-client) (1 month ago)
 - [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (1 month ago)
-- [infi-nl/timechimp-billability-chart](https://github.com/infi-nl/timechimp-billability-chart) (1 month ago)
 
 
 #### 📜 My recent blog posts
@@ -46,6 +46,7 @@ title: 👨‍💻 Current Activities
 
 #### 🔭 Latest releases I've contributed to
 
+- [JsonMapper/LaravelPackage](https://github.com/JsonMapper/LaravelPackage) - [2.5.0](https://github.com/JsonMapper/LaravelPackage/releases/tag/2.5.0) (today)
 - [filamentphp/filament](https://github.com/filamentphp/filament) - [v3.2.62](https://github.com/filamentphp/filament/releases/tag/v3.2.62) (4 days ago)
 - [PHPCSStandards/PHP_CodeSniffer](https://github.com/PHPCSStandards/PHP_CodeSniffer) - [3.9.1](https://github.com/PHPCSStandards/PHP_CodeSniffer/releases/tag/3.9.1) (5 days ago)
 - [picqer/exact-php-client](https://github.com/picqer/exact-php-client) - [v4.3.3](https://github.com/picqer/exact-php-client/releases/tag/v4.3.3) (1 week ago)
@@ -55,4 +56,3 @@ title: 👨‍💻 Current Activities
 - [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) - [2.22.0](https://github.com/JsonMapper/JsonMapper/releases/tag/2.22.0) (1 month ago)
 - [nikic/FastRoute](https://github.com/nikic/FastRoute) - [2.0.0-beta1](https://github.com/nikic/FastRoute/releases/tag/2.0.0-beta1) (1 month ago)
 - [theseer/tokenizer](https://github.com/theseer/tokenizer) - [1.2.3](https://github.com/theseer/tokenizer/releases/tag/1.2.3) (1 month ago)
-- [infi-nl/timechimp-billability-chart](https://github.com/infi-nl/timechimp-billability-chart) - [v1.8.1](https://github.com/infi-nl/timechimp-billability-chart/releases/tag/v1.8.1) (1 month ago)
