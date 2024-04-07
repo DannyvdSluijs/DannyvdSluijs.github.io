@@ -5,9 +5,9 @@ title: 👨‍💻 Current Activities
 
 #### 💻 Check out what I'm currently working on
 
-- [infi-nl/the-infi-way](https://github.com/infi-nl/the-infi-way) (1 day ago)
-- [JsonMapper/LaravelPackage](https://github.com/JsonMapper/LaravelPackage) (1 day ago)
-- [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (2 days ago)
+- [infi-nl/the-infi-way](https://github.com/infi-nl/the-infi-way) (2 days ago)
+- [JsonMapper/LaravelPackage](https://github.com/JsonMapper/LaravelPackage) (2 days ago)
+- [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (3 days ago)
 - [JsonMapper/jsonmapper.github.io](https://github.com/JsonMapper/jsonmapper.github.io) (2 weeks ago)
 - [thephpleague/flysystem](https://github.com/thephpleague/flysystem) (3 weeks ago)
 - [theseer/tokenizer](https://github.com/theseer/tokenizer) (3 weeks ago)
@@ -29,7 +29,7 @@ title: 👨‍💻 Current Activities
 
 - [#32 Improve contrast of code examples](https://github.com/JsonMapper/jsonmapper.github.io/pull/39) on [JsonMapper/jsonmapper.github.io](https://github.com/JsonMapper/jsonmapper.github.io) (2 weeks ago)
 - [#33: Add copy button to code examples](https://github.com/JsonMapper/jsonmapper.github.io/pull/38) on [JsonMapper/jsonmapper.github.io](https://github.com/JsonMapper/jsonmapper.github.io) (2 weeks ago)
-- [docs: Clarify enum is supported out of the box](https://github.com/JsonMapper/jsonmapper.github.io/pull/37) on [JsonMapper/jsonmapper.github.io](https://github.com/JsonMapper/jsonmapper.github.io) (2 weeks ago)
+- [docs: Clarify enum is supported out of the box](https://github.com/JsonMapper/jsonmapper.github.io/pull/37) on [JsonMapper/jsonmapper.github.io](https://github.com/JsonMapper/jsonmapper.github.io) (3 weeks ago)
 - [Update README.md replacing Travis badge for Github Actions](https://github.com/thephpleague/container/pull/258) on [thephpleague/container](https://github.com/thephpleague/container) (3 weeks ago)
 - [Node20 actions upgrade](https://github.com/thephpleague/flysystem/pull/1766) on [thephpleague/flysystem](https://github.com/thephpleague/flysystem) (3 weeks ago)
 - [Update GitHub Actions to V4](https://github.com/egulias/EmailValidator/pull/383) on [egulias/EmailValidator](https://github.com/egulias/EmailValidator) (3 weeks ago)
@@ -46,11 +46,11 @@ title: 👨‍💻 Current Activities
 
 #### 🔭 Latest releases I've contributed to
 
-- [filamentphp/filament](https://github.com/filamentphp/filament) - [v3.2.63](https://github.com/filamentphp/filament/releases/tag/v3.2.63) (1 day ago)
-- [JsonMapper/LaravelPackage](https://github.com/JsonMapper/LaravelPackage) - [2.5.0](https://github.com/JsonMapper/LaravelPackage/releases/tag/2.5.0) (1 day ago)
-- [PHPCSStandards/PHP_CodeSniffer](https://github.com/PHPCSStandards/PHP_CodeSniffer) - [3.9.1](https://github.com/PHPCSStandards/PHP_CodeSniffer/releases/tag/3.9.1) (6 days ago)
+- [filamentphp/filament](https://github.com/filamentphp/filament) - [v3.2.63](https://github.com/filamentphp/filament/releases/tag/v3.2.63) (2 days ago)
+- [JsonMapper/LaravelPackage](https://github.com/JsonMapper/LaravelPackage) - [2.5.0](https://github.com/JsonMapper/LaravelPackage/releases/tag/2.5.0) (2 days ago)
+- [PHPCSStandards/PHP_CodeSniffer](https://github.com/PHPCSStandards/PHP_CodeSniffer) - [3.9.1](https://github.com/PHPCSStandards/PHP_CodeSniffer/releases/tag/3.9.1) (1 week ago)
 - [picqer/exact-php-client](https://github.com/picqer/exact-php-client) - [v4.3.3](https://github.com/picqer/exact-php-client/releases/tag/v4.3.3) (1 week ago)
-- [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) - [v4.19.1](https://github.com/nikic/PHP-Parser/releases/tag/v4.19.1) (2 weeks ago)
+- [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) - [v4.19.1](https://github.com/nikic/PHP-Parser/releases/tag/v4.19.1) (3 weeks ago)
 - [barryvdh/laravel-dompdf](https://github.com/barryvdh/laravel-dompdf) - [v2.1.1](https://github.com/barryvdh/laravel-dompdf/releases/tag/v2.1.1) (3 weeks ago)
 - [thephpleague/container](https://github.com/thephpleague/container) - [4.2.1](https://github.com/thephpleague/container/releases/tag/4.2.1) (3 weeks ago)
 - [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) - [2.22.0](https://github.com/JsonMapper/JsonMapper/releases/tag/2.22.0) (1 month ago)
