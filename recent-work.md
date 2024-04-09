@@ -5,9 +5,9 @@ title: 👨‍💻 Current Activities
 
 #### 💻 Check out what I'm currently working on
 
-- [infi-nl/the-infi-way](https://github.com/infi-nl/the-infi-way) (3 days ago)
-- [JsonMapper/LaravelPackage](https://github.com/JsonMapper/LaravelPackage) (3 days ago)
-- [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (4 days ago)
+- [infi-nl/the-infi-way](https://github.com/infi-nl/the-infi-way) (4 days ago)
+- [JsonMapper/LaravelPackage](https://github.com/JsonMapper/LaravelPackage) (4 days ago)
+- [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (5 days ago)
 - [JsonMapper/jsonmapper.github.io](https://github.com/JsonMapper/jsonmapper.github.io) (3 weeks ago)
 - [thephpleague/container](https://github.com/thephpleague/container) (3 weeks ago)
 - [thephpleague/flysystem](https://github.com/thephpleague/flysystem) (3 weeks ago)
@@ -46,8 +46,8 @@ title: 👨‍💻 Current Activities
 
 #### 🔭 Latest releases I've contributed to
 
-- [filamentphp/filament](https://github.com/filamentphp/filament) - [v3.2.63](https://github.com/filamentphp/filament/releases/tag/v3.2.63) (3 days ago)
-- [JsonMapper/LaravelPackage](https://github.com/JsonMapper/LaravelPackage) - [2.5.0](https://github.com/JsonMapper/LaravelPackage/releases/tag/2.5.0) (3 days ago)
+- [filamentphp/filament](https://github.com/filamentphp/filament) - [v3.2.63](https://github.com/filamentphp/filament/releases/tag/v3.2.63) (4 days ago)
+- [JsonMapper/LaravelPackage](https://github.com/JsonMapper/LaravelPackage) - [2.5.0](https://github.com/JsonMapper/LaravelPackage/releases/tag/2.5.0) (4 days ago)
 - [PHPCSStandards/PHP_CodeSniffer](https://github.com/PHPCSStandards/PHP_CodeSniffer) - [3.9.1](https://github.com/PHPCSStandards/PHP_CodeSniffer/releases/tag/3.9.1) (1 week ago)
 - [picqer/exact-php-client](https://github.com/picqer/exact-php-client) - [v4.3.3](https://github.com/picqer/exact-php-client/releases/tag/v4.3.3) (1 week ago)
 - [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) - [v4.19.1](https://github.com/nikic/PHP-Parser/releases/tag/v4.19.1) (3 weeks ago)
