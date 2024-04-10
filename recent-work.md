@@ -5,14 +5,14 @@ title: 👨‍💻 Current Activities
 
 #### 💻 Check out what I'm currently working on
 
-- [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (today)
-- [infi-nl/the-infi-way](https://github.com/infi-nl/the-infi-way) (4 days ago)
-- [JsonMapper/LaravelPackage](https://github.com/JsonMapper/LaravelPackage) (4 days ago)
+- [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (1 day ago)
+- [infi-nl/the-infi-way](https://github.com/infi-nl/the-infi-way) (5 days ago)
+- [JsonMapper/LaravelPackage](https://github.com/JsonMapper/LaravelPackage) (5 days ago)
 - [JsonMapper/jsonmapper.github.io](https://github.com/JsonMapper/jsonmapper.github.io) (3 weeks ago)
 - [theseer/tokenizer](https://github.com/theseer/tokenizer) (3 weeks ago)
 - [thephpleague/container](https://github.com/thephpleague/container) (3 weeks ago)
 - [thephpleague/flysystem](https://github.com/thephpleague/flysystem) (3 weeks ago)
-- [lucia-auth/lucia](https://github.com/lucia-auth/lucia) (4 weeks ago)
+- [lucia-auth/lucia](https://github.com/lucia-auth/lucia) (1 month ago)
 - [picqer/exact-php-client](https://github.com/picqer/exact-php-client) (1 month ago)
 - [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (1 month ago)
 
@@ -27,7 +27,7 @@ title: 👨‍💻 Current Activities
 
 #### 🔨 My recent Pull Requests
 
-- [feat: Update to documentation d.d. 09-04-2024](https://github.com/picqer/exact-php-client/pull/642) on [picqer/exact-php-client](https://github.com/picqer/exact-php-client) (today)
+- [feat: Update to documentation d.d. 09-04-2024](https://github.com/picqer/exact-php-client/pull/642) on [picqer/exact-php-client](https://github.com/picqer/exact-php-client) (1 day ago)
 - [#32 Improve contrast of code examples](https://github.com/JsonMapper/jsonmapper.github.io/pull/39) on [JsonMapper/jsonmapper.github.io](https://github.com/JsonMapper/jsonmapper.github.io) (3 weeks ago)
 - [#33: Add copy button to code examples](https://github.com/JsonMapper/jsonmapper.github.io/pull/38) on [JsonMapper/jsonmapper.github.io](https://github.com/JsonMapper/jsonmapper.github.io) (3 weeks ago)
 - [docs: Clarify enum is supported out of the box](https://github.com/JsonMapper/jsonmapper.github.io/pull/37) on [JsonMapper/jsonmapper.github.io](https://github.com/JsonMapper/jsonmapper.github.io) (3 weeks ago)
@@ -37,7 +37,7 @@ title: 👨‍💻 Current Activities
 - [Update to use actions/checkout@v4](https://github.com/theseer/tokenizer/pull/21) on [theseer/tokenizer](https://github.com/theseer/tokenizer) (3 weeks ago)
 - [Use Github Actions version 4](https://github.com/lingoda/cron-bundle/pull/6) on [lingoda/cron-bundle](https://github.com/lingoda/cron-bundle) (3 weeks ago)
 - [ci: Use GitHub Actions V4](https://github.com/thephpleague/container/pull/257) on [thephpleague/container](https://github.com/thephpleague/container) (3 weeks ago)
-- [Update custom-providers.md parameter name scopes](https://github.com/lucia-auth/lucia/pull/1486) on [lucia-auth/lucia](https://github.com/lucia-auth/lucia) (4 weeks ago)
+- [Update custom-providers.md parameter name scopes](https://github.com/lucia-auth/lucia/pull/1486) on [lucia-auth/lucia](https://github.com/lucia-auth/lucia) (1 month ago)
 - [feat: Update to documentation d.d. 06-03-2024](https://github.com/picqer/exact-php-client/pull/638) on [picqer/exact-php-client](https://github.com/picqer/exact-php-client) (1 month ago)
 - [refactor: Uses Github issue forms](https://github.com/JsonMapper/JsonMapper/pull/182) on [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (1 month ago)
 - [fix: Set Ouderschapsverlof as leave task as well](https://github.com/infi-nl/timechimp-billability-chart/pull/15) on [infi-nl/timechimp-billability-chart](https://github.com/infi-nl/timechimp-billability-chart) (1 month ago)
@@ -46,13 +46,13 @@ title: 👨‍💻 Current Activities
 
 #### 🔭 Latest releases I've contributed to
 
-- [filamentphp/filament](https://github.com/filamentphp/filament) - [v3.2.63](https://github.com/filamentphp/filament/releases/tag/v3.2.63) (4 days ago)
-- [JsonMapper/LaravelPackage](https://github.com/JsonMapper/LaravelPackage) - [2.5.0](https://github.com/JsonMapper/LaravelPackage/releases/tag/2.5.0) (4 days ago)
+- [filamentphp/filament](https://github.com/filamentphp/filament) - [v3.2.63](https://github.com/filamentphp/filament/releases/tag/v3.2.63) (5 days ago)
+- [JsonMapper/LaravelPackage](https://github.com/JsonMapper/LaravelPackage) - [2.5.0](https://github.com/JsonMapper/LaravelPackage/releases/tag/2.5.0) (5 days ago)
 - [PHPCSStandards/PHP_CodeSniffer](https://github.com/PHPCSStandards/PHP_CodeSniffer) - [3.9.1](https://github.com/PHPCSStandards/PHP_CodeSniffer/releases/tag/3.9.1) (1 week ago)
-- [picqer/exact-php-client](https://github.com/picqer/exact-php-client) - [v4.3.3](https://github.com/picqer/exact-php-client/releases/tag/v4.3.3) (1 week ago)
+- [picqer/exact-php-client](https://github.com/picqer/exact-php-client) - [v4.3.3](https://github.com/picqer/exact-php-client/releases/tag/v4.3.3) (2 weeks ago)
 - [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) - [v4.19.1](https://github.com/nikic/PHP-Parser/releases/tag/v4.19.1) (3 weeks ago)
 - [barryvdh/laravel-dompdf](https://github.com/barryvdh/laravel-dompdf) - [v2.1.1](https://github.com/barryvdh/laravel-dompdf/releases/tag/v2.1.1) (3 weeks ago)
-- [thephpleague/container](https://github.com/thephpleague/container) - [4.2.1](https://github.com/thephpleague/container/releases/tag/4.2.1) (3 weeks ago)
+- [thephpleague/container](https://github.com/thephpleague/container) - [4.2.1](https://github.com/thephpleague/container/releases/tag/4.2.1) (4 weeks ago)
 - [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) - [2.22.0](https://github.com/JsonMapper/JsonMapper/releases/tag/2.22.0) (1 month ago)
 - [nikic/FastRoute](https://github.com/nikic/FastRoute) - [2.0.0-beta1](https://github.com/nikic/FastRoute/releases/tag/2.0.0-beta1) (1 month ago)
 - [theseer/tokenizer](https://github.com/theseer/tokenizer) - [1.2.3](https://github.com/theseer/tokenizer/releases/tag/1.2.3) (1 month ago)
