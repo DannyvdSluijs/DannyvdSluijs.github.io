@@ -5,11 +5,11 @@ title: 👨‍💻 Current Activities
 
 #### 💻 Check out what I'm currently working on
 
-- [fedeisas/laravel-mail-css-inliner](https://github.com/fedeisas/laravel-mail-css-inliner) (3 days ago)
-- [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (5 days ago)
+- [fedeisas/laravel-mail-css-inliner](https://github.com/fedeisas/laravel-mail-css-inliner) (4 days ago)
+- [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (6 days ago)
 - [infi-nl/the-infi-way](https://github.com/infi-nl/the-infi-way) (1 week ago)
 - [JsonMapper/LaravelPackage](https://github.com/JsonMapper/LaravelPackage) (1 week ago)
-- [JsonMapper/jsonmapper.github.io](https://github.com/JsonMapper/jsonmapper.github.io) (3 weeks ago)
+- [JsonMapper/jsonmapper.github.io](https://github.com/JsonMapper/jsonmapper.github.io) (4 weeks ago)
 - [theseer/tokenizer](https://github.com/theseer/tokenizer) (1 month ago)
 - [thephpleague/container](https://github.com/thephpleague/container) (1 month ago)
 - [thephpleague/flysystem](https://github.com/thephpleague/flysystem) (1 month ago)
@@ -27,10 +27,10 @@ title: 👨‍💻 Current Activities
 
 #### 🔨 My recent Pull Requests
 
-- [Fix GitHub actions](https://github.com/fedeisas/laravel-mail-css-inliner/pull/323) on [fedeisas/laravel-mail-css-inliner](https://github.com/fedeisas/laravel-mail-css-inliner) (3 days ago)
-- [feat: Update to documentation d.d. 09-04-2024](https://github.com/picqer/exact-php-client/pull/642) on [picqer/exact-php-client](https://github.com/picqer/exact-php-client) (5 days ago)
-- [#32 Improve contrast of code examples](https://github.com/JsonMapper/jsonmapper.github.io/pull/39) on [JsonMapper/jsonmapper.github.io](https://github.com/JsonMapper/jsonmapper.github.io) (3 weeks ago)
-- [#33: Add copy button to code examples](https://github.com/JsonMapper/jsonmapper.github.io/pull/38) on [JsonMapper/jsonmapper.github.io](https://github.com/JsonMapper/jsonmapper.github.io) (3 weeks ago)
+- [Fix GitHub actions](https://github.com/fedeisas/laravel-mail-css-inliner/pull/323) on [fedeisas/laravel-mail-css-inliner](https://github.com/fedeisas/laravel-mail-css-inliner) (4 days ago)
+- [feat: Update to documentation d.d. 09-04-2024](https://github.com/picqer/exact-php-client/pull/642) on [picqer/exact-php-client](https://github.com/picqer/exact-php-client) (6 days ago)
+- [#32 Improve contrast of code examples](https://github.com/JsonMapper/jsonmapper.github.io/pull/39) on [JsonMapper/jsonmapper.github.io](https://github.com/JsonMapper/jsonmapper.github.io) (4 weeks ago)
+- [#33: Add copy button to code examples](https://github.com/JsonMapper/jsonmapper.github.io/pull/38) on [JsonMapper/jsonmapper.github.io](https://github.com/JsonMapper/jsonmapper.github.io) (4 weeks ago)
 - [docs: Clarify enum is supported out of the box](https://github.com/JsonMapper/jsonmapper.github.io/pull/37) on [JsonMapper/jsonmapper.github.io](https://github.com/JsonMapper/jsonmapper.github.io) (4 weeks ago)
 - [Update README.md replacing Travis badge for Github Actions](https://github.com/thephpleague/container/pull/258) on [thephpleague/container](https://github.com/thephpleague/container) (1 month ago)
 - [Node20 actions upgrade](https://github.com/thephpleague/flysystem/pull/1766) on [thephpleague/flysystem](https://github.com/thephpleague/flysystem) (1 month ago)
@@ -46,9 +46,9 @@ title: 👨‍💻 Current Activities
 
 #### 🔭 Latest releases I've contributed to
 
-- [Seldaek/monolog](https://github.com/Seldaek/monolog) - [3.6.0](https://github.com/Seldaek/monolog/releases/tag/3.6.0) (2 days ago)
-- [filamentphp/filament](https://github.com/filamentphp/filament) - [v3.2.66](https://github.com/filamentphp/filament/releases/tag/v3.2.66) (2 days ago)
-- [fedeisas/laravel-mail-css-inliner](https://github.com/fedeisas/laravel-mail-css-inliner) - [5.3.0](https://github.com/fedeisas/laravel-mail-css-inliner/releases/tag/5.3.0) (3 days ago)
+- [Seldaek/monolog](https://github.com/Seldaek/monolog) - [3.6.0](https://github.com/Seldaek/monolog/releases/tag/3.6.0) (3 days ago)
+- [filamentphp/filament](https://github.com/filamentphp/filament) - [v3.2.66](https://github.com/filamentphp/filament/releases/tag/v3.2.66) (3 days ago)
+- [fedeisas/laravel-mail-css-inliner](https://github.com/fedeisas/laravel-mail-css-inliner) - [5.3.0](https://github.com/fedeisas/laravel-mail-css-inliner/releases/tag/5.3.0) (4 days ago)
 - [JsonMapper/LaravelPackage](https://github.com/JsonMapper/LaravelPackage) - [2.5.0](https://github.com/JsonMapper/LaravelPackage/releases/tag/2.5.0) (1 week ago)
 - [PHPCSStandards/PHP_CodeSniffer](https://github.com/PHPCSStandards/PHP_CodeSniffer) - [3.9.1](https://github.com/PHPCSStandards/PHP_CodeSniffer/releases/tag/3.9.1) (2 weeks ago)
 - [picqer/exact-php-client](https://github.com/picqer/exact-php-client) - [v4.3.3](https://github.com/picqer/exact-php-client/releases/tag/v4.3.3) (2 weeks ago)
