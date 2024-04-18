@@ -7,12 +7,12 @@ title: 👨‍💻 Current Activities
 
 - [fedeisas/laravel-mail-css-inliner](https://github.com/fedeisas/laravel-mail-css-inliner) (1 week ago)
 - [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (1 week ago)
-- [infi-nl/the-infi-way](https://github.com/infi-nl/the-infi-way) (1 week ago)
 - [JsonMapper/LaravelPackage](https://github.com/JsonMapper/LaravelPackage) (1 week ago)
+- [infi-nl/the-infi-way](https://github.com/infi-nl/the-infi-way) (1 week ago)
 - [JsonMapper/jsonmapper.github.io](https://github.com/JsonMapper/jsonmapper.github.io) (1 month ago)
 - [theseer/tokenizer](https://github.com/theseer/tokenizer) (1 month ago)
-- [thephpleague/container](https://github.com/thephpleague/container) (1 month ago)
 - [thephpleague/flysystem](https://github.com/thephpleague/flysystem) (1 month ago)
+- [thephpleague/container](https://github.com/thephpleague/container) (1 month ago)
 - [lucia-auth/lucia](https://github.com/lucia-auth/lucia) (1 month ago)
 - [picqer/exact-php-client](https://github.com/picqer/exact-php-client) (1 month ago)
 
