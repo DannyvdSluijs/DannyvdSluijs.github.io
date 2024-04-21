@@ -19,7 +19,7 @@ title: 👨‍💻 Current Activities
 
 #### 📜 My recent blog posts
 
-- [The unknown Composer commands](/2023/08/25/the-unknown-composer-commands.html) (7 months ago)
+- [The unknown Composer commands](/2023/08/25/the-unknown-composer-commands.html) (8 months ago)
 - [Figuring out how parallel processing works in PHP](/2023/06/21/figuring-out-how-parallel-processing-works-in-php.html) (10 months ago)
 - [Securing the web at no cost](/2019/02/04/securing-the-web-at-no-cost.html) (5 years ago)
 - [About MutableCreationOptionsInterface](/2018/10/15/about-mutable-creation-options-interface.html) (5 years ago)
@@ -46,11 +46,11 @@ title: 👨‍💻 Current Activities
 
 #### 🔭 Latest releases I've contributed to
 
-- [filamentphp/filament](https://github.com/filamentphp/filament) - [v3.2.70](https://github.com/filamentphp/filament/releases/tag/v3.2.70) (2 days ago)
+- [filamentphp/filament](https://github.com/filamentphp/filament) - [v3.2.70](https://github.com/filamentphp/filament/releases/tag/v3.2.70) (3 days ago)
 - [Seldaek/monolog](https://github.com/Seldaek/monolog) - [3.6.0](https://github.com/Seldaek/monolog/releases/tag/3.6.0) (1 week ago)
 - [fedeisas/laravel-mail-css-inliner](https://github.com/fedeisas/laravel-mail-css-inliner) - [5.3.0](https://github.com/fedeisas/laravel-mail-css-inliner/releases/tag/5.3.0) (1 week ago)
 - [JsonMapper/LaravelPackage](https://github.com/JsonMapper/LaravelPackage) - [2.5.0](https://github.com/JsonMapper/LaravelPackage/releases/tag/2.5.0) (2 weeks ago)
-- [PHPCSStandards/PHP_CodeSniffer](https://github.com/PHPCSStandards/PHP_CodeSniffer) - [3.9.1](https://github.com/PHPCSStandards/PHP_CodeSniffer/releases/tag/3.9.1) (2 weeks ago)
+- [PHPCSStandards/PHP_CodeSniffer](https://github.com/PHPCSStandards/PHP_CodeSniffer) - [3.9.1](https://github.com/PHPCSStandards/PHP_CodeSniffer/releases/tag/3.9.1) (3 weeks ago)
 - [picqer/exact-php-client](https://github.com/picqer/exact-php-client) - [v4.3.3](https://github.com/picqer/exact-php-client/releases/tag/v4.3.3) (3 weeks ago)
 - [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) - [v4.19.1](https://github.com/nikic/PHP-Parser/releases/tag/v4.19.1) (1 month ago)
 - [barryvdh/laravel-dompdf](https://github.com/barryvdh/laravel-dompdf) - [v2.1.1](https://github.com/barryvdh/laravel-dompdf/releases/tag/v2.1.1) (1 month ago)
