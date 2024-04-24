@@ -27,6 +27,7 @@ title: 👨‍💻 Current Activities
 
 #### 🔨 My recent Pull Requests
 
+- [docs: Correct semi-colon for semicolon (without dash)](https://github.com/PHPCSStandards/PHP_CodeSniffer/pull/464) on [PHPCSStandards/PHP_CodeSniffer](https://github.com/PHPCSStandards/PHP_CodeSniffer) (today)
 - [Correct typos and language](https://github.com/PHPCSStandards/PHP_CodeSniffer/pull/457) on [PHPCSStandards/PHP_CodeSniffer](https://github.com/PHPCSStandards/PHP_CodeSniffer) (2 days ago)
 - [refactor: Move metadata tool to require dev](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference/pull/143) on [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (2 days ago)
 - [Fix GitHub actions](https://github.com/fedeisas/laravel-mail-css-inliner/pull/323) on [fedeisas/laravel-mail-css-inliner](https://github.com/fedeisas/laravel-mail-css-inliner) (1 week ago)
@@ -41,7 +42,6 @@ title: 👨‍💻 Current Activities
 - [Use Github Actions version 4](https://github.com/lingoda/cron-bundle/pull/6) on [lingoda/cron-bundle](https://github.com/lingoda/cron-bundle) (1 month ago)
 - [ci: Use GitHub Actions V4](https://github.com/thephpleague/container/pull/257) on [thephpleague/container](https://github.com/thephpleague/container) (1 month ago)
 - [Update custom-providers.md parameter name scopes](https://github.com/lucia-auth/lucia/pull/1486) on [lucia-auth/lucia](https://github.com/lucia-auth/lucia) (1 month ago)
-- [feat: Update to documentation d.d. 06-03-2024](https://github.com/picqer/exact-php-client/pull/638) on [picqer/exact-php-client](https://github.com/picqer/exact-php-client) (1 month ago)
 
 
 #### 🔭 Latest releases I've contributed to
