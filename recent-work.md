@@ -27,6 +27,7 @@ title: 👨‍💻 Current Activities
 
 #### 🔨 My recent Pull Requests
 
+- [docs: Correct semi-colon for semicolon (without dash)](https://github.com/php-fig/fig-standards/pull/1322) on [php-fig/fig-standards](https://github.com/php-fig/fig-standards) (today)
 - [docs: Correct semi-colon for semicolon (without dash)](https://github.com/PHPCSStandards/PHP_CodeSniffer/pull/464) on [PHPCSStandards/PHP_CodeSniffer](https://github.com/PHPCSStandards/PHP_CodeSniffer) (4 days ago)
 - [Correct typos and language](https://github.com/PHPCSStandards/PHP_CodeSniffer/pull/457) on [PHPCSStandards/PHP_CodeSniffer](https://github.com/PHPCSStandards/PHP_CodeSniffer) (6 days ago)
 - [refactor: Move metadata tool to require dev](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference/pull/143) on [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (6 days ago)
@@ -41,7 +42,6 @@ title: 👨‍💻 Current Activities
 - [Update to use actions/checkout@v4](https://github.com/theseer/tokenizer/pull/21) on [theseer/tokenizer](https://github.com/theseer/tokenizer) (1 month ago)
 - [Use Github Actions version 4](https://github.com/lingoda/cron-bundle/pull/6) on [lingoda/cron-bundle](https://github.com/lingoda/cron-bundle) (1 month ago)
 - [ci: Use GitHub Actions V4](https://github.com/thephpleague/container/pull/257) on [thephpleague/container](https://github.com/thephpleague/container) (1 month ago)
-- [Update custom-providers.md parameter name scopes](https://github.com/lucia-auth/lucia/pull/1486) on [lucia-auth/lucia](https://github.com/lucia-auth/lucia) (1 month ago)
 
 
 #### 🔭 Latest releases I've contributed to
