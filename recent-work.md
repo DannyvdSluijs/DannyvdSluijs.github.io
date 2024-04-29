@@ -5,16 +5,16 @@ title: 👨‍💻 Current Activities
 
 #### 💻 Check out what I'm currently working on
 
+- [PHPCSStandards/PHP_CodeSniffer](https://github.com/PHPCSStandards/PHP_CodeSniffer) (today)
 - [php-fig/fig-standards](https://github.com/php-fig/fig-standards) (1 day ago)
 - [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (6 days ago)
 - [fedeisas/laravel-mail-css-inliner](https://github.com/fedeisas/laravel-mail-css-inliner) (2 weeks ago)
-- [JsonMapper/LaravelPackage](https://github.com/JsonMapper/LaravelPackage) (3 weeks ago)
 - [infi-nl/the-infi-way](https://github.com/infi-nl/the-infi-way) (3 weeks ago)
+- [JsonMapper/LaravelPackage](https://github.com/JsonMapper/LaravelPackage) (3 weeks ago)
 - [JsonMapper/jsonmapper.github.io](https://github.com/JsonMapper/jsonmapper.github.io) (1 month ago)
 - [thephpleague/flysystem](https://github.com/thephpleague/flysystem) (1 month ago)
-- [thephpleague/container](https://github.com/thephpleague/container) (1 month ago)
 - [theseer/tokenizer](https://github.com/theseer/tokenizer) (1 month ago)
-- [lucia-auth/lucia](https://github.com/lucia-auth/lucia) (1 month ago)
+- [thephpleague/container](https://github.com/thephpleague/container) (1 month ago)
 
 
 #### 📜 My recent blog posts
