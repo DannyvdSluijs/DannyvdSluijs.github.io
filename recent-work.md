@@ -5,6 +5,7 @@ title: 👨‍💻 Current Activities
 
 #### 💻 Check out what I'm currently working on
 
+- [egulias/EmailValidator](https://github.com/egulias/EmailValidator) (today)
 - [PHPCSStandards/PHP_CodeSniffer](https://github.com/PHPCSStandards/PHP_CodeSniffer) (2 days ago)
 - [php-fig/fig-standards](https://github.com/php-fig/fig-standards) (3 days ago)
 - [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (1 week ago)
@@ -13,7 +14,6 @@ title: 👨‍💻 Current Activities
 - [JsonMapper/LaravelPackage](https://github.com/JsonMapper/LaravelPackage) (3 weeks ago)
 - [JsonMapper/jsonmapper.github.io](https://github.com/JsonMapper/jsonmapper.github.io) (1 month ago)
 - [thephpleague/flysystem](https://github.com/thephpleague/flysystem) (1 month ago)
-- [theseer/tokenizer](https://github.com/theseer/tokenizer) (1 month ago)
 - [thephpleague/container](https://github.com/thephpleague/container) (1 month ago)
 
 
