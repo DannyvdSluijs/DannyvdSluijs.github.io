@@ -5,10 +5,10 @@ title: 👨‍💻 Current Activities
 
 #### 💻 Check out what I'm currently working on
 
+- [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (today)
 - [egulias/EmailValidator](https://github.com/egulias/EmailValidator) (2 days ago)
 - [PHPCSStandards/PHP_CodeSniffer](https://github.com/PHPCSStandards/PHP_CodeSniffer) (4 days ago)
 - [php-fig/fig-standards](https://github.com/php-fig/fig-standards) (5 days ago)
-- [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (1 week ago)
 - [fedeisas/laravel-mail-css-inliner](https://github.com/fedeisas/laravel-mail-css-inliner) (3 weeks ago)
 - [infi-nl/the-infi-way](https://github.com/infi-nl/the-infi-way) (4 weeks ago)
 - [JsonMapper/LaravelPackage](https://github.com/JsonMapper/LaravelPackage) (4 weeks ago)
