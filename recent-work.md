@@ -5,9 +5,9 @@ title: 👨‍💻 Current Activities
 
 #### 💻 Check out what I'm currently working on
 
-- [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (3 days ago)
-- [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (5 days ago)
-- [DannyvdSluijs/exact-online-meta-data-tool](https://github.com/DannyvdSluijs/exact-online-meta-data-tool) (5 days ago)
+- [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (4 days ago)
+- [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (6 days ago)
+- [DannyvdSluijs/exact-online-meta-data-tool](https://github.com/DannyvdSluijs/exact-online-meta-data-tool) (6 days ago)
 - [egulias/EmailValidator](https://github.com/egulias/EmailValidator) (1 week ago)
 - [PHPCSStandards/PHP_CodeSniffer](https://github.com/PHPCSStandards/PHP_CodeSniffer) (1 week ago)
 - [php-fig/fig-standards](https://github.com/php-fig/fig-standards) (1 week ago)
@@ -27,9 +27,9 @@ title: 👨‍💻 Current Activities
 
 #### 🔨 My recent Pull Requests
 
-- [feat: Bump metadata tool for improved meta-data.json](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference/pull/146) on [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (5 days ago)
-- [fix: Avoid properties with a larger http method mask then the parent endpoint](https://github.com/DannyvdSluijs/exact-online-meta-data-tool/pull/207) on [DannyvdSluijs/exact-online-meta-data-tool](https://github.com/DannyvdSluijs/exact-online-meta-data-tool) (5 days ago)
-- [Resolve nodejs16 deprecations messages](https://github.com/JsonMapper/JsonMapper/pull/186) on [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (5 days ago)
+- [feat: Bump metadata tool for improved meta-data.json](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference/pull/146) on [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (6 days ago)
+- [fix: Avoid properties with a larger http method mask then the parent endpoint](https://github.com/DannyvdSluijs/exact-online-meta-data-tool/pull/207) on [DannyvdSluijs/exact-online-meta-data-tool](https://github.com/DannyvdSluijs/exact-online-meta-data-tool) (6 days ago)
+- [Resolve nodejs16 deprecations messages](https://github.com/JsonMapper/JsonMapper/pull/186) on [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (6 days ago)
 - [Feat: Add with mapping of associative array](https://github.com/JsonMapper/JsonMapper/pull/183) on [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (1 week ago)
 - [fix: Add missing &#39;.fixed&#39; file for src/Standards/PEAR/Tests/WhiteSpace/ScopeIndentUnitTest](https://github.com/PHPCSStandards/PHP_CodeSniffer/pull/476) on [PHPCSStandards/PHP_CodeSniffer](https://github.com/PHPCSStandards/PHP_CodeSniffer) (1 week ago)
 - [docs: Correct Github with GitHub (with capital H) as it is a brand name](https://github.com/php-fig/fig-standards/pull/1323) on [php-fig/fig-standards](https://github.com/php-fig/fig-standards) (1 week ago)
@@ -46,12 +46,12 @@ title: 👨‍💻 Current Activities
 
 #### 🔭 Latest releases I've contributed to
 
-- [filamentphp/filament](https://github.com/filamentphp/filament) - [v3.2.76](https://github.com/filamentphp/filament/releases/tag/v3.2.76) (today)
-- [picqer/exact-php-client](https://github.com/picqer/exact-php-client) - [v4.4.0](https://github.com/picqer/exact-php-client/releases/tag/v4.4.0) (2 days ago)
-- [DannyvdSluijs/exact-online-meta-data-tool](https://github.com/DannyvdSluijs/exact-online-meta-data-tool) - [2.1.0](https://github.com/DannyvdSluijs/exact-online-meta-data-tool/releases/tag/2.1.0) (5 days ago)
-- [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) - [2.22.1](https://github.com/JsonMapper/JsonMapper/releases/tag/2.22.1) (5 days ago)
+- [filamentphp/filament](https://github.com/filamentphp/filament) - [v3.2.76](https://github.com/filamentphp/filament/releases/tag/v3.2.76) (1 day ago)
+- [picqer/exact-php-client](https://github.com/picqer/exact-php-client) - [v4.4.0](https://github.com/picqer/exact-php-client/releases/tag/v4.4.0) (3 days ago)
+- [DannyvdSluijs/exact-online-meta-data-tool](https://github.com/DannyvdSluijs/exact-online-meta-data-tool) - [2.1.0](https://github.com/DannyvdSluijs/exact-online-meta-data-tool/releases/tag/2.1.0) (6 days ago)
+- [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) - [2.22.1](https://github.com/JsonMapper/JsonMapper/releases/tag/2.22.1) (6 days ago)
 - [PHPCSStandards/PHP_CodeSniffer](https://github.com/PHPCSStandards/PHP_CodeSniffer) - [3.9.2](https://github.com/PHPCSStandards/PHP_CodeSniffer/releases/tag/3.9.2) (2 weeks ago)
-- [Seldaek/monolog](https://github.com/Seldaek/monolog) - [3.6.0](https://github.com/Seldaek/monolog/releases/tag/3.6.0) (3 weeks ago)
+- [Seldaek/monolog](https://github.com/Seldaek/monolog) - [3.6.0](https://github.com/Seldaek/monolog/releases/tag/3.6.0) (4 weeks ago)
 - [fedeisas/laravel-mail-css-inliner](https://github.com/fedeisas/laravel-mail-css-inliner) - [5.3.0](https://github.com/fedeisas/laravel-mail-css-inliner/releases/tag/5.3.0) (4 weeks ago)
 - [JsonMapper/LaravelPackage](https://github.com/JsonMapper/LaravelPackage) - [2.5.0](https://github.com/JsonMapper/LaravelPackage/releases/tag/2.5.0) (1 month ago)
 - [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) - [v4.19.1](https://github.com/nikic/PHP-Parser/releases/tag/v4.19.1) (1 month ago)
