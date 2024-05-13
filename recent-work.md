@@ -46,7 +46,7 @@ title: 👨‍💻 Current Activities
 
 #### 🔭 Latest releases I've contributed to
 
-- [barryvdh/laravel-dompdf](https://github.com/barryvdh/laravel-dompdf) - [v2.2.0](https://github.com/barryvdh/laravel-dompdf/releases/tag/v2.2.0) (today)
+- [barryvdh/laravel-dompdf](https://github.com/barryvdh/laravel-dompdf) - [v3.0.0-beta1](https://github.com/barryvdh/laravel-dompdf/releases/tag/v3.0.0-beta1) (today)
 - [filamentphp/filament](https://github.com/filamentphp/filament) - [v2.17.56](https://github.com/filamentphp/filament/releases/tag/v2.17.56) (today)
 - [picqer/exact-php-client](https://github.com/picqer/exact-php-client) - [v4.4.0](https://github.com/picqer/exact-php-client/releases/tag/v4.4.0) (6 days ago)
 - [DannyvdSluijs/exact-online-meta-data-tool](https://github.com/DannyvdSluijs/exact-online-meta-data-tool) - [2.1.0](https://github.com/DannyvdSluijs/exact-online-meta-data-tool/releases/tag/2.1.0) (1 week ago)
