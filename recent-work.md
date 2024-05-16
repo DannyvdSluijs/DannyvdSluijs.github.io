@@ -46,7 +46,7 @@ title: 👨‍💻 Current Activities
 
 #### 🔭 Latest releases I've contributed to
 
-- [filamentphp/filament](https://github.com/filamentphp/filament) - [v3.2.79](https://github.com/filamentphp/filament/releases/tag/v3.2.79) (1 day ago)
+- [filamentphp/filament](https://github.com/filamentphp/filament) - [v3.2.80](https://github.com/filamentphp/filament/releases/tag/v3.2.80) (today)
 - [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) - [2.22.2](https://github.com/JsonMapper/JsonMapper/releases/tag/2.22.2) (2 days ago)
 - [barryvdh/laravel-dompdf](https://github.com/barryvdh/laravel-dompdf) - [v3.0.0-beta1](https://github.com/barryvdh/laravel-dompdf/releases/tag/v3.0.0-beta1) (3 days ago)
 - [picqer/exact-php-client](https://github.com/picqer/exact-php-client) - [v4.4.0](https://github.com/picqer/exact-php-client/releases/tag/v4.4.0) (1 week ago)
