@@ -5,8 +5,8 @@ title: 👨‍💻 Current Activities
 
 #### 💻 Check out what I'm currently working on
 
-- [DannyvdSluijs/DannyvdSluijs.github.io](https://github.com/DannyvdSluijs/DannyvdSluijs.github.io) (today)
-- [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (2 days ago)
+- [DannyvdSluijs/DannyvdSluijs.github.io](https://github.com/DannyvdSluijs/DannyvdSluijs.github.io) (1 day ago)
+- [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (3 days ago)
 - [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (1 week ago)
 - [DannyvdSluijs/exact-online-meta-data-tool](https://github.com/DannyvdSluijs/exact-online-meta-data-tool) (1 week ago)
 - [egulias/EmailValidator](https://github.com/egulias/EmailValidator) (2 weeks ago)
@@ -39,16 +39,16 @@ title: 👨‍💻 Current Activities
 - [refactor: Move metadata tool to require dev](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference/pull/143) on [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (3 weeks ago)
 - [Fix GitHub actions](https://github.com/fedeisas/laravel-mail-css-inliner/pull/323) on [fedeisas/laravel-mail-css-inliner](https://github.com/fedeisas/laravel-mail-css-inliner) (1 month ago)
 - [feat: Update to documentation d.d. 09-04-2024](https://github.com/picqer/exact-php-client/pull/642) on [picqer/exact-php-client](https://github.com/picqer/exact-php-client) (1 month ago)
-- [#32 Improve contrast of code examples](https://github.com/JsonMapper/jsonmapper.github.io/pull/39) on [JsonMapper/jsonmapper.github.io](https://github.com/JsonMapper/jsonmapper.github.io) (1 month ago)
-- [#33: Add copy button to code examples](https://github.com/JsonMapper/jsonmapper.github.io/pull/38) on [JsonMapper/jsonmapper.github.io](https://github.com/JsonMapper/jsonmapper.github.io) (1 month ago)
+- [#32 Improve contrast of code examples](https://github.com/JsonMapper/jsonmapper.github.io/pull/39) on [JsonMapper/jsonmapper.github.io](https://github.com/JsonMapper/jsonmapper.github.io) (2 months ago)
+- [#33: Add copy button to code examples](https://github.com/JsonMapper/jsonmapper.github.io/pull/38) on [JsonMapper/jsonmapper.github.io](https://github.com/JsonMapper/jsonmapper.github.io) (2 months ago)
 - [docs: Clarify enum is supported out of the box](https://github.com/JsonMapper/jsonmapper.github.io/pull/37) on [JsonMapper/jsonmapper.github.io](https://github.com/JsonMapper/jsonmapper.github.io) (2 months ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
-- [filamentphp/filament](https://github.com/filamentphp/filament) - [v3.2.80](https://github.com/filamentphp/filament/releases/tag/v3.2.80) (today)
-- [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) - [2.22.2](https://github.com/JsonMapper/JsonMapper/releases/tag/2.22.2) (2 days ago)
-- [barryvdh/laravel-dompdf](https://github.com/barryvdh/laravel-dompdf) - [v3.0.0-beta1](https://github.com/barryvdh/laravel-dompdf/releases/tag/v3.0.0-beta1) (3 days ago)
+- [filamentphp/filament](https://github.com/filamentphp/filament) - [v3.2.80](https://github.com/filamentphp/filament/releases/tag/v3.2.80) (1 day ago)
+- [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) - [2.22.2](https://github.com/JsonMapper/JsonMapper/releases/tag/2.22.2) (3 days ago)
+- [barryvdh/laravel-dompdf](https://github.com/barryvdh/laravel-dompdf) - [v3.0.0-beta1](https://github.com/barryvdh/laravel-dompdf/releases/tag/v3.0.0-beta1) (4 days ago)
 - [picqer/exact-php-client](https://github.com/picqer/exact-php-client) - [v4.4.0](https://github.com/picqer/exact-php-client/releases/tag/v4.4.0) (1 week ago)
 - [DannyvdSluijs/exact-online-meta-data-tool](https://github.com/DannyvdSluijs/exact-online-meta-data-tool) - [2.1.0](https://github.com/DannyvdSluijs/exact-online-meta-data-tool/releases/tag/2.1.0) (1 week ago)
 - [PHPCSStandards/PHP_CodeSniffer](https://github.com/PHPCSStandards/PHP_CodeSniffer) - [3.9.2](https://github.com/PHPCSStandards/PHP_CodeSniffer/releases/tag/3.9.2) (3 weeks ago)
