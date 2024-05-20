@@ -14,7 +14,7 @@ title: 👨‍💻 Current Activities
 - [php-fig/fig-standards](https://github.com/php-fig/fig-standards) (3 weeks ago)
 - [fedeisas/laravel-mail-css-inliner](https://github.com/fedeisas/laravel-mail-css-inliner) (1 month ago)
 - [picqer/exact-php-client](https://github.com/picqer/exact-php-client) (1 month ago)
-- [infi-nl/the-infi-way](https://github.com/infi-nl/the-infi-way) (1 month ago)
+- [JsonMapper/LaravelPackage](https://github.com/JsonMapper/LaravelPackage) (1 month ago)
 
 
 #### 📜 My recent blog posts
