@@ -5,14 +5,14 @@ title: 👨‍💻 Current Activities
 
 #### 💻 Check out what I'm currently working on
 
-- [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (4 days ago)
+- [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (5 days ago)
 - [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (1 week ago)
 - [DannyvdSluijs/DannyvdSluijs.github.io](https://github.com/DannyvdSluijs/DannyvdSluijs.github.io) (1 week ago)
 - [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (1 week ago)
 - [DannyvdSluijs/exact-online-meta-data-tool](https://github.com/DannyvdSluijs/exact-online-meta-data-tool) (3 weeks ago)
 - [egulias/EmailValidator](https://github.com/egulias/EmailValidator) (3 weeks ago)
 - [PHPCSStandards/PHP_CodeSniffer](https://github.com/PHPCSStandards/PHP_CodeSniffer) (3 weeks ago)
-- [php-fig/fig-standards](https://github.com/php-fig/fig-standards) (3 weeks ago)
+- [php-fig/fig-standards](https://github.com/php-fig/fig-standards) (4 weeks ago)
 - [fedeisas/laravel-mail-css-inliner](https://github.com/fedeisas/laravel-mail-css-inliner) (1 month ago)
 - [picqer/exact-php-client](https://github.com/picqer/exact-php-client) (1 month ago)
 
@@ -27,14 +27,14 @@ title: 👨‍💻 Current Activities
 
 #### 🔨 My recent Pull Requests
 
-- [ci: Bump to v4 versions of GitHub actions](https://github.com/jsonrainbow/json-schema/pull/722) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (4 days ago)
+- [ci: Bump to v4 versions of GitHub actions](https://github.com/jsonrainbow/json-schema/pull/722) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (5 days ago)
 - [feat: Bump metadata tool for improved meta-data.json](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference/pull/146) on [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (3 weeks ago)
 - [fix: Avoid properties with a larger http method mask then the parent endpoint](https://github.com/DannyvdSluijs/exact-online-meta-data-tool/pull/207) on [DannyvdSluijs/exact-online-meta-data-tool](https://github.com/DannyvdSluijs/exact-online-meta-data-tool) (3 weeks ago)
 - [Resolve nodejs16 deprecations messages](https://github.com/JsonMapper/JsonMapper/pull/186) on [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (3 weeks ago)
 - [Feat: Add with mapping of associative array](https://github.com/JsonMapper/JsonMapper/pull/183) on [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (3 weeks ago)
 - [fix: Add missing &#39;.fixed&#39; file for src/Standards/PEAR/Tests/WhiteSpace/ScopeIndentUnitTest](https://github.com/PHPCSStandards/PHP_CodeSniffer/pull/476) on [PHPCSStandards/PHP_CodeSniffer](https://github.com/PHPCSStandards/PHP_CodeSniffer) (3 weeks ago)
 - [docs: Correct Github with GitHub (with capital H) as it is a brand name](https://github.com/php-fig/fig-standards/pull/1323) on [php-fig/fig-standards](https://github.com/php-fig/fig-standards) (3 weeks ago)
-- [docs: Correct semi-colon for semicolon (without dash)](https://github.com/php-fig/fig-standards/pull/1322) on [php-fig/fig-standards](https://github.com/php-fig/fig-standards) (3 weeks ago)
+- [docs: Correct semi-colon for semicolon (without dash)](https://github.com/php-fig/fig-standards/pull/1322) on [php-fig/fig-standards](https://github.com/php-fig/fig-standards) (4 weeks ago)
 - [docs: Correct semi-colon for semicolon (without dash)](https://github.com/PHPCSStandards/PHP_CodeSniffer/pull/464) on [PHPCSStandards/PHP_CodeSniffer](https://github.com/PHPCSStandards/PHP_CodeSniffer) (1 month ago)
 - [Correct typos and language](https://github.com/PHPCSStandards/PHP_CodeSniffer/pull/457) on [PHPCSStandards/PHP_CodeSniffer](https://github.com/PHPCSStandards/PHP_CodeSniffer) (1 month ago)
 - [refactor: Move metadata tool to require dev](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference/pull/143) on [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (1 month ago)
@@ -46,9 +46,9 @@ title: 👨‍💻 Current Activities
 
 #### 🔭 Latest releases I've contributed to
 
-- [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) - [0.1.27](https://github.com/staabm/phpstan-todo-by/releases/tag/0.1.27) (1 day ago)
-- [filamentphp/filament](https://github.com/filamentphp/filament) - [v3.2.82](https://github.com/filamentphp/filament/releases/tag/v3.2.82) (2 days ago)
-- [PHPCSStandards/PHP_CodeSniffer](https://github.com/PHPCSStandards/PHP_CodeSniffer) - [3.10.1](https://github.com/PHPCSStandards/PHP_CodeSniffer/releases/tag/3.10.1) (3 days ago)
+- [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) - [0.1.27](https://github.com/staabm/phpstan-todo-by/releases/tag/0.1.27) (2 days ago)
+- [filamentphp/filament](https://github.com/filamentphp/filament) - [v3.2.82](https://github.com/filamentphp/filament/releases/tag/v3.2.82) (3 days ago)
+- [PHPCSStandards/PHP_CodeSniffer](https://github.com/PHPCSStandards/PHP_CodeSniffer) - [3.10.1](https://github.com/PHPCSStandards/PHP_CodeSniffer/releases/tag/3.10.1) (4 days ago)
 - [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) - [2.22.2](https://github.com/JsonMapper/JsonMapper/releases/tag/2.22.2) (1 week ago)
 - [barryvdh/laravel-dompdf](https://github.com/barryvdh/laravel-dompdf) - [v3.0.0-beta1](https://github.com/barryvdh/laravel-dompdf/releases/tag/v3.0.0-beta1) (1 week ago)
 - [picqer/exact-php-client](https://github.com/picqer/exact-php-client) - [v4.4.0](https://github.com/picqer/exact-php-client/releases/tag/v4.4.0) (2 weeks ago)
