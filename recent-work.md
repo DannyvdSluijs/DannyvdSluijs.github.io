@@ -6,6 +6,7 @@ title: 👨‍💻 Current Activities
 #### 💻 Check out what I'm currently working on
 
 - [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (today)
+- [infi-nl/the-infi-way](https://github.com/infi-nl/the-infi-way) (today)
 - [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (4 weeks ago)
 - [DannyvdSluijs/DannyvdSluijs.github.io](https://github.com/DannyvdSluijs/DannyvdSluijs.github.io) (1 month ago)
 - [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (1 month ago)
@@ -14,7 +15,6 @@ title: 👨‍💻 Current Activities
 - [PHPCSStandards/PHP_CodeSniffer](https://github.com/PHPCSStandards/PHP_CodeSniffer) (1 month ago)
 - [php-fig/fig-standards](https://github.com/php-fig/fig-standards) (1 month ago)
 - [fedeisas/laravel-mail-css-inliner](https://github.com/fedeisas/laravel-mail-css-inliner) (2 months ago)
-- [picqer/exact-php-client](https://github.com/picqer/exact-php-client) (2 months ago)
 
 
 #### 📜 My recent blog posts
