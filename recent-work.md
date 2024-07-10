@@ -5,8 +5,8 @@ title: 👨‍💻 Current Activities
 
 #### 💻 Check out what I'm currently working on
 
-- [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (today)
-- [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (5 days ago)
+- [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (1 day ago)
+- [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (6 days ago)
 - [infi-nl/the-infi-way](https://github.com/infi-nl/the-infi-way) (2 weeks ago)
 - [DannyvdSluijs/DannyvdSluijs.github.io](https://github.com/DannyvdSluijs/DannyvdSluijs.github.io) (1 month ago)
 - [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (1 month ago)
@@ -14,7 +14,7 @@ title: 👨‍💻 Current Activities
 - [egulias/EmailValidator](https://github.com/egulias/EmailValidator) (2 months ago)
 - [PHPCSStandards/PHP_CodeSniffer](https://github.com/PHPCSStandards/PHP_CodeSniffer) (2 months ago)
 - [php-fig/fig-standards](https://github.com/php-fig/fig-standards) (2 months ago)
-- [fedeisas/laravel-mail-css-inliner](https://github.com/fedeisas/laravel-mail-css-inliner) (2 months ago)
+- [fedeisas/laravel-mail-css-inliner](https://github.com/fedeisas/laravel-mail-css-inliner) (3 months ago)
 
 
 #### 📜 My recent blog posts
@@ -27,8 +27,8 @@ title: 👨‍💻 Current Activities
 
 #### 🔨 My recent Pull Requests
 
-- [feat: Upgrade to json-schema v6](https://github.com/composer/composer/pull/12039) on [composer/composer](https://github.com/composer/composer) (today)
-- [docs: Add changelog and upgrade documentation for version 6.0](https://github.com/jsonrainbow/json-schema/pull/732) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (today)
+- [feat: Upgrade to json-schema v6](https://github.com/composer/composer/pull/12039) on [composer/composer](https://github.com/composer/composer) (1 day ago)
+- [docs: Add changelog and upgrade documentation for version 6.0](https://github.com/jsonrainbow/json-schema/pull/732) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (1 day ago)
 - [Update references to jsonrainbow](https://github.com/jsonrainbow/json-schema/pull/725) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (1 month ago)
 - [ci: Bump to v4 versions of GitHub actions](https://github.com/jsonrainbow/json-schema/pull/722) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (1 month ago)
 - [feat: Bump metadata tool for improved meta-data.json](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference/pull/146) on [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (2 months ago)
@@ -41,12 +41,12 @@ title: 👨‍💻 Current Activities
 - [docs: Correct semi-colon for semicolon (without dash)](https://github.com/PHPCSStandards/PHP_CodeSniffer/pull/464) on [PHPCSStandards/PHP_CodeSniffer](https://github.com/PHPCSStandards/PHP_CodeSniffer) (2 months ago)
 - [Correct typos and language](https://github.com/PHPCSStandards/PHP_CodeSniffer/pull/457) on [PHPCSStandards/PHP_CodeSniffer](https://github.com/PHPCSStandards/PHP_CodeSniffer) (2 months ago)
 - [refactor: Move metadata tool to require dev](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference/pull/143) on [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (2 months ago)
-- [Fix GitHub actions](https://github.com/fedeisas/laravel-mail-css-inliner/pull/323) on [fedeisas/laravel-mail-css-inliner](https://github.com/fedeisas/laravel-mail-css-inliner) (2 months ago)
+- [Fix GitHub actions](https://github.com/fedeisas/laravel-mail-css-inliner/pull/323) on [fedeisas/laravel-mail-css-inliner](https://github.com/fedeisas/laravel-mail-css-inliner) (3 months ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
-- [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) - [6.0.0-beta](https://github.com/jsonrainbow/json-schema/releases/tag/6.0.0-beta) (today)
+- [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) - [6.0.0-beta](https://github.com/jsonrainbow/json-schema/releases/tag/6.0.0-beta) (1 day ago)
 - [infi-nl/timechimp-billability-chart](https://github.com/infi-nl/timechimp-billability-chart) - [v1.8.2](https://github.com/infi-nl/timechimp-billability-chart/releases/tag/v1.8.2) (1 week ago)
 - [barryvdh/laravel-dompdf](https://github.com/barryvdh/laravel-dompdf) - [v3.0.0-beta2](https://github.com/barryvdh/laravel-dompdf/releases/tag/v3.0.0-beta2) (1 month ago)
 - [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) - [0.1.27](https://github.com/staabm/phpstan-todo-by/releases/tag/0.1.27) (1 month ago)
@@ -54,5 +54,5 @@ title: 👨‍💻 Current Activities
 - [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) - [2.22.2](https://github.com/JsonMapper/JsonMapper/releases/tag/2.22.2) (1 month ago)
 - [picqer/exact-php-client](https://github.com/picqer/exact-php-client) - [v4.4.0](https://github.com/picqer/exact-php-client/releases/tag/v4.4.0) (2 months ago)
 - [DannyvdSluijs/exact-online-meta-data-tool](https://github.com/DannyvdSluijs/exact-online-meta-data-tool) - [2.1.0](https://github.com/DannyvdSluijs/exact-online-meta-data-tool/releases/tag/2.1.0) (2 months ago)
-- [fedeisas/laravel-mail-css-inliner](https://github.com/fedeisas/laravel-mail-css-inliner) - [5.3.0](https://github.com/fedeisas/laravel-mail-css-inliner/releases/tag/5.3.0) (2 months ago)
+- [fedeisas/laravel-mail-css-inliner](https://github.com/fedeisas/laravel-mail-css-inliner) - [5.3.0](https://github.com/fedeisas/laravel-mail-css-inliner/releases/tag/5.3.0) (3 months ago)
 - [JsonMapper/LaravelPackage](https://github.com/JsonMapper/LaravelPackage) - [2.5.0](https://github.com/JsonMapper/LaravelPackage/releases/tag/2.5.0) (3 months ago)
