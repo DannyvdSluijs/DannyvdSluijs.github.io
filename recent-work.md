@@ -5,6 +5,7 @@ title: 👨‍💻 Current Activities
 
 #### 💻 Check out what I'm currently working on
 
+- [infi-nl/everybody-codes](https://github.com/infi-nl/everybody-codes) (today)
 - [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (6 days ago)
 - [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (1 week ago)
 - [infi-nl/the-infi-way](https://github.com/infi-nl/the-infi-way) (2 weeks ago)
@@ -14,7 +15,6 @@ title: 👨‍💻 Current Activities
 - [egulias/EmailValidator](https://github.com/egulias/EmailValidator) (2 months ago)
 - [PHPCSStandards/PHP_CodeSniffer](https://github.com/PHPCSStandards/PHP_CodeSniffer) (2 months ago)
 - [php-fig/fig-standards](https://github.com/php-fig/fig-standards) (2 months ago)
-- [fedeisas/laravel-mail-css-inliner](https://github.com/fedeisas/laravel-mail-css-inliner) (3 months ago)
 
 
 #### 📜 My recent blog posts
