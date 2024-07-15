@@ -5,6 +5,7 @@ title: 👨‍💻 Current Activities
 
 #### 💻 Check out what I'm currently working on
 
+- [deployphp/deployer](https://github.com/deployphp/deployer) (today)
 - [infi-nl/everybody-codes](https://github.com/infi-nl/everybody-codes) (today)
 - [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (6 days ago)
 - [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (1 week ago)
@@ -14,7 +15,6 @@ title: 👨‍💻 Current Activities
 - [DannyvdSluijs/exact-online-meta-data-tool](https://github.com/DannyvdSluijs/exact-online-meta-data-tool) (2 months ago)
 - [egulias/EmailValidator](https://github.com/egulias/EmailValidator) (2 months ago)
 - [PHPCSStandards/PHP_CodeSniffer](https://github.com/PHPCSStandards/PHP_CodeSniffer) (2 months ago)
-- [php-fig/fig-standards](https://github.com/php-fig/fig-standards) (2 months ago)
 
 
 #### 📜 My recent blog posts
@@ -54,5 +54,5 @@ title: 👨‍💻 Current Activities
 - [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) - [2.22.2](https://github.com/JsonMapper/JsonMapper/releases/tag/2.22.2) (2 months ago)
 - [picqer/exact-php-client](https://github.com/picqer/exact-php-client) - [v4.4.0](https://github.com/picqer/exact-php-client/releases/tag/v4.4.0) (2 months ago)
 - [DannyvdSluijs/exact-online-meta-data-tool](https://github.com/DannyvdSluijs/exact-online-meta-data-tool) - [2.1.0](https://github.com/DannyvdSluijs/exact-online-meta-data-tool/releases/tag/2.1.0) (2 months ago)
+- [deployphp/deployer](https://github.com/deployphp/deployer) - [v7.4.0](https://github.com/deployphp/deployer/releases/tag/v7.4.0) (2 months ago)
 - [fedeisas/laravel-mail-css-inliner](https://github.com/fedeisas/laravel-mail-css-inliner) - [5.3.0](https://github.com/fedeisas/laravel-mail-css-inliner/releases/tag/5.3.0) (3 months ago)
-- [JsonMapper/LaravelPackage](https://github.com/JsonMapper/LaravelPackage) - [2.5.0](https://github.com/JsonMapper/LaravelPackage/releases/tag/2.5.0) (3 months ago)
