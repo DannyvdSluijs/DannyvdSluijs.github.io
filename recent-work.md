@@ -27,6 +27,9 @@ title: 👨‍💻 Current Activities
 
 #### 🔨 My recent Pull Requests
 
+- [Update json schema v6 beta](https://github.com/DannyvdSluijs/json-normalizer/pull/1) on [DannyvdSluijs/json-normalizer](https://github.com/DannyvdSluijs/json-normalizer) (today)
+- [Update json schema v6 beta](https://github.com/DannyvdSluijs/json-schema-validator/pull/1) on [DannyvdSluijs/json-schema-validator](https://github.com/DannyvdSluijs/json-schema-validator) (today)
+- [build: Update to json-schema v6 beta](https://github.com/DannyvdSluijs/phpunit-json-assert/pull/1) on [DannyvdSluijs/phpunit-json-assert](https://github.com/DannyvdSluijs/phpunit-json-assert) (today)
 - [Update to json schema v6](https://github.com/deployphp/deployer/pull/3860) on [deployphp/deployer](https://github.com/deployphp/deployer) (today)
 - [Correct step name](https://github.com/deployphp/deployer/pull/3859) on [deployphp/deployer](https://github.com/deployphp/deployer) (today)
 - [Correct step name](https://github.com/DannyvdSluijs/deployer/pull/1) on [DannyvdSluijs/deployer](https://github.com/DannyvdSluijs/deployer) (today)
@@ -39,9 +42,6 @@ title: 👨‍💻 Current Activities
 - [Resolve nodejs16 deprecations messages](https://github.com/JsonMapper/JsonMapper/pull/186) on [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (2 months ago)
 - [Feat: Add with mapping of associative array](https://github.com/JsonMapper/JsonMapper/pull/183) on [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (2 months ago)
 - [fix: Add missing &#39;.fixed&#39; file for src/Standards/PEAR/Tests/WhiteSpace/ScopeIndentUnitTest](https://github.com/PHPCSStandards/PHP_CodeSniffer/pull/476) on [PHPCSStandards/PHP_CodeSniffer](https://github.com/PHPCSStandards/PHP_CodeSniffer) (2 months ago)
-- [docs: Correct Github with GitHub (with capital H) as it is a brand name](https://github.com/php-fig/fig-standards/pull/1323) on [php-fig/fig-standards](https://github.com/php-fig/fig-standards) (2 months ago)
-- [docs: Correct semi-colon for semicolon (without dash)](https://github.com/php-fig/fig-standards/pull/1322) on [php-fig/fig-standards](https://github.com/php-fig/fig-standards) (2 months ago)
-- [docs: Correct semi-colon for semicolon (without dash)](https://github.com/PHPCSStandards/PHP_CodeSniffer/pull/464) on [PHPCSStandards/PHP_CodeSniffer](https://github.com/PHPCSStandards/PHP_CodeSniffer) (2 months ago)
 
 
 #### 🔭 Latest releases I've contributed to
