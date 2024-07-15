@@ -27,6 +27,8 @@ title: 👨‍💻 Current Activities
 
 #### 🔨 My recent Pull Requests
 
+- [Correct step name](https://github.com/deployphp/deployer/pull/3859) on [deployphp/deployer](https://github.com/deployphp/deployer) (today)
+- [Correct step name](https://github.com/DannyvdSluijs/deployer/pull/1) on [DannyvdSluijs/deployer](https://github.com/DannyvdSluijs/deployer) (today)
 - [feat: Upgrade to json-schema v6](https://github.com/composer/composer/pull/12039) on [composer/composer](https://github.com/composer/composer) (6 days ago)
 - [docs: Add changelog and upgrade documentation for version 6.0](https://github.com/jsonrainbow/json-schema/pull/732) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (6 days ago)
 - [Update references to jsonrainbow](https://github.com/jsonrainbow/json-schema/pull/725) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (1 month ago)
@@ -40,8 +42,6 @@ title: 👨‍💻 Current Activities
 - [docs: Correct semi-colon for semicolon (without dash)](https://github.com/php-fig/fig-standards/pull/1322) on [php-fig/fig-standards](https://github.com/php-fig/fig-standards) (2 months ago)
 - [docs: Correct semi-colon for semicolon (without dash)](https://github.com/PHPCSStandards/PHP_CodeSniffer/pull/464) on [PHPCSStandards/PHP_CodeSniffer](https://github.com/PHPCSStandards/PHP_CodeSniffer) (2 months ago)
 - [Correct typos and language](https://github.com/PHPCSStandards/PHP_CodeSniffer/pull/457) on [PHPCSStandards/PHP_CodeSniffer](https://github.com/PHPCSStandards/PHP_CodeSniffer) (2 months ago)
-- [refactor: Move metadata tool to require dev](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference/pull/143) on [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (2 months ago)
-- [Fix GitHub actions](https://github.com/fedeisas/laravel-mail-css-inliner/pull/323) on [fedeisas/laravel-mail-css-inliner](https://github.com/fedeisas/laravel-mail-css-inliner) (3 months ago)
 
 
 #### 🔭 Latest releases I've contributed to
