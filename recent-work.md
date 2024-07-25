@@ -9,7 +9,7 @@ title: 👨‍💻 Current Activities
 - [infi-nl/everybody-codes](https://github.com/infi-nl/everybody-codes) (1 week ago)
 - [deployphp/deployer](https://github.com/deployphp/deployer) (1 week ago)
 - [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (2 weeks ago)
-- [infi-nl/the-infi-way](https://github.com/infi-nl/the-infi-way) (4 weeks ago)
+- [infi-nl/the-infi-way](https://github.com/infi-nl/the-infi-way) (1 month ago)
 - [DannyvdSluijs/DannyvdSluijs.github.io](https://github.com/DannyvdSluijs/DannyvdSluijs.github.io) (2 months ago)
 - [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (2 months ago)
 - [DannyvdSluijs/exact-online-meta-data-tool](https://github.com/DannyvdSluijs/exact-online-meta-data-tool) (2 months ago)
@@ -36,7 +36,7 @@ title: 👨‍💻 Current Activities
 - [Correct step name](https://github.com/DannyvdSluijs/deployer/pull/1) on [DannyvdSluijs/deployer](https://github.com/DannyvdSluijs/deployer) (1 week ago)
 - [feat: Upgrade to json-schema v6](https://github.com/composer/composer/pull/12039) on [composer/composer](https://github.com/composer/composer) (2 weeks ago)
 - [docs: Add changelog and upgrade documentation for version 6.0](https://github.com/jsonrainbow/json-schema/pull/732) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (2 weeks ago)
-- [Update references to jsonrainbow](https://github.com/jsonrainbow/json-schema/pull/725) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (1 month ago)
+- [Update references to jsonrainbow](https://github.com/jsonrainbow/json-schema/pull/725) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (2 months ago)
 - [ci: Bump to v4 versions of GitHub actions](https://github.com/jsonrainbow/json-schema/pull/722) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (2 months ago)
 - [feat: Bump metadata tool for improved meta-data.json](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference/pull/146) on [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (2 months ago)
 - [fix: Avoid properties with a larger http method mask then the parent endpoint](https://github.com/DannyvdSluijs/exact-online-meta-data-tool/pull/207) on [DannyvdSluijs/exact-online-meta-data-tool](https://github.com/DannyvdSluijs/exact-online-meta-data-tool) (2 months ago)
@@ -46,7 +46,7 @@ title: 👨‍💻 Current Activities
 
 #### 🔭 Latest releases I've contributed to
 
-- [PHPCSStandards/PHP_CodeSniffer](https://github.com/PHPCSStandards/PHP_CodeSniffer) - [3.10.2](https://github.com/PHPCSStandards/PHP_CodeSniffer/releases/tag/3.10.2) (2 days ago)
+- [PHPCSStandards/PHP_CodeSniffer](https://github.com/PHPCSStandards/PHP_CodeSniffer) - [3.10.2](https://github.com/PHPCSStandards/PHP_CodeSniffer/releases/tag/3.10.2) (3 days ago)
 - [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) - [6.0.0-beta](https://github.com/jsonrainbow/json-schema/releases/tag/6.0.0-beta) (2 weeks ago)
 - [infi-nl/timechimp-billability-chart](https://github.com/infi-nl/timechimp-billability-chart) - [v1.8.2](https://github.com/infi-nl/timechimp-billability-chart/releases/tag/v1.8.2) (3 weeks ago)
 - [barryvdh/laravel-dompdf](https://github.com/barryvdh/laravel-dompdf) - [v3.0.0-beta2](https://github.com/barryvdh/laravel-dompdf/releases/tag/v3.0.0-beta2) (1 month ago)
