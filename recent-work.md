@@ -6,6 +6,7 @@ title: 👨‍💻 Current Activities
 #### 💻 Check out what I'm currently working on
 
 - [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (today)
+- [genkgo/camt](https://github.com/genkgo/camt) (1 day ago)
 - [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (1 day ago)
 - [infi-nl/everybody-codes](https://github.com/infi-nl/everybody-codes) (3 weeks ago)
 - [deployphp/deployer](https://github.com/deployphp/deployer) (3 weeks ago)
@@ -14,7 +15,6 @@ title: 👨‍💻 Current Activities
 - [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (2 months ago)
 - [DannyvdSluijs/exact-online-meta-data-tool](https://github.com/DannyvdSluijs/exact-online-meta-data-tool) (3 months ago)
 - [egulias/EmailValidator](https://github.com/egulias/EmailValidator) (3 months ago)
-- [PHPCSStandards/PHP_CodeSniffer](https://github.com/PHPCSStandards/PHP_CodeSniffer) (3 months ago)
 
 
 #### 📜 My recent blog posts
@@ -46,6 +46,7 @@ title: 👨‍💻 Current Activities
 
 #### 🔭 Latest releases I've contributed to
 
+- [genkgo/camt](https://github.com/genkgo/camt) - [2.8.0](https://github.com/genkgo/camt/releases/tag/2.8.0) (today)
 - [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) - [6.0.0](https://github.com/jsonrainbow/json-schema/releases/tag/6.0.0) (1 week ago)
 - [PHPCSStandards/PHP_CodeSniffer](https://github.com/PHPCSStandards/PHP_CodeSniffer) - [3.10.2](https://github.com/PHPCSStandards/PHP_CodeSniffer/releases/tag/3.10.2) (2 weeks ago)
 - [infi-nl/timechimp-billability-chart](https://github.com/infi-nl/timechimp-billability-chart) - [v1.8.2](https://github.com/infi-nl/timechimp-billability-chart/releases/tag/v1.8.2) (1 month ago)
@@ -55,4 +56,3 @@ title: 👨‍💻 Current Activities
 - [picqer/exact-php-client](https://github.com/picqer/exact-php-client) - [v4.4.0](https://github.com/picqer/exact-php-client/releases/tag/v4.4.0) (3 months ago)
 - [DannyvdSluijs/exact-online-meta-data-tool](https://github.com/DannyvdSluijs/exact-online-meta-data-tool) - [2.1.0](https://github.com/DannyvdSluijs/exact-online-meta-data-tool/releases/tag/2.1.0) (3 months ago)
 - [deployphp/deployer](https://github.com/deployphp/deployer) - [v7.4.0](https://github.com/deployphp/deployer/releases/tag/v7.4.0) (3 months ago)
-- [fedeisas/laravel-mail-css-inliner](https://github.com/fedeisas/laravel-mail-css-inliner) - [5.3.0](https://github.com/fedeisas/laravel-mail-css-inliner/releases/tag/5.3.0) (3 months ago)
