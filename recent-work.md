@@ -5,9 +5,9 @@ title: 👨‍💻 Current Activities
 
 #### 💻 Check out what I'm currently working on
 
-- [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (1 day ago)
-- [genkgo/camt](https://github.com/genkgo/camt) (4 days ago)
-- [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (4 days ago)
+- [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (2 days ago)
+- [genkgo/camt](https://github.com/genkgo/camt) (5 days ago)
+- [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (5 days ago)
 - [infi-nl/everybody-codes](https://github.com/infi-nl/everybody-codes) (3 weeks ago)
 - [deployphp/deployer](https://github.com/deployphp/deployer) (3 weeks ago)
 - [infi-nl/the-infi-way](https://github.com/infi-nl/the-infi-way) (1 month ago)
@@ -27,7 +27,7 @@ title: 👨‍💻 Current Activities
 
 #### 🔨 My recent Pull Requests
 
-- [Extend pipeline for newer versions php](https://github.com/jsonrainbow/json-schema/pull/746) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (4 days ago)
+- [Extend pipeline for newer versions php](https://github.com/jsonrainbow/json-schema/pull/746) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (5 days ago)
 - [test: Correct casing of paths used in tests](https://github.com/jsonrainbow/json-schema/pull/745) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (1 week ago)
 - [Extend pipeline for newer versions php](https://github.com/jsonrainbow/json-schema/pull/744) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (1 week ago)
 - [Add missing property in uri resolver test](https://github.com/jsonrainbow/json-schema/pull/743) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (1 week ago)
@@ -46,8 +46,8 @@ title: 👨‍💻 Current Activities
 
 #### 🔭 Latest releases I've contributed to
 
-- [barryvdh/laravel-dompdf](https://github.com/barryvdh/laravel-dompdf) - [v3.0.0](https://github.com/barryvdh/laravel-dompdf/releases/tag/v3.0.0) (today)
-- [genkgo/camt](https://github.com/genkgo/camt) - [2.8.0](https://github.com/genkgo/camt/releases/tag/2.8.0) (3 days ago)
+- [barryvdh/laravel-dompdf](https://github.com/barryvdh/laravel-dompdf) - [v3.0.0](https://github.com/barryvdh/laravel-dompdf/releases/tag/v3.0.0) (1 day ago)
+- [genkgo/camt](https://github.com/genkgo/camt) - [2.8.0](https://github.com/genkgo/camt/releases/tag/2.8.0) (4 days ago)
 - [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) - [6.0.0](https://github.com/jsonrainbow/json-schema/releases/tag/6.0.0) (1 week ago)
 - [PHPCSStandards/PHP_CodeSniffer](https://github.com/PHPCSStandards/PHP_CodeSniffer) - [3.10.2](https://github.com/PHPCSStandards/PHP_CodeSniffer/releases/tag/3.10.2) (2 weeks ago)
 - [infi-nl/timechimp-billability-chart](https://github.com/infi-nl/timechimp-billability-chart) - [v1.8.2](https://github.com/infi-nl/timechimp-billability-chart/releases/tag/v1.8.2) (1 month ago)
