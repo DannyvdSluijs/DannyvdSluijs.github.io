@@ -46,7 +46,7 @@ title: 👨‍💻 Current Activities
 
 #### 🔭 Latest releases I've contributed to
 
-- [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) - [0.1.28](https://github.com/staabm/phpstan-todo-by/releases/tag/0.1.28) (3 days ago)
+- [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) - [0.1.28](https://github.com/staabm/phpstan-todo-by/releases/tag/0.1.28) (4 days ago)
 - [barryvdh/laravel-dompdf](https://github.com/barryvdh/laravel-dompdf) - [v3.0.0](https://github.com/barryvdh/laravel-dompdf/releases/tag/v3.0.0) (1 week ago)
 - [genkgo/camt](https://github.com/genkgo/camt) - [2.8.0](https://github.com/genkgo/camt/releases/tag/2.8.0) (1 week ago)
 - [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) - [6.0.0](https://github.com/jsonrainbow/json-schema/releases/tag/6.0.0) (2 weeks ago)
