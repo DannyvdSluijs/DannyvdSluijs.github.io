@@ -10,7 +10,7 @@ title: 👨‍💻 Current Activities
 - [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (2 weeks ago)
 - [infi-nl/everybody-codes](https://github.com/infi-nl/everybody-codes) (1 month ago)
 - [deployphp/deployer](https://github.com/deployphp/deployer) (1 month ago)
-- [infi-nl/the-infi-way](https://github.com/infi-nl/the-infi-way) (1 month ago)
+- [infi-nl/the-infi-way](https://github.com/infi-nl/the-infi-way) (2 months ago)
 - [DannyvdSluijs/DannyvdSluijs.github.io](https://github.com/DannyvdSluijs/DannyvdSluijs.github.io) (3 months ago)
 - [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (3 months ago)
 - [DannyvdSluijs/exact-online-meta-data-tool](https://github.com/DannyvdSluijs/exact-online-meta-data-tool) (3 months ago)
