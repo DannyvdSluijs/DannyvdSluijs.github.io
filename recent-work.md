@@ -5,8 +5,8 @@ title: 👨‍💻 Current Activities
 
 #### 💻 Check out what I'm currently working on
 
-- [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (today)
-- [DannyvdSluijs/ProjectEuler](https://github.com/DannyvdSluijs/ProjectEuler) (4 days ago)
+- [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (1 day ago)
+- [DannyvdSluijs/ProjectEuler](https://github.com/DannyvdSluijs/ProjectEuler) (5 days ago)
 - [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (3 weeks ago)
 - [genkgo/camt](https://github.com/genkgo/camt) (3 weeks ago)
 - [infi-nl/everybody-codes](https://github.com/infi-nl/everybody-codes) (1 month ago)
@@ -27,14 +27,14 @@ title: 👨‍💻 Current Activities
 
 #### 🔨 My recent Pull Requests
 
-- [feat: Update based on documentation d.d. 2024-08-27](https://github.com/picqer/exact-php-client/pull/656) on [picqer/exact-php-client](https://github.com/picqer/exact-php-client) (3 days ago)
-- [Add return types to test suite](https://github.com/jsonrainbow/json-schema/pull/748) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (3 days ago)
-- [refactor: Replace traditional syntax array with short syntax array](https://github.com/jsonrainbow/json-schema/pull/747) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (3 days ago)
+- [feat: Update based on documentation d.d. 2024-08-27](https://github.com/picqer/exact-php-client/pull/656) on [picqer/exact-php-client](https://github.com/picqer/exact-php-client) (4 days ago)
+- [Add return types to test suite](https://github.com/jsonrainbow/json-schema/pull/748) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (4 days ago)
+- [refactor: Replace traditional syntax array with short syntax array](https://github.com/jsonrainbow/json-schema/pull/747) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (4 days ago)
 - [Extend pipeline for newer versions php](https://github.com/jsonrainbow/json-schema/pull/746) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (3 weeks ago)
 - [test: Correct casing of paths used in tests](https://github.com/jsonrainbow/json-schema/pull/745) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (4 weeks ago)
 - [Extend pipeline for newer versions php](https://github.com/jsonrainbow/json-schema/pull/744) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (4 weeks ago)
 - [Add missing property in uri resolver test](https://github.com/jsonrainbow/json-schema/pull/743) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (4 weeks ago)
-- [feat: Add FWAV, INFO, ITAV, ITBD and XPCD balance types](https://github.com/genkgo/camt/pull/157) on [genkgo/camt](https://github.com/genkgo/camt) (4 weeks ago)
+- [feat: Add FWAV, INFO, ITAV, ITBD and XPCD balance types](https://github.com/genkgo/camt/pull/157) on [genkgo/camt](https://github.com/genkgo/camt) (1 month ago)
 - [Correct misconfigured mocks in JsonSchema\Tests\Uri\UriRetrieverTest ](https://github.com/jsonrainbow/json-schema/pull/741) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (1 month ago)
 - [Drop support for PHP &lt;= 7.1 and explicit support for PHP &gt;= 8.0](https://github.com/jsonrainbow/json-schema/pull/740) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (1 month ago)
 - [Drop support for PHP &lt;= 7.1 and explicit support for PHP &gt;= 8.0](https://github.com/jsonrainbow/json-schema/pull/739) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (1 month ago)
