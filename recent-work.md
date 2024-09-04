@@ -5,11 +5,11 @@ title: 👨‍💻 Current Activities
 
 #### 💻 Check out what I'm currently working on
 
-- [DannyvdSluijs/AoC-2023](https://github.com/DannyvdSluijs/AoC-2023) (today)
-- [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (3 days ago)
-- [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (4 days ago)
+- [DannyvdSluijs/AoC-2023](https://github.com/DannyvdSluijs/AoC-2023) (1 day ago)
+- [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (4 days ago)
+- [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (5 days ago)
 - [DannyvdSluijs/ProjectEuler](https://github.com/DannyvdSluijs/ProjectEuler) (1 week ago)
-- [genkgo/camt](https://github.com/genkgo/camt) (4 weeks ago)
+- [genkgo/camt](https://github.com/genkgo/camt) (1 month ago)
 - [deployphp/deployer](https://github.com/deployphp/deployer) (1 month ago)
 - [infi-nl/everybody-codes](https://github.com/infi-nl/everybody-codes) (1 month ago)
 - [infi-nl/the-infi-way](https://github.com/infi-nl/the-infi-way) (2 months ago)
@@ -30,7 +30,7 @@ title: 👨‍💻 Current Activities
 - [feat: Update based on documentation d.d. 2024-08-27](https://github.com/picqer/exact-php-client/pull/656) on [picqer/exact-php-client](https://github.com/picqer/exact-php-client) (1 week ago)
 - [Add return types to test suite](https://github.com/jsonrainbow/json-schema/pull/748) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (1 week ago)
 - [refactor: Replace traditional syntax array with short syntax array](https://github.com/jsonrainbow/json-schema/pull/747) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (1 week ago)
-- [Extend pipeline for newer versions php](https://github.com/jsonrainbow/json-schema/pull/746) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (4 weeks ago)
+- [Extend pipeline for newer versions php](https://github.com/jsonrainbow/json-schema/pull/746) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (1 month ago)
 - [test: Correct casing of paths used in tests](https://github.com/jsonrainbow/json-schema/pull/745) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (1 month ago)
 - [Extend pipeline for newer versions php](https://github.com/jsonrainbow/json-schema/pull/744) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (1 month ago)
 - [Add missing property in uri resolver test](https://github.com/jsonrainbow/json-schema/pull/743) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (1 month ago)
@@ -52,7 +52,7 @@ title: 👨‍💻 Current Activities
 - [PHPCSStandards/PHP_CodeSniffer](https://github.com/PHPCSStandards/PHP_CodeSniffer) - [3.10.2](https://github.com/PHPCSStandards/PHP_CodeSniffer/releases/tag/3.10.2) (1 month ago)
 - [infi-nl/timechimp-billability-chart](https://github.com/infi-nl/timechimp-billability-chart) - [v1.8.2](https://github.com/infi-nl/timechimp-billability-chart/releases/tag/v1.8.2) (2 months ago)
 - [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) - [2.22.2](https://github.com/JsonMapper/JsonMapper/releases/tag/2.22.2) (3 months ago)
-- [picqer/exact-php-client](https://github.com/picqer/exact-php-client) - [v4.4.0](https://github.com/picqer/exact-php-client/releases/tag/v4.4.0) (3 months ago)
+- [picqer/exact-php-client](https://github.com/picqer/exact-php-client) - [v4.4.0](https://github.com/picqer/exact-php-client/releases/tag/v4.4.0) (4 months ago)
 - [DannyvdSluijs/exact-online-meta-data-tool](https://github.com/DannyvdSluijs/exact-online-meta-data-tool) - [2.1.0](https://github.com/DannyvdSluijs/exact-online-meta-data-tool/releases/tag/2.1.0) (4 months ago)
 - [deployphp/deployer](https://github.com/deployphp/deployer) - [v7.4.0](https://github.com/deployphp/deployer/releases/tag/v7.4.0) (4 months ago)
 - [fedeisas/laravel-mail-css-inliner](https://github.com/fedeisas/laravel-mail-css-inliner) - [5.3.0](https://github.com/fedeisas/laravel-mail-css-inliner/releases/tag/5.3.0) (4 months ago)
