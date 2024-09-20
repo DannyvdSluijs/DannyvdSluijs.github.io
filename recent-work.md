@@ -5,15 +5,15 @@ title: 👨‍💻 Current Activities
 
 #### 💻 Check out what I'm currently working on
 
+- [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (today)
 - [infi-nl/the-infi-way](https://github.com/infi-nl/the-infi-way) (2 days ago)
-- [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (1 week ago)
 - [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (1 week ago)
 - [bowtie-json-schema/bowtie](https://github.com/bowtie-json-schema/bowtie) (1 week ago)
 - [DannyvdSluijs/AoC-2023](https://github.com/DannyvdSluijs/AoC-2023) (2 weeks ago)
 - [DannyvdSluijs/ProjectEuler](https://github.com/DannyvdSluijs/ProjectEuler) (3 weeks ago)
 - [genkgo/camt](https://github.com/genkgo/camt) (1 month ago)
-- [infi-nl/everybody-codes](https://github.com/infi-nl/everybody-codes) (2 months ago)
 - [deployphp/deployer](https://github.com/deployphp/deployer) (2 months ago)
+- [infi-nl/everybody-codes](https://github.com/infi-nl/everybody-codes) (2 months ago)
 - [DannyvdSluijs/DannyvdSluijs.github.io](https://github.com/DannyvdSluijs/DannyvdSluijs.github.io) (4 months ago)
 
 
