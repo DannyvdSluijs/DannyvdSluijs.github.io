@@ -27,6 +27,7 @@ title: 👨‍💻 Current Activities
 
 #### 🔨 My recent Pull Requests
 
+- [Update functionMap.php for SplFileInfo::getPathInfo return type](https://github.com/phpstan/phpstan-src/pull/3487) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Resolve deprecations: Optional parameter $... declared before required parameter $...](https://github.com/jsonrainbow/json-schema/pull/752) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (1 week ago)
 - [Add PHP justinrainbow/json-schema implementation](https://github.com/bowtie-json-schema/bowtie/pull/1512) on [bowtie-json-schema/bowtie](https://github.com/bowtie-json-schema/bowtie) (2 weeks ago)
 - [feat: Update based on documentation d.d. 2024-08-27](https://github.com/picqer/exact-php-client/pull/656) on [picqer/exact-php-client](https://github.com/picqer/exact-php-client) (1 month ago)
@@ -41,7 +42,6 @@ title: 👨‍💻 Current Activities
 - [Drop support for PHP &lt;= 7.1 and explicit support for PHP &gt;= 8.0](https://github.com/jsonrainbow/json-schema/pull/740) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (1 month ago)
 - [Drop support for PHP &lt;= 7.1 and explicit support for PHP &gt;= 8.0](https://github.com/jsonrainbow/json-schema/pull/739) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (1 month ago)
 - [build: Update json-schema to v6 beta](https://github.com/DannyvdSluijs/infection/pull/1) on [DannyvdSluijs/infection](https://github.com/DannyvdSluijs/infection) (2 months ago)
-- [Update json schema v6 beta](https://github.com/DannyvdSluijs/json-normalizer/pull/1) on [DannyvdSluijs/json-normalizer](https://github.com/DannyvdSluijs/json-normalizer) (2 months ago)
 
 
 #### 🔭 Latest releases I've contributed to
