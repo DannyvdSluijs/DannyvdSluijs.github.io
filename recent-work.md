@@ -6,6 +6,7 @@ title: 👨‍💻 Current Activities
 #### 💻 Check out what I'm currently working on
 
 - [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (today)
+- [DannyvdSluijs/DannyvdSluijs.github.io](https://github.com/DannyvdSluijs/DannyvdSluijs.github.io) (today)
 - [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (1 week ago)
 - [infi-nl/the-infi-way](https://github.com/infi-nl/the-infi-way) (1 week ago)
 - [bowtie-json-schema/bowtie](https://github.com/bowtie-json-schema/bowtie) (3 weeks ago)
@@ -14,7 +15,6 @@ title: 👨‍💻 Current Activities
 - [genkgo/camt](https://github.com/genkgo/camt) (1 month ago)
 - [deployphp/deployer](https://github.com/deployphp/deployer) (2 months ago)
 - [infi-nl/everybody-codes](https://github.com/infi-nl/everybody-codes) (2 months ago)
-- [DannyvdSluijs/DannyvdSluijs.github.io](https://github.com/DannyvdSluijs/DannyvdSluijs.github.io) (4 months ago)
 
 
 #### 📜 My recent blog posts
