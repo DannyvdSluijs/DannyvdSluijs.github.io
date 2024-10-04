@@ -27,6 +27,7 @@ title: 👨‍💻 Current Activities
 
 #### 🔨 My recent Pull Requests
 
+- [refactor: add visibility modifiers to class constants](https://github.com/jsonrainbow/json-schema/pull/757) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (today)
 - [Update functionMap.php for SplFileInfo::getPathInfo return type](https://github.com/phpstan/phpstan-src/pull/3487) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [Resolve deprecations: Optional parameter $... declared before required parameter $...](https://github.com/jsonrainbow/json-schema/pull/752) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (3 weeks ago)
 - [Add PHP justinrainbow/json-schema implementation](https://github.com/bowtie-json-schema/bowtie/pull/1512) on [bowtie-json-schema/bowtie](https://github.com/bowtie-json-schema/bowtie) (3 weeks ago)
@@ -41,7 +42,6 @@ title: 👨‍💻 Current Activities
 - [Correct misconfigured mocks in JsonSchema\Tests\Uri\UriRetrieverTest ](https://github.com/jsonrainbow/json-schema/pull/741) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (2 months ago)
 - [Drop support for PHP &lt;= 7.1 and explicit support for PHP &gt;= 8.0](https://github.com/jsonrainbow/json-schema/pull/740) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (2 months ago)
 - [Drop support for PHP &lt;= 7.1 and explicit support for PHP &gt;= 8.0](https://github.com/jsonrainbow/json-schema/pull/739) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (2 months ago)
-- [build: Update json-schema to v6 beta](https://github.com/DannyvdSluijs/infection/pull/1) on [DannyvdSluijs/infection](https://github.com/DannyvdSluijs/infection) (2 months ago)
 
 
 #### 🔭 Latest releases I've contributed to
