@@ -5,6 +5,7 @@ title: 👨‍💻 Current Activities
 
 #### 💻 Check out what I'm currently working on
 
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (2 days ago)
 - [DannyvdSluijs/DannyvdSluijs.github.io](https://github.com/DannyvdSluijs/DannyvdSluijs.github.io) (5 days ago)
 - [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (2 weeks ago)
@@ -14,7 +15,6 @@ title: 👨‍💻 Current Activities
 - [picqer/exact-php-client](https://github.com/picqer/exact-php-client) (1 month ago)
 - [DannyvdSluijs/ProjectEuler](https://github.com/DannyvdSluijs/ProjectEuler) (1 month ago)
 - [genkgo/camt](https://github.com/genkgo/camt) (2 months ago)
-- [infi-nl/everybody-codes](https://github.com/infi-nl/everybody-codes) (2 months ago)
 
 
 #### 📜 My recent blog posts
