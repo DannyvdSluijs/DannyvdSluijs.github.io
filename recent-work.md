@@ -27,6 +27,7 @@ title: 👨‍💻 Current Activities
 
 #### 🔨 My recent Pull Requests
 
+- [Update README.md correct images paths](https://github.com/xirixiz/homeassistant-afvalwijzer/pull/320) on [xirixiz/homeassistant-afvalwijzer](https://github.com/xirixiz/homeassistant-afvalwijzer) (today)
 - [refactor: add visibility modifiers to class constants](https://github.com/jsonrainbow/json-schema/pull/757) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (3 days ago)
 - [Update functionMap.php for SplFileInfo::getPathInfo return type](https://github.com/phpstan/phpstan-src/pull/3487) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [Resolve deprecations: Optional parameter $... declared before required parameter $...](https://github.com/jsonrainbow/json-schema/pull/752) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (3 weeks ago)
@@ -41,7 +42,6 @@ title: 👨‍💻 Current Activities
 - [feat: Add FWAV, INFO, ITAV, ITBD and XPCD balance types](https://github.com/genkgo/camt/pull/157) on [genkgo/camt](https://github.com/genkgo/camt) (2 months ago)
 - [Correct misconfigured mocks in JsonSchema\Tests\Uri\UriRetrieverTest ](https://github.com/jsonrainbow/json-schema/pull/741) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (2 months ago)
 - [Drop support for PHP &lt;= 7.1 and explicit support for PHP &gt;= 8.0](https://github.com/jsonrainbow/json-schema/pull/740) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (2 months ago)
-- [Drop support for PHP &lt;= 7.1 and explicit support for PHP &gt;= 8.0](https://github.com/jsonrainbow/json-schema/pull/739) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (2 months ago)
 
 
 #### 🔭 Latest releases I've contributed to
