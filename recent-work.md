@@ -5,7 +5,7 @@ title: 👨‍💻 Current Activities
 
 #### 💻 Check out what I'm currently working on
 
-- [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (2 days ago)
+- [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (today)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 - [DannyvdSluijs/DannyvdSluijs.github.io](https://github.com/DannyvdSluijs/DannyvdSluijs.github.io) (1 week ago)
 - [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (2 weeks ago)
