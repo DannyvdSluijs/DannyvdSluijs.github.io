@@ -46,7 +46,7 @@ title: 👨‍💻 Current Activities
 
 #### 🔭 Latest releases I've contributed to
 
-- [bowtie-json-schema/bowtie](https://github.com/bowtie-json-schema/bowtie) - [v2024.10.3](https://github.com/bowtie-json-schema/bowtie/releases/tag/v2024.10.3) (1 day ago)
+- [bowtie-json-schema/bowtie](https://github.com/bowtie-json-schema/bowtie) - [v2024.10.4](https://github.com/bowtie-json-schema/bowtie/releases/tag/v2024.10.4) (today)
 - [deployphp/deployer](https://github.com/deployphp/deployer) - [v7.4.1](https://github.com/deployphp/deployer/releases/tag/v7.4.1) (5 days ago)
 - [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) - [0.1.32](https://github.com/staabm/phpstan-todo-by/releases/tag/0.1.32) (1 week ago)
 - [picqer/exact-php-client](https://github.com/picqer/exact-php-client) - [v4.4.1](https://github.com/picqer/exact-php-client/releases/tag/v4.4.1) (2 weeks ago)
