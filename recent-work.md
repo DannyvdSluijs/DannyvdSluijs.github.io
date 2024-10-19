@@ -5,7 +5,7 @@ title: 👨‍💻 Current Activities
 
 #### 💻 Check out what I'm currently working on
 
-- [webmozarts/assert](https://github.com/webmozarts/assert) (3 days ago)
+- [webmozarts/assert](https://github.com/webmozarts/assert) (4 days ago)
 - [DannyvdSluijs/AoC-2016](https://github.com/DannyvdSluijs/AoC-2016) (1 week ago)
 - [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (1 week ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
@@ -46,8 +46,8 @@ title: 👨‍💻 Current Activities
 
 #### 🔭 Latest releases I've contributed to
 
-- [bowtie-json-schema/bowtie](https://github.com/bowtie-json-schema/bowtie) - [v2024.10.4](https://github.com/bowtie-json-schema/bowtie/releases/tag/v2024.10.4) (1 day ago)
-- [deployphp/deployer](https://github.com/deployphp/deployer) - [v7.4.1](https://github.com/deployphp/deployer/releases/tag/v7.4.1) (6 days ago)
+- [bowtie-json-schema/bowtie](https://github.com/bowtie-json-schema/bowtie) - [v2024.10.4](https://github.com/bowtie-json-schema/bowtie/releases/tag/v2024.10.4) (2 days ago)
+- [deployphp/deployer](https://github.com/deployphp/deployer) - [v7.4.1](https://github.com/deployphp/deployer/releases/tag/v7.4.1) (1 week ago)
 - [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) - [0.1.32](https://github.com/staabm/phpstan-todo-by/releases/tag/0.1.32) (1 week ago)
 - [picqer/exact-php-client](https://github.com/picqer/exact-php-client) - [v4.4.1](https://github.com/picqer/exact-php-client/releases/tag/v4.4.1) (2 weeks ago)
 - [PHPCSStandards/PHP_CodeSniffer](https://github.com/PHPCSStandards/PHP_CodeSniffer) - [3.10.3](https://github.com/PHPCSStandards/PHP_CodeSniffer/releases/tag/3.10.3) (1 month ago)
