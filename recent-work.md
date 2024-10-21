@@ -5,7 +5,7 @@ title: 👨‍💻 Current Activities
 
 #### 💻 Check out what I'm currently working on
 
-- [webmozarts/assert](https://github.com/webmozarts/assert) (5 days ago)
+- [webmozarts/assert](https://github.com/webmozarts/assert) (6 days ago)
 - [DannyvdSluijs/AoC-2016](https://github.com/DannyvdSluijs/AoC-2016) (1 week ago)
 - [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (1 week ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 weeks ago)
@@ -28,7 +28,7 @@ title: 👨‍💻 Current Activities
 #### 🔨 My recent Pull Requests
 
 - [refactor: add declare strict_types to all classes in ./src](https://github.com/jsonrainbow/json-schema/pull/758) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (1 week ago)
-- [Update README.md correct images paths](https://github.com/xirixiz/homeassistant-afvalwijzer/pull/320) on [xirixiz/homeassistant-afvalwijzer](https://github.com/xirixiz/homeassistant-afvalwijzer) (1 week ago)
+- [Update README.md correct images paths](https://github.com/xirixiz/homeassistant-afvalwijzer/pull/320) on [xirixiz/homeassistant-afvalwijzer](https://github.com/xirixiz/homeassistant-afvalwijzer) (2 weeks ago)
 - [refactor: add visibility modifiers to class constants](https://github.com/jsonrainbow/json-schema/pull/757) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (2 weeks ago)
 - [Update functionMap.php for SplFileInfo::getPathInfo return type](https://github.com/phpstan/phpstan-src/pull/3487) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 weeks ago)
 - [Resolve deprecations: Optional parameter $... declared before required parameter $...](https://github.com/jsonrainbow/json-schema/pull/752) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (1 month ago)
@@ -46,8 +46,8 @@ title: 👨‍💻 Current Activities
 
 #### 🔭 Latest releases I've contributed to
 
-- [deployphp/deployer](https://github.com/deployphp/deployer) - [v7.5.0-beta](https://github.com/deployphp/deployer/releases/tag/v7.5.0-beta) (1 day ago)
-- [bowtie-json-schema/bowtie](https://github.com/bowtie-json-schema/bowtie) - [v2024.10.4](https://github.com/bowtie-json-schema/bowtie/releases/tag/v2024.10.4) (3 days ago)
+- [deployphp/deployer](https://github.com/deployphp/deployer) - [v7.5.0-beta](https://github.com/deployphp/deployer/releases/tag/v7.5.0-beta) (2 days ago)
+- [bowtie-json-schema/bowtie](https://github.com/bowtie-json-schema/bowtie) - [v2024.10.4](https://github.com/bowtie-json-schema/bowtie/releases/tag/v2024.10.4) (4 days ago)
 - [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) - [0.1.32](https://github.com/staabm/phpstan-todo-by/releases/tag/0.1.32) (1 week ago)
 - [picqer/exact-php-client](https://github.com/picqer/exact-php-client) - [v4.4.1](https://github.com/picqer/exact-php-client/releases/tag/v4.4.1) (2 weeks ago)
 - [PHPCSStandards/PHP_CodeSniffer](https://github.com/PHPCSStandards/PHP_CodeSniffer) - [3.10.3](https://github.com/PHPCSStandards/PHP_CodeSniffer/releases/tag/3.10.3) (1 month ago)
