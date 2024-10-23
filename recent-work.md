@@ -5,8 +5,8 @@ title: 👨‍💻 Current Activities
 
 #### 💻 Check out what I'm currently working on
 
-- [DannyvdSluijs/AoC-2016](https://github.com/DannyvdSluijs/AoC-2016) (today)
-- [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (1 day ago)
+- [DannyvdSluijs/AoC-2016](https://github.com/DannyvdSluijs/AoC-2016) (1 day ago)
+- [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (2 days ago)
 - [webmozarts/assert](https://github.com/webmozarts/assert) (1 week ago)
 - [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (1 week ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 weeks ago)
@@ -46,10 +46,10 @@ title: 👨‍💻 Current Activities
 
 #### 🔭 Latest releases I've contributed to
 
-- [deployphp/deployer](https://github.com/deployphp/deployer) - [v7.5.3](https://github.com/deployphp/deployer/releases/tag/v7.5.3) (today)
-- [bowtie-json-schema/bowtie](https://github.com/bowtie-json-schema/bowtie) - [v2024.10.5](https://github.com/bowtie-json-schema/bowtie/releases/tag/v2024.10.5) (1 day ago)
+- [deployphp/deployer](https://github.com/deployphp/deployer) - [v7.5.3](https://github.com/deployphp/deployer/releases/tag/v7.5.3) (1 day ago)
+- [bowtie-json-schema/bowtie](https://github.com/bowtie-json-schema/bowtie) - [v2024.10.5](https://github.com/bowtie-json-schema/bowtie/releases/tag/v2024.10.5) (2 days ago)
 - [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) - [0.1.32](https://github.com/staabm/phpstan-todo-by/releases/tag/0.1.32) (2 weeks ago)
-- [picqer/exact-php-client](https://github.com/picqer/exact-php-client) - [v4.4.1](https://github.com/picqer/exact-php-client/releases/tag/v4.4.1) (2 weeks ago)
+- [picqer/exact-php-client](https://github.com/picqer/exact-php-client) - [v4.4.1](https://github.com/picqer/exact-php-client/releases/tag/v4.4.1) (3 weeks ago)
 - [PHPCSStandards/PHP_CodeSniffer](https://github.com/PHPCSStandards/PHP_CodeSniffer) - [3.10.3](https://github.com/PHPCSStandards/PHP_CodeSniffer/releases/tag/3.10.3) (1 month ago)
 - [genkgo/camt](https://github.com/genkgo/camt) - [2.8.0](https://github.com/genkgo/camt/releases/tag/2.8.0) (2 months ago)
 - [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) - [6.0.0](https://github.com/jsonrainbow/json-schema/releases/tag/6.0.0) (2 months ago)
