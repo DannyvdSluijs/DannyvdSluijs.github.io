@@ -46,9 +46,9 @@ title: 👨‍💻 Current Activities
 
 #### 🔭 Latest releases I've contributed to
 
+- [bowtie-json-schema/bowtie](https://github.com/bowtie-json-schema/bowtie) - [v2024.11.2](https://github.com/bowtie-json-schema/bowtie/releases/tag/v2024.11.2) (today)
 - [picqer/exact-php-client](https://github.com/picqer/exact-php-client) - [v4.4.2](https://github.com/picqer/exact-php-client/releases/tag/v4.4.2) (1 day ago)
 - [DannyvdSluijs/exact-online-meta-data-tool](https://github.com/DannyvdSluijs/exact-online-meta-data-tool) - [3.0.0](https://github.com/DannyvdSluijs/exact-online-meta-data-tool/releases/tag/3.0.0) (3 days ago)
-- [bowtie-json-schema/bowtie](https://github.com/bowtie-json-schema/bowtie) - [v2024.10.6](https://github.com/bowtie-json-schema/bowtie/releases/tag/v2024.10.6) (5 days ago)
 - [deployphp/deployer](https://github.com/deployphp/deployer) - [v7.5.4](https://github.com/deployphp/deployer/releases/tag/v7.5.4) (1 week ago)
 - [thephpleague/container](https://github.com/thephpleague/container) - [4.2.3](https://github.com/thephpleague/container/releases/tag/4.2.3) (1 week ago)
 - [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) - [0.1.32](https://github.com/staabm/phpstan-todo-by/releases/tag/0.1.32) (3 weeks ago)
