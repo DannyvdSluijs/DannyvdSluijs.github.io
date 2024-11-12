@@ -9,9 +9,9 @@ title: 👨‍💻 Current Activities
 - [DannyvdSluijs/exact-online-meta-data-tool](https://github.com/DannyvdSluijs/exact-online-meta-data-tool) (1 week ago)
 - [picqer/exact-php-client](https://github.com/picqer/exact-php-client) (2 weeks ago)
 - [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (2 weeks ago)
-- [DannyvdSluijs/AoC-2016](https://github.com/DannyvdSluijs/AoC-2016) (2 weeks ago)
+- [DannyvdSluijs/AoC-2016](https://github.com/DannyvdSluijs/AoC-2016) (3 weeks ago)
 - [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (3 weeks ago)
-- [webmozarts/assert](https://github.com/webmozarts/assert) (3 weeks ago)
+- [webmozarts/assert](https://github.com/webmozarts/assert) (4 weeks ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 month ago)
 - [DannyvdSluijs/DannyvdSluijs.github.io](https://github.com/DannyvdSluijs/DannyvdSluijs.github.io) (1 month ago)
 - [infi-nl/the-infi-way](https://github.com/infi-nl/the-infi-way) (1 month ago)
@@ -33,7 +33,7 @@ title: 👨‍💻 Current Activities
 - [Update README.md correct images paths](https://github.com/xirixiz/homeassistant-afvalwijzer/pull/320) on [xirixiz/homeassistant-afvalwijzer](https://github.com/xirixiz/homeassistant-afvalwijzer) (1 month ago)
 - [refactor: add visibility modifiers to class constants](https://github.com/jsonrainbow/json-schema/pull/757) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (1 month ago)
 - [Update functionMap.php for SplFileInfo::getPathInfo return type](https://github.com/phpstan/phpstan-src/pull/3487) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 month ago)
-- [Resolve deprecations: Optional parameter $... declared before required parameter $...](https://github.com/jsonrainbow/json-schema/pull/752) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (1 month ago)
+- [Resolve deprecations: Optional parameter $... declared before required parameter $...](https://github.com/jsonrainbow/json-schema/pull/752) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (2 months ago)
 - [Add PHP justinrainbow/json-schema implementation](https://github.com/bowtie-json-schema/bowtie/pull/1512) on [bowtie-json-schema/bowtie](https://github.com/bowtie-json-schema/bowtie) (2 months ago)
 - [feat: Update based on documentation d.d. 2024-08-27](https://github.com/picqer/exact-php-client/pull/656) on [picqer/exact-php-client](https://github.com/picqer/exact-php-client) (2 months ago)
 - [Add return types to test suite](https://github.com/jsonrainbow/json-schema/pull/748) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (2 months ago)
@@ -46,9 +46,9 @@ title: 👨‍💻 Current Activities
 
 #### 🔭 Latest releases I've contributed to
 
-- [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) - [0.2](https://github.com/staabm/phpstan-todo-by/releases/tag/0.2) (today)
-- [thephpleague/container](https://github.com/thephpleague/container) - [4.2.4](https://github.com/thephpleague/container/releases/tag/4.2.4) (1 day ago)
-- [deployphp/deployer](https://github.com/deployphp/deployer) - [v7.5.5](https://github.com/deployphp/deployer/releases/tag/v7.5.5) (3 days ago)
+- [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) - [0.2](https://github.com/staabm/phpstan-todo-by/releases/tag/0.2) (1 day ago)
+- [thephpleague/container](https://github.com/thephpleague/container) - [4.2.4](https://github.com/thephpleague/container/releases/tag/4.2.4) (2 days ago)
+- [deployphp/deployer](https://github.com/deployphp/deployer) - [v7.5.5](https://github.com/deployphp/deployer/releases/tag/v7.5.5) (4 days ago)
 - [bowtie-json-schema/bowtie](https://github.com/bowtie-json-schema/bowtie) - [v2024.11.3](https://github.com/bowtie-json-schema/bowtie/releases/tag/v2024.11.3) (1 week ago)
 - [picqer/exact-php-client](https://github.com/picqer/exact-php-client) - [v4.4.2](https://github.com/picqer/exact-php-client/releases/tag/v4.4.2) (1 week ago)
 - [DannyvdSluijs/exact-online-meta-data-tool](https://github.com/DannyvdSluijs/exact-online-meta-data-tool) - [3.0.0](https://github.com/DannyvdSluijs/exact-online-meta-data-tool/releases/tag/3.0.0) (1 week ago)
