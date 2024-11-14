@@ -11,7 +11,7 @@ title: 👨‍💻 Current Activities
 - [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (2 weeks ago)
 - [DannyvdSluijs/AoC-2016](https://github.com/DannyvdSluijs/AoC-2016) (3 weeks ago)
 - [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (3 weeks ago)
-- [webmozarts/assert](https://github.com/webmozarts/assert) (4 weeks ago)
+- [webmozarts/assert](https://github.com/webmozarts/assert) (1 month ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 month ago)
 - [DannyvdSluijs/DannyvdSluijs.github.io](https://github.com/DannyvdSluijs/DannyvdSluijs.github.io) (1 month ago)
 - [infi-nl/the-infi-way](https://github.com/infi-nl/the-infi-way) (1 month ago)
@@ -46,11 +46,11 @@ title: 👨‍💻 Current Activities
 
 #### 🔭 Latest releases I've contributed to
 
-- [bowtie-json-schema/bowtie](https://github.com/bowtie-json-schema/bowtie) - [v2024.11.5](https://github.com/bowtie-json-schema/bowtie/releases/tag/v2024.11.5) (today)
-- [PHPCSStandards/PHP_CodeSniffer](https://github.com/PHPCSStandards/PHP_CodeSniffer) - [3.11.0](https://github.com/PHPCSStandards/PHP_CodeSniffer/releases/tag/3.11.0) (1 day ago)
-- [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) - [0.2](https://github.com/staabm/phpstan-todo-by/releases/tag/0.2) (2 days ago)
-- [thephpleague/container](https://github.com/thephpleague/container) - [4.2.4](https://github.com/thephpleague/container/releases/tag/4.2.4) (3 days ago)
-- [deployphp/deployer](https://github.com/deployphp/deployer) - [v7.5.5](https://github.com/deployphp/deployer/releases/tag/v7.5.5) (5 days ago)
+- [bowtie-json-schema/bowtie](https://github.com/bowtie-json-schema/bowtie) - [v2024.11.5](https://github.com/bowtie-json-schema/bowtie/releases/tag/v2024.11.5) (1 day ago)
+- [PHPCSStandards/PHP_CodeSniffer](https://github.com/PHPCSStandards/PHP_CodeSniffer) - [3.11.0](https://github.com/PHPCSStandards/PHP_CodeSniffer/releases/tag/3.11.0) (2 days ago)
+- [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) - [0.2](https://github.com/staabm/phpstan-todo-by/releases/tag/0.2) (3 days ago)
+- [thephpleague/container](https://github.com/thephpleague/container) - [4.2.4](https://github.com/thephpleague/container/releases/tag/4.2.4) (4 days ago)
+- [deployphp/deployer](https://github.com/deployphp/deployer) - [v7.5.5](https://github.com/deployphp/deployer/releases/tag/v7.5.5) (6 days ago)
 - [picqer/exact-php-client](https://github.com/picqer/exact-php-client) - [v4.4.2](https://github.com/picqer/exact-php-client/releases/tag/v4.4.2) (1 week ago)
 - [DannyvdSluijs/exact-online-meta-data-tool](https://github.com/DannyvdSluijs/exact-online-meta-data-tool) - [3.0.0](https://github.com/DannyvdSluijs/exact-online-meta-data-tool/releases/tag/3.0.0) (2 weeks ago)
 - [genkgo/camt](https://github.com/genkgo/camt) - [2.8.0](https://github.com/genkgo/camt/releases/tag/2.8.0) (3 months ago)
