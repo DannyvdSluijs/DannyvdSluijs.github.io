@@ -46,8 +46,8 @@ title: 👨‍💻 Current Activities
 
 #### 🔭 Latest releases I've contributed to
 
+- [bowtie-json-schema/bowtie](https://github.com/bowtie-json-schema/bowtie) - [v2024.11.6](https://github.com/bowtie-json-schema/bowtie/releases/tag/v2024.11.6) (today)
 - [PHPCSStandards/PHP_CodeSniffer](https://github.com/PHPCSStandards/PHP_CodeSniffer) - [3.11.1](https://github.com/PHPCSStandards/PHP_CodeSniffer/releases/tag/3.11.1) (4 days ago)
-- [bowtie-json-schema/bowtie](https://github.com/bowtie-json-schema/bowtie) - [v2024.11.5](https://github.com/bowtie-json-schema/bowtie/releases/tag/v2024.11.5) (1 week ago)
 - [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) - [0.2](https://github.com/staabm/phpstan-todo-by/releases/tag/0.2) (1 week ago)
 - [thephpleague/container](https://github.com/thephpleague/container) - [4.2.4](https://github.com/thephpleague/container/releases/tag/4.2.4) (1 week ago)
 - [deployphp/deployer](https://github.com/deployphp/deployer) - [v7.5.5](https://github.com/deployphp/deployer/releases/tag/v7.5.5) (1 week ago)
