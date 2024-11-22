@@ -5,8 +5,8 @@ title: 👨‍💻 Current Activities
 
 #### 💻 Check out what I'm currently working on
 
-- [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (today)
-- [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (4 days ago)
+- [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (1 day ago)
+- [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (5 days ago)
 - [DannyvdSluijs/PicqerExactPhpClientGenerator](https://github.com/DannyvdSluijs/PicqerExactPhpClientGenerator) (2 weeks ago)
 - [DannyvdSluijs/exact-online-meta-data-tool](https://github.com/DannyvdSluijs/exact-online-meta-data-tool) (3 weeks ago)
 - [picqer/exact-php-client](https://github.com/picqer/exact-php-client) (3 weeks ago)
@@ -27,9 +27,9 @@ title: 👨‍💻 Current Activities
 
 #### 🔨 My recent Pull Requests
 
-- [Raise minimum level php enum](https://github.com/jsonrainbow/json-schema/pull/766) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (today)
-- [build: include php 8.4 in workflow](https://github.com/jsonrainbow/json-schema/pull/765) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (today)
-- [fix: correct phpstan baseline](https://github.com/jsonrainbow/json-schema/pull/764) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (today)
+- [Raise minimum level php enum](https://github.com/jsonrainbow/json-schema/pull/766) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (1 day ago)
+- [build: include php 8.4 in workflow](https://github.com/jsonrainbow/json-schema/pull/765) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (1 day ago)
+- [fix: correct phpstan baseline](https://github.com/jsonrainbow/json-schema/pull/764) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (1 day ago)
 - [build: update symfony to 6.4 lts](https://github.com/DannyvdSluijs/exact-online-meta-data-tool/pull/213) on [DannyvdSluijs/exact-online-meta-data-tool](https://github.com/DannyvdSluijs/exact-online-meta-data-tool) (3 weeks ago)
 - [feat: Update based on documentation d.d. 2024-10-28](https://github.com/picqer/exact-php-client/pull/661) on [picqer/exact-php-client](https://github.com/picqer/exact-php-client) (3 weeks ago)
 - [refactor: add declare strict_types to all classes in ./src](https://github.com/jsonrainbow/json-schema/pull/758) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (1 month ago)
@@ -46,12 +46,12 @@ title: 👨‍💻 Current Activities
 
 #### 🔭 Latest releases I've contributed to
 
-- [bowtie-json-schema/bowtie](https://github.com/bowtie-json-schema/bowtie) - [v2024.11.7](https://github.com/bowtie-json-schema/bowtie/releases/tag/v2024.11.7) (1 day ago)
-- [PHPCSStandards/PHP_CodeSniffer](https://github.com/PHPCSStandards/PHP_CodeSniffer) - [3.11.1](https://github.com/PHPCSStandards/PHP_CodeSniffer/releases/tag/3.11.1) (5 days ago)
+- [bowtie-json-schema/bowtie](https://github.com/bowtie-json-schema/bowtie) - [v2024.11.7](https://github.com/bowtie-json-schema/bowtie/releases/tag/v2024.11.7) (2 days ago)
+- [PHPCSStandards/PHP_CodeSniffer](https://github.com/PHPCSStandards/PHP_CodeSniffer) - [3.11.1](https://github.com/PHPCSStandards/PHP_CodeSniffer/releases/tag/3.11.1) (6 days ago)
 - [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) - [0.2](https://github.com/staabm/phpstan-todo-by/releases/tag/0.2) (1 week ago)
 - [thephpleague/container](https://github.com/thephpleague/container) - [4.2.4](https://github.com/thephpleague/container/releases/tag/4.2.4) (1 week ago)
-- [deployphp/deployer](https://github.com/deployphp/deployer) - [v7.5.5](https://github.com/deployphp/deployer/releases/tag/v7.5.5) (1 week ago)
-- [picqer/exact-php-client](https://github.com/picqer/exact-php-client) - [v4.4.2](https://github.com/picqer/exact-php-client/releases/tag/v4.4.2) (2 weeks ago)
+- [deployphp/deployer](https://github.com/deployphp/deployer) - [v7.5.5](https://github.com/deployphp/deployer/releases/tag/v7.5.5) (2 weeks ago)
+- [picqer/exact-php-client](https://github.com/picqer/exact-php-client) - [v4.4.2](https://github.com/picqer/exact-php-client/releases/tag/v4.4.2) (3 weeks ago)
 - [DannyvdSluijs/exact-online-meta-data-tool](https://github.com/DannyvdSluijs/exact-online-meta-data-tool) - [3.0.0](https://github.com/DannyvdSluijs/exact-online-meta-data-tool/releases/tag/3.0.0) (3 weeks ago)
 - [genkgo/camt](https://github.com/genkgo/camt) - [2.8.0](https://github.com/genkgo/camt/releases/tag/2.8.0) (3 months ago)
 - [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) - [6.0.0](https://github.com/jsonrainbow/json-schema/releases/tag/6.0.0) (3 months ago)
