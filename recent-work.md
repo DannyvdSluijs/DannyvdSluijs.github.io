@@ -46,7 +46,7 @@ title: 👨‍💻 Current Activities
 
 #### 🔭 Latest releases I've contributed to
 
-- [deployphp/deployer](https://github.com/deployphp/deployer) - [v7.5.6](https://github.com/deployphp/deployer/releases/tag/v7.5.6) (1 day ago)
+- [deployphp/deployer](https://github.com/deployphp/deployer) - [v7.5.7](https://github.com/deployphp/deployer/releases/tag/v7.5.7) (today)
 - [genkgo/camt](https://github.com/genkgo/camt) - [2.8.1](https://github.com/genkgo/camt/releases/tag/2.8.1) (1 day ago)
 - [bowtie-json-schema/bowtie](https://github.com/bowtie-json-schema/bowtie) - [v2024.11.7](https://github.com/bowtie-json-schema/bowtie/releases/tag/v2024.11.7) (1 week ago)
 - [PHPCSStandards/PHP_CodeSniffer](https://github.com/PHPCSStandards/PHP_CodeSniffer) - [3.11.1](https://github.com/PHPCSStandards/PHP_CodeSniffer/releases/tag/3.11.1) (1 week ago)
