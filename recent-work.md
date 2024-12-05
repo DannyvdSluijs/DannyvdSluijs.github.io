@@ -5,13 +5,13 @@ title: 👨‍💻 Current Activities
 
 #### 💻 Check out what I'm currently working on
 
-- [DannyvdSluijs/AoC-2024](https://github.com/DannyvdSluijs/AoC-2024) (today)
-- [DannyvdSluijs/AoC-2017](https://github.com/DannyvdSluijs/AoC-2017) (today)
-- [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (1 day ago)
-- [DannyvdSluijs/OpenSourceArmy](https://github.com/DannyvdSluijs/OpenSourceArmy) (5 days ago)
+- [DannyvdSluijs/AoC-2024](https://github.com/DannyvdSluijs/AoC-2024) (1 day ago)
+- [DannyvdSluijs/AoC-2017](https://github.com/DannyvdSluijs/AoC-2017) (1 day ago)
+- [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (2 days ago)
+- [DannyvdSluijs/OpenSourceArmy](https://github.com/DannyvdSluijs/OpenSourceArmy) (6 days ago)
 - [umulmrum/holiday](https://github.com/umulmrum/holiday) (1 week ago)
 - [genkgo/camt](https://github.com/genkgo/camt) (1 week ago)
-- [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (1 week ago)
+- [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (2 weeks ago)
 - [DannyvdSluijs/PicqerExactPhpClientGenerator](https://github.com/DannyvdSluijs/PicqerExactPhpClientGenerator) (1 month ago)
 - [DannyvdSluijs/exact-online-meta-data-tool](https://github.com/DannyvdSluijs/exact-online-meta-data-tool) (1 month ago)
 - [picqer/exact-php-client](https://github.com/picqer/exact-php-client) (1 month ago)
@@ -23,7 +23,7 @@ title: 👨‍💻 Current Activities
 - [Figuring out how parallel processing works in PHP](/2023/06/21/figuring-out-how-parallel-processing-works-in-php.html) (1 year ago)
 - [Securing the web at no cost](/2019/02/04/securing-the-web-at-no-cost.html) (5 years ago)
 - [About MutableCreationOptionsInterface](/2018/10/15/about-mutable-creation-options-interface.html) (6 years ago)
-- [WsdlToClass V1.0.0 released](/2018/01/11/wsdl-to-class-v1-0-0.html) (6 years ago)
+- [WsdlToClass V1.0.0 released](/2018/01/11/wsdl-to-class-v1-0-0.html) (7 years ago)
 
 #### 🔨 My recent Pull Requests
 
@@ -31,9 +31,9 @@ title: 👨‍💻 Current Activities
 - [ci: add php 8.4 to build matrix](https://github.com/JsonMapper/JsonMapper/pull/187) on [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (1 week ago)
 - [Add PHP 8.4 to build matrix](https://github.com/genkgo/camt/pull/162) on [genkgo/camt](https://github.com/genkgo/camt) (1 week ago)
 - [refactor: Cleanup test from @param annotations](https://github.com/jsonrainbow/json-schema/pull/768) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (1 week ago)
-- [Raise minimum level php enum](https://github.com/jsonrainbow/json-schema/pull/766) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (1 week ago)
-- [build: include php 8.4 in workflow](https://github.com/jsonrainbow/json-schema/pull/765) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (1 week ago)
-- [fix: correct phpstan baseline](https://github.com/jsonrainbow/json-schema/pull/764) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (1 week ago)
+- [Raise minimum level php enum](https://github.com/jsonrainbow/json-schema/pull/766) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (2 weeks ago)
+- [build: include php 8.4 in workflow](https://github.com/jsonrainbow/json-schema/pull/765) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (2 weeks ago)
+- [fix: correct phpstan baseline](https://github.com/jsonrainbow/json-schema/pull/764) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (2 weeks ago)
 - [build: update symfony to 6.4 lts](https://github.com/DannyvdSluijs/exact-online-meta-data-tool/pull/213) on [DannyvdSluijs/exact-online-meta-data-tool](https://github.com/DannyvdSluijs/exact-online-meta-data-tool) (1 month ago)
 - [feat: Update based on documentation d.d. 2024-10-28](https://github.com/picqer/exact-php-client/pull/661) on [picqer/exact-php-client](https://github.com/picqer/exact-php-client) (1 month ago)
 - [refactor: add declare strict_types to all classes in ./src](https://github.com/jsonrainbow/json-schema/pull/758) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (1 month ago)
