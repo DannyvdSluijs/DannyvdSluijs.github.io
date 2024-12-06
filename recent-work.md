@@ -5,10 +5,10 @@ title: 👨‍💻 Current Activities
 
 #### 💻 Check out what I'm currently working on
 
-- [DannyvdSluijs/AoC-2024](https://github.com/DannyvdSluijs/AoC-2024) (today)
-- [DannyvdSluijs/AoC-2017](https://github.com/DannyvdSluijs/AoC-2017) (1 day ago)
-- [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (2 days ago)
-- [DannyvdSluijs/OpenSourceArmy](https://github.com/DannyvdSluijs/OpenSourceArmy) (6 days ago)
+- [DannyvdSluijs/AoC-2024](https://github.com/DannyvdSluijs/AoC-2024) (1 day ago)
+- [DannyvdSluijs/AoC-2017](https://github.com/DannyvdSluijs/AoC-2017) (2 days ago)
+- [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (3 days ago)
+- [DannyvdSluijs/OpenSourceArmy](https://github.com/DannyvdSluijs/OpenSourceArmy) (1 week ago)
 - [umulmrum/holiday](https://github.com/umulmrum/holiday) (1 week ago)
 - [genkgo/camt](https://github.com/genkgo/camt) (1 week ago)
 - [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (2 weeks ago)
@@ -37,7 +37,7 @@ title: 👨‍💻 Current Activities
 - [build: update symfony to 6.4 lts](https://github.com/DannyvdSluijs/exact-online-meta-data-tool/pull/213) on [DannyvdSluijs/exact-online-meta-data-tool](https://github.com/DannyvdSluijs/exact-online-meta-data-tool) (1 month ago)
 - [feat: Update based on documentation d.d. 2024-10-28](https://github.com/picqer/exact-php-client/pull/661) on [picqer/exact-php-client](https://github.com/picqer/exact-php-client) (1 month ago)
 - [refactor: add declare strict_types to all classes in ./src](https://github.com/jsonrainbow/json-schema/pull/758) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (1 month ago)
-- [Update README.md correct images paths](https://github.com/xirixiz/homeassistant-afvalwijzer/pull/320) on [xirixiz/homeassistant-afvalwijzer](https://github.com/xirixiz/homeassistant-afvalwijzer) (1 month ago)
+- [Update README.md correct images paths](https://github.com/xirixiz/homeassistant-afvalwijzer/pull/320) on [xirixiz/homeassistant-afvalwijzer](https://github.com/xirixiz/homeassistant-afvalwijzer) (2 months ago)
 - [refactor: add visibility modifiers to class constants](https://github.com/jsonrainbow/json-schema/pull/757) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (2 months ago)
 - [Update functionMap.php for SplFileInfo::getPathInfo return type](https://github.com/phpstan/phpstan-src/pull/3487) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 months ago)
 - [Resolve deprecations: Optional parameter $... declared before required parameter $...](https://github.com/jsonrainbow/json-schema/pull/752) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (2 months ago)
