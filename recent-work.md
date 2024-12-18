@@ -5,12 +5,12 @@ title: 👨‍💻 Current Activities
 
 #### 💻 Check out what I'm currently working on
 
-- [xirixiz/homeassistant-afvalwijzer](https://github.com/xirixiz/homeassistant-afvalwijzer) (today)
-- [DannyvdSluijs/AoC-2024](https://github.com/DannyvdSluijs/AoC-2024) (4 days ago)
-- [DannyvdSluijs/AoC-2017](https://github.com/DannyvdSluijs/AoC-2017) (1 week ago)
+- [xirixiz/homeassistant-afvalwijzer](https://github.com/xirixiz/homeassistant-afvalwijzer) (1 day ago)
+- [DannyvdSluijs/AoC-2024](https://github.com/DannyvdSluijs/AoC-2024) (5 days ago)
+- [DannyvdSluijs/AoC-2017](https://github.com/DannyvdSluijs/AoC-2017) (2 weeks ago)
 - [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (2 weeks ago)
 - [DannyvdSluijs/OpenSourceArmy](https://github.com/DannyvdSluijs/OpenSourceArmy) (2 weeks ago)
-- [umulmrum/holiday](https://github.com/umulmrum/holiday) (2 weeks ago)
+- [umulmrum/holiday](https://github.com/umulmrum/holiday) (3 weeks ago)
 - [genkgo/camt](https://github.com/genkgo/camt) (3 weeks ago)
 - [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (3 weeks ago)
 - [DannyvdSluijs/PicqerExactPhpClientGenerator](https://github.com/DannyvdSluijs/PicqerExactPhpClientGenerator) (1 month ago)
@@ -27,7 +27,7 @@ title: 👨‍💻 Current Activities
 
 #### 🔨 My recent Pull Requests
 
-- [Enable PHP 8.4 in test matrix](https://github.com/umulmrum/holiday/pull/53) on [umulmrum/holiday](https://github.com/umulmrum/holiday) (2 weeks ago)
+- [Enable PHP 8.4 in test matrix](https://github.com/umulmrum/holiday/pull/53) on [umulmrum/holiday](https://github.com/umulmrum/holiday) (3 weeks ago)
 - [ci: add php 8.4 to build matrix](https://github.com/JsonMapper/JsonMapper/pull/187) on [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (3 weeks ago)
 - [Add PHP 8.4 to build matrix](https://github.com/genkgo/camt/pull/162) on [genkgo/camt](https://github.com/genkgo/camt) (3 weeks ago)
 - [refactor: Cleanup test from @param annotations](https://github.com/jsonrainbow/json-schema/pull/768) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (3 weeks ago)
@@ -46,11 +46,11 @@ title: 👨‍💻 Current Activities
 
 #### 🔭 Latest releases I've contributed to
 
-- [PHPCSStandards/PHP_CodeSniffer](https://github.com/PHPCSStandards/PHP_CodeSniffer) - [3.11.2](https://github.com/PHPCSStandards/PHP_CodeSniffer/releases/tag/3.11.2) (6 days ago)
+- [PHPCSStandards/PHP_CodeSniffer](https://github.com/PHPCSStandards/PHP_CodeSniffer) - [3.11.2](https://github.com/PHPCSStandards/PHP_CodeSniffer/releases/tag/3.11.2) (1 week ago)
 - [xirixiz/homeassistant-afvalwijzer](https://github.com/xirixiz/homeassistant-afvalwijzer) - [2024.12.01](https://github.com/xirixiz/homeassistant-afvalwijzer/releases/tag/2024.12.01) (1 week ago)
-- [deployphp/deployer](https://github.com/deployphp/deployer) - [v7.5.8](https://github.com/deployphp/deployer/releases/tag/v7.5.8) (2 weeks ago)
+- [deployphp/deployer](https://github.com/deployphp/deployer) - [v7.5.8](https://github.com/deployphp/deployer/releases/tag/v7.5.8) (3 weeks ago)
 - [genkgo/camt](https://github.com/genkgo/camt) - [2.8.1](https://github.com/genkgo/camt/releases/tag/2.8.1) (3 weeks ago)
-- [bowtie-json-schema/bowtie](https://github.com/bowtie-json-schema/bowtie) - [v2024.11.7](https://github.com/bowtie-json-schema/bowtie/releases/tag/v2024.11.7) (3 weeks ago)
+- [bowtie-json-schema/bowtie](https://github.com/bowtie-json-schema/bowtie) - [v2024.11.7](https://github.com/bowtie-json-schema/bowtie/releases/tag/v2024.11.7) (4 weeks ago)
 - [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) - [0.2](https://github.com/staabm/phpstan-todo-by/releases/tag/0.2) (1 month ago)
 - [thephpleague/container](https://github.com/thephpleague/container) - [4.2.4](https://github.com/thephpleague/container/releases/tag/4.2.4) (1 month ago)
 - [picqer/exact-php-client](https://github.com/picqer/exact-php-client) - [v4.4.2](https://github.com/picqer/exact-php-client/releases/tag/v4.4.2) (1 month ago)
