@@ -46,8 +46,8 @@ title: 👨‍💻 Current Activities
 
 #### 🔭 Latest releases I've contributed to
 
+- [xirixiz/homeassistant-afvalwijzer](https://github.com/xirixiz/homeassistant-afvalwijzer) - [2024.12.02](https://github.com/xirixiz/homeassistant-afvalwijzer/releases/tag/2024.12.02) (today)
 - [PHPCSStandards/PHP_CodeSniffer](https://github.com/PHPCSStandards/PHP_CodeSniffer) - [3.11.2](https://github.com/PHPCSStandards/PHP_CodeSniffer/releases/tag/3.11.2) (1 week ago)
-- [xirixiz/homeassistant-afvalwijzer](https://github.com/xirixiz/homeassistant-afvalwijzer) - [2024.12.01](https://github.com/xirixiz/homeassistant-afvalwijzer/releases/tag/2024.12.01) (1 week ago)
 - [deployphp/deployer](https://github.com/deployphp/deployer) - [v7.5.8](https://github.com/deployphp/deployer/releases/tag/v7.5.8) (3 weeks ago)
 - [genkgo/camt](https://github.com/genkgo/camt) - [2.8.1](https://github.com/genkgo/camt/releases/tag/2.8.1) (3 weeks ago)
 - [bowtie-json-schema/bowtie](https://github.com/bowtie-json-schema/bowtie) - [v2024.11.7](https://github.com/bowtie-json-schema/bowtie/releases/tag/v2024.11.7) (4 weeks ago)
