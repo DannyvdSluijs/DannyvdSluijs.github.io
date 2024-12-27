@@ -46,6 +46,7 @@ title: 👨‍💻 Current Activities
 
 #### 🔭 Latest releases I've contributed to
 
+- [egulias/EmailValidator](https://github.com/egulias/EmailValidator) - [4.0.3](https://github.com/egulias/EmailValidator/releases/tag/4.0.3) (today)
 - [bowtie-json-schema/bowtie](https://github.com/bowtie-json-schema/bowtie) - [v2024.12.5](https://github.com/bowtie-json-schema/bowtie/releases/tag/v2024.12.5) (4 days ago)
 - [xirixiz/homeassistant-afvalwijzer](https://github.com/xirixiz/homeassistant-afvalwijzer) - [2024.12.06](https://github.com/xirixiz/homeassistant-afvalwijzer/releases/tag/2024.12.06) (4 days ago)
 - [PHPCSStandards/PHP_CodeSniffer](https://github.com/PHPCSStandards/PHP_CodeSniffer) - [3.11.2](https://github.com/PHPCSStandards/PHP_CodeSniffer/releases/tag/3.11.2) (2 weeks ago)
@@ -55,4 +56,3 @@ title: 👨‍💻 Current Activities
 - [thephpleague/container](https://github.com/thephpleague/container) - [4.2.4](https://github.com/thephpleague/container/releases/tag/4.2.4) (1 month ago)
 - [picqer/exact-php-client](https://github.com/picqer/exact-php-client) - [v4.4.2](https://github.com/picqer/exact-php-client/releases/tag/v4.4.2) (1 month ago)
 - [DannyvdSluijs/exact-online-meta-data-tool](https://github.com/DannyvdSluijs/exact-online-meta-data-tool) - [3.0.0](https://github.com/DannyvdSluijs/exact-online-meta-data-tool/releases/tag/3.0.0) (1 month ago)
-- [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) - [6.0.0](https://github.com/jsonrainbow/json-schema/releases/tag/6.0.0) (5 months ago)
