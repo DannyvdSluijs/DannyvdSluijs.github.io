@@ -46,7 +46,7 @@ title: 👨‍💻 Current Activities
 
 #### 🔭 Latest releases I've contributed to
 
-- [xirixiz/homeassistant-afvalwijzer](https://github.com/xirixiz/homeassistant-afvalwijzer) - [2024.12.07](https://github.com/xirixiz/homeassistant-afvalwijzer/releases/tag/2024.12.07) (1 day ago)
+- [xirixiz/homeassistant-afvalwijzer](https://github.com/xirixiz/homeassistant-afvalwijzer) - [2024.12.08](https://github.com/xirixiz/homeassistant-afvalwijzer/releases/tag/2024.12.08) (today)
 - [egulias/EmailValidator](https://github.com/egulias/EmailValidator) - [4.0.3](https://github.com/egulias/EmailValidator/releases/tag/4.0.3) (3 days ago)
 - [bowtie-json-schema/bowtie](https://github.com/bowtie-json-schema/bowtie) - [v2024.12.5](https://github.com/bowtie-json-schema/bowtie/releases/tag/v2024.12.5) (1 week ago)
 - [PHPCSStandards/PHP_CodeSniffer](https://github.com/PHPCSStandards/PHP_CodeSniffer) - [3.11.2](https://github.com/PHPCSStandards/PHP_CodeSniffer/releases/tag/3.11.2) (2 weeks ago)
