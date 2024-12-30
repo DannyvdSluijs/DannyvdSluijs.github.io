@@ -5,7 +5,7 @@ title: 👨‍💻 Current Activities
 
 #### 💻 Check out what I'm currently working on
 
-- [DannyvdSluijs/AoC-2024](https://github.com/DannyvdSluijs/AoC-2024) (5 days ago)
+- [DannyvdSluijs/AoC-2024](https://github.com/DannyvdSluijs/AoC-2024) (6 days ago)
 - [xirixiz/homeassistant-afvalwijzer](https://github.com/xirixiz/homeassistant-afvalwijzer) (1 week ago)
 - [DannyvdSluijs/AoC-2017](https://github.com/DannyvdSluijs/AoC-2017) (3 weeks ago)
 - [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (3 weeks ago)
@@ -46,9 +46,9 @@ title: 👨‍💻 Current Activities
 
 #### 🔭 Latest releases I've contributed to
 
-- [xirixiz/homeassistant-afvalwijzer](https://github.com/xirixiz/homeassistant-afvalwijzer) - [2024.12.07](https://github.com/xirixiz/homeassistant-afvalwijzer/releases/tag/2024.12.07) (today)
-- [egulias/EmailValidator](https://github.com/egulias/EmailValidator) - [4.0.3](https://github.com/egulias/EmailValidator/releases/tag/4.0.3) (2 days ago)
-- [bowtie-json-schema/bowtie](https://github.com/bowtie-json-schema/bowtie) - [v2024.12.5](https://github.com/bowtie-json-schema/bowtie/releases/tag/v2024.12.5) (6 days ago)
+- [xirixiz/homeassistant-afvalwijzer](https://github.com/xirixiz/homeassistant-afvalwijzer) - [2024.12.07](https://github.com/xirixiz/homeassistant-afvalwijzer/releases/tag/2024.12.07) (1 day ago)
+- [egulias/EmailValidator](https://github.com/egulias/EmailValidator) - [4.0.3](https://github.com/egulias/EmailValidator/releases/tag/4.0.3) (3 days ago)
+- [bowtie-json-schema/bowtie](https://github.com/bowtie-json-schema/bowtie) - [v2024.12.5](https://github.com/bowtie-json-schema/bowtie/releases/tag/v2024.12.5) (1 week ago)
 - [PHPCSStandards/PHP_CodeSniffer](https://github.com/PHPCSStandards/PHP_CodeSniffer) - [3.11.2](https://github.com/PHPCSStandards/PHP_CodeSniffer/releases/tag/3.11.2) (2 weeks ago)
 - [deployphp/deployer](https://github.com/deployphp/deployer) - [v7.5.8](https://github.com/deployphp/deployer/releases/tag/v7.5.8) (1 month ago)
 - [genkgo/camt](https://github.com/genkgo/camt) - [2.8.1](https://github.com/genkgo/camt/releases/tag/2.8.1) (1 month ago)
