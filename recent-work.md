@@ -46,12 +46,12 @@ title: 👨‍💻 Current Activities
 
 #### 🔭 Latest releases I've contributed to
 
+- [bowtie-json-schema/bowtie](https://github.com/bowtie-json-schema/bowtie) - [v2025.1.1](https://github.com/bowtie-json-schema/bowtie/releases/tag/v2025.1.1) (today)
 - [picqer/exact-php-client](https://github.com/picqer/exact-php-client) - [v4.4.3](https://github.com/picqer/exact-php-client/releases/tag/v4.4.3) (today)
 - [DannyvdSluijs/exact-online-meta-data-tool](https://github.com/DannyvdSluijs/exact-online-meta-data-tool) - [4.0.0](https://github.com/DannyvdSluijs/exact-online-meta-data-tool/releases/tag/4.0.0) (1 day ago)
 - [DannyvdSluijs/PicqerExactPhpClientGenerator](https://github.com/DannyvdSluijs/PicqerExactPhpClientGenerator) - [1.0.0](https://github.com/DannyvdSluijs/PicqerExactPhpClientGenerator/releases/tag/1.0.0) (1 day ago)
 - [xirixiz/homeassistant-afvalwijzer](https://github.com/xirixiz/homeassistant-afvalwijzer) - [2024.12.08](https://github.com/xirixiz/homeassistant-afvalwijzer/releases/tag/2024.12.08) (2 days ago)
 - [egulias/EmailValidator](https://github.com/egulias/EmailValidator) - [4.0.3](https://github.com/egulias/EmailValidator/releases/tag/4.0.3) (5 days ago)
-- [bowtie-json-schema/bowtie](https://github.com/bowtie-json-schema/bowtie) - [v2024.12.5](https://github.com/bowtie-json-schema/bowtie/releases/tag/v2024.12.5) (1 week ago)
 - [PHPCSStandards/PHP_CodeSniffer](https://github.com/PHPCSStandards/PHP_CodeSniffer) - [3.11.2](https://github.com/PHPCSStandards/PHP_CodeSniffer/releases/tag/3.11.2) (3 weeks ago)
 - [deployphp/deployer](https://github.com/deployphp/deployer) - [v7.5.8](https://github.com/deployphp/deployer/releases/tag/v7.5.8) (1 month ago)
 - [genkgo/camt](https://github.com/genkgo/camt) - [2.8.1](https://github.com/genkgo/camt/releases/tag/2.8.1) (1 month ago)
