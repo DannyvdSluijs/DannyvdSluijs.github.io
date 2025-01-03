@@ -5,13 +5,13 @@ title: 👨‍💻 Current Activities
 
 #### 💻 Check out what I'm currently working on
 
-- [DannyvdSluijs/exact-online-meta-data-tool](https://github.com/DannyvdSluijs/exact-online-meta-data-tool) (2 days ago)
-- [DannyvdSluijs/PicqerExactPhpClientGenerator](https://github.com/DannyvdSluijs/PicqerExactPhpClientGenerator) (2 days ago)
-- [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (2 days ago)
-- [picqer/exact-php-client](https://github.com/picqer/exact-php-client) (2 days ago)
-- [DannyvdSluijs/AoC-2024](https://github.com/DannyvdSluijs/AoC-2024) (3 days ago)
+- [DannyvdSluijs/exact-online-meta-data-tool](https://github.com/DannyvdSluijs/exact-online-meta-data-tool) (3 days ago)
+- [DannyvdSluijs/PicqerExactPhpClientGenerator](https://github.com/DannyvdSluijs/PicqerExactPhpClientGenerator) (3 days ago)
+- [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (3 days ago)
+- [picqer/exact-php-client](https://github.com/picqer/exact-php-client) (3 days ago)
+- [DannyvdSluijs/AoC-2024](https://github.com/DannyvdSluijs/AoC-2024) (4 days ago)
 - [xirixiz/homeassistant-afvalwijzer](https://github.com/xirixiz/homeassistant-afvalwijzer) (2 weeks ago)
-- [DannyvdSluijs/AoC-2017](https://github.com/DannyvdSluijs/AoC-2017) (4 weeks ago)
+- [DannyvdSluijs/AoC-2017](https://github.com/DannyvdSluijs/AoC-2017) (1 month ago)
 - [DannyvdSluijs/OpenSourceArmy](https://github.com/DannyvdSluijs/OpenSourceArmy) (1 month ago)
 - [umulmrum/holiday](https://github.com/umulmrum/holiday) (1 month ago)
 - [genkgo/camt](https://github.com/genkgo/camt) (1 month ago)
@@ -21,16 +21,16 @@ title: 👨‍💻 Current Activities
 
 - [The unknown Composer commands](/2023/08/25/the-unknown-composer-commands.html) (1 year ago)
 - [Figuring out how parallel processing works in PHP](/2023/06/21/figuring-out-how-parallel-processing-works-in-php.html) (2 years ago)
-- [Securing the web at no cost](/2019/02/04/securing-the-web-at-no-cost.html) (5 years ago)
+- [Securing the web at no cost](/2019/02/04/securing-the-web-at-no-cost.html) (6 years ago)
 - [About MutableCreationOptionsInterface](/2018/10/15/about-mutable-creation-options-interface.html) (6 years ago)
 - [WsdlToClass V1.0.0 released](/2018/01/11/wsdl-to-class-v1-0-0.html) (7 years ago)
 
 #### 🔨 My recent Pull Requests
 
-- [Remove old grease monkey script as it no longer being used](https://github.com/picqer/exact-php-client/pull/665) on [picqer/exact-php-client](https://github.com/picqer/exact-php-client) (2 days ago)
-- [feat: Update based on documentation d.d. 2024-12-31](https://github.com/picqer/exact-php-client/pull/663) on [picqer/exact-php-client](https://github.com/picqer/exact-php-client) (2 days ago)
-- [feat: Bump mayor version for PHP, Symfony and PHPUnit](https://github.com/DannyvdSluijs/exact-online-meta-data-tool/pull/223) on [DannyvdSluijs/exact-online-meta-data-tool](https://github.com/DannyvdSluijs/exact-online-meta-data-tool) (2 days ago)
-- [fix: Resolve scope within try-catch](https://github.com/DannyvdSluijs/exact-online-meta-data-tool/pull/221) on [DannyvdSluijs/exact-online-meta-data-tool](https://github.com/DannyvdSluijs/exact-online-meta-data-tool) (2 days ago)
+- [Remove old grease monkey script as it no longer being used](https://github.com/picqer/exact-php-client/pull/665) on [picqer/exact-php-client](https://github.com/picqer/exact-php-client) (3 days ago)
+- [feat: Update based on documentation d.d. 2024-12-31](https://github.com/picqer/exact-php-client/pull/663) on [picqer/exact-php-client](https://github.com/picqer/exact-php-client) (3 days ago)
+- [feat: Bump mayor version for PHP, Symfony and PHPUnit](https://github.com/DannyvdSluijs/exact-online-meta-data-tool/pull/223) on [DannyvdSluijs/exact-online-meta-data-tool](https://github.com/DannyvdSluijs/exact-online-meta-data-tool) (3 days ago)
+- [fix: Resolve scope within try-catch](https://github.com/DannyvdSluijs/exact-online-meta-data-tool/pull/221) on [DannyvdSluijs/exact-online-meta-data-tool](https://github.com/DannyvdSluijs/exact-online-meta-data-tool) (3 days ago)
 - [Enable PHP 8.4 in test matrix](https://github.com/umulmrum/holiday/pull/53) on [umulmrum/holiday](https://github.com/umulmrum/holiday) (1 month ago)
 - [ci: add php 8.4 to build matrix](https://github.com/JsonMapper/JsonMapper/pull/187) on [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (1 month ago)
 - [Add PHP 8.4 to build matrix](https://github.com/genkgo/camt/pull/162) on [genkgo/camt](https://github.com/genkgo/camt) (1 month ago)
@@ -46,12 +46,12 @@ title: 👨‍💻 Current Activities
 
 #### 🔭 Latest releases I've contributed to
 
-- [bowtie-json-schema/bowtie](https://github.com/bowtie-json-schema/bowtie) - [v2025.1.1](https://github.com/bowtie-json-schema/bowtie/releases/tag/v2025.1.1) (1 day ago)
-- [picqer/exact-php-client](https://github.com/picqer/exact-php-client) - [v4.4.3](https://github.com/picqer/exact-php-client/releases/tag/v4.4.3) (1 day ago)
-- [DannyvdSluijs/exact-online-meta-data-tool](https://github.com/DannyvdSluijs/exact-online-meta-data-tool) - [4.0.0](https://github.com/DannyvdSluijs/exact-online-meta-data-tool/releases/tag/4.0.0) (2 days ago)
-- [DannyvdSluijs/PicqerExactPhpClientGenerator](https://github.com/DannyvdSluijs/PicqerExactPhpClientGenerator) - [1.0.0](https://github.com/DannyvdSluijs/PicqerExactPhpClientGenerator/releases/tag/1.0.0) (2 days ago)
-- [xirixiz/homeassistant-afvalwijzer](https://github.com/xirixiz/homeassistant-afvalwijzer) - [2024.12.08](https://github.com/xirixiz/homeassistant-afvalwijzer/releases/tag/2024.12.08) (3 days ago)
-- [egulias/EmailValidator](https://github.com/egulias/EmailValidator) - [4.0.3](https://github.com/egulias/EmailValidator/releases/tag/4.0.3) (6 days ago)
+- [bowtie-json-schema/bowtie](https://github.com/bowtie-json-schema/bowtie) - [v2025.1.1](https://github.com/bowtie-json-schema/bowtie/releases/tag/v2025.1.1) (2 days ago)
+- [picqer/exact-php-client](https://github.com/picqer/exact-php-client) - [v4.4.3](https://github.com/picqer/exact-php-client/releases/tag/v4.4.3) (2 days ago)
+- [DannyvdSluijs/exact-online-meta-data-tool](https://github.com/DannyvdSluijs/exact-online-meta-data-tool) - [4.0.0](https://github.com/DannyvdSluijs/exact-online-meta-data-tool/releases/tag/4.0.0) (3 days ago)
+- [DannyvdSluijs/PicqerExactPhpClientGenerator](https://github.com/DannyvdSluijs/PicqerExactPhpClientGenerator) - [1.0.0](https://github.com/DannyvdSluijs/PicqerExactPhpClientGenerator/releases/tag/1.0.0) (3 days ago)
+- [xirixiz/homeassistant-afvalwijzer](https://github.com/xirixiz/homeassistant-afvalwijzer) - [2024.12.08](https://github.com/xirixiz/homeassistant-afvalwijzer/releases/tag/2024.12.08) (4 days ago)
+- [egulias/EmailValidator](https://github.com/egulias/EmailValidator) - [4.0.3](https://github.com/egulias/EmailValidator/releases/tag/4.0.3) (1 week ago)
 - [PHPCSStandards/PHP_CodeSniffer](https://github.com/PHPCSStandards/PHP_CodeSniffer) - [3.11.2](https://github.com/PHPCSStandards/PHP_CodeSniffer/releases/tag/3.11.2) (3 weeks ago)
 - [deployphp/deployer](https://github.com/deployphp/deployer) - [v7.5.8](https://github.com/deployphp/deployer/releases/tag/v7.5.8) (1 month ago)
 - [genkgo/camt](https://github.com/genkgo/camt) - [2.8.1](https://github.com/genkgo/camt/releases/tag/2.8.1) (1 month ago)
