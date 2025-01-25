@@ -34,7 +34,7 @@ title: 👨‍💻 Current Activities
 - [feat: Bump mayor version for PHP, Symfony and PHPUnit](https://github.com/DannyvdSluijs/exact-online-meta-data-tool/pull/223) on [DannyvdSluijs/exact-online-meta-data-tool](https://github.com/DannyvdSluijs/exact-online-meta-data-tool) (3 weeks ago)
 - [fix: Resolve scope within try-catch](https://github.com/DannyvdSluijs/exact-online-meta-data-tool/pull/221) on [DannyvdSluijs/exact-online-meta-data-tool](https://github.com/DannyvdSluijs/exact-online-meta-data-tool) (3 weeks ago)
 - [Enable PHP 8.4 in test matrix](https://github.com/umulmrum/holiday/pull/53) on [umulmrum/holiday](https://github.com/umulmrum/holiday) (1 month ago)
-- [ci: add php 8.4 to build matrix](https://github.com/JsonMapper/JsonMapper/pull/187) on [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (1 month ago)
+- [ci: add php 8.4 to build matrix](https://github.com/JsonMapper/JsonMapper/pull/187) on [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (2 months ago)
 - [Add PHP 8.4 to build matrix](https://github.com/genkgo/camt/pull/162) on [genkgo/camt](https://github.com/genkgo/camt) (2 months ago)
 - [refactor: Cleanup test from @param annotations](https://github.com/jsonrainbow/json-schema/pull/768) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (2 months ago)
 - [Raise minimum level php enum](https://github.com/jsonrainbow/json-schema/pull/766) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (2 months ago)
@@ -46,7 +46,7 @@ title: 👨‍💻 Current Activities
 
 #### 🔭 Latest releases I've contributed to
 
-- [PHPCSStandards/PHP_CodeSniffer](https://github.com/PHPCSStandards/PHP_CodeSniffer) - [3.11.3](https://github.com/PHPCSStandards/PHP_CodeSniffer/releases/tag/3.11.3) (1 day ago)
+- [PHPCSStandards/PHP_CodeSniffer](https://github.com/PHPCSStandards/PHP_CodeSniffer) - [3.11.3](https://github.com/PHPCSStandards/PHP_CodeSniffer/releases/tag/3.11.3) (2 days ago)
 - [bowtie-json-schema/bowtie](https://github.com/bowtie-json-schema/bowtie) - [v2025.1.10](https://github.com/bowtie-json-schema/bowtie/releases/tag/v2025.1.10) (1 week ago)
 - [genkgo/camt](https://github.com/genkgo/camt) - [2.8.2](https://github.com/genkgo/camt/releases/tag/2.8.2) (2 weeks ago)
 - [xirixiz/homeassistant-afvalwijzer](https://github.com/xirixiz/homeassistant-afvalwijzer) - [2025.01.01](https://github.com/xirixiz/homeassistant-afvalwijzer/releases/tag/2025.01.01) (3 weeks ago)
