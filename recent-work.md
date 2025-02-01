@@ -46,8 +46,8 @@ title: 👨‍💻 Current Activities
 
 #### 🔭 Latest releases I've contributed to
 
+- [bowtie-json-schema/bowtie](https://github.com/bowtie-json-schema/bowtie) - [v2025.2.1](https://github.com/bowtie-json-schema/bowtie/releases/tag/v2025.2.1) (today)
 - [PHPCSStandards/PHP_CodeSniffer](https://github.com/PHPCSStandards/PHP_CodeSniffer) - [3.11.3](https://github.com/PHPCSStandards/PHP_CodeSniffer/releases/tag/3.11.3) (1 week ago)
-- [bowtie-json-schema/bowtie](https://github.com/bowtie-json-schema/bowtie) - [v2025.1.10](https://github.com/bowtie-json-schema/bowtie/releases/tag/v2025.1.10) (2 weeks ago)
 - [genkgo/camt](https://github.com/genkgo/camt) - [2.8.2](https://github.com/genkgo/camt/releases/tag/2.8.2) (3 weeks ago)
 - [xirixiz/homeassistant-afvalwijzer](https://github.com/xirixiz/homeassistant-afvalwijzer) - [2025.01.01](https://github.com/xirixiz/homeassistant-afvalwijzer/releases/tag/2025.01.01) (4 weeks ago)
 - [picqer/exact-php-client](https://github.com/picqer/exact-php-client) - [v4.4.3](https://github.com/picqer/exact-php-client/releases/tag/v4.4.3) (1 month ago)
