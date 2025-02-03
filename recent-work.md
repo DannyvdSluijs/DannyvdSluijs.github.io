@@ -5,8 +5,8 @@ title: 👨‍💻 Current Activities
 
 #### 💻 Check out what I'm currently working on
 
-- [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (5 days ago)
-- [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (5 days ago)
+- [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (6 days ago)
+- [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (6 days ago)
 - [picqer/exact-php-client](https://github.com/picqer/exact-php-client) (1 month ago)
 - [DannyvdSluijs/PicqerExactPhpClientGenerator](https://github.com/DannyvdSluijs/PicqerExactPhpClientGenerator) (1 month ago)
 - [DannyvdSluijs/exact-online-meta-data-tool](https://github.com/DannyvdSluijs/exact-online-meta-data-tool) (1 month ago)
@@ -46,9 +46,9 @@ title: 👨‍💻 Current Activities
 
 #### 🔭 Latest releases I've contributed to
 
-- [bowtie-json-schema/bowtie](https://github.com/bowtie-json-schema/bowtie) - [v2025.2.1](https://github.com/bowtie-json-schema/bowtie/releases/tag/v2025.2.1) (1 day ago)
+- [bowtie-json-schema/bowtie](https://github.com/bowtie-json-schema/bowtie) - [v2025.2.1](https://github.com/bowtie-json-schema/bowtie/releases/tag/v2025.2.1) (2 days ago)
 - [PHPCSStandards/PHP_CodeSniffer](https://github.com/PHPCSStandards/PHP_CodeSniffer) - [3.11.3](https://github.com/PHPCSStandards/PHP_CodeSniffer/releases/tag/3.11.3) (1 week ago)
-- [genkgo/camt](https://github.com/genkgo/camt) - [2.8.2](https://github.com/genkgo/camt/releases/tag/2.8.2) (3 weeks ago)
+- [genkgo/camt](https://github.com/genkgo/camt) - [2.8.2](https://github.com/genkgo/camt/releases/tag/2.8.2) (4 weeks ago)
 - [xirixiz/homeassistant-afvalwijzer](https://github.com/xirixiz/homeassistant-afvalwijzer) - [2025.01.01](https://github.com/xirixiz/homeassistant-afvalwijzer/releases/tag/2025.01.01) (1 month ago)
 - [picqer/exact-php-client](https://github.com/picqer/exact-php-client) - [v4.4.3](https://github.com/picqer/exact-php-client/releases/tag/v4.4.3) (1 month ago)
 - [DannyvdSluijs/exact-online-meta-data-tool](https://github.com/DannyvdSluijs/exact-online-meta-data-tool) - [4.0.0](https://github.com/DannyvdSluijs/exact-online-meta-data-tool/releases/tag/4.0.0) (1 month ago)
