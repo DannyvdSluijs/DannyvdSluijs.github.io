@@ -46,7 +46,7 @@ title: 👨‍💻 Current Activities
 
 #### 🔭 Latest releases I've contributed to
 
-- [bowtie-json-schema/bowtie](https://github.com/bowtie-json-schema/bowtie) - [v2025.2.3](https://github.com/bowtie-json-schema/bowtie/releases/tag/v2025.2.3) (3 days ago)
+- [bowtie-json-schema/bowtie](https://github.com/bowtie-json-schema/bowtie) - [v2025.2.4](https://github.com/bowtie-json-schema/bowtie/releases/tag/v2025.2.4) (today)
 - [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) - [6.1.0](https://github.com/jsonrainbow/json-schema/releases/tag/6.1.0) (3 days ago)
 - [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) - [2.22.3](https://github.com/JsonMapper/JsonMapper/releases/tag/2.22.3) (4 days ago)
 - [PHPCSStandards/PHP_CodeSniffer](https://github.com/PHPCSStandards/PHP_CodeSniffer) - [3.11.3](https://github.com/PHPCSStandards/PHP_CodeSniffer/releases/tag/3.11.3) (2 weeks ago)
