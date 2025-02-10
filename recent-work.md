@@ -46,7 +46,7 @@ title: 👨‍💻 Current Activities
 
 #### 🔭 Latest releases I've contributed to
 
-- [deployphp/deployer](https://github.com/deployphp/deployer) - [v7.5.9](https://github.com/deployphp/deployer/releases/tag/v7.5.9) (today)
+- [deployphp/deployer](https://github.com/deployphp/deployer) - [v8.0.0-alpha.1](https://github.com/deployphp/deployer/releases/tag/v8.0.0-alpha.1) (today)
 - [bowtie-json-schema/bowtie](https://github.com/bowtie-json-schema/bowtie) - [v2025.2.5](https://github.com/bowtie-json-schema/bowtie/releases/tag/v2025.2.5) (3 days ago)
 - [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) - [6.1.0](https://github.com/jsonrainbow/json-schema/releases/tag/6.1.0) (6 days ago)
 - [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) - [2.22.3](https://github.com/JsonMapper/JsonMapper/releases/tag/2.22.3) (1 week ago)
