@@ -5,9 +5,9 @@ title: 👨‍💻 Current Activities
 
 #### 💻 Check out what I'm currently working on
 
-- [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (today)
-- [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (4 days ago)
-- [bowtie-json-schema/bowtie](https://github.com/bowtie-json-schema/bowtie) (6 days ago)
+- [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (1 day ago)
+- [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (5 days ago)
+- [bowtie-json-schema/bowtie](https://github.com/bowtie-json-schema/bowtie) (1 week ago)
 - [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (1 week ago)
 - [DannyvdSluijs/PicqerExactPhpClientGenerator](https://github.com/DannyvdSluijs/PicqerExactPhpClientGenerator) (1 month ago)
 - [picqer/exact-php-client](https://github.com/picqer/exact-php-client) (1 month ago)
@@ -27,8 +27,8 @@ title: 👨‍💻 Current Activities
 
 #### 🔨 My recent Pull Requests
 
-- [feat: welcome first time contributors](https://github.com/jsonrainbow/json-schema/pull/782) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (today)
-- [build: Move from dev-master to 6.1 version](https://github.com/bowtie-json-schema/bowtie/pull/1812) on [bowtie-json-schema/bowtie](https://github.com/bowtie-json-schema/bowtie) (6 days ago)
+- [feat: welcome first time contributors](https://github.com/jsonrainbow/json-schema/pull/782) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (1 day ago)
+- [build: Move from dev-master to 6.1 version](https://github.com/bowtie-json-schema/bowtie/pull/1812) on [bowtie-json-schema/bowtie](https://github.com/bowtie-json-schema/bowtie) (1 week ago)
 - [Update scorecard.yml](https://github.com/JsonMapper/JsonMapper/pull/191) on [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (1 week ago)
 - [Create scorecard.yml](https://github.com/JsonMapper/JsonMapper/pull/190) on [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (1 week ago)
 - [Add dark mode logo](https://github.com/JsonMapper/JsonMapper/pull/188) on [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (3 weeks ago)
@@ -46,9 +46,9 @@ title: 👨‍💻 Current Activities
 
 #### 🔭 Latest releases I've contributed to
 
-- [deployphp/deployer](https://github.com/deployphp/deployer) - [v7.5.11](https://github.com/deployphp/deployer/releases/tag/v7.5.11) (today)
-- [bowtie-json-schema/bowtie](https://github.com/bowtie-json-schema/bowtie) - [v2025.2.5](https://github.com/bowtie-json-schema/bowtie/releases/tag/v2025.2.5) (3 days ago)
-- [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) - [6.1.0](https://github.com/jsonrainbow/json-schema/releases/tag/6.1.0) (6 days ago)
+- [deployphp/deployer](https://github.com/deployphp/deployer) - [v7.5.11](https://github.com/deployphp/deployer/releases/tag/v7.5.11) (1 day ago)
+- [bowtie-json-schema/bowtie](https://github.com/bowtie-json-schema/bowtie) - [v2025.2.5](https://github.com/bowtie-json-schema/bowtie/releases/tag/v2025.2.5) (4 days ago)
+- [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) - [6.1.0](https://github.com/jsonrainbow/json-schema/releases/tag/6.1.0) (1 week ago)
 - [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) - [2.22.3](https://github.com/JsonMapper/JsonMapper/releases/tag/2.22.3) (1 week ago)
 - [PHPCSStandards/PHP_CodeSniffer](https://github.com/PHPCSStandards/PHP_CodeSniffer) - [3.11.3](https://github.com/PHPCSStandards/PHP_CodeSniffer/releases/tag/3.11.3) (2 weeks ago)
 - [genkgo/camt](https://github.com/genkgo/camt) - [2.8.2](https://github.com/genkgo/camt/releases/tag/2.8.2) (1 month ago)
