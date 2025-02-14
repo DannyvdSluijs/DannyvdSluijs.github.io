@@ -4,7 +4,7 @@ description: "Using ViewHelpers as a decorator"
 date: "2017-11-08 21:32:38"
 author: "Danny"
 
-image: "images/og-images/applying-decorator-pattern-in-zend-framework.jpg"
+#image: "images/og-images/applying-decorator-pattern-in-zend-framework.jpg"
 
 ogImage:
     title: "Applying Decorator Pattern In ZendFramework"

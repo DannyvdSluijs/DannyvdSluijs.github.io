@@ -3,7 +3,7 @@ title: "About MutableCreationOptionsInterface"
 author: "Danny"
 date: "2018-10-15 20:34:59"
 
-image: "images/og-images/about-mutable-creation-options-interface.jpg"
+#image: "images/og-images/about-mutable-creation-options-interface.jpg"
 
 ogImage:
     title: "About MutableCreationOptionsInterface"

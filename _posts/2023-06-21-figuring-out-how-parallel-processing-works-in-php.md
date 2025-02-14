@@ -4,7 +4,7 @@ description: "Saving time of a CI/CD pipeline and learning how parallel processi
 author: "Danny"
 date: "2023-06-21"
 
-image: "images/og-images/figuring-ou-how-parallel-processing-works-in-php.jpg"
+#image: "images/og-images/figuring-ou-how-parallel-processing-works-in-php.jpg"
 
 ogImage:
     title: "Figuring out how parallel processing works in PHP"

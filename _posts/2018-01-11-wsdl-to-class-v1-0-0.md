@@ -3,7 +3,7 @@ title: "WsdlToClass V1.0.0 released"
 author: "Danny"
 date: "2018-01-11 21:46:28"
 
-image: "images/og-images/wsdl-to-class-v1-0-0.md"
+#image: "images/og-images/wsdl-to-class-v1-0-0.md"
 
 ogImage:
     title: "WsdlToClass version V1.0.0  released"

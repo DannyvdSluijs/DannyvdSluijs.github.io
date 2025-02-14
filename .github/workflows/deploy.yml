@@ -11,11 +11,12 @@ jobs:
       pages: write
       id-token: write
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
       - uses: hydephp/action@master
         with:
           deploy-to: "pages"
           env: |
             SITE_NAME="An open source enthusiast and his stories."
-            SITE_URL=https://www.dannyvandersluijs.nl
+            SITE_URL="https://www.dannyvandersluijs.nl"
             TORCHLIGHT_TOKEN=${{ secrets.TORCHLIGHT_TOKEN }}
+          debug: true
