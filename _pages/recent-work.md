@@ -5,24 +5,29 @@ title: 👨‍💻 Recent Work
 #### 💻 Check out what I'm currently working on
 
 - [DannyvdSluijs/DannyvdSluijs.github.io](https://github.com/DannyvdSluijs/DannyvdSluijs.github.io) (today)
-- [DannyvdSluijs/letter-find](https://github.com/DannyvdSluijs/letter-find) (1 day ago)
 - [DannyvdSluijs/well-known-files](https://github.com/DannyvdSluijs/well-known-files) (1 day ago)
+- [DannyvdSluijs/letter-find](https://github.com/DannyvdSluijs/letter-find) (1 day ago)
 - [DannyvdSluijs/OpenSourceArmy](https://github.com/DannyvdSluijs/OpenSourceArmy) (2 days ago)
 - [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (4 days ago)
 - [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (1 week ago)
 - [bowtie-json-schema/bowtie](https://github.com/bowtie-json-schema/bowtie) (1 week ago)
 - [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (1 week ago)
 - [DannyvdSluijs/exact-online-meta-data-tool](https://github.com/DannyvdSluijs/exact-online-meta-data-tool) (1 month ago)
-- [picqer/exact-php-client](https://github.com/picqer/exact-php-client) (1 month ago)
+- [DannyvdSluijs/PicqerExactPhpClientGenerator](https://github.com/DannyvdSluijs/PicqerExactPhpClientGenerator) (1 month ago)
 
 
-#### 📜 My recent blog posts
-
-- [The unknown Composer commands](/2023/08/25/the-unknown-composer-commands.html) (1 year ago)
-- [Figuring out how parallel processing works in PHP](/2023/06/21/figuring-out-how-parallel-processing-works-in-php.html) (2 years ago)
-- [Securing the web at no cost](/2019/02/04/securing-the-web-at-no-cost.html) (6 years ago)
-- [About MutableCreationOptionsInterface](/2018/10/15/about-mutable-creation-options-interface.html) (6 years ago)
-- [WsdlToClass V1.0.0 released](/2018/01/11/wsdl-to-class-v1-0-0.html) (7 years ago)
+{*#### 📜 My recent blog posts*}
+{**}
+{*- [The unknown Composer commands](https://www.dannyvandersluijs.nl/posts/2023-08-25-the-unknown-composer-commands.html) (1 year ago)*}
+{**}
+{*- [Figuring out how parallel processing works in PHP](https://www.dannyvandersluijs.nl/posts/2023-06-21-figuring-out-how-parallel-processing-works-in-php.html) (2 years ago)*}
+{**}
+{*- [Securing the web at no cost](https://www.dannyvandersluijs.nl/posts/2019-02-04-securing-the-web-at-no-cost.html) (6 years ago)*}
+{**}
+{*- [About MutableCreationOptionsInterface](https://www.dannyvandersluijs.nl/posts/2018-10-15-about-mutable-creation-options-interface.html) (6 years ago)*}
+{**}
+{*- [WsdlToClass V1.0.0 released](https://www.dannyvandersluijs.nl/posts/2018-01-11-wsdl-to-class-v1-0-0.html) (7 years ago)*}
+{**}
 
 #### 🔨 My recent Pull Requests
 
