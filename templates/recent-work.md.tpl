@@ -1,6 +1,5 @@
 ---
-layout: page
-title: 👨‍💻 Current Activities
+title: 👨‍💻 Recent Work
 ---
 
 #### 💻 Check out what I'm currently working on

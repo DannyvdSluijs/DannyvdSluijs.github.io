@@ -1,10 +1,7 @@
 ---
-title: WsdlToClass version 0.3.0 released
-tags: 
-- WsdlToClass
-- WSDL
-date: 2017-12-01 22:15:57
-layout: post
+title: "WsdlToClass version 0.3.0 released"
+author: "Danny"
+date: "2017-12-01 22:15:57"
 
 image: "images/og-images/wsdl-to-class-version-0-3-0-released.jpg"
 

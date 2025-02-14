@@ -1,11 +1,8 @@
 ---
-title: 'Figuring out how parallel processing works in PHP'
-date: 2023-06-21 22:08:02
-layout: post
-tags: 
-- PHP
-- Process Control
-- Parallel processing
+title: "Figuring out how parallel processing works in PHP"
+description: "Saving time of a CI/CD pipeline and learning how parallel processing works"
+author: "Danny"
+date: "2023-06-21"
 
 image: "images/og-images/figuring-ou-how-parallel-processing-works-in-php.jpg"
 
