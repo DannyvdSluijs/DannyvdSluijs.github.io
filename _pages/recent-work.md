@@ -4,16 +4,16 @@ title: 👨‍💻 Recent Work
 
 #### 💻 Check out what I'm currently working on
 
-- [DannyvdSluijs/well-known-files](https://github.com/DannyvdSluijs/well-known-files) (1 day ago)
+- [DannyvdSluijs/DannyvdSluijs.github.io](https://github.com/DannyvdSluijs/DannyvdSluijs.github.io) (today)
 - [DannyvdSluijs/letter-find](https://github.com/DannyvdSluijs/letter-find) (1 day ago)
+- [DannyvdSluijs/well-known-files](https://github.com/DannyvdSluijs/well-known-files) (1 day ago)
 - [DannyvdSluijs/OpenSourceArmy](https://github.com/DannyvdSluijs/OpenSourceArmy) (2 days ago)
 - [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (4 days ago)
 - [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (1 week ago)
 - [bowtie-json-schema/bowtie](https://github.com/bowtie-json-schema/bowtie) (1 week ago)
 - [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (1 week ago)
-- [picqer/exact-php-client](https://github.com/picqer/exact-php-client) (1 month ago)
-- [DannyvdSluijs/PicqerExactPhpClientGenerator](https://github.com/DannyvdSluijs/PicqerExactPhpClientGenerator) (1 month ago)
 - [DannyvdSluijs/exact-online-meta-data-tool](https://github.com/DannyvdSluijs/exact-online-meta-data-tool) (1 month ago)
+- [picqer/exact-php-client](https://github.com/picqer/exact-php-client) (1 month ago)
 
 
 #### 📜 My recent blog posts
@@ -26,6 +26,7 @@ title: 👨‍💻 Recent Work
 
 #### 🔨 My recent Pull Requests
 
+- [refactor: migrate from Jekyll (ruby) to HydePHP](https://github.com/DannyvdSluijs/DannyvdSluijs.github.io/pull/50) on [DannyvdSluijs/DannyvdSluijs.github.io](https://github.com/DannyvdSluijs/DannyvdSluijs.github.io) (today)
 - [fix: correct cname file](https://github.com/DannyvdSluijs/well-known-files/pull/2) on [DannyvdSluijs/well-known-files](https://github.com/DannyvdSluijs/well-known-files) (1 day ago)
 - [Update to feature complete](https://github.com/DannyvdSluijs/letter-find/pull/1) on [DannyvdSluijs/letter-find](https://github.com/DannyvdSluijs/letter-find) (1 day ago)
 - [ci: add welcome workflow](https://github.com/DannyvdSluijs/OpenSourceArmy/pull/2) on [DannyvdSluijs/OpenSourceArmy](https://github.com/DannyvdSluijs/OpenSourceArmy) (2 days ago)
@@ -40,7 +41,6 @@ title: 👨‍💻 Recent Work
 - [feat: Update based on documentation d.d. 2024-12-31](https://github.com/picqer/exact-php-client/pull/663) on [picqer/exact-php-client](https://github.com/picqer/exact-php-client) (1 month ago)
 - [feat: Bump mayor version for PHP, Symfony and PHPUnit](https://github.com/DannyvdSluijs/exact-online-meta-data-tool/pull/223) on [DannyvdSluijs/exact-online-meta-data-tool](https://github.com/DannyvdSluijs/exact-online-meta-data-tool) (1 month ago)
 - [fix: Resolve scope within try-catch](https://github.com/DannyvdSluijs/exact-online-meta-data-tool/pull/221) on [DannyvdSluijs/exact-online-meta-data-tool](https://github.com/DannyvdSluijs/exact-online-meta-data-tool) (1 month ago)
-- [Enable PHP 8.4 in test matrix](https://github.com/umulmrum/holiday/pull/53) on [umulmrum/holiday](https://github.com/umulmrum/holiday) (2 months ago)
 
 
 #### 🔭 Latest releases I've contributed to
