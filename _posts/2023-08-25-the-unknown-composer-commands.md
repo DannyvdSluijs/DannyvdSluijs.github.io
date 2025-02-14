@@ -1,10 +1,7 @@
 ---
-title: 'The unknown Composer commands'
-date: 2023-08-25 07:47:55
-layout: post
-tags: 
-- PHP
-- Composer
+title: "The unknown Composer commands"
+date: "2023-08-25 07:47:55"
+author: "Danny"
 
 image: "images/og-images/the-unknown-composer-commands.jpg"
 

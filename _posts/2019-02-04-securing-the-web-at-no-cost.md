@@ -1,10 +1,7 @@
 ---
-title: 'Securing the web at no cost'
-date: 2019-02-04 21:20:27
-layout: post
-tags: 
-- https
-- letsencrypt
+title: "Securing the web at no cost"
+author: "Danny"
+date: "2019-02-04 21:20:27"
 
 image: "images/og-images/securing-the-web-at-no-cost.jpg"
 

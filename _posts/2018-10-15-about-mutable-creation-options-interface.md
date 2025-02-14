@@ -1,9 +1,7 @@
 ---
-title: About MutableCreationOptionsInterface
-date: 2018-10-15 20:34:59
-layout: post
-tags:
-- Zend
+title: "About MutableCreationOptionsInterface"
+author: "Danny"
+date: "2018-10-15 20:34:59"
 
 image: "images/og-images/about-mutable-creation-options-interface.jpg"
 
@@ -24,8 +22,7 @@ However, certain filters would need some contextual options which up until now t
 So how does it all tie together when written code:
 
 ```php
-<?php
-#./module/App/src/Filter/Factory/UserFilterFactory
+// Filepath: ./module/App/src/Filter/Factory/UserFilterFactory
 
 namespace App\Filter\Factory\UserFilterFactory;
 
@@ -38,7 +35,7 @@ use App\Filter\UserFilter;
 
 class UserFilterFactory implements FactoryInterface, MutableCreationOptionsInterface
 {
-    use MutableCreationOptionsTrait;
+    use MutableCreationOptionsTrait; // [tl! highlight]
     
     public function createService(ServiceLocatorInterface $serviceLocator)
     {
@@ -46,7 +43,7 @@ class UserFilterFactory implements FactoryInterface, MutableCreationOptionsInter
         $dependencyB = $serviceLocator->get(\App\DependancyA);
         $filter = new UserFilter($dependencyA, $dependencyB);
         
-        $filter->setOptions($this->creationOptions);
+        $filter->setOptions($this->creationOptions); // [tl! highlight]
 
         return $filter;
     }
