@@ -31,6 +31,7 @@ title: 👨‍💻 Recent Work
 
 #### 🔨 My recent Pull Requests
 
+- [feat: add RSS as input to build rss during action run](https://github.com/hydephp/action/pull/51) on [hydephp/action](https://github.com/hydephp/action) (today)
 - [refactor: migrate from Jekyll (ruby) to HydePHP](https://github.com/DannyvdSluijs/DannyvdSluijs.github.io/pull/50) on [DannyvdSluijs/DannyvdSluijs.github.io](https://github.com/DannyvdSluijs/DannyvdSluijs.github.io) (3 days ago)
 - [fix: correct cname file](https://github.com/DannyvdSluijs/well-known-files/pull/2) on [DannyvdSluijs/well-known-files](https://github.com/DannyvdSluijs/well-known-files) (4 days ago)
 - [Update to feature complete](https://github.com/DannyvdSluijs/letter-find/pull/1) on [DannyvdSluijs/letter-find](https://github.com/DannyvdSluijs/letter-find) (4 days ago)
@@ -45,7 +46,6 @@ title: 👨‍💻 Recent Work
 - [Remove old grease monkey script as it no longer being used](https://github.com/picqer/exact-php-client/pull/665) on [picqer/exact-php-client](https://github.com/picqer/exact-php-client) (1 month ago)
 - [feat: Update based on documentation d.d. 2024-12-31](https://github.com/picqer/exact-php-client/pull/663) on [picqer/exact-php-client](https://github.com/picqer/exact-php-client) (1 month ago)
 - [feat: Bump mayor version for PHP, Symfony and PHPUnit](https://github.com/DannyvdSluijs/exact-online-meta-data-tool/pull/223) on [DannyvdSluijs/exact-online-meta-data-tool](https://github.com/DannyvdSluijs/exact-online-meta-data-tool) (1 month ago)
-- [fix: Resolve scope within try-catch](https://github.com/DannyvdSluijs/exact-online-meta-data-tool/pull/221) on [DannyvdSluijs/exact-online-meta-data-tool](https://github.com/DannyvdSluijs/exact-online-meta-data-tool) (1 month ago)
 
 
 #### 🔭 Latest releases I've contributed to
