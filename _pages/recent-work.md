@@ -4,11 +4,11 @@ title: 👨‍💻 Recent Work
 
 #### 💻 Check out what I'm currently working on
 
-- [JsonMapper/LaravelPackage](https://github.com/JsonMapper/LaravelPackage) (1 day ago)
-- [DannyvdSluijs/OpenSourceArmy](https://github.com/DannyvdSluijs/OpenSourceArmy) (1 day ago)
-- [DannyvdSluijs/DannyvdSluijs.github.io](https://github.com/DannyvdSluijs/DannyvdSluijs.github.io) (4 days ago)
-- [DannyvdSluijs/well-known-files](https://github.com/DannyvdSluijs/well-known-files) (5 days ago)
-- [DannyvdSluijs/letter-find](https://github.com/DannyvdSluijs/letter-find) (5 days ago)
+- [JsonMapper/LaravelPackage](https://github.com/JsonMapper/LaravelPackage) (2 days ago)
+- [DannyvdSluijs/OpenSourceArmy](https://github.com/DannyvdSluijs/OpenSourceArmy) (2 days ago)
+- [DannyvdSluijs/DannyvdSluijs.github.io](https://github.com/DannyvdSluijs/DannyvdSluijs.github.io) (5 days ago)
+- [DannyvdSluijs/well-known-files](https://github.com/DannyvdSluijs/well-known-files) (6 days ago)
+- [DannyvdSluijs/letter-find](https://github.com/DannyvdSluijs/letter-find) (6 days ago)
 - [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (1 week ago)
 - [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (1 week ago)
 - [bowtie-json-schema/bowtie](https://github.com/bowtie-json-schema/bowtie) (2 weeks ago)
@@ -31,16 +31,16 @@ title: 👨‍💻 Recent Work
 
 #### 🔨 My recent Pull Requests
 
-- [ci: try with workflow permissions](https://github.com/DannyvdSluijs/OpenSourceArmy/pull/7) on [DannyvdSluijs/OpenSourceArmy](https://github.com/DannyvdSluijs/OpenSourceArmy) (1 day ago)
-- [ci: try with workflow permissions](https://github.com/DannyvdSluijs/OpenSourceArmy/pull/4) on [DannyvdSluijs/OpenSourceArmy](https://github.com/DannyvdSluijs/OpenSourceArmy) (1 day ago)
-- [ci: extend workflow matrix to include php 8.2, 8.3 and 8.4](https://github.com/JsonMapper/LaravelPackage/pull/24) on [JsonMapper/LaravelPackage](https://github.com/JsonMapper/LaravelPackage) (1 day ago)
-- [fix: resolve error due to actions/download-artifact: v3 deprecation](https://github.com/hyde-staging/github-action-test-project-2/pull/1) on [hyde-staging/github-action-test-project-2](https://github.com/hyde-staging/github-action-test-project-2) (1 day ago)
-- [fix: resolve error due to actions/download-artifact: v3 deprecation](https://github.com/hyde-staging/github-action-test-project-1/pull/1) on [hyde-staging/github-action-test-project-1](https://github.com/hyde-staging/github-action-test-project-1) (1 day ago)
-- [feat: add RSS as input to build rss during action run](https://github.com/hydephp/action/pull/51) on [hydephp/action](https://github.com/hydephp/action) (1 day ago)
-- [refactor: migrate from Jekyll (ruby) to HydePHP](https://github.com/DannyvdSluijs/DannyvdSluijs.github.io/pull/50) on [DannyvdSluijs/DannyvdSluijs.github.io](https://github.com/DannyvdSluijs/DannyvdSluijs.github.io) (4 days ago)
-- [fix: correct cname file](https://github.com/DannyvdSluijs/well-known-files/pull/2) on [DannyvdSluijs/well-known-files](https://github.com/DannyvdSluijs/well-known-files) (5 days ago)
-- [Update to feature complete](https://github.com/DannyvdSluijs/letter-find/pull/1) on [DannyvdSluijs/letter-find](https://github.com/DannyvdSluijs/letter-find) (5 days ago)
-- [ci: add welcome workflow](https://github.com/DannyvdSluijs/OpenSourceArmy/pull/2) on [DannyvdSluijs/OpenSourceArmy](https://github.com/DannyvdSluijs/OpenSourceArmy) (6 days ago)
+- [ci: try with workflow permissions](https://github.com/DannyvdSluijs/OpenSourceArmy/pull/7) on [DannyvdSluijs/OpenSourceArmy](https://github.com/DannyvdSluijs/OpenSourceArmy) (2 days ago)
+- [ci: try with workflow permissions](https://github.com/DannyvdSluijs/OpenSourceArmy/pull/4) on [DannyvdSluijs/OpenSourceArmy](https://github.com/DannyvdSluijs/OpenSourceArmy) (2 days ago)
+- [ci: extend workflow matrix to include php 8.2, 8.3 and 8.4](https://github.com/JsonMapper/LaravelPackage/pull/24) on [JsonMapper/LaravelPackage](https://github.com/JsonMapper/LaravelPackage) (2 days ago)
+- [fix: resolve error due to actions/download-artifact: v3 deprecation](https://github.com/hyde-staging/github-action-test-project-2/pull/1) on [hyde-staging/github-action-test-project-2](https://github.com/hyde-staging/github-action-test-project-2) (2 days ago)
+- [fix: resolve error due to actions/download-artifact: v3 deprecation](https://github.com/hyde-staging/github-action-test-project-1/pull/1) on [hyde-staging/github-action-test-project-1](https://github.com/hyde-staging/github-action-test-project-1) (2 days ago)
+- [feat: add RSS as input to build rss during action run](https://github.com/hydephp/action/pull/51) on [hydephp/action](https://github.com/hydephp/action) (2 days ago)
+- [refactor: migrate from Jekyll (ruby) to HydePHP](https://github.com/DannyvdSluijs/DannyvdSluijs.github.io/pull/50) on [DannyvdSluijs/DannyvdSluijs.github.io](https://github.com/DannyvdSluijs/DannyvdSluijs.github.io) (5 days ago)
+- [fix: correct cname file](https://github.com/DannyvdSluijs/well-known-files/pull/2) on [DannyvdSluijs/well-known-files](https://github.com/DannyvdSluijs/well-known-files) (6 days ago)
+- [Update to feature complete](https://github.com/DannyvdSluijs/letter-find/pull/1) on [DannyvdSluijs/letter-find](https://github.com/DannyvdSluijs/letter-find) (6 days ago)
+- [ci: add welcome workflow](https://github.com/DannyvdSluijs/OpenSourceArmy/pull/2) on [DannyvdSluijs/OpenSourceArmy](https://github.com/DannyvdSluijs/OpenSourceArmy) (1 week ago)
 - [fix: Upgrade php cs fixer to latest](https://github.com/jsonrainbow/json-schema/pull/783) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (1 week ago)
 - [feat: welcome first time contributors](https://github.com/jsonrainbow/json-schema/pull/782) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (1 week ago)
 - [build: Move from dev-master to 6.1 version](https://github.com/bowtie-json-schema/bowtie/pull/1812) on [bowtie-json-schema/bowtie](https://github.com/bowtie-json-schema/bowtie) (2 weeks ago)
@@ -50,7 +50,7 @@ title: 👨‍💻 Recent Work
 
 #### 🔭 Latest releases I've contributed to
 
-- [JsonMapper/LaravelPackage](https://github.com/JsonMapper/LaravelPackage) - [2.6.0](https://github.com/JsonMapper/LaravelPackage/releases/tag/2.6.0) (1 day ago)
+- [JsonMapper/LaravelPackage](https://github.com/JsonMapper/LaravelPackage) - [2.6.0](https://github.com/JsonMapper/LaravelPackage/releases/tag/2.6.0) (2 days ago)
 - [deployphp/deployer](https://github.com/deployphp/deployer) - [v7.5.11](https://github.com/deployphp/deployer/releases/tag/v7.5.11) (1 week ago)
 - [bowtie-json-schema/bowtie](https://github.com/bowtie-json-schema/bowtie) - [v2025.2.5](https://github.com/bowtie-json-schema/bowtie/releases/tag/v2025.2.5) (1 week ago)
 - [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) - [6.1.0](https://github.com/jsonrainbow/json-schema/releases/tag/6.1.0) (2 weeks ago)
