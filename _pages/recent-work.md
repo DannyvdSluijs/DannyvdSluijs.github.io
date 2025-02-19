@@ -31,6 +31,7 @@ title: 👨‍💻 Recent Work
 
 #### 🔨 My recent Pull Requests
 
+- [Upgrade phpunit](https://github.com/picqer/exact-php-client/pull/668) on [picqer/exact-php-client](https://github.com/picqer/exact-php-client) (today)
 - [feat: update models based on the documentation d.d. 2025-02-19](https://github.com/picqer/exact-php-client/pull/667) on [picqer/exact-php-client](https://github.com/picqer/exact-php-client) (today)
 - [ci: disallow failure on php 8.4 latest](https://github.com/DannyvdSluijs/exact-online-meta-data-tool/pull/224) on [DannyvdSluijs/exact-online-meta-data-tool](https://github.com/DannyvdSluijs/exact-online-meta-data-tool) (today)
 - [ci: migrate from travis ci to github ci](https://github.com/JsonMapper/EloquentMiddleware/pull/8) on [JsonMapper/EloquentMiddleware](https://github.com/JsonMapper/EloquentMiddleware) (today)
@@ -45,7 +46,6 @@ title: 👨‍💻 Recent Work
 - [feat: add RSS as input to build rss during action run](https://github.com/hydephp/action/pull/51) on [hydephp/action](https://github.com/hydephp/action) (2 days ago)
 - [refactor: migrate from Jekyll (ruby) to HydePHP](https://github.com/DannyvdSluijs/DannyvdSluijs.github.io/pull/50) on [DannyvdSluijs/DannyvdSluijs.github.io](https://github.com/DannyvdSluijs/DannyvdSluijs.github.io) (5 days ago)
 - [fix: correct cname file](https://github.com/DannyvdSluijs/well-known-files/pull/2) on [DannyvdSluijs/well-known-files](https://github.com/DannyvdSluijs/well-known-files) (6 days ago)
-- [Update to feature complete](https://github.com/DannyvdSluijs/letter-find/pull/1) on [DannyvdSluijs/letter-find](https://github.com/DannyvdSluijs/letter-find) (6 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
