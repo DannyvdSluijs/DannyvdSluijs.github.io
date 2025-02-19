@@ -4,16 +4,16 @@ title: 👨‍💻 Recent Work
 
 #### 💻 Check out what I'm currently working on
 
+- [JsonMapper/LaravelPackage](https://github.com/JsonMapper/LaravelPackage) (today)
+- [JsonMapper/SymfonyBundle](https://github.com/JsonMapper/SymfonyBundle) (today)
+- [JsonMapper/EloquentMiddleware](https://github.com/JsonMapper/EloquentMiddleware) (today)
 - [fedeisas/laravel-mail-css-inliner](https://github.com/fedeisas/laravel-mail-css-inliner) (today)
-- [JsonMapper/LaravelPackage](https://github.com/JsonMapper/LaravelPackage) (2 days ago)
 - [DannyvdSluijs/OpenSourceArmy](https://github.com/DannyvdSluijs/OpenSourceArmy) (2 days ago)
 - [DannyvdSluijs/DannyvdSluijs.github.io](https://github.com/DannyvdSluijs/DannyvdSluijs.github.io) (5 days ago)
-- [DannyvdSluijs/well-known-files](https://github.com/DannyvdSluijs/well-known-files) (6 days ago)
 - [DannyvdSluijs/letter-find](https://github.com/DannyvdSluijs/letter-find) (6 days ago)
+- [DannyvdSluijs/well-known-files](https://github.com/DannyvdSluijs/well-known-files) (6 days ago)
 - [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (1 week ago)
 - [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (1 week ago)
-- [bowtie-json-schema/bowtie](https://github.com/bowtie-json-schema/bowtie) (2 weeks ago)
-- [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (2 weeks ago)
 
 
 {*#### 📜 My recent blog posts*}
@@ -31,6 +31,10 @@ title: 👨‍💻 Recent Work
 
 #### 🔨 My recent Pull Requests
 
+- [ci: migrate from travis ci to github ci](https://github.com/JsonMapper/EloquentMiddleware/pull/8) on [JsonMapper/EloquentMiddleware](https://github.com/JsonMapper/EloquentMiddleware) (today)
+- [docs: show white based logo when in dark mode](https://github.com/JsonMapper/EloquentMiddleware/pull/7) on [JsonMapper/EloquentMiddleware](https://github.com/JsonMapper/EloquentMiddleware) (today)
+- [docs: show white based logo when in dark mode](https://github.com/JsonMapper/SymfonyBundle/pull/9) on [JsonMapper/SymfonyBundle](https://github.com/JsonMapper/SymfonyBundle) (today)
+- [docs: show white based logo when in dark mode](https://github.com/JsonMapper/LaravelPackage/pull/25) on [JsonMapper/LaravelPackage](https://github.com/JsonMapper/LaravelPackage) (today)
 - [ci: try with workflow permissions](https://github.com/DannyvdSluijs/OpenSourceArmy/pull/7) on [DannyvdSluijs/OpenSourceArmy](https://github.com/DannyvdSluijs/OpenSourceArmy) (2 days ago)
 - [ci: try with workflow permissions](https://github.com/DannyvdSluijs/OpenSourceArmy/pull/4) on [DannyvdSluijs/OpenSourceArmy](https://github.com/DannyvdSluijs/OpenSourceArmy) (2 days ago)
 - [ci: extend workflow matrix to include php 8.2, 8.3 and 8.4](https://github.com/JsonMapper/LaravelPackage/pull/24) on [JsonMapper/LaravelPackage](https://github.com/JsonMapper/LaravelPackage) (2 days ago)
@@ -42,10 +46,6 @@ title: 👨‍💻 Recent Work
 - [Update to feature complete](https://github.com/DannyvdSluijs/letter-find/pull/1) on [DannyvdSluijs/letter-find](https://github.com/DannyvdSluijs/letter-find) (6 days ago)
 - [ci: add welcome workflow](https://github.com/DannyvdSluijs/OpenSourceArmy/pull/2) on [DannyvdSluijs/OpenSourceArmy](https://github.com/DannyvdSluijs/OpenSourceArmy) (1 week ago)
 - [fix: Upgrade php cs fixer to latest](https://github.com/jsonrainbow/json-schema/pull/783) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (1 week ago)
-- [feat: welcome first time contributors](https://github.com/jsonrainbow/json-schema/pull/782) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (1 week ago)
-- [build: Move from dev-master to 6.1 version](https://github.com/bowtie-json-schema/bowtie/pull/1812) on [bowtie-json-schema/bowtie](https://github.com/bowtie-json-schema/bowtie) (2 weeks ago)
-- [Update scorecard.yml](https://github.com/JsonMapper/JsonMapper/pull/191) on [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (2 weeks ago)
-- [Create scorecard.yml](https://github.com/JsonMapper/JsonMapper/pull/190) on [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (2 weeks ago)
 
 
 #### 🔭 Latest releases I've contributed to
