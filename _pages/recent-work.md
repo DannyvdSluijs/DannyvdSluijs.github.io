@@ -50,10 +50,10 @@ title: 👨‍💻 Recent Work
 
 #### 🔭 Latest releases I've contributed to
 
+- [deployphp/deployer](https://github.com/deployphp/deployer) - [v7.5.12](https://github.com/deployphp/deployer/releases/tag/v7.5.12) (today)
 - [JsonMapper/EloquentMiddleware](https://github.com/JsonMapper/EloquentMiddleware) - [2.1.0](https://github.com/JsonMapper/EloquentMiddleware/releases/tag/2.1.0) (today)
 - [fedeisas/laravel-mail-css-inliner](https://github.com/fedeisas/laravel-mail-css-inliner) - [5.4.0](https://github.com/fedeisas/laravel-mail-css-inliner/releases/tag/5.4.0) (today)
 - [JsonMapper/LaravelPackage](https://github.com/JsonMapper/LaravelPackage) - [2.6.0](https://github.com/JsonMapper/LaravelPackage/releases/tag/2.6.0) (2 days ago)
-- [deployphp/deployer](https://github.com/deployphp/deployer) - [v7.5.11](https://github.com/deployphp/deployer/releases/tag/v7.5.11) (1 week ago)
 - [bowtie-json-schema/bowtie](https://github.com/bowtie-json-schema/bowtie) - [v2025.2.5](https://github.com/bowtie-json-schema/bowtie/releases/tag/v2025.2.5) (1 week ago)
 - [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) - [6.1.0](https://github.com/jsonrainbow/json-schema/releases/tag/6.1.0) (2 weeks ago)
 - [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) - [2.22.3](https://github.com/JsonMapper/JsonMapper/releases/tag/2.22.3) (2 weeks ago)
