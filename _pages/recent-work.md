@@ -50,6 +50,7 @@ title: 👨‍💻 Recent Work
 
 #### 🔭 Latest releases I've contributed to
 
+- [fedeisas/laravel-mail-css-inliner](https://github.com/fedeisas/laravel-mail-css-inliner) - [5.4.0](https://github.com/fedeisas/laravel-mail-css-inliner/releases/tag/5.4.0) (today)
 - [JsonMapper/LaravelPackage](https://github.com/JsonMapper/LaravelPackage) - [2.6.0](https://github.com/JsonMapper/LaravelPackage/releases/tag/2.6.0) (2 days ago)
 - [deployphp/deployer](https://github.com/deployphp/deployer) - [v7.5.11](https://github.com/deployphp/deployer/releases/tag/v7.5.11) (1 week ago)
 - [bowtie-json-schema/bowtie](https://github.com/bowtie-json-schema/bowtie) - [v2025.2.5](https://github.com/bowtie-json-schema/bowtie/releases/tag/v2025.2.5) (1 week ago)
@@ -59,4 +60,3 @@ title: 👨‍💻 Recent Work
 - [genkgo/camt](https://github.com/genkgo/camt) - [2.8.2](https://github.com/genkgo/camt/releases/tag/2.8.2) (1 month ago)
 - [xirixiz/homeassistant-afvalwijzer](https://github.com/xirixiz/homeassistant-afvalwijzer) - [2025.01.01](https://github.com/xirixiz/homeassistant-afvalwijzer/releases/tag/2025.01.01) (1 month ago)
 - [picqer/exact-php-client](https://github.com/picqer/exact-php-client) - [v4.4.3](https://github.com/picqer/exact-php-client/releases/tag/v4.4.3) (1 month ago)
-- [DannyvdSluijs/exact-online-meta-data-tool](https://github.com/DannyvdSluijs/exact-online-meta-data-tool) - [4.0.0](https://github.com/DannyvdSluijs/exact-online-meta-data-tool/releases/tag/4.0.0) (1 month ago)
