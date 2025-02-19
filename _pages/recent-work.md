@@ -8,12 +8,12 @@ title: 👨‍💻 Recent Work
 - [JsonMapper/LaravelPackage](https://github.com/JsonMapper/LaravelPackage) (today)
 - [JsonMapper/SymfonyBundle](https://github.com/JsonMapper/SymfonyBundle) (today)
 - [fedeisas/laravel-mail-css-inliner](https://github.com/fedeisas/laravel-mail-css-inliner) (today)
+- [DannyvdSluijs/exact-online-meta-data-tool](https://github.com/DannyvdSluijs/exact-online-meta-data-tool) (today)
 - [DannyvdSluijs/exact-online-api-client-dev-tools](https://github.com/DannyvdSluijs/exact-online-api-client-dev-tools) (today)
 - [DannyvdSluijs/OpenSourceArmy](https://github.com/DannyvdSluijs/OpenSourceArmy) (2 days ago)
 - [DannyvdSluijs/DannyvdSluijs.github.io](https://github.com/DannyvdSluijs/DannyvdSluijs.github.io) (5 days ago)
 - [DannyvdSluijs/well-known-files](https://github.com/DannyvdSluijs/well-known-files) (6 days ago)
 - [DannyvdSluijs/letter-find](https://github.com/DannyvdSluijs/letter-find) (6 days ago)
-- [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (1 week ago)
 
 
 {*#### 📜 My recent blog posts*}
@@ -31,6 +31,7 @@ title: 👨‍💻 Recent Work
 
 #### 🔨 My recent Pull Requests
 
+- [feat: update models based on the documentation d.d. 2025-02-19](https://github.com/picqer/exact-php-client/pull/667) on [picqer/exact-php-client](https://github.com/picqer/exact-php-client) (today)
 - [ci: disallow failure on php 8.4 latest](https://github.com/DannyvdSluijs/exact-online-meta-data-tool/pull/224) on [DannyvdSluijs/exact-online-meta-data-tool](https://github.com/DannyvdSluijs/exact-online-meta-data-tool) (today)
 - [ci: migrate from travis ci to github ci](https://github.com/JsonMapper/EloquentMiddleware/pull/8) on [JsonMapper/EloquentMiddleware](https://github.com/JsonMapper/EloquentMiddleware) (today)
 - [docs: show white based logo when in dark mode](https://github.com/JsonMapper/EloquentMiddleware/pull/7) on [JsonMapper/EloquentMiddleware](https://github.com/JsonMapper/EloquentMiddleware) (today)
@@ -45,7 +46,6 @@ title: 👨‍💻 Recent Work
 - [refactor: migrate from Jekyll (ruby) to HydePHP](https://github.com/DannyvdSluijs/DannyvdSluijs.github.io/pull/50) on [DannyvdSluijs/DannyvdSluijs.github.io](https://github.com/DannyvdSluijs/DannyvdSluijs.github.io) (5 days ago)
 - [fix: correct cname file](https://github.com/DannyvdSluijs/well-known-files/pull/2) on [DannyvdSluijs/well-known-files](https://github.com/DannyvdSluijs/well-known-files) (6 days ago)
 - [Update to feature complete](https://github.com/DannyvdSluijs/letter-find/pull/1) on [DannyvdSluijs/letter-find](https://github.com/DannyvdSluijs/letter-find) (6 days ago)
-- [ci: add welcome workflow](https://github.com/DannyvdSluijs/OpenSourceArmy/pull/2) on [DannyvdSluijs/OpenSourceArmy](https://github.com/DannyvdSluijs/OpenSourceArmy) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
