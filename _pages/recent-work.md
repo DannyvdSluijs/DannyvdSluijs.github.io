@@ -31,6 +31,8 @@ title: 👨‍💻 Recent Work
 
 #### 🔨 My recent Pull Requests
 
+- [fix: create deep copy before checking each sub schema in oneOf when only check_mode_apply_defaults is set](https://github.com/jsonrainbow/json-schema/pull/795) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (today)
+- [Correctly set the schema ID when passing it as assoc array](https://github.com/jsonrainbow/json-schema/pull/794) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (today)
 - [fix: Create deep copy before checking each sub schema in anyOf](https://github.com/jsonrainbow/json-schema/pull/792) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (today)
 - [fix: Create deep copy before checking each sub schema in oneOf](https://github.com/jsonrainbow/json-schema/pull/791) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (today)
 - [Update ref.markdown](https://github.com/sourcemeta/learnjsonschema.com/pull/283) on [sourcemeta/learnjsonschema.com](https://github.com/sourcemeta/learnjsonschema.com) (1 day ago)
@@ -44,8 +46,6 @@ title: 👨‍💻 Recent Work
 - [ci: migrate from travis ci to github ci](https://github.com/JsonMapper/EloquentMiddleware/pull/8) on [JsonMapper/EloquentMiddleware](https://github.com/JsonMapper/EloquentMiddleware) (1 week ago)
 - [docs: show white based logo when in dark mode](https://github.com/JsonMapper/EloquentMiddleware/pull/7) on [JsonMapper/EloquentMiddleware](https://github.com/JsonMapper/EloquentMiddleware) (1 week ago)
 - [docs: show white based logo when in dark mode](https://github.com/JsonMapper/SymfonyBundle/pull/9) on [JsonMapper/SymfonyBundle](https://github.com/JsonMapper/SymfonyBundle) (1 week ago)
-- [docs: show white based logo when in dark mode](https://github.com/JsonMapper/LaravelPackage/pull/25) on [JsonMapper/LaravelPackage](https://github.com/JsonMapper/LaravelPackage) (1 week ago)
-- [ci: try with workflow permissions](https://github.com/DannyvdSluijs/OpenSourceArmy/pull/7) on [DannyvdSluijs/OpenSourceArmy](https://github.com/DannyvdSluijs/OpenSourceArmy) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
