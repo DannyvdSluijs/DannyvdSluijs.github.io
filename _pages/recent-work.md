@@ -4,16 +4,16 @@ title: 👨‍💻 Recent Work
 
 #### 💻 Check out what I'm currently working on
 
+- [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (today)
 - [sourcemeta/learnjsonschema.com](https://github.com/sourcemeta/learnjsonschema.com) (1 day ago)
-- [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (5 days ago)
 - [myclabs/php-enum](https://github.com/myclabs/php-enum) (6 days ago)
 - [fedeisas/laravel-mail-css-inliner](https://github.com/fedeisas/laravel-mail-css-inliner) (6 days ago)
-- [JsonMapper/SymfonyBundle](https://github.com/JsonMapper/SymfonyBundle) (1 week ago)
-- [DannyvdSluijs/exact-online-api-client-dev-tools](https://github.com/DannyvdSluijs/exact-online-api-client-dev-tools) (1 week ago)
+- [DannyvdSluijs/exact-online-meta-data-tool](https://github.com/DannyvdSluijs/exact-online-meta-data-tool) (1 week ago)
 - [DannyvdSluijs/PicqerExactPhpClientGenerator](https://github.com/DannyvdSluijs/PicqerExactPhpClientGenerator) (1 week ago)
 - [JsonMapper/EloquentMiddleware](https://github.com/JsonMapper/EloquentMiddleware) (1 week ago)
 - [JsonMapper/LaravelPackage](https://github.com/JsonMapper/LaravelPackage) (1 week ago)
-- [DannyvdSluijs/exact-online-meta-data-tool](https://github.com/DannyvdSluijs/exact-online-meta-data-tool) (1 week ago)
+- [DannyvdSluijs/exact-online-api-client-dev-tools](https://github.com/DannyvdSluijs/exact-online-api-client-dev-tools) (1 week ago)
+- [JsonMapper/SymfonyBundle](https://github.com/JsonMapper/SymfonyBundle) (1 week ago)
 
 
 {*#### 📜 My recent blog posts*}
