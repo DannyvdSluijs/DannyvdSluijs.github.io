@@ -31,6 +31,7 @@ title: 👨‍💻 Recent Work
 
 #### 🔨 My recent Pull Requests
 
+- [fix: Create deep copy before checking each sub schema in anyOf](https://github.com/jsonrainbow/json-schema/pull/792) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (today)
 - [fix: Create deep copy before checking each sub schema in oneOf](https://github.com/jsonrainbow/json-schema/pull/791) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (today)
 - [Update ref.markdown](https://github.com/sourcemeta/learnjsonschema.com/pull/283) on [sourcemeta/learnjsonschema.com](https://github.com/sourcemeta/learnjsonschema.com) (1 day ago)
 - [fix: add required permissions for welcome action](https://github.com/jsonrainbow/json-schema/pull/789) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (5 days ago)
@@ -45,7 +46,6 @@ title: 👨‍💻 Recent Work
 - [docs: show white based logo when in dark mode](https://github.com/JsonMapper/SymfonyBundle/pull/9) on [JsonMapper/SymfonyBundle](https://github.com/JsonMapper/SymfonyBundle) (1 week ago)
 - [docs: show white based logo when in dark mode](https://github.com/JsonMapper/LaravelPackage/pull/25) on [JsonMapper/LaravelPackage](https://github.com/JsonMapper/LaravelPackage) (1 week ago)
 - [ci: try with workflow permissions](https://github.com/DannyvdSluijs/OpenSourceArmy/pull/7) on [DannyvdSluijs/OpenSourceArmy](https://github.com/DannyvdSluijs/OpenSourceArmy) (1 week ago)
-- [ci: try with workflow permissions](https://github.com/DannyvdSluijs/OpenSourceArmy/pull/4) on [DannyvdSluijs/OpenSourceArmy](https://github.com/DannyvdSluijs/OpenSourceArmy) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
