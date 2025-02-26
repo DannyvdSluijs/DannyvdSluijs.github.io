@@ -31,6 +31,7 @@ title: 👨‍💻 Recent Work
 
 #### 🔨 My recent Pull Requests
 
+- [fix: Create deep copy before checking each sub schema in oneOf](https://github.com/jsonrainbow/json-schema/pull/791) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (today)
 - [Update ref.markdown](https://github.com/sourcemeta/learnjsonschema.com/pull/283) on [sourcemeta/learnjsonschema.com](https://github.com/sourcemeta/learnjsonschema.com) (1 day ago)
 - [fix: add required permissions for welcome action](https://github.com/jsonrainbow/json-schema/pull/789) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (5 days ago)
 - [Correct pugx badges](https://github.com/myclabs/php-enum/pull/178) on [myclabs/php-enum](https://github.com/myclabs/php-enum) (6 days ago)
@@ -45,7 +46,6 @@ title: 👨‍💻 Recent Work
 - [docs: show white based logo when in dark mode](https://github.com/JsonMapper/LaravelPackage/pull/25) on [JsonMapper/LaravelPackage](https://github.com/JsonMapper/LaravelPackage) (1 week ago)
 - [ci: try with workflow permissions](https://github.com/DannyvdSluijs/OpenSourceArmy/pull/7) on [DannyvdSluijs/OpenSourceArmy](https://github.com/DannyvdSluijs/OpenSourceArmy) (1 week ago)
 - [ci: try with workflow permissions](https://github.com/DannyvdSluijs/OpenSourceArmy/pull/4) on [DannyvdSluijs/OpenSourceArmy](https://github.com/DannyvdSluijs/OpenSourceArmy) (1 week ago)
-- [ci: extend workflow matrix to include php 8.2, 8.3 and 8.4](https://github.com/JsonMapper/LaravelPackage/pull/24) on [JsonMapper/LaravelPackage](https://github.com/JsonMapper/LaravelPackage) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
