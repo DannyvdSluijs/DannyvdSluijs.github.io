@@ -31,6 +31,7 @@ title: 👨‍💻 Recent Work
 
 #### 🔨 My recent Pull Requests
 
+- [feat: include actual count in collection constraint errors](https://github.com/jsonrainbow/json-schema/pull/797) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (today)
 - [refactor: cleanup redundant checks](https://github.com/jsonrainbow/json-schema/pull/796) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (1 day ago)
 - [fix: create deep copy before checking each sub schema in oneOf when only check_mode_apply_defaults is set](https://github.com/jsonrainbow/json-schema/pull/795) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (1 day ago)
 - [Correctly set the schema ID when passing it as assoc array](https://github.com/jsonrainbow/json-schema/pull/794) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (1 day ago)
@@ -45,7 +46,6 @@ title: 👨‍💻 Recent Work
 - [feat: update models based on the documentation d.d. 2025-02-19](https://github.com/picqer/exact-php-client/pull/667) on [picqer/exact-php-client](https://github.com/picqer/exact-php-client) (1 week ago)
 - [ci: disallow failure on php 8.4 latest](https://github.com/DannyvdSluijs/exact-online-meta-data-tool/pull/224) on [DannyvdSluijs/exact-online-meta-data-tool](https://github.com/DannyvdSluijs/exact-online-meta-data-tool) (1 week ago)
 - [ci: migrate from travis ci to github ci](https://github.com/JsonMapper/EloquentMiddleware/pull/8) on [JsonMapper/EloquentMiddleware](https://github.com/JsonMapper/EloquentMiddleware) (1 week ago)
-- [docs: show white based logo when in dark mode](https://github.com/JsonMapper/EloquentMiddleware/pull/7) on [JsonMapper/EloquentMiddleware](https://github.com/JsonMapper/EloquentMiddleware) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
