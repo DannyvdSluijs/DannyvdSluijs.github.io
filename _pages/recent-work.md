@@ -50,6 +50,7 @@ title: 👨‍💻 Recent Work
 
 #### 🔭 Latest releases I've contributed to
 
+- [xirixiz/homeassistant-afvalwijzer](https://github.com/xirixiz/homeassistant-afvalwijzer) - [2025.02.02](https://github.com/xirixiz/homeassistant-afvalwijzer/releases/tag/2025.02.02) (today)
 - [bowtie-json-schema/bowtie](https://github.com/bowtie-json-schema/bowtie) - [v2025.2.9](https://github.com/bowtie-json-schema/bowtie/releases/tag/v2025.2.9) (1 day ago)
 - [picqer/exact-php-client](https://github.com/picqer/exact-php-client) - [v4.5.0](https://github.com/picqer/exact-php-client/releases/tag/v4.5.0) (1 day ago)
 - [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) - [6.2.0](https://github.com/jsonrainbow/json-schema/releases/tag/6.2.0) (2 days ago)
@@ -59,4 +60,3 @@ title: 👨‍💻 Recent Work
 - [fedeisas/laravel-mail-css-inliner](https://github.com/fedeisas/laravel-mail-css-inliner) - [5.4.0](https://github.com/fedeisas/laravel-mail-css-inliner/releases/tag/5.4.0) (1 week ago)
 - [JsonMapper/LaravelPackage](https://github.com/JsonMapper/LaravelPackage) - [2.6.0](https://github.com/JsonMapper/LaravelPackage/releases/tag/2.6.0) (1 week ago)
 - [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) - [2.22.3](https://github.com/JsonMapper/JsonMapper/releases/tag/2.22.3) (3 weeks ago)
-- [PHPCSStandards/PHP_CodeSniffer](https://github.com/PHPCSStandards/PHP_CodeSniffer) - [3.11.3](https://github.com/PHPCSStandards/PHP_CodeSniffer/releases/tag/3.11.3) (1 month ago)
