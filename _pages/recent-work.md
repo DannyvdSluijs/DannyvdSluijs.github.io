@@ -50,7 +50,7 @@ title: 👨‍💻 Recent Work
 
 #### 🔭 Latest releases I've contributed to
 
-- [xirixiz/homeassistant-afvalwijzer](https://github.com/xirixiz/homeassistant-afvalwijzer) - [2025.02.02](https://github.com/xirixiz/homeassistant-afvalwijzer/releases/tag/2025.02.02) (1 day ago)
+- [xirixiz/homeassistant-afvalwijzer](https://github.com/xirixiz/homeassistant-afvalwijzer) - [2023.03.01](https://github.com/xirixiz/homeassistant-afvalwijzer/releases/tag/2023.03.01) (today)
 - [bowtie-json-schema/bowtie](https://github.com/bowtie-json-schema/bowtie) - [v2025.2.9](https://github.com/bowtie-json-schema/bowtie/releases/tag/v2025.2.9) (2 days ago)
 - [picqer/exact-php-client](https://github.com/picqer/exact-php-client) - [v4.5.0](https://github.com/picqer/exact-php-client/releases/tag/v4.5.0) (2 days ago)
 - [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) - [6.2.0](https://github.com/jsonrainbow/json-schema/releases/tag/6.2.0) (3 days ago)
