@@ -50,6 +50,7 @@ title: 👨‍💻 Recent Work
 
 #### 🔭 Latest releases I've contributed to
 
+- [genkgo/camt](https://github.com/genkgo/camt) - [2.9.0](https://github.com/genkgo/camt/releases/tag/2.9.0) (today)
 - [xirixiz/homeassistant-afvalwijzer](https://github.com/xirixiz/homeassistant-afvalwijzer) - [2023.03.01](https://github.com/xirixiz/homeassistant-afvalwijzer/releases/tag/2023.03.01) (4 days ago)
 - [bowtie-json-schema/bowtie](https://github.com/bowtie-json-schema/bowtie) - [v2025.2.9](https://github.com/bowtie-json-schema/bowtie/releases/tag/v2025.2.9) (6 days ago)
 - [picqer/exact-php-client](https://github.com/picqer/exact-php-client) - [v4.5.0](https://github.com/picqer/exact-php-client/releases/tag/v4.5.0) (6 days ago)
@@ -59,4 +60,3 @@ title: 👨‍💻 Recent Work
 - [JsonMapper/EloquentMiddleware](https://github.com/JsonMapper/EloquentMiddleware) - [2.1.0](https://github.com/JsonMapper/EloquentMiddleware/releases/tag/2.1.0) (2 weeks ago)
 - [fedeisas/laravel-mail-css-inliner](https://github.com/fedeisas/laravel-mail-css-inliner) - [5.4.0](https://github.com/fedeisas/laravel-mail-css-inliner/releases/tag/5.4.0) (2 weeks ago)
 - [JsonMapper/LaravelPackage](https://github.com/JsonMapper/LaravelPackage) - [2.6.0](https://github.com/JsonMapper/LaravelPackage/releases/tag/2.6.0) (2 weeks ago)
-- [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) - [2.22.3](https://github.com/JsonMapper/JsonMapper/releases/tag/2.22.3) (1 month ago)
