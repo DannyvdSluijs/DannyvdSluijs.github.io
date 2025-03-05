@@ -31,6 +31,7 @@ title: 👨‍💻 Recent Work
 
 #### 🔨 My recent Pull Requests
 
+- [fix: replace filter_var for uri and uri-reference to userland code to be RFC 3986 compliant](https://github.com/jsonrainbow/json-schema/pull/800) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (today)
 - [Deprecate duplicate units class](https://github.com/picqer/exact-php-client/pull/675) on [picqer/exact-php-client](https://github.com/picqer/exact-php-client) (1 day ago)
 - [feat: include actual count in collection constraint errors](https://github.com/jsonrainbow/json-schema/pull/797) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (6 days ago)
 - [refactor: cleanup redundant checks](https://github.com/jsonrainbow/json-schema/pull/796) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (1 week ago)
@@ -45,7 +46,6 @@ title: 👨‍💻 Recent Work
 - [Improvements based on phpstan feedback downstream](https://github.com/DannyvdSluijs/PicqerExactPhpClientGenerator/pull/2) on [DannyvdSluijs/PicqerExactPhpClientGenerator](https://github.com/DannyvdSluijs/PicqerExactPhpClientGenerator) (2 weeks ago)
 - [Upgrade phpunit](https://github.com/picqer/exact-php-client/pull/668) on [picqer/exact-php-client](https://github.com/picqer/exact-php-client) (2 weeks ago)
 - [feat: update models based on the documentation d.d. 2025-02-19](https://github.com/picqer/exact-php-client/pull/667) on [picqer/exact-php-client](https://github.com/picqer/exact-php-client) (2 weeks ago)
-- [ci: disallow failure on php 8.4 latest](https://github.com/DannyvdSluijs/exact-online-meta-data-tool/pull/224) on [DannyvdSluijs/exact-online-meta-data-tool](https://github.com/DannyvdSluijs/exact-online-meta-data-tool) (2 weeks ago)
 
 
 #### 🔭 Latest releases I've contributed to
