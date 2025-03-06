@@ -50,9 +50,9 @@ title: 👨‍💻 Recent Work
 
 #### 🔭 Latest releases I've contributed to
 
+- [bowtie-json-schema/bowtie](https://github.com/bowtie-json-schema/bowtie) - [v2025.3.1](https://github.com/bowtie-json-schema/bowtie/releases/tag/v2025.3.1) (today)
 - [genkgo/camt](https://github.com/genkgo/camt) - [2.9.0](https://github.com/genkgo/camt/releases/tag/2.9.0) (1 day ago)
 - [xirixiz/homeassistant-afvalwijzer](https://github.com/xirixiz/homeassistant-afvalwijzer) - [2023.03.01](https://github.com/xirixiz/homeassistant-afvalwijzer/releases/tag/2023.03.01) (5 days ago)
-- [bowtie-json-schema/bowtie](https://github.com/bowtie-json-schema/bowtie) - [v2025.2.9](https://github.com/bowtie-json-schema/bowtie/releases/tag/v2025.2.9) (1 week ago)
 - [picqer/exact-php-client](https://github.com/picqer/exact-php-client) - [v4.5.0](https://github.com/picqer/exact-php-client/releases/tag/v4.5.0) (1 week ago)
 - [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) - [6.2.0](https://github.com/jsonrainbow/json-schema/releases/tag/6.2.0) (1 week ago)
 - [DannyvdSluijs/PicqerExactPhpClientGenerator](https://github.com/DannyvdSluijs/PicqerExactPhpClientGenerator) - [1.1.0](https://github.com/DannyvdSluijs/PicqerExactPhpClientGenerator/releases/tag/1.1.0) (2 weeks ago)
