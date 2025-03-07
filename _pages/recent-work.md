@@ -4,7 +4,7 @@ title: 👨‍💻 Recent Work
 
 #### 💻 Check out what I'm currently working on
 
-- [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (1 day ago)
+- [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (today)
 - [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (1 day ago)
 - [DannyvdSluijs/DannyvdSluijs.github.io](https://github.com/DannyvdSluijs/DannyvdSluijs.github.io) (1 week ago)
 - [picqer/exact-php-client](https://github.com/picqer/exact-php-client) (1 week ago)
@@ -31,6 +31,7 @@ title: 👨‍💻 Recent Work
 
 #### 🔨 My recent Pull Requests
 
+- [fix: only check minProperties or maxProperties on objects](https://github.com/jsonrainbow/json-schema/pull/802) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (today)
 - [fix: allow items: true to pass validation](https://github.com/jsonrainbow/json-schema/pull/801) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (1 day ago)
 - [fix: replace filter_var for uri and uri-reference to userland code to be RFC 3986 compliant](https://github.com/jsonrainbow/json-schema/pull/800) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (2 days ago)
 - [Deprecate duplicate units class](https://github.com/picqer/exact-php-client/pull/675) on [picqer/exact-php-client](https://github.com/picqer/exact-php-client) (3 days ago)
@@ -45,7 +46,6 @@ title: 👨‍💻 Recent Work
 - [Correct pugx badges](https://github.com/myclabs/php-enum/pull/178) on [myclabs/php-enum](https://github.com/myclabs/php-enum) (2 weeks ago)
 - [Add PHPStan](https://github.com/picqer/exact-php-client/pull/672) on [picqer/exact-php-client](https://github.com/picqer/exact-php-client) (2 weeks ago)
 - [Improvements based on phpstan feedback downstream](https://github.com/DannyvdSluijs/PicqerExactPhpClientGenerator/pull/2) on [DannyvdSluijs/PicqerExactPhpClientGenerator](https://github.com/DannyvdSluijs/PicqerExactPhpClientGenerator) (2 weeks ago)
-- [Upgrade phpunit](https://github.com/picqer/exact-php-client/pull/668) on [picqer/exact-php-client](https://github.com/picqer/exact-php-client) (2 weeks ago)
 
 
 #### 🔭 Latest releases I've contributed to
