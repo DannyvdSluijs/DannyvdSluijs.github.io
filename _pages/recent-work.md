@@ -11,9 +11,9 @@ title: 👨‍💻 Recent Work
 - [sourcemeta/learnjsonschema.com](https://github.com/sourcemeta/learnjsonschema.com) (1 week ago)
 - [myclabs/php-enum](https://github.com/myclabs/php-enum) (2 weeks ago)
 - [fedeisas/laravel-mail-css-inliner](https://github.com/fedeisas/laravel-mail-css-inliner) (2 weeks ago)
-- [JsonMapper/LaravelPackage](https://github.com/JsonMapper/LaravelPackage) (2 weeks ago)
+- [JsonMapper/EloquentMiddleware](https://github.com/JsonMapper/EloquentMiddleware) (2 weeks ago)
 - [DannyvdSluijs/PicqerExactPhpClientGenerator](https://github.com/DannyvdSluijs/PicqerExactPhpClientGenerator) (2 weeks ago)
-- [JsonMapper/SymfonyBundle](https://github.com/JsonMapper/SymfonyBundle) (2 weeks ago)
+- [JsonMapper/LaravelPackage](https://github.com/JsonMapper/LaravelPackage) (2 weeks ago)
 
 
 {*#### 📜 My recent blog posts*}
