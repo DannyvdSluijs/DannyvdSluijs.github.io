@@ -31,6 +31,7 @@ title: 👨‍💻 Recent Work
 
 #### 🔨 My recent Pull Requests
 
+- [fix: ensure numeric issues in const are correctly evaluated](https://github.com/jsonrainbow/json-schema/pull/805) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (today)
 - [ci: Reduce duplicate workflow runs](https://github.com/jsonrainbow/json-schema/pull/804) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (today)
 - [refactor: replace icecave/parity with custom deep comparator](https://github.com/jsonrainbow/json-schema/pull/803) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (1 week ago)
 - [fix: only check minProperties or maxProperties on objects](https://github.com/jsonrainbow/json-schema/pull/802) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (1 week ago)
@@ -45,13 +46,12 @@ title: 👨‍💻 Recent Work
 - [fix: Create deep copy before checking each sub schema in oneOf](https://github.com/jsonrainbow/json-schema/pull/791) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (2 weeks ago)
 - [Update ref.markdown](https://github.com/sourcemeta/learnjsonschema.com/pull/283) on [sourcemeta/learnjsonschema.com](https://github.com/sourcemeta/learnjsonschema.com) (2 weeks ago)
 - [fix: add required permissions for welcome action](https://github.com/jsonrainbow/json-schema/pull/789) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (3 weeks ago)
-- [Correct pugx badges](https://github.com/myclabs/php-enum/pull/178) on [myclabs/php-enum](https://github.com/myclabs/php-enum) (3 weeks ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
+- [picqer/exact-php-client](https://github.com/picqer/exact-php-client) - [v4.5.2](https://github.com/picqer/exact-php-client/releases/tag/v4.5.2) (today)
 - [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) - [6.3.0](https://github.com/jsonrainbow/json-schema/releases/tag/6.3.0) (today)
-- [picqer/exact-php-client](https://github.com/picqer/exact-php-client) - [v4.5.1](https://github.com/picqer/exact-php-client/releases/tag/v4.5.1) (2 days ago)
 - [bowtie-json-schema/bowtie](https://github.com/bowtie-json-schema/bowtie) - [v2025.3.1](https://github.com/bowtie-json-schema/bowtie/releases/tag/v2025.3.1) (1 week ago)
 - [genkgo/camt](https://github.com/genkgo/camt) - [2.9.0](https://github.com/genkgo/camt/releases/tag/2.9.0) (1 week ago)
 - [xirixiz/homeassistant-afvalwijzer](https://github.com/xirixiz/homeassistant-afvalwijzer) - [2023.03.01](https://github.com/xirixiz/homeassistant-afvalwijzer/releases/tag/2023.03.01) (1 week ago)
