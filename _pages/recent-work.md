@@ -50,6 +50,7 @@ title: 👨‍💻 Recent Work
 
 #### 🔭 Latest releases I've contributed to
 
+- [PHPCSStandards/PHP_CodeSniffer](https://github.com/PHPCSStandards/PHP_CodeSniffer) - [3.12.0](https://github.com/PHPCSStandards/PHP_CodeSniffer/releases/tag/3.12.0) (today)
 - [picqer/exact-php-client](https://github.com/picqer/exact-php-client) - [v4.5.2](https://github.com/picqer/exact-php-client/releases/tag/v4.5.2) (4 days ago)
 - [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) - [6.3.0](https://github.com/jsonrainbow/json-schema/releases/tag/6.3.0) (4 days ago)
 - [bowtie-json-schema/bowtie](https://github.com/bowtie-json-schema/bowtie) - [v2025.3.1](https://github.com/bowtie-json-schema/bowtie/releases/tag/v2025.3.1) (1 week ago)
@@ -59,4 +60,3 @@ title: 👨‍💻 Recent Work
 - [deployphp/deployer](https://github.com/deployphp/deployer) - [v7.5.12](https://github.com/deployphp/deployer/releases/tag/v7.5.12) (3 weeks ago)
 - [JsonMapper/EloquentMiddleware](https://github.com/JsonMapper/EloquentMiddleware) - [2.1.0](https://github.com/JsonMapper/EloquentMiddleware/releases/tag/2.1.0) (3 weeks ago)
 - [fedeisas/laravel-mail-css-inliner](https://github.com/fedeisas/laravel-mail-css-inliner) - [5.4.0](https://github.com/fedeisas/laravel-mail-css-inliner/releases/tag/5.4.0) (3 weeks ago)
-- [JsonMapper/LaravelPackage](https://github.com/JsonMapper/LaravelPackage) - [2.6.0](https://github.com/JsonMapper/LaravelPackage/releases/tag/2.6.0) (4 weeks ago)
