@@ -31,6 +31,7 @@ title: 👨‍💻 Recent Work
 
 #### 🔨 My recent Pull Requests
 
+- [Add deprecations on incorrect class names](https://github.com/picqer/exact-php-client/pull/678) on [picqer/exact-php-client](https://github.com/picqer/exact-php-client) (today)
 - [fix: replace google api charts with quick chart](https://github.com/joindin/joindin-web2/pull/927) on [joindin/joindin-web2](https://github.com/joindin/joindin-web2) (5 days ago)
 - [Correct PHPStan findings in validator](https://github.com/jsonrainbow/json-schema/pull/808) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (6 days ago)
 - [fix: ensure numeric issues in const are correctly evaluated](https://github.com/jsonrainbow/json-schema/pull/805) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (1 week ago)
@@ -45,7 +46,6 @@ title: 👨‍💻 Recent Work
 - [fix: create deep copy before checking each sub schema in oneOf when only check_mode_apply_defaults is set](https://github.com/jsonrainbow/json-schema/pull/795) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (3 weeks ago)
 - [Correctly set the schema ID when passing it as assoc array](https://github.com/jsonrainbow/json-schema/pull/794) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (3 weeks ago)
 - [fix: Create deep copy before checking each sub schema in anyOf](https://github.com/jsonrainbow/json-schema/pull/792) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (3 weeks ago)
-- [fix: Create deep copy before checking each sub schema in oneOf](https://github.com/jsonrainbow/json-schema/pull/791) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (3 weeks ago)
 
 
 #### 🔭 Latest releases I've contributed to
