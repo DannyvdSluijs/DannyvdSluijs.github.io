@@ -5,14 +5,14 @@ title: 👨‍💻 Recent Work
 #### 💻 Check out what I'm currently working on
 
 - [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (today)
+- [bowtie-json-schema/bowtie](https://github.com/bowtie-json-schema/bowtie) (today)
 - [DannyvdSluijs/DannyvdSluijs.github.io](https://github.com/DannyvdSluijs/DannyvdSluijs.github.io) (3 days ago)
 - [joindin/joindin-web2](https://github.com/joindin/joindin-web2) (6 days ago)
 - [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (2 weeks ago)
 - [picqer/exact-php-client](https://github.com/picqer/exact-php-client) (3 weeks ago)
 - [sourcemeta/learnjsonschema.com](https://github.com/sourcemeta/learnjsonschema.com) (4 weeks ago)
-- [fedeisas/laravel-mail-css-inliner](https://github.com/fedeisas/laravel-mail-css-inliner) (1 month ago)
 - [myclabs/php-enum](https://github.com/myclabs/php-enum) (1 month ago)
-- [JsonMapper/LaravelPackage](https://github.com/JsonMapper/LaravelPackage) (1 month ago)
+- [fedeisas/laravel-mail-css-inliner](https://github.com/fedeisas/laravel-mail-css-inliner) (1 month ago)
 - [DannyvdSluijs/PicqerExactPhpClientGenerator](https://github.com/DannyvdSluijs/PicqerExactPhpClientGenerator) (1 month ago)
 
 
@@ -31,6 +31,7 @@ title: 👨‍💻 Recent Work
 
 #### 🔨 My recent Pull Requests
 
+- [build: include composer.lock file to enable dependabot](https://github.com/bowtie-json-schema/bowtie/pull/1913) on [bowtie-json-schema/bowtie](https://github.com/bowtie-json-schema/bowtie) (today)
 - [Use parallel-lint and cs2pr for improved feedback on linting errors](https://github.com/jsonrainbow/json-schema/pull/812) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (today)
 - [Run PHPStan using the lowest and highest php version](https://github.com/jsonrainbow/json-schema/pull/811) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (today)
 - [Add deprecations on incorrect class names](https://github.com/picqer/exact-php-client/pull/678) on [picqer/exact-php-client](https://github.com/picqer/exact-php-client) (1 day ago)
@@ -45,7 +46,6 @@ title: 👨‍💻 Recent Work
 - [Deprecate duplicate units class](https://github.com/picqer/exact-php-client/pull/675) on [picqer/exact-php-client](https://github.com/picqer/exact-php-client) (3 weeks ago)
 - [feat: include actual count in collection constraint errors](https://github.com/jsonrainbow/json-schema/pull/797) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (3 weeks ago)
 - [refactor: cleanup redundant checks](https://github.com/jsonrainbow/json-schema/pull/796) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (3 weeks ago)
-- [fix: create deep copy before checking each sub schema in oneOf when only check_mode_apply_defaults is set](https://github.com/jsonrainbow/json-schema/pull/795) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (3 weeks ago)
 
 
 #### 🔭 Latest releases I've contributed to
