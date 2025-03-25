@@ -4,9 +4,9 @@ title: 👨‍💻 Recent Work
 
 #### 💻 Check out what I'm currently working on
 
+- [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (today)
 - [DannyvdSluijs/DannyvdSluijs.github.io](https://github.com/DannyvdSluijs/DannyvdSluijs.github.io) (3 days ago)
 - [joindin/joindin-web2](https://github.com/joindin/joindin-web2) (6 days ago)
-- [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (1 week ago)
 - [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (2 weeks ago)
 - [picqer/exact-php-client](https://github.com/picqer/exact-php-client) (3 weeks ago)
 - [sourcemeta/learnjsonschema.com](https://github.com/sourcemeta/learnjsonschema.com) (4 weeks ago)
@@ -31,6 +31,8 @@ title: 👨‍💻 Recent Work
 
 #### 🔨 My recent Pull Requests
 
+- [Use parallel-lint and cs2pr for improved feedback on linting errors](https://github.com/jsonrainbow/json-schema/pull/812) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (today)
+- [Run PHPStan using the lowest and highest php version](https://github.com/jsonrainbow/json-schema/pull/811) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (today)
 - [Add deprecations on incorrect class names](https://github.com/picqer/exact-php-client/pull/678) on [picqer/exact-php-client](https://github.com/picqer/exact-php-client) (1 day ago)
 - [fix: replace google api charts with quick chart](https://github.com/joindin/joindin-web2/pull/927) on [joindin/joindin-web2](https://github.com/joindin/joindin-web2) (6 days ago)
 - [Correct PHPStan findings in validator](https://github.com/jsonrainbow/json-schema/pull/808) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (1 week ago)
@@ -44,8 +46,6 @@ title: 👨‍💻 Recent Work
 - [feat: include actual count in collection constraint errors](https://github.com/jsonrainbow/json-schema/pull/797) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (3 weeks ago)
 - [refactor: cleanup redundant checks](https://github.com/jsonrainbow/json-schema/pull/796) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (3 weeks ago)
 - [fix: create deep copy before checking each sub schema in oneOf when only check_mode_apply_defaults is set](https://github.com/jsonrainbow/json-schema/pull/795) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (3 weeks ago)
-- [Correctly set the schema ID when passing it as assoc array](https://github.com/jsonrainbow/json-schema/pull/794) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (3 weeks ago)
-- [fix: Create deep copy before checking each sub schema in anyOf](https://github.com/jsonrainbow/json-schema/pull/792) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (3 weeks ago)
 
 
 #### 🔭 Latest releases I've contributed to
