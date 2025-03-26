@@ -50,12 +50,12 @@ title: 👨‍💻 Recent Work
 
 #### 🔭 Latest releases I've contributed to
 
+- [bowtie-json-schema/bowtie](https://github.com/bowtie-json-schema/bowtie) - [v2025.3.3](https://github.com/bowtie-json-schema/bowtie/releases/tag/v2025.3.3) (today)
 - [xirixiz/homeassistant-afvalwijzer](https://github.com/xirixiz/homeassistant-afvalwijzer) - [2025.03.01](https://github.com/xirixiz/homeassistant-afvalwijzer/releases/tag/2025.03.01) (today)
 - [egulias/EmailValidator](https://github.com/egulias/EmailValidator) - [4.0.4](https://github.com/egulias/EmailValidator/releases/tag/4.0.4) (6 days ago)
 - [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) - [6.3.1](https://github.com/jsonrainbow/json-schema/releases/tag/6.3.1) (1 week ago)
 - [PHPCSStandards/PHP_CodeSniffer](https://github.com/PHPCSStandards/PHP_CodeSniffer) - [3.12.0](https://github.com/PHPCSStandards/PHP_CodeSniffer/releases/tag/3.12.0) (1 week ago)
 - [picqer/exact-php-client](https://github.com/picqer/exact-php-client) - [v4.5.2](https://github.com/picqer/exact-php-client/releases/tag/v4.5.2) (1 week ago)
-- [bowtie-json-schema/bowtie](https://github.com/bowtie-json-schema/bowtie) - [v2025.3.1](https://github.com/bowtie-json-schema/bowtie/releases/tag/v2025.3.1) (2 weeks ago)
 - [genkgo/camt](https://github.com/genkgo/camt) - [2.9.0](https://github.com/genkgo/camt/releases/tag/2.9.0) (3 weeks ago)
 - [DannyvdSluijs/PicqerExactPhpClientGenerator](https://github.com/DannyvdSluijs/PicqerExactPhpClientGenerator) - [1.1.0](https://github.com/DannyvdSluijs/PicqerExactPhpClientGenerator/releases/tag/1.1.0) (1 month ago)
 - [deployphp/deployer](https://github.com/deployphp/deployer) - [v7.5.12](https://github.com/deployphp/deployer/releases/tag/v7.5.12) (1 month ago)
