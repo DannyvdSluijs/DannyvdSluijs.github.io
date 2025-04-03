@@ -4,12 +4,12 @@ title: 👨‍💻 Recent Work
 
 #### 💻 Check out what I'm currently working on
 
-- [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (1 day ago)
-- [bowtie-json-schema/bowtie](https://github.com/bowtie-json-schema/bowtie) (2 days ago)
+- [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (2 days ago)
+- [bowtie-json-schema/bowtie](https://github.com/bowtie-json-schema/bowtie) (3 days ago)
 - [DannyvdSluijs/DannyvdSluijs.github.io](https://github.com/DannyvdSluijs/DannyvdSluijs.github.io) (1 week ago)
 - [joindin/joindin-web2](https://github.com/joindin/joindin-web2) (2 weeks ago)
-- [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (3 weeks ago)
-- [picqer/exact-php-client](https://github.com/picqer/exact-php-client) (4 weeks ago)
+- [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (4 weeks ago)
+- [picqer/exact-php-client](https://github.com/picqer/exact-php-client) (1 month ago)
 - [sourcemeta/learnjsonschema.com](https://github.com/sourcemeta/learnjsonschema.com) (1 month ago)
 - [fedeisas/laravel-mail-css-inliner](https://github.com/fedeisas/laravel-mail-css-inliner) (1 month ago)
 - [myclabs/php-enum](https://github.com/myclabs/php-enum) (1 month ago)
@@ -31,13 +31,13 @@ title: 👨‍💻 Recent Work
 
 #### 🔨 My recent Pull Requests
 
-- [ci: prepare PHP 8.5 in CI](https://github.com/jsonrainbow/json-schema/pull/815) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (1 day ago)
-- [ci: Add cs2pr handling for php-cs-fixer; avoid doing composer install](https://github.com/jsonrainbow/json-schema/pull/814) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (1 day ago)
-- [fix: correctly set passed schema and all schemas from registry](https://github.com/bowtie-json-schema/bowtie/pull/1927) on [bowtie-json-schema/bowtie](https://github.com/bowtie-json-schema/bowtie) (2 days ago)
-- [fix: Array with number values with mathematical equality are considered valid](https://github.com/jsonrainbow/json-schema/pull/813) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (2 days ago)
-- [fix: correct version in lock file; bump minimum minor version](https://github.com/bowtie-json-schema/bowtie/pull/1921) on [bowtie-json-schema/bowtie](https://github.com/bowtie-json-schema/bowtie) (5 days ago)
-- [fix: fixes a missing new line before the h3 and wrap schema in a codefence in bowtie summary command](https://github.com/bowtie-json-schema/bowtie/pull/1918) on [bowtie-json-schema/bowtie](https://github.com/bowtie-json-schema/bowtie) (6 days ago)
-- [Fix version displayed for PHP JustinRainbow Json-Schema](https://github.com/bowtie-json-schema/bowtie/pull/1917) on [bowtie-json-schema/bowtie](https://github.com/bowtie-json-schema/bowtie) (6 days ago)
+- [ci: prepare PHP 8.5 in CI](https://github.com/jsonrainbow/json-schema/pull/815) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (2 days ago)
+- [ci: Add cs2pr handling for php-cs-fixer; avoid doing composer install](https://github.com/jsonrainbow/json-schema/pull/814) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (2 days ago)
+- [fix: correctly set passed schema and all schemas from registry](https://github.com/bowtie-json-schema/bowtie/pull/1927) on [bowtie-json-schema/bowtie](https://github.com/bowtie-json-schema/bowtie) (3 days ago)
+- [fix: Array with number values with mathematical equality are considered valid](https://github.com/jsonrainbow/json-schema/pull/813) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (3 days ago)
+- [fix: correct version in lock file; bump minimum minor version](https://github.com/bowtie-json-schema/bowtie/pull/1921) on [bowtie-json-schema/bowtie](https://github.com/bowtie-json-schema/bowtie) (6 days ago)
+- [fix: fixes a missing new line before the h3 and wrap schema in a codefence in bowtie summary command](https://github.com/bowtie-json-schema/bowtie/pull/1918) on [bowtie-json-schema/bowtie](https://github.com/bowtie-json-schema/bowtie) (1 week ago)
+- [Fix version displayed for PHP JustinRainbow Json-Schema](https://github.com/bowtie-json-schema/bowtie/pull/1917) on [bowtie-json-schema/bowtie](https://github.com/bowtie-json-schema/bowtie) (1 week ago)
 - [build: include composer.lock file to enable dependabot](https://github.com/bowtie-json-schema/bowtie/pull/1913) on [bowtie-json-schema/bowtie](https://github.com/bowtie-json-schema/bowtie) (1 week ago)
 - [Use parallel-lint and cs2pr for improved feedback on linting errors](https://github.com/jsonrainbow/json-schema/pull/812) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (1 week ago)
 - [Run PHPStan using the lowest and highest php version](https://github.com/jsonrainbow/json-schema/pull/811) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (1 week ago)
@@ -50,10 +50,10 @@ title: 👨‍💻 Recent Work
 
 #### 🔭 Latest releases I've contributed to
 
-- [xirixiz/homeassistant-afvalwijzer](https://github.com/xirixiz/homeassistant-afvalwijzer) - [2025.03.04](https://github.com/xirixiz/homeassistant-afvalwijzer/releases/tag/2025.03.04) (today)
-- [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) - [6.4.0](https://github.com/jsonrainbow/json-schema/releases/tag/6.4.0) (1 day ago)
-- [bowtie-json-schema/bowtie](https://github.com/bowtie-json-schema/bowtie) - [v2025.3.4](https://github.com/bowtie-json-schema/bowtie/releases/tag/v2025.3.4) (5 days ago)
-- [egulias/EmailValidator](https://github.com/egulias/EmailValidator) - [4.0.4](https://github.com/egulias/EmailValidator/releases/tag/4.0.4) (1 week ago)
+- [xirixiz/homeassistant-afvalwijzer](https://github.com/xirixiz/homeassistant-afvalwijzer) - [2025.03.04](https://github.com/xirixiz/homeassistant-afvalwijzer/releases/tag/2025.03.04) (1 day ago)
+- [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) - [6.4.0](https://github.com/jsonrainbow/json-schema/releases/tag/6.4.0) (2 days ago)
+- [bowtie-json-schema/bowtie](https://github.com/bowtie-json-schema/bowtie) - [v2025.3.4](https://github.com/bowtie-json-schema/bowtie/releases/tag/v2025.3.4) (6 days ago)
+- [egulias/EmailValidator](https://github.com/egulias/EmailValidator) - [4.0.4](https://github.com/egulias/EmailValidator/releases/tag/4.0.4) (2 weeks ago)
 - [PHPCSStandards/PHP_CodeSniffer](https://github.com/PHPCSStandards/PHP_CodeSniffer) - [3.12.0](https://github.com/PHPCSStandards/PHP_CodeSniffer/releases/tag/3.12.0) (2 weeks ago)
 - [picqer/exact-php-client](https://github.com/picqer/exact-php-client) - [v4.5.2](https://github.com/picqer/exact-php-client/releases/tag/v4.5.2) (2 weeks ago)
 - [genkgo/camt](https://github.com/genkgo/camt) - [2.9.0](https://github.com/genkgo/camt/releases/tag/2.9.0) (4 weeks ago)
