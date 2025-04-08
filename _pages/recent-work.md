@@ -4,6 +4,7 @@ title: 👨‍💻 Recent Work
 
 #### 💻 Check out what I'm currently working on
 
+- [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (today)
 - [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (4 days ago)
 - [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (5 days ago)
 - [bowtie-json-schema/bowtie](https://github.com/bowtie-json-schema/bowtie) (1 week ago)
@@ -13,7 +14,6 @@ title: 👨‍💻 Recent Work
 - [sourcemeta/learnjsonschema.com](https://github.com/sourcemeta/learnjsonschema.com) (1 month ago)
 - [myclabs/php-enum](https://github.com/myclabs/php-enum) (1 month ago)
 - [fedeisas/laravel-mail-css-inliner](https://github.com/fedeisas/laravel-mail-css-inliner) (1 month ago)
-- [JsonMapper/EloquentMiddleware](https://github.com/JsonMapper/EloquentMiddleware) (1 month ago)
 
 
 {*#### 📜 My recent blog posts*}
@@ -31,7 +31,7 @@ title: 👨‍💻 Recent Work
 
 #### 🔨 My recent Pull Requests
 
-- [Add list and array gtlt support in dockblocks](https://github.com/JsonMapper/JsonMapper/pull/193) on [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (1 day ago)
+- [Add list and array&lt;&gt; support in docblocks](https://github.com/JsonMapper/JsonMapper/pull/193) on [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (1 day ago)
 - [ci: prepare PHP 8.5 in CI](https://github.com/jsonrainbow/json-schema/pull/815) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (1 week ago)
 - [ci: Add cs2pr handling for php-cs-fixer; avoid doing composer install](https://github.com/jsonrainbow/json-schema/pull/814) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (1 week ago)
 - [fix: correctly set passed schema and all schemas from registry](https://github.com/bowtie-json-schema/bowtie/pull/1927) on [bowtie-json-schema/bowtie](https://github.com/bowtie-json-schema/bowtie) (1 week ago)
@@ -50,6 +50,7 @@ title: 👨‍💻 Recent Work
 
 #### 🔭 Latest releases I've contributed to
 
+- [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) - [2.23.0](https://github.com/JsonMapper/JsonMapper/releases/tag/2.23.0) (today)
 - [PHPCSStandards/PHP_CodeSniffer](https://github.com/PHPCSStandards/PHP_CodeSniffer) - [3.12.1](https://github.com/PHPCSStandards/PHP_CodeSniffer/releases/tag/3.12.1) (4 days ago)
 - [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) - [6.4.1](https://github.com/jsonrainbow/json-schema/releases/tag/6.4.1) (4 days ago)
 - [xirixiz/homeassistant-afvalwijzer](https://github.com/xirixiz/homeassistant-afvalwijzer) - [2025.03.05](https://github.com/xirixiz/homeassistant-afvalwijzer/releases/tag/2025.03.05) (4 days ago)
@@ -59,4 +60,3 @@ title: 👨‍💻 Recent Work
 - [genkgo/camt](https://github.com/genkgo/camt) - [2.9.0](https://github.com/genkgo/camt/releases/tag/2.9.0) (1 month ago)
 - [DannyvdSluijs/PicqerExactPhpClientGenerator](https://github.com/DannyvdSluijs/PicqerExactPhpClientGenerator) - [1.1.0](https://github.com/DannyvdSluijs/PicqerExactPhpClientGenerator/releases/tag/1.1.0) (1 month ago)
 - [deployphp/deployer](https://github.com/deployphp/deployer) - [v7.5.12](https://github.com/deployphp/deployer/releases/tag/v7.5.12) (1 month ago)
-- [JsonMapper/EloquentMiddleware](https://github.com/JsonMapper/EloquentMiddleware) - [2.1.0](https://github.com/JsonMapper/EloquentMiddleware/releases/tag/2.1.0) (1 month ago)
