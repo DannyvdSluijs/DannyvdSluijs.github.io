@@ -50,7 +50,7 @@ title: 👨‍💻 Recent Work
 
 #### 🔭 Latest releases I've contributed to
 
-- [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) - [2.23.0](https://github.com/JsonMapper/JsonMapper/releases/tag/2.23.0) (today)
+- [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) - [2.24.0](https://github.com/JsonMapper/JsonMapper/releases/tag/2.24.0) (today)
 - [PHPCSStandards/PHP_CodeSniffer](https://github.com/PHPCSStandards/PHP_CodeSniffer) - [3.12.1](https://github.com/PHPCSStandards/PHP_CodeSniffer/releases/tag/3.12.1) (4 days ago)
 - [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) - [6.4.1](https://github.com/jsonrainbow/json-schema/releases/tag/6.4.1) (4 days ago)
 - [xirixiz/homeassistant-afvalwijzer](https://github.com/xirixiz/homeassistant-afvalwijzer) - [2025.03.05](https://github.com/xirixiz/homeassistant-afvalwijzer/releases/tag/2025.03.05) (4 days ago)
