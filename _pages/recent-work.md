@@ -8,9 +8,9 @@ title: 👨‍💻 Recent Work
 - [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (5 days ago)
 - [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (6 days ago)
 - [bowtie-json-schema/bowtie](https://github.com/bowtie-json-schema/bowtie) (1 week ago)
+- [picqer/exact-php-client](https://github.com/picqer/exact-php-client) (2 weeks ago)
 - [DannyvdSluijs/DannyvdSluijs.github.io](https://github.com/DannyvdSluijs/DannyvdSluijs.github.io) (2 weeks ago)
 - [joindin/joindin-web2](https://github.com/joindin/joindin-web2) (3 weeks ago)
-- [picqer/exact-php-client](https://github.com/picqer/exact-php-client) (1 month ago)
 - [sourcemeta/learnjsonschema.com](https://github.com/sourcemeta/learnjsonschema.com) (1 month ago)
 - [myclabs/php-enum](https://github.com/myclabs/php-enum) (1 month ago)
 - [fedeisas/laravel-mail-css-inliner](https://github.com/fedeisas/laravel-mail-css-inliner) (1 month ago)
@@ -50,13 +50,13 @@ title: 👨‍💻 Recent Work
 
 #### 🔭 Latest releases I've contributed to
 
+- [picqer/exact-php-client](https://github.com/picqer/exact-php-client) - [v4.5.3](https://github.com/picqer/exact-php-client/releases/tag/v4.5.3) (today)
 - [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) - [2.24.0](https://github.com/JsonMapper/JsonMapper/releases/tag/2.24.0) (1 day ago)
 - [PHPCSStandards/PHP_CodeSniffer](https://github.com/PHPCSStandards/PHP_CodeSniffer) - [3.12.1](https://github.com/PHPCSStandards/PHP_CodeSniffer/releases/tag/3.12.1) (5 days ago)
 - [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) - [6.4.1](https://github.com/jsonrainbow/json-schema/releases/tag/6.4.1) (5 days ago)
 - [xirixiz/homeassistant-afvalwijzer](https://github.com/xirixiz/homeassistant-afvalwijzer) - [2025.03.05-pre](https://github.com/xirixiz/homeassistant-afvalwijzer/releases/tag/2025.03.05-pre) (5 days ago)
 - [bowtie-json-schema/bowtie](https://github.com/bowtie-json-schema/bowtie) - [v2025.3.4](https://github.com/bowtie-json-schema/bowtie/releases/tag/v2025.3.4) (1 week ago)
 - [egulias/EmailValidator](https://github.com/egulias/EmailValidator) - [4.0.4](https://github.com/egulias/EmailValidator/releases/tag/4.0.4) (2 weeks ago)
-- [picqer/exact-php-client](https://github.com/picqer/exact-php-client) - [v4.5.2](https://github.com/picqer/exact-php-client/releases/tag/v4.5.2) (3 weeks ago)
 - [genkgo/camt](https://github.com/genkgo/camt) - [2.9.0](https://github.com/genkgo/camt/releases/tag/2.9.0) (1 month ago)
 - [DannyvdSluijs/PicqerExactPhpClientGenerator](https://github.com/DannyvdSluijs/PicqerExactPhpClientGenerator) - [1.1.0](https://github.com/DannyvdSluijs/PicqerExactPhpClientGenerator/releases/tag/1.1.0) (1 month ago)
 - [deployphp/deployer](https://github.com/deployphp/deployer) - [v7.5.12](https://github.com/deployphp/deployer/releases/tag/v7.5.12) (1 month ago)
