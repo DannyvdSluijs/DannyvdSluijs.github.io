@@ -12,8 +12,8 @@ title: 👨‍💻 Recent Work
 - [DannyvdSluijs/DannyvdSluijs.github.io](https://github.com/DannyvdSluijs/DannyvdSluijs.github.io) (3 weeks ago)
 - [joindin/joindin-web2](https://github.com/joindin/joindin-web2) (3 weeks ago)
 - [sourcemeta/learnjsonschema.com](https://github.com/sourcemeta/learnjsonschema.com) (1 month ago)
-- [myclabs/php-enum](https://github.com/myclabs/php-enum) (1 month ago)
 - [fedeisas/laravel-mail-css-inliner](https://github.com/fedeisas/laravel-mail-css-inliner) (1 month ago)
+- [myclabs/php-enum](https://github.com/myclabs/php-enum) (1 month ago)
 
 
 {*#### 📜 My recent blog posts*}
