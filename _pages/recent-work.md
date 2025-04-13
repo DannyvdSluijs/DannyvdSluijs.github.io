@@ -50,9 +50,9 @@ title: 👨‍💻 Recent Work
 
 #### 🔭 Latest releases I've contributed to
 
+- [PHPCSStandards/PHP_CodeSniffer](https://github.com/PHPCSStandards/PHP_CodeSniffer) - [3.12.2](https://github.com/PHPCSStandards/PHP_CodeSniffer/releases/tag/3.12.2) (today)
 - [picqer/exact-php-client](https://github.com/picqer/exact-php-client) - [v4.5.4](https://github.com/picqer/exact-php-client/releases/tag/v4.5.4) (3 days ago)
 - [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) - [2.24.0](https://github.com/JsonMapper/JsonMapper/releases/tag/2.24.0) (5 days ago)
-- [PHPCSStandards/PHP_CodeSniffer](https://github.com/PHPCSStandards/PHP_CodeSniffer) - [3.12.1](https://github.com/PHPCSStandards/PHP_CodeSniffer/releases/tag/3.12.1) (1 week ago)
 - [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) - [6.4.1](https://github.com/jsonrainbow/json-schema/releases/tag/6.4.1) (1 week ago)
 - [xirixiz/homeassistant-afvalwijzer](https://github.com/xirixiz/homeassistant-afvalwijzer) - [2025.03.05-pre](https://github.com/xirixiz/homeassistant-afvalwijzer/releases/tag/2025.03.05-pre) (1 week ago)
 - [bowtie-json-schema/bowtie](https://github.com/bowtie-json-schema/bowtie) - [v2025.3.4](https://github.com/bowtie-json-schema/bowtie/releases/tag/v2025.3.4) (2 weeks ago)
