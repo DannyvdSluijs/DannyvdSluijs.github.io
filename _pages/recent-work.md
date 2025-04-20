@@ -31,6 +31,7 @@ title: 👨‍💻 Recent Work
 
 #### 🔨 My recent Pull Requests
 
+- [Correct documentation reference](https://github.com/phpDocumentor/TypeResolver/pull/216) on [phpDocumentor/TypeResolver](https://github.com/phpDocumentor/TypeResolver) (today)
 - [feat: replace docblock type parsing with reflection docblock library](https://github.com/JsonMapper/JsonMapper/pull/199) on [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (2 days ago)
 - [Chore: Consolidate docblock functions](https://github.com/JsonMapper/JsonMapper/pull/198) on [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (2 days ago)
 - [refactor: raise minimum php level](https://github.com/JsonMapper/JsonMapper/pull/197) on [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (2 days ago)
@@ -45,7 +46,6 @@ title: 👨‍💻 Recent Work
 - [fix: correctly set passed schema and all schemas from registry](https://github.com/bowtie-json-schema/bowtie/pull/1927) on [bowtie-json-schema/bowtie](https://github.com/bowtie-json-schema/bowtie) (2 weeks ago)
 - [fix: Array with number values with mathematical equality are considered valid](https://github.com/jsonrainbow/json-schema/pull/813) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (2 weeks ago)
 - [fix: correct version in lock file; bump minimum minor version](https://github.com/bowtie-json-schema/bowtie/pull/1921) on [bowtie-json-schema/bowtie](https://github.com/bowtie-json-schema/bowtie) (3 weeks ago)
-- [fix: fixes a missing new line before the h3 and wrap schema in a codefence in bowtie summary command](https://github.com/bowtie-json-schema/bowtie/pull/1918) on [bowtie-json-schema/bowtie](https://github.com/bowtie-json-schema/bowtie) (3 weeks ago)
 
 
 #### 🔭 Latest releases I've contributed to
