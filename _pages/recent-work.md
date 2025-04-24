@@ -4,12 +4,12 @@ title: 👨‍💻 Recent Work
 
 #### 💻 Check out what I'm currently working on
 
-- [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (5 days ago)
-- [phpDocumentor/ReflectionDocBlock](https://github.com/phpDocumentor/ReflectionDocBlock) (5 days ago)
+- [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (6 days ago)
+- [phpDocumentor/ReflectionDocBlock](https://github.com/phpDocumentor/ReflectionDocBlock) (6 days ago)
 - [bowtie-json-schema/bowtie](https://github.com/bowtie-json-schema/bowtie) (1 week ago)
 - [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (1 week ago)
 - [picqer/exact-php-client](https://github.com/picqer/exact-php-client) (2 weeks ago)
-- [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (2 weeks ago)
+- [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (3 weeks ago)
 - [DannyvdSluijs/DannyvdSluijs.github.io](https://github.com/DannyvdSluijs/DannyvdSluijs.github.io) (1 month ago)
 - [joindin/joindin-web2](https://github.com/joindin/joindin-web2) (1 month ago)
 - [sourcemeta/learnjsonschema.com](https://github.com/sourcemeta/learnjsonschema.com) (1 month ago)
@@ -31,11 +31,11 @@ title: 👨‍💻 Recent Work
 
 #### 🔨 My recent Pull Requests
 
-- [Correct documentation reference](https://github.com/phpDocumentor/TypeResolver/pull/216) on [phpDocumentor/TypeResolver](https://github.com/phpDocumentor/TypeResolver) (3 days ago)
-- [feat: replace docblock type parsing with reflection docblock library](https://github.com/JsonMapper/JsonMapper/pull/199) on [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (5 days ago)
-- [Chore: Consolidate docblock functions](https://github.com/JsonMapper/JsonMapper/pull/198) on [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (5 days ago)
-- [refactor: raise minimum php level](https://github.com/JsonMapper/JsonMapper/pull/197) on [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (5 days ago)
-- [Fix workflow badge, tweak stable and unstable badges](https://github.com/phpDocumentor/ReflectionDocBlock/pull/410) on [phpDocumentor/ReflectionDocBlock](https://github.com/phpDocumentor/ReflectionDocBlock) (5 days ago)
+- [Correct documentation reference](https://github.com/phpDocumentor/TypeResolver/pull/216) on [phpDocumentor/TypeResolver](https://github.com/phpDocumentor/TypeResolver) (4 days ago)
+- [feat: replace docblock type parsing with reflection docblock library](https://github.com/JsonMapper/JsonMapper/pull/199) on [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (6 days ago)
+- [Chore: Consolidate docblock functions](https://github.com/JsonMapper/JsonMapper/pull/198) on [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (6 days ago)
+- [refactor: raise minimum php level](https://github.com/JsonMapper/JsonMapper/pull/197) on [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (6 days ago)
+- [Fix workflow badge, tweak stable and unstable badges](https://github.com/phpDocumentor/ReflectionDocBlock/pull/410) on [phpDocumentor/ReflectionDocBlock](https://github.com/phpDocumentor/ReflectionDocBlock) (6 days ago)
 - [Small fixes](https://github.com/bowtie-json-schema/bowtie/pull/1958) on [bowtie-json-schema/bowtie](https://github.com/bowtie-json-schema/bowtie) (1 week ago)
 - [Fix objects are non unique despite key order](https://github.com/jsonrainbow/json-schema/pull/819) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (1 week ago)
 - [feat: update to latest details from documentation; Resolve type issues from phpstan baseline](https://github.com/picqer/exact-php-client/pull/680) on [picqer/exact-php-client](https://github.com/picqer/exact-php-client) (2 weeks ago)
@@ -52,7 +52,7 @@ title: 👨‍💻 Recent Work
 
 - [phpDocumentor/ReflectionDocBlock](https://github.com/phpDocumentor/ReflectionDocBlock) - [5.6.2](https://github.com/phpDocumentor/ReflectionDocBlock/releases/tag/5.6.2) (1 week ago)
 - [PHPCSStandards/PHP_CodeSniffer](https://github.com/PHPCSStandards/PHP_CodeSniffer) - [3.12.2](https://github.com/PHPCSStandards/PHP_CodeSniffer/releases/tag/3.12.2) (1 week ago)
-- [picqer/exact-php-client](https://github.com/picqer/exact-php-client) - [v4.5.4](https://github.com/picqer/exact-php-client/releases/tag/v4.5.4) (1 week ago)
+- [picqer/exact-php-client](https://github.com/picqer/exact-php-client) - [v4.5.4](https://github.com/picqer/exact-php-client/releases/tag/v4.5.4) (2 weeks ago)
 - [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) - [2.24.0](https://github.com/JsonMapper/JsonMapper/releases/tag/2.24.0) (2 weeks ago)
 - [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) - [6.4.1](https://github.com/jsonrainbow/json-schema/releases/tag/6.4.1) (2 weeks ago)
 - [xirixiz/homeassistant-afvalwijzer](https://github.com/xirixiz/homeassistant-afvalwijzer) - [2025.03.05-pre](https://github.com/xirixiz/homeassistant-afvalwijzer/releases/tag/2025.03.05-pre) (2 weeks ago)
