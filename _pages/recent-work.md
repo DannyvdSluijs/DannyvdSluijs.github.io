@@ -4,7 +4,7 @@ title: 👨‍💻 Recent Work
 
 #### 💻 Check out what I'm currently working on
 
-- [infi-nl/timechimp-billability-chart](https://github.com/infi-nl/timechimp-billability-chart) (today)
+- [infi-nl/timechimp-billability-chart](https://github.com/infi-nl/timechimp-billability-chart) (1 day ago)
 - [phpDocumentor/ReflectionDocBlock](https://github.com/phpDocumentor/ReflectionDocBlock) (1 week ago)
 - [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (1 week ago)
 - [bowtie-json-schema/bowtie](https://github.com/bowtie-json-schema/bowtie) (1 week ago)
@@ -13,7 +13,7 @@ title: 👨‍💻 Recent Work
 - [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (3 weeks ago)
 - [DannyvdSluijs/DannyvdSluijs.github.io](https://github.com/DannyvdSluijs/DannyvdSluijs.github.io) (1 month ago)
 - [joindin/joindin-web2](https://github.com/joindin/joindin-web2) (1 month ago)
-- [sourcemeta/learnjsonschema.com](https://github.com/sourcemeta/learnjsonschema.com) (1 month ago)
+- [sourcemeta/learnjsonschema.com](https://github.com/sourcemeta/learnjsonschema.com) (2 months ago)
 
 
 {*#### 📜 My recent blog posts*}
@@ -31,9 +31,9 @@ title: 👨‍💻 Recent Work
 
 #### 🔨 My recent Pull Requests
 
-- [Feature: Add release workflow to create release once tag is pushed](https://github.com/infi-nl/timechimp-billability-chart/pull/23) on [infi-nl/timechimp-billability-chart](https://github.com/infi-nl/timechimp-billability-chart) (today)
-- [Re-render chart on update and deletion of time entries](https://github.com/infi-nl/timechimp-billability-chart/pull/22) on [infi-nl/timechimp-billability-chart](https://github.com/infi-nl/timechimp-billability-chart) (1 day ago)
-- [Correct documentation reference](https://github.com/phpDocumentor/TypeResolver/pull/216) on [phpDocumentor/TypeResolver](https://github.com/phpDocumentor/TypeResolver) (5 days ago)
+- [Feature: Add release workflow to create release once tag is pushed](https://github.com/infi-nl/timechimp-billability-chart/pull/23) on [infi-nl/timechimp-billability-chart](https://github.com/infi-nl/timechimp-billability-chart) (1 day ago)
+- [Re-render chart on update and deletion of time entries](https://github.com/infi-nl/timechimp-billability-chart/pull/22) on [infi-nl/timechimp-billability-chart](https://github.com/infi-nl/timechimp-billability-chart) (2 days ago)
+- [Correct documentation reference](https://github.com/phpDocumentor/TypeResolver/pull/216) on [phpDocumentor/TypeResolver](https://github.com/phpDocumentor/TypeResolver) (6 days ago)
 - [feat: replace docblock type parsing with reflection docblock library](https://github.com/JsonMapper/JsonMapper/pull/199) on [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (1 week ago)
 - [Chore: Consolidate docblock functions](https://github.com/JsonMapper/JsonMapper/pull/198) on [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (1 week ago)
 - [refactor: raise minimum php level](https://github.com/JsonMapper/JsonMapper/pull/197) on [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (1 week ago)
@@ -50,7 +50,7 @@ title: 👨‍💻 Recent Work
 
 #### 🔭 Latest releases I've contributed to
 
-- [infi-nl/timechimp-billability-chart](https://github.com/infi-nl/timechimp-billability-chart) - [v1.8.3](https://github.com/infi-nl/timechimp-billability-chart/releases/tag/v1.8.3) (1 day ago)
+- [infi-nl/timechimp-billability-chart](https://github.com/infi-nl/timechimp-billability-chart) - [v1.8.3](https://github.com/infi-nl/timechimp-billability-chart/releases/tag/v1.8.3) (2 days ago)
 - [phpDocumentor/ReflectionDocBlock](https://github.com/phpDocumentor/ReflectionDocBlock) - [5.6.2](https://github.com/phpDocumentor/ReflectionDocBlock/releases/tag/5.6.2) (1 week ago)
 - [PHPCSStandards/PHP_CodeSniffer](https://github.com/PHPCSStandards/PHP_CodeSniffer) - [3.12.2](https://github.com/PHPCSStandards/PHP_CodeSniffer/releases/tag/3.12.2) (1 week ago)
 - [picqer/exact-php-client](https://github.com/picqer/exact-php-client) - [v4.5.4](https://github.com/picqer/exact-php-client/releases/tag/v4.5.4) (2 weeks ago)
