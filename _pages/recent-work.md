@@ -50,6 +50,7 @@ title: 👨‍💻 Recent Work
 
 #### 🔭 Latest releases I've contributed to
 
+- [fedeisas/laravel-mail-css-inliner](https://github.com/fedeisas/laravel-mail-css-inliner) - [5.4.1](https://github.com/fedeisas/laravel-mail-css-inliner/releases/tag/5.4.1) (today)
 - [infi-nl/timechimp-billability-chart](https://github.com/infi-nl/timechimp-billability-chart) - [v1.8.3](https://github.com/infi-nl/timechimp-billability-chart/releases/tag/v1.8.3) (5 days ago)
 - [phpDocumentor/ReflectionDocBlock](https://github.com/phpDocumentor/ReflectionDocBlock) - [5.6.2](https://github.com/phpDocumentor/ReflectionDocBlock/releases/tag/5.6.2) (2 weeks ago)
 - [PHPCSStandards/PHP_CodeSniffer](https://github.com/PHPCSStandards/PHP_CodeSniffer) - [3.12.2](https://github.com/PHPCSStandards/PHP_CodeSniffer/releases/tag/3.12.2) (2 weeks ago)
@@ -59,4 +60,3 @@ title: 👨‍💻 Recent Work
 - [xirixiz/homeassistant-afvalwijzer](https://github.com/xirixiz/homeassistant-afvalwijzer) - [2025.03.05-pre](https://github.com/xirixiz/homeassistant-afvalwijzer/releases/tag/2025.03.05-pre) (3 weeks ago)
 - [bowtie-json-schema/bowtie](https://github.com/bowtie-json-schema/bowtie) - [v2025.3.4](https://github.com/bowtie-json-schema/bowtie/releases/tag/v2025.3.4) (1 month ago)
 - [egulias/EmailValidator](https://github.com/egulias/EmailValidator) - [4.0.4](https://github.com/egulias/EmailValidator/releases/tag/4.0.4) (1 month ago)
-- [genkgo/camt](https://github.com/genkgo/camt) - [2.9.0](https://github.com/genkgo/camt/releases/tag/2.9.0) (1 month ago)
