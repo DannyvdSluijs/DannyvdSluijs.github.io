@@ -4,12 +4,12 @@ title: 👨‍💻 Recent Work
 
 #### 💻 Check out what I'm currently working on
 
+- [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (today)
 - [DannyvdSluijs/DannyvdSluijs.github.io](https://github.com/DannyvdSluijs/DannyvdSluijs.github.io) (1 week ago)
 - [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (1 week ago)
 - [infi-nl/timechimp-billability-chart](https://github.com/infi-nl/timechimp-billability-chart) (1 week ago)
 - [phpDocumentor/ReflectionDocBlock](https://github.com/phpDocumentor/ReflectionDocBlock) (2 weeks ago)
 - [bowtie-json-schema/bowtie](https://github.com/bowtie-json-schema/bowtie) (2 weeks ago)
-- [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (3 weeks ago)
 - [picqer/exact-php-client](https://github.com/picqer/exact-php-client) (3 weeks ago)
 - [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (1 month ago)
 - [joindin/joindin-web2](https://github.com/joindin/joindin-web2) (1 month ago)
@@ -31,7 +31,8 @@ title: 👨‍💻 Recent Work
 
 #### 🔨 My recent Pull Requests
 
-- [Update constraint class](https://github.com/jsonrainbow/json-schema/pull/824) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (today)
+- [ci: add 32-bits ci workflow](https://github.com/jsonrainbow/json-schema/pull/825) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (today)
+- [Update constraint class to PHP 7.2 language level](https://github.com/jsonrainbow/json-schema/pull/824) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (today)
 - [feat: update to latest json schema test suite](https://github.com/jsonrainbow/json-schema/pull/821) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (4 days ago)
 - [Feature: Add release workflow to create release once tag is pushed](https://github.com/infi-nl/timechimp-billability-chart/pull/23) on [infi-nl/timechimp-billability-chart](https://github.com/infi-nl/timechimp-billability-chart) (1 week ago)
 - [Re-render chart on update and deletion of time entries](https://github.com/infi-nl/timechimp-billability-chart/pull/22) on [infi-nl/timechimp-billability-chart](https://github.com/infi-nl/timechimp-billability-chart) (1 week ago)
@@ -45,7 +46,6 @@ title: 👨‍💻 Recent Work
 - [feat: update to latest details from documentation; Resolve type issues from phpstan baseline](https://github.com/picqer/exact-php-client/pull/680) on [picqer/exact-php-client](https://github.com/picqer/exact-php-client) (3 weeks ago)
 - [feat: support list&lt;t&gt; and array&lt;TKey, TValue&gt; in constructor middleware](https://github.com/JsonMapper/JsonMapper/pull/194) on [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (4 weeks ago)
 - [Add list and array&lt;&gt; support in docblocks](https://github.com/JsonMapper/JsonMapper/pull/193) on [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (4 weeks ago)
-- [ci: prepare PHP 8.5 in CI](https://github.com/jsonrainbow/json-schema/pull/815) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (1 month ago)
 
 
 #### 🔭 Latest releases I've contributed to
