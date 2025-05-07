@@ -4,13 +4,13 @@ title: 👨‍💻 Recent Work
 
 #### 💻 Check out what I'm currently working on
 
-- [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (today)
+- [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (1 day ago)
 - [DannyvdSluijs/DannyvdSluijs.github.io](https://github.com/DannyvdSluijs/DannyvdSluijs.github.io) (1 week ago)
 - [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (1 week ago)
 - [infi-nl/timechimp-billability-chart](https://github.com/infi-nl/timechimp-billability-chart) (1 week ago)
 - [phpDocumentor/ReflectionDocBlock](https://github.com/phpDocumentor/ReflectionDocBlock) (2 weeks ago)
-- [bowtie-json-schema/bowtie](https://github.com/bowtie-json-schema/bowtie) (2 weeks ago)
-- [picqer/exact-php-client](https://github.com/picqer/exact-php-client) (3 weeks ago)
+- [bowtie-json-schema/bowtie](https://github.com/bowtie-json-schema/bowtie) (3 weeks ago)
+- [picqer/exact-php-client](https://github.com/picqer/exact-php-client) (4 weeks ago)
 - [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (1 month ago)
 - [joindin/joindin-web2](https://github.com/joindin/joindin-web2) (1 month ago)
 - [sourcemeta/learnjsonschema.com](https://github.com/sourcemeta/learnjsonschema.com) (2 months ago)
@@ -31,9 +31,9 @@ title: 👨‍💻 Recent Work
 
 #### 🔨 My recent Pull Requests
 
-- [ci: add 32-bits ci workflow](https://github.com/jsonrainbow/json-schema/pull/825) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (today)
-- [Update constraint class to PHP 7.2 language level](https://github.com/jsonrainbow/json-schema/pull/824) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (today)
-- [feat: update to latest json schema test suite](https://github.com/jsonrainbow/json-schema/pull/821) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (4 days ago)
+- [ci: add 32-bits ci workflow](https://github.com/jsonrainbow/json-schema/pull/825) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (1 day ago)
+- [Update constraint class to PHP 7.2 language level](https://github.com/jsonrainbow/json-schema/pull/824) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (1 day ago)
+- [feat: update to latest json schema test suite](https://github.com/jsonrainbow/json-schema/pull/821) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (5 days ago)
 - [Feature: Add release workflow to create release once tag is pushed](https://github.com/infi-nl/timechimp-billability-chart/pull/23) on [infi-nl/timechimp-billability-chart](https://github.com/infi-nl/timechimp-billability-chart) (1 week ago)
 - [Re-render chart on update and deletion of time entries](https://github.com/infi-nl/timechimp-billability-chart/pull/22) on [infi-nl/timechimp-billability-chart](https://github.com/infi-nl/timechimp-billability-chart) (1 week ago)
 - [Correct documentation reference](https://github.com/phpDocumentor/TypeResolver/pull/216) on [phpDocumentor/TypeResolver](https://github.com/phpDocumentor/TypeResolver) (2 weeks ago)
@@ -41,16 +41,16 @@ title: 👨‍💻 Recent Work
 - [Chore: Consolidate docblock functions](https://github.com/JsonMapper/JsonMapper/pull/198) on [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (2 weeks ago)
 - [refactor: raise minimum php level](https://github.com/JsonMapper/JsonMapper/pull/197) on [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (2 weeks ago)
 - [Fix workflow badge, tweak stable and unstable badges](https://github.com/phpDocumentor/ReflectionDocBlock/pull/410) on [phpDocumentor/ReflectionDocBlock](https://github.com/phpDocumentor/ReflectionDocBlock) (2 weeks ago)
-- [Small fixes](https://github.com/bowtie-json-schema/bowtie/pull/1958) on [bowtie-json-schema/bowtie](https://github.com/bowtie-json-schema/bowtie) (2 weeks ago)
+- [Small fixes](https://github.com/bowtie-json-schema/bowtie/pull/1958) on [bowtie-json-schema/bowtie](https://github.com/bowtie-json-schema/bowtie) (3 weeks ago)
 - [Fix objects are non unique despite key order](https://github.com/jsonrainbow/json-schema/pull/819) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (3 weeks ago)
-- [feat: update to latest details from documentation; Resolve type issues from phpstan baseline](https://github.com/picqer/exact-php-client/pull/680) on [picqer/exact-php-client](https://github.com/picqer/exact-php-client) (3 weeks ago)
+- [feat: update to latest details from documentation; Resolve type issues from phpstan baseline](https://github.com/picqer/exact-php-client/pull/680) on [picqer/exact-php-client](https://github.com/picqer/exact-php-client) (4 weeks ago)
 - [feat: support list&lt;t&gt; and array&lt;TKey, TValue&gt; in constructor middleware](https://github.com/JsonMapper/JsonMapper/pull/194) on [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (4 weeks ago)
-- [Add list and array&lt;&gt; support in docblocks](https://github.com/JsonMapper/JsonMapper/pull/193) on [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (4 weeks ago)
+- [Add list and array&lt;&gt; support in docblocks](https://github.com/JsonMapper/JsonMapper/pull/193) on [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (1 month ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
-- [xirixiz/homeassistant-afvalwijzer](https://github.com/xirixiz/homeassistant-afvalwijzer) - [pre_release](https://github.com/xirixiz/homeassistant-afvalwijzer/releases/tag/pre_release) (today)
+- [xirixiz/homeassistant-afvalwijzer](https://github.com/xirixiz/homeassistant-afvalwijzer) - [pre_release](https://github.com/xirixiz/homeassistant-afvalwijzer/releases/tag/pre_release) (1 day ago)
 - [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) - [2.25.0](https://github.com/JsonMapper/JsonMapper/releases/tag/2.25.0) (1 week ago)
 - [fedeisas/laravel-mail-css-inliner](https://github.com/fedeisas/laravel-mail-css-inliner) - [5.4.1](https://github.com/fedeisas/laravel-mail-css-inliner/releases/tag/5.4.1) (1 week ago)
 - [infi-nl/timechimp-billability-chart](https://github.com/infi-nl/timechimp-billability-chart) - [v1.8.3](https://github.com/infi-nl/timechimp-billability-chart/releases/tag/v1.8.3) (1 week ago)
