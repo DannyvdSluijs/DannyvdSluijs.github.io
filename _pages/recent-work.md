@@ -50,6 +50,7 @@ title: 👨‍💻 Recent Work
 
 #### 🔭 Latest releases I've contributed to
 
+- [bowtie-json-schema/bowtie](https://github.com/bowtie-json-schema/bowtie) - [v2025.5.1](https://github.com/bowtie-json-schema/bowtie/releases/tag/v2025.5.1) (today)
 - [deployphp/deployer](https://github.com/deployphp/deployer) - [v8.0.0-alpha.2](https://github.com/deployphp/deployer/releases/tag/v8.0.0-alpha.2) (1 day ago)
 - [genkgo/camt](https://github.com/genkgo/camt) - [2.10.0](https://github.com/genkgo/camt/releases/tag/2.10.0) (1 day ago)
 - [xirixiz/homeassistant-afvalwijzer](https://github.com/xirixiz/homeassistant-afvalwijzer) - [2025.05.01](https://github.com/xirixiz/homeassistant-afvalwijzer/releases/tag/2025.05.01) (1 day ago)
@@ -59,4 +60,3 @@ title: 👨‍💻 Recent Work
 - [phpDocumentor/ReflectionDocBlock](https://github.com/phpDocumentor/ReflectionDocBlock) - [5.6.2](https://github.com/phpDocumentor/ReflectionDocBlock/releases/tag/5.6.2) (1 month ago)
 - [picqer/exact-php-client](https://github.com/picqer/exact-php-client) - [v4.5.4](https://github.com/picqer/exact-php-client/releases/tag/v4.5.4) (1 month ago)
 - [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) - [6.4.1](https://github.com/jsonrainbow/json-schema/releases/tag/6.4.1) (1 month ago)
-- [bowtie-json-schema/bowtie](https://github.com/bowtie-json-schema/bowtie) - [v2025.3.4](https://github.com/bowtie-json-schema/bowtie/releases/tag/v2025.3.4) (1 month ago)
