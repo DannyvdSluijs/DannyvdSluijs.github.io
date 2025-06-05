@@ -31,6 +31,7 @@ title: 👨‍💻 Recent Work
 
 #### 🔨 My recent Pull Requests
 
+- [docs: CI-200 - Update 04.data-types.md](https://github.com/myparcelnl/developer/pull/154) on [myparcelnl/developer](https://github.com/myparcelnl/developer) (today)
 - [Nullable union property with null value cannot be mapped](https://github.com/JsonMapper/JsonMapper/pull/200) on [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (1 week ago)
 - [Fix #827](https://github.com/jsonrainbow/json-schema/pull/828) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (1 week ago)
 - [fix: Correct the firefox zip file](https://github.com/infi-nl/timechimp-billability-chart/pull/27) on [infi-nl/timechimp-billability-chart](https://github.com/infi-nl/timechimp-billability-chart) (1 week ago)
@@ -45,7 +46,6 @@ title: 👨‍💻 Recent Work
 - [Re-render chart on update and deletion of time entries](https://github.com/infi-nl/timechimp-billability-chart/pull/22) on [infi-nl/timechimp-billability-chart](https://github.com/infi-nl/timechimp-billability-chart) (1 month ago)
 - [Correct documentation reference](https://github.com/phpDocumentor/TypeResolver/pull/216) on [phpDocumentor/TypeResolver](https://github.com/phpDocumentor/TypeResolver) (1 month ago)
 - [feat: replace docblock type parsing with reflection docblock library](https://github.com/JsonMapper/JsonMapper/pull/199) on [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (1 month ago)
-- [Chore: Consolidate docblock functions](https://github.com/JsonMapper/JsonMapper/pull/198) on [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (1 month ago)
 
 
 #### 🔭 Latest releases I've contributed to
