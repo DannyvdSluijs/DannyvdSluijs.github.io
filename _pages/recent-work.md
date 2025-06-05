@@ -4,8 +4,8 @@ title: 👨‍💻 Recent Work
 
 #### 💻 Check out what I'm currently working on
 
-- [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (today)
-- [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (1 day ago)
+- [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (1 day ago)
+- [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (2 days ago)
 - [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (1 week ago)
 - [infi-nl/timechimp-billability-chart](https://github.com/infi-nl/timechimp-billability-chart) (1 week ago)
 - [myparcelnl/developer](https://github.com/myparcelnl/developer) (3 weeks ago)
@@ -38,8 +38,8 @@ title: 👨‍💻 Recent Work
 - [feat: add GLS custom contract page](https://github.com/myparcelnl/developer/pull/153) on [myparcelnl/developer](https://github.com/myparcelnl/developer) (3 weeks ago)
 - [Update to new time registration form](https://github.com/infi-nl/timechimp-billability-chart/pull/24) on [infi-nl/timechimp-billability-chart](https://github.com/infi-nl/timechimp-billability-chart) (3 weeks ago)
 - [refactor: update BaseConstraint.php to PHP 7.2 language level](https://github.com/jsonrainbow/json-schema/pull/826) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (4 weeks ago)
-- [ci: add 32-bits ci workflow](https://github.com/jsonrainbow/json-schema/pull/825) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (4 weeks ago)
-- [Update constraint class to PHP 7.2 language level](https://github.com/jsonrainbow/json-schema/pull/824) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (4 weeks ago)
+- [ci: add 32-bits ci workflow](https://github.com/jsonrainbow/json-schema/pull/825) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (1 month ago)
+- [Update constraint class to PHP 7.2 language level](https://github.com/jsonrainbow/json-schema/pull/824) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (1 month ago)
 - [feat: update to latest json schema test suite](https://github.com/jsonrainbow/json-schema/pull/821) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (1 month ago)
 - [Feature: Add release workflow to create release once tag is pushed](https://github.com/infi-nl/timechimp-billability-chart/pull/23) on [infi-nl/timechimp-billability-chart](https://github.com/infi-nl/timechimp-billability-chart) (1 month ago)
 - [Re-render chart on update and deletion of time entries](https://github.com/infi-nl/timechimp-billability-chart/pull/22) on [infi-nl/timechimp-billability-chart](https://github.com/infi-nl/timechimp-billability-chart) (1 month ago)
@@ -50,10 +50,10 @@ title: 👨‍💻 Recent Work
 
 #### 🔭 Latest releases I've contributed to
 
-- [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) - [6.4.2](https://github.com/jsonrainbow/json-schema/releases/tag/6.4.2) (1 day ago)
+- [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) - [6.4.2](https://github.com/jsonrainbow/json-schema/releases/tag/6.4.2) (2 days ago)
 - [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) - [2.25.1](https://github.com/JsonMapper/JsonMapper/releases/tag/2.25.1) (1 week ago)
 - [infi-nl/timechimp-billability-chart](https://github.com/infi-nl/timechimp-billability-chart) - [v2.0.0](https://github.com/infi-nl/timechimp-billability-chart/releases/tag/v2.0.0) (2 weeks ago)
-- [bowtie-json-schema/bowtie](https://github.com/bowtie-json-schema/bowtie) - [v2025.5.1](https://github.com/bowtie-json-schema/bowtie/releases/tag/v2025.5.1) (2 weeks ago)
+- [bowtie-json-schema/bowtie](https://github.com/bowtie-json-schema/bowtie) - [v2025.5.1](https://github.com/bowtie-json-schema/bowtie/releases/tag/v2025.5.1) (3 weeks ago)
 - [deployphp/deployer](https://github.com/deployphp/deployer) - [v8.0.0-alpha.2](https://github.com/deployphp/deployer/releases/tag/v8.0.0-alpha.2) (3 weeks ago)
 - [genkgo/camt](https://github.com/genkgo/camt) - [2.10.0](https://github.com/genkgo/camt/releases/tag/2.10.0) (3 weeks ago)
 - [xirixiz/homeassistant-afvalwijzer](https://github.com/xirixiz/homeassistant-afvalwijzer) - [2025.05.01](https://github.com/xirixiz/homeassistant-afvalwijzer/releases/tag/2025.05.01) (3 weeks ago)
