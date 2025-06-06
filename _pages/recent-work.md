@@ -4,11 +4,11 @@ title: 👨‍💻 Recent Work
 
 #### 💻 Check out what I'm currently working on
 
+- [myparcelnl/developer](https://github.com/myparcelnl/developer) (today)
 - [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (2 days ago)
 - [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (3 days ago)
 - [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (1 week ago)
 - [infi-nl/timechimp-billability-chart](https://github.com/infi-nl/timechimp-billability-chart) (2 weeks ago)
-- [myparcelnl/developer](https://github.com/myparcelnl/developer) (3 weeks ago)
 - [DannyvdSluijs/DannyvdSluijs.github.io](https://github.com/DannyvdSluijs/DannyvdSluijs.github.io) (1 month ago)
 - [phpDocumentor/TypeResolver](https://github.com/phpDocumentor/TypeResolver) (1 month ago)
 - [phpDocumentor/ReflectionDocBlock](https://github.com/phpDocumentor/ReflectionDocBlock) (1 month ago)
