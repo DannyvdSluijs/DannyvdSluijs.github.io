@@ -4,9 +4,9 @@ title: 👨‍💻 Recent Work
 
 #### 💻 Check out what I'm currently working on
 
-- [myparcelnl/developer](https://github.com/myparcelnl/developer) (today)
-- [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (2 days ago)
-- [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (3 days ago)
+- [myparcelnl/developer](https://github.com/myparcelnl/developer) (1 day ago)
+- [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (3 days ago)
+- [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (4 days ago)
 - [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (1 week ago)
 - [infi-nl/timechimp-billability-chart](https://github.com/infi-nl/timechimp-billability-chart) (2 weeks ago)
 - [DannyvdSluijs/DannyvdSluijs.github.io](https://github.com/DannyvdSluijs/DannyvdSluijs.github.io) (1 month ago)
@@ -31,8 +31,8 @@ title: 👨‍💻 Recent Work
 
 #### 🔨 My recent Pull Requests
 
-- [refactor: Update test case to current standards](https://github.com/jsonrainbow/json-schema/pull/831) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (today)
-- [docs: CI-200 - Update 04.data-types.md](https://github.com/myparcelnl/developer/pull/154) on [myparcelnl/developer](https://github.com/myparcelnl/developer) (1 day ago)
+- [refactor: Update test case to current standards](https://github.com/jsonrainbow/json-schema/pull/831) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (1 day ago)
+- [docs: CI-200 - Update 04.data-types.md](https://github.com/myparcelnl/developer/pull/154) on [myparcelnl/developer](https://github.com/myparcelnl/developer) (2 days ago)
 - [Nullable union property with null value cannot be mapped](https://github.com/JsonMapper/JsonMapper/pull/200) on [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (1 week ago)
 - [Fix #827](https://github.com/jsonrainbow/json-schema/pull/828) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (2 weeks ago)
 - [fix: Correct the firefox zip file](https://github.com/infi-nl/timechimp-billability-chart/pull/27) on [infi-nl/timechimp-billability-chart](https://github.com/infi-nl/timechimp-billability-chart) (2 weeks ago)
@@ -50,7 +50,7 @@ title: 👨‍💻 Recent Work
 
 #### 🔭 Latest releases I've contributed to
 
-- [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) - [6.4.2](https://github.com/jsonrainbow/json-schema/releases/tag/6.4.2) (3 days ago)
+- [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) - [6.4.2](https://github.com/jsonrainbow/json-schema/releases/tag/6.4.2) (4 days ago)
 - [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) - [2.25.1](https://github.com/JsonMapper/JsonMapper/releases/tag/2.25.1) (1 week ago)
 - [infi-nl/timechimp-billability-chart](https://github.com/infi-nl/timechimp-billability-chart) - [v2.0.0](https://github.com/infi-nl/timechimp-billability-chart/releases/tag/v2.0.0) (2 weeks ago)
 - [bowtie-json-schema/bowtie](https://github.com/bowtie-json-schema/bowtie) - [v2025.5.1](https://github.com/bowtie-json-schema/bowtie/releases/tag/v2025.5.1) (3 weeks ago)
