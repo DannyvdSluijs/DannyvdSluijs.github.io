@@ -31,6 +31,7 @@ title: 👨‍💻 Recent Work
 
 #### 🔨 My recent Pull Requests
 
+- [feat: add proof-of-concept implementation for strict fully validating using draft-06 schema](https://github.com/jsonrainbow/json-schema/pull/835) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (today)
 - [Upgrade test suite to use generators](https://github.com/jsonrainbow/json-schema/pull/834) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (2 days ago)
 - [feat: CI-200 - Document shipment options for GLS](https://github.com/myparcelnl/developer/pull/156) on [myparcelnl/developer](https://github.com/myparcelnl/developer) (1 week ago)
 - [refactor: Update test case to current (PHP) standards](https://github.com/jsonrainbow/json-schema/pull/831) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (2 weeks ago)
@@ -45,7 +46,6 @@ title: 👨‍💻 Recent Work
 - [ci: add 32-bits ci workflow](https://github.com/jsonrainbow/json-schema/pull/825) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (1 month ago)
 - [Update constraint class to PHP 7.2 language level](https://github.com/jsonrainbow/json-schema/pull/824) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (1 month ago)
 - [feat: update to latest json schema test suite](https://github.com/jsonrainbow/json-schema/pull/821) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (1 month ago)
-- [Feature: Add release workflow to create release once tag is pushed](https://github.com/infi-nl/timechimp-billability-chart/pull/23) on [infi-nl/timechimp-billability-chart](https://github.com/infi-nl/timechimp-billability-chart) (2 months ago)
 
 
 #### 🔭 Latest releases I've contributed to
