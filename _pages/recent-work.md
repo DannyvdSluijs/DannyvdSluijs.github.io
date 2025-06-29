@@ -4,8 +4,8 @@ title: 👨‍💻 Recent Work
 
 #### 💻 Check out what I'm currently working on
 
-- [myparcelnl/developer](https://github.com/myparcelnl/developer) (3 days ago)
-- [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (4 days ago)
+- [myparcelnl/developer](https://github.com/myparcelnl/developer) (4 days ago)
+- [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (5 days ago)
 - [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (3 weeks ago)
 - [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (1 month ago)
 - [infi-nl/timechimp-billability-chart](https://github.com/infi-nl/timechimp-billability-chart) (1 month ago)
@@ -31,8 +31,8 @@ title: 👨‍💻 Recent Work
 
 #### 🔨 My recent Pull Requests
 
-- [feat: add proof-of-concept implementation for strict fully validating using draft-06 schema](https://github.com/jsonrainbow/json-schema/pull/835) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (3 days ago)
-- [Upgrade test suite to use generators](https://github.com/jsonrainbow/json-schema/pull/834) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (5 days ago)
+- [feat: add proof-of-concept implementation for strict fully validating using draft-06 schema](https://github.com/jsonrainbow/json-schema/pull/835) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (4 days ago)
+- [Upgrade test suite to use generators](https://github.com/jsonrainbow/json-schema/pull/834) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (6 days ago)
 - [feat: CI-200 - Document shipment options for GLS](https://github.com/myparcelnl/developer/pull/156) on [myparcelnl/developer](https://github.com/myparcelnl/developer) (2 weeks ago)
 - [refactor: Update test case to current (PHP) standards](https://github.com/jsonrainbow/json-schema/pull/831) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (3 weeks ago)
 - [docs: CI-200 - Update 04.data-types.md](https://github.com/myparcelnl/developer/pull/154) on [myparcelnl/developer](https://github.com/myparcelnl/developer) (3 weeks ago)
