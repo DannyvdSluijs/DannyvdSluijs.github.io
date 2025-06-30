@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "97549b3ec65ee46478f86134069845e6",
+    "content-hash": "c7a345d5dbdd9ae999d38c2df63ec98d",
     "packages": [
         {
             "name": "brick/math",
@@ -983,16 +983,16 @@
         },
         {
             "name": "hyde/framework",
-            "version": "v1.7.5",
+            "version": "v1.8.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/hydephp/framework.git",
-                "reference": "9edb22726147a9a6e5831b7d48e04d929f31436c"
+                "reference": "fc220573355d00aae3f3cd29774fa21b2e1aac85"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/hydephp/framework/zipball/9edb22726147a9a6e5831b7d48e04d929f31436c",
-                "reference": "9edb22726147a9a6e5831b7d48e04d929f31436c",
+                "url": "https://api.github.com/repos/hydephp/framework/zipball/fc220573355d00aae3f3cd29774fa21b2e1aac85",
+                "reference": "fc220573355d00aae3f3cd29774fa21b2e1aac85",
                 "shasum": ""
             },
             "require": {
@@ -1031,7 +1031,7 @@
             "description": "The HydePHP Framework",
             "support": {
                 "issues": "https://github.com/hydephp/framework/issues",
-                "source": "https://github.com/hydephp/framework/tree/v1.7.5"
+                "source": "https://github.com/hydephp/framework/tree/v1.8.0"
             },
             "funding": [
                 {
@@ -1043,7 +1043,7 @@
                     "type": "open_collective"
                 }
             ],
-            "time": "2024-12-22T11:28:50+00:00"
+            "time": "2025-05-17T14:47:13+00:00"
         },
         {
             "name": "illuminate/bus",
@@ -2380,16 +2380,16 @@
         },
         {
             "name": "league/commonmark",
-            "version": "2.6.1",
+            "version": "2.7.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/thephpleague/commonmark.git",
-                "reference": "d990688c91cedfb69753ffc2512727ec646df2ad"
+                "reference": "6fbb36d44824ed4091adbcf4c7d4a3923cdb3405"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/thephpleague/commonmark/zipball/d990688c91cedfb69753ffc2512727ec646df2ad",
-                "reference": "d990688c91cedfb69753ffc2512727ec646df2ad",
+                "url": "https://api.github.com/repos/thephpleague/commonmark/zipball/6fbb36d44824ed4091adbcf4c7d4a3923cdb3405",
+                "reference": "6fbb36d44824ed4091adbcf4c7d4a3923cdb3405",
                 "shasum": ""
             },
             "require": {
@@ -2426,7 +2426,7 @@
             "type": "library",
             "extra": {
                 "branch-alias": {
-                    "dev-main": "2.7-dev"
+                    "dev-main": "2.8-dev"
                 }
             },
             "autoload": {
@@ -2483,7 +2483,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2024-12-29T14:10:59+00:00"
+            "time": "2025-05-05T12:20:28+00:00"
         },
         {
             "name": "league/config",
