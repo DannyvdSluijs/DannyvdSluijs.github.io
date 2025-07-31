@@ -50,12 +50,12 @@ title: 👨‍💻 Recent Work
 
 #### 🔭 Latest releases I've contributed to
 
+- [bowtie-json-schema/bowtie](https://github.com/bowtie-json-schema/bowtie) - [v2025.7.2](https://github.com/bowtie-json-schema/bowtie/releases/tag/v2025.7.2) (today)
 - [MyParcelCOM/api-sdk-php](https://github.com/MyParcelCOM/api-sdk-php) - [v3.10.0](https://github.com/MyParcelCOM/api-sdk-php/releases/tag/v3.10.0) (2 weeks ago)
 - [xirixiz/homeassistant-afvalwijzer](https://github.com/xirixiz/homeassistant-afvalwijzer) - [2025.07.01](https://github.com/xirixiz/homeassistant-afvalwijzer/releases/tag/2025.07.01) (3 weeks ago)
 - [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) - [6.4.2](https://github.com/jsonrainbow/json-schema/releases/tag/6.4.2) (1 month ago)
 - [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) - [2.25.1](https://github.com/JsonMapper/JsonMapper/releases/tag/2.25.1) (2 months ago)
 - [infi-nl/timechimp-billability-chart](https://github.com/infi-nl/timechimp-billability-chart) - [v2.0.0](https://github.com/infi-nl/timechimp-billability-chart/releases/tag/v2.0.0) (2 months ago)
-- [bowtie-json-schema/bowtie](https://github.com/bowtie-json-schema/bowtie) - [v2025.5.1](https://github.com/bowtie-json-schema/bowtie/releases/tag/v2025.5.1) (2 months ago)
 - [genkgo/camt](https://github.com/genkgo/camt) - [2.10.0](https://github.com/genkgo/camt/releases/tag/2.10.0) (2 months ago)
 - [fedeisas/laravel-mail-css-inliner](https://github.com/fedeisas/laravel-mail-css-inliner) - [5.4.1](https://github.com/fedeisas/laravel-mail-css-inliner/releases/tag/5.4.1) (3 months ago)
 - [phpDocumentor/ReflectionDocBlock](https://github.com/phpDocumentor/ReflectionDocBlock) - [5.6.2](https://github.com/phpDocumentor/ReflectionDocBlock/releases/tag/5.6.2) (3 months ago)
