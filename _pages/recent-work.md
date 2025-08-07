@@ -4,7 +4,7 @@ title: 👨‍💻 Recent Work
 
 #### 💻 Check out what I'm currently working on
 
-- [jsonrainbow/docs](https://github.com/jsonrainbow/docs) (5 days ago)
+- [jsonrainbow/docs](https://github.com/jsonrainbow/docs) (6 days ago)
 - [MyParcelCOM/api-sdk-php](https://github.com/MyParcelCOM/api-sdk-php) (3 weeks ago)
 - [DannyvdSluijs/DannyvdSluijs.github.io](https://github.com/DannyvdSluijs/DannyvdSluijs.github.io) (1 month ago)
 - [myparcelnl/developer](https://github.com/myparcelnl/developer) (1 month ago)
@@ -43,16 +43,16 @@ title: 👨‍💻 Recent Work
 - [fix: Correct the firefox zip file](https://github.com/infi-nl/timechimp-billability-chart/pull/27) on [infi-nl/timechimp-billability-chart](https://github.com/infi-nl/timechimp-billability-chart) (2 months ago)
 - [docs: prepare for release of v2.0.0](https://github.com/infi-nl/timechimp-billability-chart/pull/25) on [infi-nl/timechimp-billability-chart](https://github.com/infi-nl/timechimp-billability-chart) (2 months ago)
 - [feat: add GLS custom contract page](https://github.com/myparcelnl/developer/pull/153) on [myparcelnl/developer](https://github.com/myparcelnl/developer) (2 months ago)
-- [Update to new time registration form](https://github.com/infi-nl/timechimp-billability-chart/pull/24) on [infi-nl/timechimp-billability-chart](https://github.com/infi-nl/timechimp-billability-chart) (2 months ago)
+- [Update to new time registration form](https://github.com/infi-nl/timechimp-billability-chart/pull/24) on [infi-nl/timechimp-billability-chart](https://github.com/infi-nl/timechimp-billability-chart) (3 months ago)
 - [refactor: update BaseConstraint.php to PHP 7.2 language level](https://github.com/jsonrainbow/json-schema/pull/826) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (3 months ago)
 - [ci: add 32-bits ci workflow](https://github.com/jsonrainbow/json-schema/pull/825) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (3 months ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
-- [bowtie-json-schema/bowtie](https://github.com/bowtie-json-schema/bowtie) - [v2025.8.1](https://github.com/bowtie-json-schema/bowtie/releases/tag/v2025.8.1) (2 days ago)
+- [bowtie-json-schema/bowtie](https://github.com/bowtie-json-schema/bowtie) - [v2025.8.1](https://github.com/bowtie-json-schema/bowtie/releases/tag/v2025.8.1) (3 days ago)
 - [MyParcelCOM/api-sdk-php](https://github.com/MyParcelCOM/api-sdk-php) - [v3.10.0](https://github.com/MyParcelCOM/api-sdk-php/releases/tag/v3.10.0) (3 weeks ago)
-- [xirixiz/homeassistant-afvalwijzer](https://github.com/xirixiz/homeassistant-afvalwijzer) - [2025.07.01](https://github.com/xirixiz/homeassistant-afvalwijzer/releases/tag/2025.07.01) (4 weeks ago)
+- [xirixiz/homeassistant-afvalwijzer](https://github.com/xirixiz/homeassistant-afvalwijzer) - [2025.07.01](https://github.com/xirixiz/homeassistant-afvalwijzer/releases/tag/2025.07.01) (1 month ago)
 - [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) - [6.4.2](https://github.com/jsonrainbow/json-schema/releases/tag/6.4.2) (2 months ago)
 - [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) - [2.25.1](https://github.com/JsonMapper/JsonMapper/releases/tag/2.25.1) (2 months ago)
 - [infi-nl/timechimp-billability-chart](https://github.com/infi-nl/timechimp-billability-chart) - [v2.0.0](https://github.com/infi-nl/timechimp-billability-chart/releases/tag/v2.0.0) (2 months ago)
