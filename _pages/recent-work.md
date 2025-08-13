@@ -5,7 +5,7 @@ title: 👨‍💻 Recent Work
 #### 💻 Check out what I'm currently working on
 
 - [jsonrainbow/docs](https://github.com/jsonrainbow/docs) (1 week ago)
-- [MyParcelCOM/api-sdk-php](https://github.com/MyParcelCOM/api-sdk-php) (3 weeks ago)
+- [MyParcelCOM/api-sdk-php](https://github.com/MyParcelCOM/api-sdk-php) (4 weeks ago)
 - [DannyvdSluijs/DannyvdSluijs.github.io](https://github.com/DannyvdSluijs/DannyvdSluijs.github.io) (1 month ago)
 - [myparcelnl/developer](https://github.com/myparcelnl/developer) (1 month ago)
 - [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (1 month ago)
@@ -31,7 +31,7 @@ title: 👨‍💻 Recent Work
 
 #### 🔨 My recent Pull Requests
 
-- [Allow `psr/http-message` v2 to increase compatibility with other packages](https://github.com/MyParcelCOM/api-sdk-php/pull/246) on [MyParcelCOM/api-sdk-php](https://github.com/MyParcelCOM/api-sdk-php) (3 weeks ago)
+- [Allow `psr/http-message` v2 to increase compatibility with other packages](https://github.com/MyParcelCOM/api-sdk-php/pull/246) on [MyParcelCOM/api-sdk-php](https://github.com/MyParcelCOM/api-sdk-php) (4 weeks ago)
 - [build: update framework and commonmark](https://github.com/DannyvdSluijs/DannyvdSluijs.github.io/pull/53) on [DannyvdSluijs/DannyvdSluijs.github.io](https://github.com/DannyvdSluijs/DannyvdSluijs.github.io) (1 month ago)
 - [feat: add proof-of-concept implementation for strict fully validating using draft-06 schema](https://github.com/jsonrainbow/json-schema/pull/835) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (1 month ago)
 - [Upgrade test suite to use generators](https://github.com/jsonrainbow/json-schema/pull/834) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (1 month ago)
@@ -51,7 +51,7 @@ title: 👨‍💻 Recent Work
 #### 🔭 Latest releases I've contributed to
 
 - [bowtie-json-schema/bowtie](https://github.com/bowtie-json-schema/bowtie) - [v2025.8.1](https://github.com/bowtie-json-schema/bowtie/releases/tag/v2025.8.1) (1 week ago)
-- [MyParcelCOM/api-sdk-php](https://github.com/MyParcelCOM/api-sdk-php) - [v3.10.0](https://github.com/MyParcelCOM/api-sdk-php/releases/tag/v3.10.0) (3 weeks ago)
+- [MyParcelCOM/api-sdk-php](https://github.com/MyParcelCOM/api-sdk-php) - [v3.10.0](https://github.com/MyParcelCOM/api-sdk-php/releases/tag/v3.10.0) (4 weeks ago)
 - [xirixiz/homeassistant-afvalwijzer](https://github.com/xirixiz/homeassistant-afvalwijzer) - [2025.07.01](https://github.com/xirixiz/homeassistant-afvalwijzer/releases/tag/2025.07.01) (1 month ago)
 - [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) - [6.4.2](https://github.com/jsonrainbow/json-schema/releases/tag/6.4.2) (2 months ago)
 - [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) - [2.25.1](https://github.com/JsonMapper/JsonMapper/releases/tag/2.25.1) (2 months ago)
