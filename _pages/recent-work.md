@@ -4,11 +4,11 @@ title: 👨‍💻 Recent Work
 
 #### 💻 Check out what I'm currently working on
 
-- [jsonrainbow/docs](https://github.com/jsonrainbow/docs) (today)
+- [jsonrainbow/docs](https://github.com/jsonrainbow/docs) (1 day ago)
 - [MyParcelCOM/api-sdk-php](https://github.com/MyParcelCOM/api-sdk-php) (1 month ago)
 - [DannyvdSluijs/DannyvdSluijs.github.io](https://github.com/DannyvdSluijs/DannyvdSluijs.github.io) (1 month ago)
 - [myparcelnl/developer](https://github.com/myparcelnl/developer) (1 month ago)
-- [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (1 month ago)
+- [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (2 months ago)
 - [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (2 months ago)
 - [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (2 months ago)
 - [infi-nl/timechimp-billability-chart](https://github.com/infi-nl/timechimp-billability-chart) (3 months ago)
@@ -50,8 +50,8 @@ title: 👨‍💻 Recent Work
 
 #### 🔭 Latest releases I've contributed to
 
-- [genkgo/camt](https://github.com/genkgo/camt) - [2.10.2](https://github.com/genkgo/camt/releases/tag/2.10.2) (2 days ago)
-- [phpDocumentor/ReflectionDocBlock](https://github.com/phpDocumentor/ReflectionDocBlock) - [5.6.3](https://github.com/phpDocumentor/ReflectionDocBlock/releases/tag/5.6.3) (5 days ago)
+- [genkgo/camt](https://github.com/genkgo/camt) - [2.10.2](https://github.com/genkgo/camt/releases/tag/2.10.2) (3 days ago)
+- [phpDocumentor/ReflectionDocBlock](https://github.com/phpDocumentor/ReflectionDocBlock) - [5.6.3](https://github.com/phpDocumentor/ReflectionDocBlock/releases/tag/5.6.3) (6 days ago)
 - [bowtie-json-schema/bowtie](https://github.com/bowtie-json-schema/bowtie) - [v2025.8.1](https://github.com/bowtie-json-schema/bowtie/releases/tag/v2025.8.1) (2 weeks ago)
 - [MyParcelCOM/api-sdk-php](https://github.com/MyParcelCOM/api-sdk-php) - [v3.10.0](https://github.com/MyParcelCOM/api-sdk-php/releases/tag/v3.10.0) (1 month ago)
 - [xirixiz/homeassistant-afvalwijzer](https://github.com/xirixiz/homeassistant-afvalwijzer) - [2025.07.01](https://github.com/xirixiz/homeassistant-afvalwijzer/releases/tag/2025.07.01) (1 month ago)
