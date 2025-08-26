@@ -50,7 +50,7 @@ title: 👨‍💻 Recent Work
 
 #### 🔭 Latest releases I've contributed to
 
-- [genkgo/camt](https://github.com/genkgo/camt) - [2.10.2](https://github.com/genkgo/camt/releases/tag/2.10.2) (6 days ago)
+- [genkgo/camt](https://github.com/genkgo/camt) - [2.10.3](https://github.com/genkgo/camt/releases/tag/2.10.3) (today)
 - [phpDocumentor/ReflectionDocBlock](https://github.com/phpDocumentor/ReflectionDocBlock) - [5.6.3](https://github.com/phpDocumentor/ReflectionDocBlock/releases/tag/5.6.3) (1 week ago)
 - [bowtie-json-schema/bowtie](https://github.com/bowtie-json-schema/bowtie) - [v2025.8.1](https://github.com/bowtie-json-schema/bowtie/releases/tag/v2025.8.1) (3 weeks ago)
 - [MyParcelCOM/api-sdk-php](https://github.com/MyParcelCOM/api-sdk-php) - [v3.10.0](https://github.com/MyParcelCOM/api-sdk-php/releases/tag/v3.10.0) (1 month ago)
