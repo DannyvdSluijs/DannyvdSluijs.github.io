@@ -4,7 +4,7 @@ title: 👨‍💻 Recent Work
 
 #### 💻 Check out what I'm currently working on
 
-- [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (3 days ago)
+- [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (4 days ago)
 - [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (1 week ago)
 - [jsonrainbow/docs](https://github.com/jsonrainbow/docs) (2 weeks ago)
 - [MyParcelCOM/api-sdk-php](https://github.com/MyParcelCOM/api-sdk-php) (1 month ago)
@@ -26,7 +26,7 @@ title: 👨‍💻 Recent Work
 {**}
 {*- [Securing the web at no cost](https://www.dannyvandersluijs.nl/posts/2019-02-04-securing-the-web-at-no-cost.html) (6 years ago)*}
 {**}
-{*- [About MutableCreationOptionsInterface](https://www.dannyvandersluijs.nl/posts/2018-10-15-about-mutable-creation-options-interface.html) (6 years ago)*}
+{*- [About MutableCreationOptionsInterface](https://www.dannyvandersluijs.nl/posts/2018-10-15-about-mutable-creation-options-interface.html) (7 years ago)*}
 {**}
 
 #### 🔨 My recent Pull Requests
