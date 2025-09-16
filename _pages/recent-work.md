@@ -50,7 +50,7 @@ title: 👨‍💻 Recent Work
 
 #### 🔭 Latest releases I've contributed to
 
-- [MyParcelCOM/api-sdk-php](https://github.com/MyParcelCOM/api-sdk-php) - [v3.10.2](https://github.com/MyParcelCOM/api-sdk-php/releases/tag/v3.10.2) (1 day ago)
+- [MyParcelCOM/api-sdk-php](https://github.com/MyParcelCOM/api-sdk-php) - [v3.10.3](https://github.com/MyParcelCOM/api-sdk-php/releases/tag/v3.10.3) (today)
 - [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) - [6.5.2](https://github.com/jsonrainbow/json-schema/releases/tag/6.5.2) (1 week ago)
 - [xirixiz/homeassistant-afvalwijzer](https://github.com/xirixiz/homeassistant-afvalwijzer) - [2025.08.01](https://github.com/xirixiz/homeassistant-afvalwijzer/releases/tag/2025.08.01) (2 weeks ago)
 - [genkgo/camt](https://github.com/genkgo/camt) - [2.10.3](https://github.com/genkgo/camt/releases/tag/2.10.3) (3 weeks ago)
