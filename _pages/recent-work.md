@@ -31,7 +31,7 @@ title: 👨‍💻 Recent Work
 
 #### 🔨 My recent Pull Requests
 
-- [feat: CI-344 - Add Trunkrs and BRT custom contract pages](https://github.com/myparcelnl/developer/pull/171) on [myparcelnl/developer](https://github.com/myparcelnl/developer) (2 days ago)
+- [feat: CI-344 - Add Trunkrs and BRT custom contract pages](https://github.com/myparcelnl/developer/pull/171) on [myparcelnl/developer](https://github.com/myparcelnl/developer) (3 days ago)
 - [docs: Document how custom error messages is being handled](https://github.com/jsonrainbow/docs/pull/8) on [jsonrainbow/docs](https://github.com/jsonrainbow/docs) (1 week ago)
 - [docs: Add documentation on how to use strict mode](https://github.com/jsonrainbow/docs/pull/1) on [jsonrainbow/docs](https://github.com/jsonrainbow/docs) (3 weeks ago)
 - [ci: Add PHP 8.5 to pipeline, ignoring dependencies and as experimental](https://github.com/jsonrainbow/json-schema/pull/842) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (3 weeks ago)
@@ -50,7 +50,7 @@ title: 👨‍💻 Recent Work
 
 #### 🔭 Latest releases I've contributed to
 
-- [MyParcelCOM/api-sdk-php](https://github.com/MyParcelCOM/api-sdk-php) - [v3.10.3](https://github.com/MyParcelCOM/api-sdk-php/releases/tag/v3.10.3) (5 days ago)
+- [MyParcelCOM/api-sdk-php](https://github.com/MyParcelCOM/api-sdk-php) - [v3.10.3](https://github.com/MyParcelCOM/api-sdk-php/releases/tag/v3.10.3) (6 days ago)
 - [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) - [6.5.2](https://github.com/jsonrainbow/json-schema/releases/tag/6.5.2) (1 week ago)
 - [xirixiz/homeassistant-afvalwijzer](https://github.com/xirixiz/homeassistant-afvalwijzer) - [2025.08.01](https://github.com/xirixiz/homeassistant-afvalwijzer/releases/tag/2025.08.01) (3 weeks ago)
 - [genkgo/camt](https://github.com/genkgo/camt) - [2.10.3](https://github.com/genkgo/camt/releases/tag/2.10.3) (3 weeks ago)
