@@ -4,8 +4,8 @@ title: 👨‍💻 Recent Work
 
 #### 💻 Check out what I'm currently working on
 
-- [jsonrainbow/docs](https://github.com/jsonrainbow/docs) (2 days ago)
 - [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (2 days ago)
+- [jsonrainbow/docs](https://github.com/jsonrainbow/docs) (2 days ago)
 - [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (1 week ago)
 - [myparcelnl/developer](https://github.com/myparcelnl/developer) (2 weeks ago)
 - [MyParcelCOM/api-sdk-php](https://github.com/MyParcelCOM/api-sdk-php) (2 months ago)
