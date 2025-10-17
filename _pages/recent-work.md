@@ -4,16 +4,16 @@ title: 👨‍💻 Recent Work
 
 #### 💻 Check out what I'm currently working on
 
-- [bowtie-json-schema/bowtie](https://github.com/bowtie-json-schema/bowtie) (6 days ago)
-- [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (6 days ago)
-- [jsonrainbow/docs](https://github.com/jsonrainbow/docs) (6 days ago)
+- [bowtie-json-schema/bowtie](https://github.com/bowtie-json-schema/bowtie) (1 week ago)
+- [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (1 week ago)
+- [jsonrainbow/docs](https://github.com/jsonrainbow/docs) (1 week ago)
 - [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (2 weeks ago)
 - [myparcelnl/developer](https://github.com/myparcelnl/developer) (3 weeks ago)
 - [MyParcelCOM/api-sdk-php](https://github.com/MyParcelCOM/api-sdk-php) (3 months ago)
 - [DannyvdSluijs/DannyvdSluijs.github.io](https://github.com/DannyvdSluijs/DannyvdSluijs.github.io) (3 months ago)
 - [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (4 months ago)
 - [infi-nl/timechimp-billability-chart](https://github.com/infi-nl/timechimp-billability-chart) (4 months ago)
-- [phpDocumentor/TypeResolver](https://github.com/phpDocumentor/TypeResolver) (5 months ago)
+- [phpDocumentor/TypeResolver](https://github.com/phpDocumentor/TypeResolver) (6 months ago)
 
 
 {*#### 📜 My recent blog posts*}
@@ -31,10 +31,10 @@ title: 👨‍💻 Recent Work
 
 #### 🔨 My recent Pull Requests
 
-- [refactor: Rename master to main](https://github.com/jsonrainbow/json-schema/pull/848) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (6 days ago)
-- [Feat/draft 7 support](https://github.com/jsonrainbow/json-schema/pull/847) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (6 days ago)
-- [Add php justin rainbow json schema draft 6 support](https://github.com/bowtie-json-schema/bowtie/pull/2234) on [bowtie-json-schema/bowtie](https://github.com/bowtie-json-schema/bowtie) (6 days ago)
-- [feat: CI-344 - Add Trunkrs and BRT custom contract pages](https://github.com/myparcelnl/developer/pull/171) on [myparcelnl/developer](https://github.com/myparcelnl/developer) (3 weeks ago)
+- [refactor: Rename master to main](https://github.com/jsonrainbow/json-schema/pull/848) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (1 week ago)
+- [Feat/draft 7 support](https://github.com/jsonrainbow/json-schema/pull/847) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (1 week ago)
+- [Add php justin rainbow json schema draft 6 support](https://github.com/bowtie-json-schema/bowtie/pull/2234) on [bowtie-json-schema/bowtie](https://github.com/bowtie-json-schema/bowtie) (1 week ago)
+- [feat: CI-344 - Add Trunkrs and BRT custom contract pages](https://github.com/myparcelnl/developer/pull/171) on [myparcelnl/developer](https://github.com/myparcelnl/developer) (4 weeks ago)
 - [docs: Document how custom error messages is being handled](https://github.com/jsonrainbow/docs/pull/8) on [jsonrainbow/docs](https://github.com/jsonrainbow/docs) (1 month ago)
 - [docs: Add documentation on how to use strict mode](https://github.com/jsonrainbow/docs/pull/1) on [jsonrainbow/docs](https://github.com/jsonrainbow/docs) (1 month ago)
 - [ci: Add PHP 8.5 to pipeline, ignoring dependencies and as experimental](https://github.com/jsonrainbow/json-schema/pull/842) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (1 month ago)
@@ -50,13 +50,13 @@ title: 👨‍💻 Recent Work
 
 #### 🔭 Latest releases I've contributed to
 
-- [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) - [6.6.0](https://github.com/jsonrainbow/json-schema/releases/tag/6.6.0) (6 days ago)
+- [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) - [6.6.0](https://github.com/jsonrainbow/json-schema/releases/tag/6.6.0) (1 week ago)
 - [xirixiz/homeassistant-afvalwijzer](https://github.com/xirixiz/homeassistant-afvalwijzer) - [2025.10.01-beta](https://github.com/xirixiz/homeassistant-afvalwijzer/releases/tag/2025.10.01-beta) (1 week ago)
 - [MyParcelCOM/api-sdk-php](https://github.com/MyParcelCOM/api-sdk-php) - [v3.10.4](https://github.com/MyParcelCOM/api-sdk-php/releases/tag/v3.10.4) (1 week ago)
 - [genkgo/camt](https://github.com/genkgo/camt) - [2.10.3](https://github.com/genkgo/camt/releases/tag/2.10.3) (1 month ago)
 - [phpDocumentor/ReflectionDocBlock](https://github.com/phpDocumentor/ReflectionDocBlock) - [5.6.3](https://github.com/phpDocumentor/ReflectionDocBlock/releases/tag/5.6.3) (2 months ago)
 - [bowtie-json-schema/bowtie](https://github.com/bowtie-json-schema/bowtie) - [v2025.8.1](https://github.com/bowtie-json-schema/bowtie/releases/tag/v2025.8.1) (2 months ago)
 - [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) - [2.25.1](https://github.com/JsonMapper/JsonMapper/releases/tag/2.25.1) (4 months ago)
-- [infi-nl/timechimp-billability-chart](https://github.com/infi-nl/timechimp-billability-chart) - [v2.0.0](https://github.com/infi-nl/timechimp-billability-chart/releases/tag/v2.0.0) (4 months ago)
+- [infi-nl/timechimp-billability-chart](https://github.com/infi-nl/timechimp-billability-chart) - [v2.0.0](https://github.com/infi-nl/timechimp-billability-chart/releases/tag/v2.0.0) (5 months ago)
 - [fedeisas/laravel-mail-css-inliner](https://github.com/fedeisas/laravel-mail-css-inliner) - [5.4.1](https://github.com/fedeisas/laravel-mail-css-inliner/releases/tag/5.4.1) (5 months ago)
 - [picqer/exact-php-client](https://github.com/picqer/exact-php-client) - [v4.5.4](https://github.com/picqer/exact-php-client/releases/tag/v4.5.4) (6 months ago)
