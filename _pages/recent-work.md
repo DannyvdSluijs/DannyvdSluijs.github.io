@@ -4,7 +4,7 @@ title: 👨‍💻 Recent Work
 
 #### 💻 Check out what I'm currently working on
 
-- [Daniel-Marynicz/BehatParallelExtension](https://github.com/Daniel-Marynicz/BehatParallelExtension) (5 days ago)
+- [Daniel-Marynicz/BehatParallelExtension](https://github.com/Daniel-Marynicz/BehatParallelExtension) (6 days ago)
 - [jsonrainbow/docs](https://github.com/jsonrainbow/docs) (2 weeks ago)
 - [bowtie-json-schema/bowtie](https://github.com/bowtie-json-schema/bowtie) (2 weeks ago)
 - [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (2 weeks ago)
@@ -31,7 +31,7 @@ title: 👨‍💻 Recent Work
 
 #### 🔨 My recent Pull Requests
 
-- [Update nullable arguments to explicit allow null value](https://github.com/Daniel-Marynicz/BehatParallelExtension/pull/79) on [Daniel-Marynicz/BehatParallelExtension](https://github.com/Daniel-Marynicz/BehatParallelExtension) (6 days ago)
+- [Update nullable arguments to explicit allow null value](https://github.com/Daniel-Marynicz/BehatParallelExtension/pull/79) on [Daniel-Marynicz/BehatParallelExtension](https://github.com/Daniel-Marynicz/BehatParallelExtension) (1 week ago)
 - [refactor: Rename master to main](https://github.com/jsonrainbow/json-schema/pull/848) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (2 weeks ago)
 - [Feat/draft 7 support](https://github.com/jsonrainbow/json-schema/pull/847) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (2 weeks ago)
 - [Add php justin rainbow json schema draft 6 support](https://github.com/bowtie-json-schema/bowtie/pull/2234) on [bowtie-json-schema/bowtie](https://github.com/bowtie-json-schema/bowtie) (2 weeks ago)
@@ -50,9 +50,9 @@ title: 👨‍💻 Recent Work
 
 #### 🔭 Latest releases I've contributed to
 
-- [bowtie-json-schema/bowtie](https://github.com/bowtie-json-schema/bowtie) - [v2025.10.5](https://github.com/bowtie-json-schema/bowtie/releases/tag/v2025.10.5) (today)
-- [MyParcelCOM/api-sdk-php](https://github.com/MyParcelCOM/api-sdk-php) - [v3.10.5](https://github.com/MyParcelCOM/api-sdk-php/releases/tag/v3.10.5) (2 days ago)
-- [Daniel-Marynicz/BehatParallelExtension](https://github.com/Daniel-Marynicz/BehatParallelExtension) - [v1.1.1](https://github.com/Daniel-Marynicz/BehatParallelExtension/releases/tag/v1.1.1) (5 days ago)
+- [bowtie-json-schema/bowtie](https://github.com/bowtie-json-schema/bowtie) - [v2025.10.5](https://github.com/bowtie-json-schema/bowtie/releases/tag/v2025.10.5) (1 day ago)
+- [MyParcelCOM/api-sdk-php](https://github.com/MyParcelCOM/api-sdk-php) - [v3.10.5](https://github.com/MyParcelCOM/api-sdk-php/releases/tag/v3.10.5) (3 days ago)
+- [Daniel-Marynicz/BehatParallelExtension](https://github.com/Daniel-Marynicz/BehatParallelExtension) - [v1.1.1](https://github.com/Daniel-Marynicz/BehatParallelExtension/releases/tag/v1.1.1) (6 days ago)
 - [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) - [6.6.0](https://github.com/jsonrainbow/json-schema/releases/tag/6.6.0) (2 weeks ago)
 - [xirixiz/homeassistant-afvalwijzer](https://github.com/xirixiz/homeassistant-afvalwijzer) - [2025.10.01-beta](https://github.com/xirixiz/homeassistant-afvalwijzer/releases/tag/2025.10.01-beta) (2 weeks ago)
 - [genkgo/camt](https://github.com/genkgo/camt) - [2.10.3](https://github.com/genkgo/camt/releases/tag/2.10.3) (2 months ago)
