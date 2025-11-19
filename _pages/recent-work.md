@@ -13,7 +13,7 @@ title: 👨‍💻 Recent Work
 - [MyParcelCOM/api-sdk-php](https://github.com/MyParcelCOM/api-sdk-php) (4 months ago)
 - [DannyvdSluijs/DannyvdSluijs.github.io](https://github.com/DannyvdSluijs/DannyvdSluijs.github.io) (4 months ago)
 - [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (5 months ago)
-- [infi-nl/timechimp-billability-chart](https://github.com/infi-nl/timechimp-billability-chart) (5 months ago)
+- [infi-nl/timechimp-billability-chart](https://github.com/infi-nl/timechimp-billability-chart) (6 months ago)
 
 
 {*#### 📜 My recent blog posts*}
@@ -31,8 +31,8 @@ title: 👨‍💻 Recent Work
 
 #### 🔨 My recent Pull Requests
 
-- [Don&#39;t skip ref expanding for property called enum when child of property called  properties](https://github.com/jsonrainbow/json-schema/pull/851) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (1 week ago)
-- [Update nullable arguments to explicit allow null value](https://github.com/Daniel-Marynicz/BehatParallelExtension/pull/79) on [Daniel-Marynicz/BehatParallelExtension](https://github.com/Daniel-Marynicz/BehatParallelExtension) (4 weeks ago)
+- [Don&#39;t skip ref expanding for property called enum when child of property called  properties](https://github.com/jsonrainbow/json-schema/pull/851) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (2 weeks ago)
+- [Update nullable arguments to explicit allow null value](https://github.com/Daniel-Marynicz/BehatParallelExtension/pull/79) on [Daniel-Marynicz/BehatParallelExtension](https://github.com/Daniel-Marynicz/BehatParallelExtension) (1 month ago)
 - [refactor: Rename master to main](https://github.com/jsonrainbow/json-schema/pull/848) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (1 month ago)
 - [Feat/draft 7 support](https://github.com/jsonrainbow/json-schema/pull/847) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (1 month ago)
 - [Add php justin rainbow json schema draft 6 support](https://github.com/bowtie-json-schema/bowtie/pull/2234) on [bowtie-json-schema/bowtie](https://github.com/bowtie-json-schema/bowtie) (1 month ago)
@@ -50,8 +50,8 @@ title: 👨‍💻 Recent Work
 
 #### 🔭 Latest releases I've contributed to
 
-- [phpDocumentor/ReflectionDocBlock](https://github.com/phpDocumentor/ReflectionDocBlock) - [5.6.4](https://github.com/phpDocumentor/ReflectionDocBlock/releases/tag/5.6.4) (today)
-- [phpDocumentor/TypeResolver](https://github.com/phpDocumentor/TypeResolver) - [1.10.1](https://github.com/phpDocumentor/TypeResolver/releases/tag/1.10.1) (today)
+- [phpDocumentor/ReflectionDocBlock](https://github.com/phpDocumentor/ReflectionDocBlock) - [5.6.4](https://github.com/phpDocumentor/ReflectionDocBlock/releases/tag/5.6.4) (1 day ago)
+- [phpDocumentor/TypeResolver](https://github.com/phpDocumentor/TypeResolver) - [1.10.1](https://github.com/phpDocumentor/TypeResolver/releases/tag/1.10.1) (1 day ago)
 - [xirixiz/homeassistant-afvalwijzer](https://github.com/xirixiz/homeassistant-afvalwijzer) - [2026.01.01.b01](https://github.com/xirixiz/homeassistant-afvalwijzer/releases/tag/2026.01.01.b01) (1 week ago)
 - [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) - [6.6.1](https://github.com/jsonrainbow/json-schema/releases/tag/6.6.1) (1 week ago)
 - [bowtie-json-schema/bowtie](https://github.com/bowtie-json-schema/bowtie) - [v2025.10.5](https://github.com/bowtie-json-schema/bowtie/releases/tag/v2025.10.5) (3 weeks ago)
