@@ -50,7 +50,7 @@ title: 👨‍💻 Recent Work
 
 #### 🔭 Latest releases I've contributed to
 
-- [phpDocumentor/TypeResolver](https://github.com/phpDocumentor/TypeResolver) - [1.11.0](https://github.com/phpDocumentor/TypeResolver/releases/tag/1.11.0) (1 day ago)
+- [phpDocumentor/TypeResolver](https://github.com/phpDocumentor/TypeResolver) - [1.11.1](https://github.com/phpDocumentor/TypeResolver/releases/tag/1.11.1) (today)
 - [phpDocumentor/ReflectionDocBlock](https://github.com/phpDocumentor/ReflectionDocBlock) - [5.6.4](https://github.com/phpDocumentor/ReflectionDocBlock/releases/tag/5.6.4) (3 days ago)
 - [xirixiz/homeassistant-afvalwijzer](https://github.com/xirixiz/homeassistant-afvalwijzer) - [2026.01.01.b01](https://github.com/xirixiz/homeassistant-afvalwijzer/releases/tag/2026.01.01.b01) (1 week ago)
 - [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) - [6.6.1](https://github.com/jsonrainbow/json-schema/releases/tag/6.6.1) (2 weeks ago)
