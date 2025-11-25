@@ -31,6 +31,7 @@ title: 👨‍💻 Recent Work
 
 #### 🔨 My recent Pull Requests
 
+- [build: Move PHP 8.5 to default add PHP 8.6 as experimental](https://github.com/jsonrainbow/json-schema/pull/852) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (today)
 - [refactor: Add PHP 8.5 in build matrix](https://github.com/JsonMapper/JsonMapper/pull/204) on [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (6 days ago)
 - [refactor: Update to new Jetbrains logo](https://github.com/JsonMapper/JsonMapper/pull/203) on [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (6 days ago)
 - [Don&#39;t skip ref expanding for property called enum when child of property called  properties](https://github.com/jsonrainbow/json-schema/pull/851) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (2 weeks ago)
@@ -45,7 +46,6 @@ title: 👨‍💻 Recent Work
 - [Fix PHP 8.5 $http_response_header deprecation](https://github.com/jsonrainbow/json-schema/pull/841) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (2 months ago)
 - [Allow `psr/http-message` v2 to increase compatibility with other packages](https://github.com/MyParcelCOM/api-sdk-php/pull/246) on [MyParcelCOM/api-sdk-php](https://github.com/MyParcelCOM/api-sdk-php) (4 months ago)
 - [build: update framework and commonmark](https://github.com/DannyvdSluijs/DannyvdSluijs.github.io/pull/53) on [DannyvdSluijs/DannyvdSluijs.github.io](https://github.com/DannyvdSluijs/DannyvdSluijs.github.io) (4 months ago)
-- [feat: add implementation for strict fully validating using draft-06 schema](https://github.com/jsonrainbow/json-schema/pull/835) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (5 months ago)
 
 
 #### 🔭 Latest releases I've contributed to
