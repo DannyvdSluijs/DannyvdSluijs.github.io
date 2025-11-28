@@ -12,9 +12,9 @@
                     To help out with the open source community there are some projects I contribute to and/or manage:
                 </p>
                 <ul class="list-disc list-inside space-y-2 text-gray-700 mb-4">
-                    <li><a class="text-indigo-500 hover:underline font-medium" href="https://github.com/JsonMapper/JsonMapper">JsonMapper</a></li>
-                    <li><a class="text-indigo-500 hover:underline font-medium" href="https://github.com/picqer/exact-php-client">Exact PHP Client</a></li>
-                    <li><a class="text-indigo-500 hover:underline font-medium" href="https://github.com/jsonrainbow/json-schema">JSON Schema</a></li>
+                    <li><a class="text-indigo-500 hover:underline font-medium" href="https://github.com/JsonMapper/JsonMapper" target="_blank">JsonMapper</a></li>
+                    <li><a class="text-indigo-500 hover:underline font-medium" href="https://github.com/jsonrainbow/json-schema"target="_blank">JSON Schema</a></li>
+                    <li><a class="text-indigo-500 hover:underline font-medium" href="https://github.com/picqer/exact-php-client" target="_blank">Exact PHP Client</a></li>
                 </ul>
                 <p  class="mb-4">
                     If one of those open source projects is critical for your business,
