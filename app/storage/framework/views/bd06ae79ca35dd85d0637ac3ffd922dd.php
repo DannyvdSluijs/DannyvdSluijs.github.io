@@ -1,0 +1,1 @@
+in the category "<?php echo e($page->category); ?>"<?php /**PATH /Users/danny/Projects/Personal/DannyvdSluijs.github.io/resources/views/vendor/hyde/components/post/category.blade.php ENDPATH**/ ?>
