@@ -18,6 +18,8 @@ title: 👨‍💻 Recent Work
 
 {*#### 📜 My recent blog posts*}
 {**}
+{*- [Replacing Constants with Enums Using Rector](https://www.dannyvandersluijs.nl/posts/replacing-constants-with-enums-using-rector.html) (today)*}
+{**}
 {*- [The unknown Composer commands](https://www.dannyvandersluijs.nl/posts/2023-08-25-the-unknown-composer-commands.html) (2 years ago)*}
 {**}
 {*- [Figuring out how parallel processing works in PHP](https://www.dannyvandersluijs.nl/posts/2023-06-21-figuring-out-how-parallel-processing-works-in-php.html) (2 years ago)*}
@@ -25,8 +27,6 @@ title: 👨‍💻 Recent Work
 {*- [Launching free open-source software](https://www.dannyvandersluijs.nl/posts/2020-07-02-launching-free-open-source-software.html) (5 years ago)*}
 {**}
 {*- [Securing the web at no cost](https://www.dannyvandersluijs.nl/posts/2019-02-04-securing-the-web-at-no-cost.html) (6 years ago)*}
-{**}
-{*- [About MutableCreationOptionsInterface](https://www.dannyvandersluijs.nl/posts/2018-10-15-about-mutable-creation-options-interface.html) (7 years ago)*}
 {**}
 
 #### 🔨 My recent Pull Requests
