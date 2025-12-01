@@ -4,6 +4,7 @@ title: 👨‍💻 Recent Work
 
 #### 💻 Check out what I'm currently working on
 
+- [DannyvdSluijs/AoC-2025](https://github.com/DannyvdSluijs/AoC-2025) (today)
 - [DannyvdSluijs/DannyvdSluijs.github.io](https://github.com/DannyvdSluijs/DannyvdSluijs.github.io) (3 days ago)
 - [jsonrainbow/.github](https://github.com/jsonrainbow/.github) (3 days ago)
 - [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (3 days ago)
@@ -13,7 +14,6 @@ title: 👨‍💻 Recent Work
 - [jsonrainbow/docs](https://github.com/jsonrainbow/docs) (1 month ago)
 - [bowtie-json-schema/bowtie](https://github.com/bowtie-json-schema/bowtie) (1 month ago)
 - [myparcelnl/developer](https://github.com/myparcelnl/developer) (2 months ago)
-- [MyParcelCOM/api-sdk-php](https://github.com/MyParcelCOM/api-sdk-php) (4 months ago)
 
 
 {*#### 📜 My recent blog posts*}
