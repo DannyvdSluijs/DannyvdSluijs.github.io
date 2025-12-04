@@ -4,10 +4,10 @@ title: 👨‍💻 Recent Work
 
 #### 💻 Check out what I'm currently working on
 
-- [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (1 day ago)
-- [DannyvdSluijs/DannyvdSluijs.github.io](https://github.com/DannyvdSluijs/DannyvdSluijs.github.io) (2 days ago)
-- [DannyvdSluijs/AoC-2025](https://github.com/DannyvdSluijs/AoC-2025) (2 days ago)
-- [jsonrainbow/.github](https://github.com/jsonrainbow/.github) (5 days ago)
+- [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (2 days ago)
+- [DannyvdSluijs/DannyvdSluijs.github.io](https://github.com/DannyvdSluijs/DannyvdSluijs.github.io) (3 days ago)
+- [DannyvdSluijs/AoC-2025](https://github.com/DannyvdSluijs/AoC-2025) (3 days ago)
+- [jsonrainbow/.github](https://github.com/jsonrainbow/.github) (6 days ago)
 - [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (1 week ago)
 - [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (3 weeks ago)
 - [Daniel-Marynicz/BehatParallelExtension](https://github.com/Daniel-Marynicz/BehatParallelExtension) (1 month ago)
@@ -18,7 +18,7 @@ title: 👨‍💻 Recent Work
 
 {*#### 📜 My recent blog posts*}
 {**}
-{*- [Replacing Constants with Enums Using Rector](https://www.dannyvandersluijs.nl/posts/replacing-constants-with-enums-using-rector.html) (2 days ago)*}
+{*- [Replacing Constants with Enums Using Rector](https://www.dannyvandersluijs.nl/posts/replacing-constants-with-enums-using-rector.html) (3 days ago)*}
 {**}
 {*- [The unknown Composer commands](https://www.dannyvandersluijs.nl/posts/2023-08-25-the-unknown-composer-commands.html) (2 years ago)*}
 {**}
@@ -50,9 +50,9 @@ title: 👨‍💻 Recent Work
 
 #### 🔭 Latest releases I've contributed to
 
-- [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) - [6.6.3](https://github.com/jsonrainbow/json-schema/releases/tag/6.6.3) (1 day ago)
-- [bowtie-json-schema/bowtie](https://github.com/bowtie-json-schema/bowtie) - [v2025.11.4](https://github.com/bowtie-json-schema/bowtie/releases/tag/v2025.11.4) (3 days ago)
-- [phpDocumentor/ReflectionDocBlock](https://github.com/phpDocumentor/ReflectionDocBlock) - [5.6.5](https://github.com/phpDocumentor/ReflectionDocBlock/releases/tag/5.6.5) (6 days ago)
+- [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) - [6.6.3](https://github.com/jsonrainbow/json-schema/releases/tag/6.6.3) (2 days ago)
+- [bowtie-json-schema/bowtie](https://github.com/bowtie-json-schema/bowtie) - [v2025.11.4](https://github.com/bowtie-json-schema/bowtie/releases/tag/v2025.11.4) (4 days ago)
+- [phpDocumentor/ReflectionDocBlock](https://github.com/phpDocumentor/ReflectionDocBlock) - [5.6.5](https://github.com/phpDocumentor/ReflectionDocBlock/releases/tag/5.6.5) (1 week ago)
 - [phpDocumentor/TypeResolver](https://github.com/phpDocumentor/TypeResolver) - [1.12.0](https://github.com/phpDocumentor/TypeResolver/releases/tag/1.12.0) (1 week ago)
 - [xirixiz/homeassistant-afvalwijzer](https://github.com/xirixiz/homeassistant-afvalwijzer) - [2026.01.01.b01](https://github.com/xirixiz/homeassistant-afvalwijzer/releases/tag/2026.01.01.b01) (3 weeks ago)
 - [MyParcelCOM/api-sdk-php](https://github.com/MyParcelCOM/api-sdk-php) - [v3.10.5](https://github.com/MyParcelCOM/api-sdk-php/releases/tag/v3.10.5) (1 month ago)
