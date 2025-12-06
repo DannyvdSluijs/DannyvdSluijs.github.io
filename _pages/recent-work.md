@@ -50,8 +50,8 @@ title: 👨‍💻 Recent Work
 
 #### 🔭 Latest releases I've contributed to
 
+- [bowtie-json-schema/bowtie](https://github.com/bowtie-json-schema/bowtie) - [v2025.12.1](https://github.com/bowtie-json-schema/bowtie/releases/tag/v2025.12.1) (today)
 - [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) - [6.6.3](https://github.com/jsonrainbow/json-schema/releases/tag/6.6.3) (4 days ago)
-- [bowtie-json-schema/bowtie](https://github.com/bowtie-json-schema/bowtie) - [v2025.11.4](https://github.com/bowtie-json-schema/bowtie/releases/tag/v2025.11.4) (6 days ago)
 - [phpDocumentor/ReflectionDocBlock](https://github.com/phpDocumentor/ReflectionDocBlock) - [5.6.5](https://github.com/phpDocumentor/ReflectionDocBlock/releases/tag/5.6.5) (1 week ago)
 - [phpDocumentor/TypeResolver](https://github.com/phpDocumentor/TypeResolver) - [1.12.0](https://github.com/phpDocumentor/TypeResolver/releases/tag/1.12.0) (1 week ago)
 - [xirixiz/homeassistant-afvalwijzer](https://github.com/xirixiz/homeassistant-afvalwijzer) - [2026.01.01.b01](https://github.com/xirixiz/homeassistant-afvalwijzer/releases/tag/2026.01.01.b01) (3 weeks ago)
