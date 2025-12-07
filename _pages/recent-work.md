@@ -11,8 +11,8 @@ title: 👨‍💻 Recent Work
 - [jsonrainbow/.github](https://github.com/jsonrainbow/.github) (1 week ago)
 - [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (2 weeks ago)
 - [Daniel-Marynicz/BehatParallelExtension](https://github.com/Daniel-Marynicz/BehatParallelExtension) (1 month ago)
-- [bowtie-json-schema/bowtie](https://github.com/bowtie-json-schema/bowtie) (1 month ago)
 - [jsonrainbow/docs](https://github.com/jsonrainbow/docs) (1 month ago)
+- [bowtie-json-schema/bowtie](https://github.com/bowtie-json-schema/bowtie) (1 month ago)
 - [myparcelnl/developer](https://github.com/myparcelnl/developer) (2 months ago)
 
 
