@@ -4,8 +4,8 @@ title: 👨‍💻 Recent Work
 
 #### 💻 Check out what I'm currently working on
 
-- [DannyvdSluijs/AoC-2025](https://github.com/DannyvdSluijs/AoC-2025) (1 day ago)
-- [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (5 days ago)
+- [DannyvdSluijs/AoC-2025](https://github.com/DannyvdSluijs/AoC-2025) (2 days ago)
+- [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (6 days ago)
 - [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (1 week ago)
 - [DannyvdSluijs/DannyvdSluijs.github.io](https://github.com/DannyvdSluijs/DannyvdSluijs.github.io) (1 week ago)
 - [jsonrainbow/.github](https://github.com/jsonrainbow/.github) (1 week ago)
@@ -32,8 +32,8 @@ title: 👨‍💻 Recent Work
 #### 🔨 My recent Pull Requests
 
 - [build: Move PHP 8.5 to default add PHP 8.6 as experimental](https://github.com/jsonrainbow/json-schema/pull/852) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (2 weeks ago)
-- [refactor: Add PHP 8.5 in build matrix](https://github.com/JsonMapper/JsonMapper/pull/204) on [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (2 weeks ago)
-- [refactor: Update to new Jetbrains logo](https://github.com/JsonMapper/JsonMapper/pull/203) on [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (2 weeks ago)
+- [refactor: Add PHP 8.5 in build matrix](https://github.com/JsonMapper/JsonMapper/pull/204) on [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (3 weeks ago)
+- [refactor: Update to new Jetbrains logo](https://github.com/JsonMapper/JsonMapper/pull/203) on [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (3 weeks ago)
 - [Don&#39;t skip ref expanding for property called enum when child of property called  properties](https://github.com/jsonrainbow/json-schema/pull/851) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (1 month ago)
 - [Update nullable arguments to explicit allow null value](https://github.com/Daniel-Marynicz/BehatParallelExtension/pull/79) on [Daniel-Marynicz/BehatParallelExtension](https://github.com/Daniel-Marynicz/BehatParallelExtension) (1 month ago)
 - [refactor: Rename master to main](https://github.com/jsonrainbow/json-schema/pull/848) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (2 months ago)
@@ -50,7 +50,7 @@ title: 👨‍💻 Recent Work
 
 #### 🔭 Latest releases I've contributed to
 
-- [bowtie-json-schema/bowtie](https://github.com/bowtie-json-schema/bowtie) - [v2025.12.1](https://github.com/bowtie-json-schema/bowtie/releases/tag/v2025.12.1) (3 days ago)
+- [bowtie-json-schema/bowtie](https://github.com/bowtie-json-schema/bowtie) - [v2025.12.1](https://github.com/bowtie-json-schema/bowtie/releases/tag/v2025.12.1) (4 days ago)
 - [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) - [6.6.3](https://github.com/jsonrainbow/json-schema/releases/tag/6.6.3) (1 week ago)
 - [phpDocumentor/ReflectionDocBlock](https://github.com/phpDocumentor/ReflectionDocBlock) - [5.6.5](https://github.com/phpDocumentor/ReflectionDocBlock/releases/tag/5.6.5) (1 week ago)
 - [phpDocumentor/TypeResolver](https://github.com/phpDocumentor/TypeResolver) - [1.12.0](https://github.com/phpDocumentor/TypeResolver/releases/tag/1.12.0) (2 weeks ago)
