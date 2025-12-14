@@ -50,7 +50,7 @@ title: 👨‍💻 Recent Work
 
 #### 🔭 Latest releases I've contributed to
 
-- [bowtie-json-schema/bowtie](https://github.com/bowtie-json-schema/bowtie) - [v2025.12.2](https://github.com/bowtie-json-schema/bowtie/releases/tag/v2025.12.2) (1 day ago)
+- [bowtie-json-schema/bowtie](https://github.com/bowtie-json-schema/bowtie) - [v2025.12.3](https://github.com/bowtie-json-schema/bowtie/releases/tag/v2025.12.3) (today)
 - [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) - [5.3.1](https://github.com/jsonrainbow/json-schema/releases/tag/5.3.1) (2 days ago)
 - [phpDocumentor/ReflectionDocBlock](https://github.com/phpDocumentor/ReflectionDocBlock) - [5.6.5](https://github.com/phpDocumentor/ReflectionDocBlock/releases/tag/5.6.5) (2 weeks ago)
 - [phpDocumentor/TypeResolver](https://github.com/phpDocumentor/TypeResolver) - [1.12.0](https://github.com/phpDocumentor/TypeResolver/releases/tag/1.12.0) (2 weeks ago)
