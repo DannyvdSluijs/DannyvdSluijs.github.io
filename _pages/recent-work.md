@@ -31,6 +31,7 @@ title: 👨‍💻 Recent Work
 
 #### 🔨 My recent Pull Requests
 
+- [fix: Improve logging, correct theme url](https://github.com/infi-nl/timechimp-billability-chart/pull/30) on [infi-nl/timechimp-billability-chart](https://github.com/infi-nl/timechimp-billability-chart) (today)
 - [chore: update models from documentation 2025-12-10](https://github.com/picqer/exact-php-client/pull/688) on [picqer/exact-php-client](https://github.com/picqer/exact-php-client) (1 week ago)
 - [ci: Run workflows against 5.x.x branches](https://github.com/jsonrainbow/json-schema/pull/859) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (1 week ago)
 - [build: Move PHP 8.5 to default add PHP 8.6 as experimental](https://github.com/jsonrainbow/json-schema/pull/852) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (3 weeks ago)
@@ -45,7 +46,6 @@ title: 👨‍💻 Recent Work
 - [docs: Document how custom error messages is being handled](https://github.com/jsonrainbow/docs/pull/8) on [jsonrainbow/docs](https://github.com/jsonrainbow/docs) (3 months ago)
 - [docs: Add documentation on how to use strict mode](https://github.com/jsonrainbow/docs/pull/1) on [jsonrainbow/docs](https://github.com/jsonrainbow/docs) (3 months ago)
 - [ci: Add PHP 8.5 to pipeline, ignoring dependencies and as experimental](https://github.com/jsonrainbow/json-schema/pull/842) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (3 months ago)
-- [Fix PHP 8.5 $http_response_header deprecation](https://github.com/jsonrainbow/json-schema/pull/841) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (3 months ago)
 
 
 #### 🔭 Latest releases I've contributed to
