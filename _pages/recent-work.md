@@ -10,7 +10,7 @@ title: 👨‍💻 Recent Work
 - [picqer/exact-php-client](https://github.com/picqer/exact-php-client) (2 weeks ago)
 - [DannyvdSluijs/AoC-2025](https://github.com/DannyvdSluijs/AoC-2025) (2 weeks ago)
 - [DannyvdSluijs/DannyvdSluijs.github.io](https://github.com/DannyvdSluijs/DannyvdSluijs.github.io) (3 weeks ago)
-- [jsonrainbow/.github](https://github.com/jsonrainbow/.github) (4 weeks ago)
+- [jsonrainbow/.github](https://github.com/jsonrainbow/.github) (1 month ago)
 - [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (1 month ago)
 - [Daniel-Marynicz/BehatParallelExtension](https://github.com/Daniel-Marynicz/BehatParallelExtension) (2 months ago)
 - [bowtie-json-schema/bowtie](https://github.com/bowtie-json-schema/bowtie) (2 months ago)
@@ -50,10 +50,10 @@ title: 👨‍💻 Recent Work
 
 #### 🔭 Latest releases I've contributed to
 
-- [phpDocumentor/ReflectionDocBlock](https://github.com/phpDocumentor/ReflectionDocBlock) - [5.6.6](https://github.com/phpDocumentor/ReflectionDocBlock/releases/tag/5.6.6) (5 days ago)
+- [phpDocumentor/ReflectionDocBlock](https://github.com/phpDocumentor/ReflectionDocBlock) - [5.6.6](https://github.com/phpDocumentor/ReflectionDocBlock/releases/tag/5.6.6) (6 days ago)
 - [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) - [6.6.4](https://github.com/jsonrainbow/json-schema/releases/tag/6.6.4) (1 week ago)
 - [picqer/exact-php-client](https://github.com/picqer/exact-php-client) - [v4.6.0](https://github.com/picqer/exact-php-client/releases/tag/v4.6.0) (1 week ago)
-- [bowtie-json-schema/bowtie](https://github.com/bowtie-json-schema/bowtie) - [v2025.12.3](https://github.com/bowtie-json-schema/bowtie/releases/tag/v2025.12.3) (1 week ago)
+- [bowtie-json-schema/bowtie](https://github.com/bowtie-json-schema/bowtie) - [v2025.12.3](https://github.com/bowtie-json-schema/bowtie/releases/tag/v2025.12.3) (2 weeks ago)
 - [phpDocumentor/TypeResolver](https://github.com/phpDocumentor/TypeResolver) - [1.12.0](https://github.com/phpDocumentor/TypeResolver/releases/tag/1.12.0) (1 month ago)
 - [MyParcelCOM/api-sdk-php](https://github.com/MyParcelCOM/api-sdk-php) - [v3.10.5](https://github.com/MyParcelCOM/api-sdk-php/releases/tag/v3.10.5) (2 months ago)
 - [Daniel-Marynicz/BehatParallelExtension](https://github.com/Daniel-Marynicz/BehatParallelExtension) - [v1.1.1](https://github.com/Daniel-Marynicz/BehatParallelExtension/releases/tag/v1.1.1) (2 months ago)
