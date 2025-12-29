@@ -8,8 +8,8 @@ title: 👨‍💻 Recent Work
 - [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (1 week ago)
 - [DannyvdSluijs/PicqerExactPhpClientGenerator](https://github.com/DannyvdSluijs/PicqerExactPhpClientGenerator) (2 weeks ago)
 - [picqer/exact-php-client](https://github.com/picqer/exact-php-client) (2 weeks ago)
-- [DannyvdSluijs/AoC-2025](https://github.com/DannyvdSluijs/AoC-2025) (2 weeks ago)
-- [DannyvdSluijs/DannyvdSluijs.github.io](https://github.com/DannyvdSluijs/DannyvdSluijs.github.io) (3 weeks ago)
+- [DannyvdSluijs/AoC-2025](https://github.com/DannyvdSluijs/AoC-2025) (3 weeks ago)
+- [DannyvdSluijs/DannyvdSluijs.github.io](https://github.com/DannyvdSluijs/DannyvdSluijs.github.io) (4 weeks ago)
 - [jsonrainbow/.github](https://github.com/jsonrainbow/.github) (1 month ago)
 - [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (1 month ago)
 - [Daniel-Marynicz/BehatParallelExtension](https://github.com/Daniel-Marynicz/BehatParallelExtension) (2 months ago)
@@ -18,7 +18,7 @@ title: 👨‍💻 Recent Work
 
 {*#### 📜 My recent blog posts*}
 {**}
-{*- [Replacing Constants with Enums Using Rector](https://www.dannyvandersluijs.nl/posts/replacing-constants-with-enums-using-rector.html) (3 weeks ago)*}
+{*- [Replacing Constants with Enums Using Rector](https://www.dannyvandersluijs.nl/posts/replacing-constants-with-enums-using-rector.html) (4 weeks ago)*}
 {**}
 {*- [The unknown Composer commands](https://www.dannyvandersluijs.nl/posts/2023-08-25-the-unknown-composer-commands.html) (2 years ago)*}
 {**}
@@ -26,7 +26,7 @@ title: 👨‍💻 Recent Work
 {**}
 {*- [Launching free open-source software](https://www.dannyvandersluijs.nl/posts/2020-07-02-launching-free-open-source-software.html) (5 years ago)*}
 {**}
-{*- [Securing the web at no cost](https://www.dannyvandersluijs.nl/posts/2019-02-04-securing-the-web-at-no-cost.html) (6 years ago)*}
+{*- [Securing the web at no cost](https://www.dannyvandersluijs.nl/posts/2019-02-04-securing-the-web-at-no-cost.html) (7 years ago)*}
 {**}
 
 #### 🔨 My recent Pull Requests
@@ -50,7 +50,7 @@ title: 👨‍💻 Recent Work
 
 #### 🔭 Latest releases I've contributed to
 
-- [phpDocumentor/ReflectionDocBlock](https://github.com/phpDocumentor/ReflectionDocBlock) - [5.6.6](https://github.com/phpDocumentor/ReflectionDocBlock/releases/tag/5.6.6) (6 days ago)
+- [phpDocumentor/ReflectionDocBlock](https://github.com/phpDocumentor/ReflectionDocBlock) - [5.6.6](https://github.com/phpDocumentor/ReflectionDocBlock/releases/tag/5.6.6) (1 week ago)
 - [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) - [6.6.4](https://github.com/jsonrainbow/json-schema/releases/tag/6.6.4) (1 week ago)
 - [picqer/exact-php-client](https://github.com/picqer/exact-php-client) - [v4.6.0](https://github.com/picqer/exact-php-client/releases/tag/v4.6.0) (1 week ago)
 - [bowtie-json-schema/bowtie](https://github.com/bowtie-json-schema/bowtie) - [v2025.12.3](https://github.com/bowtie-json-schema/bowtie/releases/tag/v2025.12.3) (2 weeks ago)
