@@ -9,7 +9,7 @@ title: 👨‍💻 Recent Work
 - [DannyvdSluijs/PicqerExactPhpClientGenerator](https://github.com/DannyvdSluijs/PicqerExactPhpClientGenerator) (2 weeks ago)
 - [picqer/exact-php-client](https://github.com/picqer/exact-php-client) (2 weeks ago)
 - [DannyvdSluijs/AoC-2025](https://github.com/DannyvdSluijs/AoC-2025) (3 weeks ago)
-- [DannyvdSluijs/DannyvdSluijs.github.io](https://github.com/DannyvdSluijs/DannyvdSluijs.github.io) (4 weeks ago)
+- [DannyvdSluijs/DannyvdSluijs.github.io](https://github.com/DannyvdSluijs/DannyvdSluijs.github.io) (1 month ago)
 - [jsonrainbow/.github](https://github.com/jsonrainbow/.github) (1 month ago)
 - [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (1 month ago)
 - [Daniel-Marynicz/BehatParallelExtension](https://github.com/Daniel-Marynicz/BehatParallelExtension) (2 months ago)
@@ -18,7 +18,7 @@ title: 👨‍💻 Recent Work
 
 {*#### 📜 My recent blog posts*}
 {**}
-{*- [Replacing Constants with Enums Using Rector](https://www.dannyvandersluijs.nl/posts/replacing-constants-with-enums-using-rector.html) (4 weeks ago)*}
+{*- [Replacing Constants with Enums Using Rector](https://www.dannyvandersluijs.nl/posts/replacing-constants-with-enums-using-rector.html) (1 month ago)*}
 {**}
 {*- [The unknown Composer commands](https://www.dannyvandersluijs.nl/posts/2023-08-25-the-unknown-composer-commands.html) (2 years ago)*}
 {**}
