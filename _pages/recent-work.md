@@ -5,6 +5,7 @@ title: 👨‍💻 Recent Work
 #### 💻 Check out what I'm currently working on
 
 - [infi-nl/timechimp-billability-chart](https://github.com/infi-nl/timechimp-billability-chart) (today)
+- [MyParcelCOM/api-sdk-php](https://github.com/MyParcelCOM/api-sdk-php) (1 day ago)
 - [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (2 weeks ago)
 - [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (3 weeks ago)
 - [DannyvdSluijs/PicqerExactPhpClientGenerator](https://github.com/DannyvdSluijs/PicqerExactPhpClientGenerator) (3 weeks ago)
@@ -13,7 +14,6 @@ title: 👨‍💻 Recent Work
 - [DannyvdSluijs/DannyvdSluijs.github.io](https://github.com/DannyvdSluijs/DannyvdSluijs.github.io) (1 month ago)
 - [jsonrainbow/.github](https://github.com/jsonrainbow/.github) (1 month ago)
 - [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (1 month ago)
-- [Daniel-Marynicz/BehatParallelExtension](https://github.com/Daniel-Marynicz/BehatParallelExtension) (2 months ago)
 
 
 {*#### 📜 My recent blog posts*}
