@@ -4,10 +4,10 @@ title: 👨‍💻 Recent Work
 
 #### 💻 Check out what I'm currently working on
 
-- [infi-nl/timechimp-billability-chart](https://github.com/infi-nl/timechimp-billability-chart) (4 days ago)
-- [MyParcelCOM/api-sdk-php](https://github.com/MyParcelCOM/api-sdk-php) (5 days ago)
+- [infi-nl/timechimp-billability-chart](https://github.com/infi-nl/timechimp-billability-chart) (5 days ago)
+- [MyParcelCOM/api-sdk-php](https://github.com/MyParcelCOM/api-sdk-php) (6 days ago)
 - [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (3 weeks ago)
-- [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (3 weeks ago)
+- [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (4 weeks ago)
 - [DannyvdSluijs/PicqerExactPhpClientGenerator](https://github.com/DannyvdSluijs/PicqerExactPhpClientGenerator) (1 month ago)
 - [picqer/exact-php-client](https://github.com/picqer/exact-php-client) (1 month ago)
 - [DannyvdSluijs/AoC-2025](https://github.com/DannyvdSluijs/AoC-2025) (1 month ago)
@@ -31,9 +31,9 @@ title: 👨‍💻 Recent Work
 
 #### 🔨 My recent Pull Requests
 
-- [docs: prepare for release of v2.0.1](https://github.com/infi-nl/timechimp-billability-chart/pull/31) on [infi-nl/timechimp-billability-chart](https://github.com/infi-nl/timechimp-billability-chart) (4 days ago)
-- [feat: Add support for including service options from GET /service endpoint](https://github.com/MyParcelCOM/api-sdk-php/pull/260) on [MyParcelCOM/api-sdk-php](https://github.com/MyParcelCOM/api-sdk-php) (5 days ago)
-- [fix: Resolve Implicitly marking parameter $... as nullable is deprecated deprecation messages](https://github.com/MyParcelCOM/api-sdk-php/pull/259) on [MyParcelCOM/api-sdk-php](https://github.com/MyParcelCOM/api-sdk-php) (5 days ago)
+- [docs: prepare for release of v2.0.1](https://github.com/infi-nl/timechimp-billability-chart/pull/31) on [infi-nl/timechimp-billability-chart](https://github.com/infi-nl/timechimp-billability-chart) (5 days ago)
+- [feat: Add support for including service options from GET /service endpoint](https://github.com/MyParcelCOM/api-sdk-php/pull/260) on [MyParcelCOM/api-sdk-php](https://github.com/MyParcelCOM/api-sdk-php) (6 days ago)
+- [fix: Resolve Implicitly marking parameter $... as nullable is deprecated deprecation messages](https://github.com/MyParcelCOM/api-sdk-php/pull/259) on [MyParcelCOM/api-sdk-php](https://github.com/MyParcelCOM/api-sdk-php) (6 days ago)
 - [fix: Improve logging, correct theme url](https://github.com/infi-nl/timechimp-billability-chart/pull/30) on [infi-nl/timechimp-billability-chart](https://github.com/infi-nl/timechimp-billability-chart) (3 weeks ago)
 - [chore: update models from documentation 2025-12-10](https://github.com/picqer/exact-php-client/pull/688) on [picqer/exact-php-client](https://github.com/picqer/exact-php-client) (1 month ago)
 - [ci: Run workflows against 5.x.x branches](https://github.com/jsonrainbow/json-schema/pull/859) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (1 month ago)
@@ -50,10 +50,10 @@ title: 👨‍💻 Recent Work
 
 #### 🔭 Latest releases I've contributed to
 
-- [MyParcelCOM/api-sdk-php](https://github.com/MyParcelCOM/api-sdk-php) - [v3.11.0](https://github.com/MyParcelCOM/api-sdk-php/releases/tag/v3.11.0) (3 days ago)
-- [infi-nl/timechimp-billability-chart](https://github.com/infi-nl/timechimp-billability-chart) - [v2.0.1](https://github.com/infi-nl/timechimp-billability-chart/releases/tag/v2.0.1) (4 days ago)
-- [phpDocumentor/ReflectionDocBlock](https://github.com/phpDocumentor/ReflectionDocBlock) - [6.0.0](https://github.com/phpDocumentor/ReflectionDocBlock/releases/tag/6.0.0) (5 days ago)
-- [phpDocumentor/TypeResolver](https://github.com/phpDocumentor/TypeResolver) - [2.0.0](https://github.com/phpDocumentor/TypeResolver/releases/tag/2.0.0) (6 days ago)
+- [MyParcelCOM/api-sdk-php](https://github.com/MyParcelCOM/api-sdk-php) - [v3.11.0](https://github.com/MyParcelCOM/api-sdk-php/releases/tag/v3.11.0) (4 days ago)
+- [infi-nl/timechimp-billability-chart](https://github.com/infi-nl/timechimp-billability-chart) - [v2.0.1](https://github.com/infi-nl/timechimp-billability-chart/releases/tag/v2.0.1) (5 days ago)
+- [phpDocumentor/ReflectionDocBlock](https://github.com/phpDocumentor/ReflectionDocBlock) - [6.0.0](https://github.com/phpDocumentor/ReflectionDocBlock/releases/tag/6.0.0) (6 days ago)
+- [phpDocumentor/TypeResolver](https://github.com/phpDocumentor/TypeResolver) - [2.0.0](https://github.com/phpDocumentor/TypeResolver/releases/tag/2.0.0) (1 week ago)
 - [bowtie-json-schema/bowtie](https://github.com/bowtie-json-schema/bowtie) - [v2026.1.1](https://github.com/bowtie-json-schema/bowtie/releases/tag/v2026.1.1) (1 week ago)
 - [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) - [6.6.4](https://github.com/jsonrainbow/json-schema/releases/tag/6.6.4) (3 weeks ago)
 - [picqer/exact-php-client](https://github.com/picqer/exact-php-client) - [v4.6.0](https://github.com/picqer/exact-php-client/releases/tag/v4.6.0) (3 weeks ago)
