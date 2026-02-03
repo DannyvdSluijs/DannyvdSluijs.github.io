@@ -4,7 +4,7 @@ title: 👨‍💻 Recent Work
 
 #### 💻 Check out what I'm currently working on
 
-- [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (6 days ago)
+- [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (1 week ago)
 - [infi-nl/timechimp-billability-chart](https://github.com/infi-nl/timechimp-billability-chart) (3 weeks ago)
 - [MyParcelCOM/api-sdk-php](https://github.com/MyParcelCOM/api-sdk-php) (3 weeks ago)
 - [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (1 month ago)
@@ -41,7 +41,7 @@ title: 👨‍💻 Recent Work
 - [build: Move PHP 8.5 to default add PHP 8.6 as experimental](https://github.com/jsonrainbow/json-schema/pull/852) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (2 months ago)
 - [refactor: Add PHP 8.5 in build matrix](https://github.com/JsonMapper/JsonMapper/pull/204) on [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (2 months ago)
 - [refactor: Update to new Jetbrains logo](https://github.com/JsonMapper/JsonMapper/pull/203) on [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (2 months ago)
-- [Don&#39;t skip ref expanding for property called enum when child of property called  properties](https://github.com/jsonrainbow/json-schema/pull/851) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (2 months ago)
+- [Don&#39;t skip ref expanding for property called enum when child of property called  properties](https://github.com/jsonrainbow/json-schema/pull/851) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (3 months ago)
 - [Update nullable arguments to explicit allow null value](https://github.com/Daniel-Marynicz/BehatParallelExtension/pull/79) on [Daniel-Marynicz/BehatParallelExtension](https://github.com/Daniel-Marynicz/BehatParallelExtension) (3 months ago)
 - [refactor: Rename master to main](https://github.com/jsonrainbow/json-schema/pull/848) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (3 months ago)
 - [Feat/draft 7 support](https://github.com/jsonrainbow/json-schema/pull/847) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (3 months ago)
@@ -50,11 +50,11 @@ title: 👨‍💻 Recent Work
 
 #### 🔭 Latest releases I've contributed to
 
-- [phpDocumentor/ReflectionDocBlock](https://github.com/phpDocumentor/ReflectionDocBlock) - [6.0.1](https://github.com/phpDocumentor/ReflectionDocBlock/releases/tag/6.0.1) (1 week ago)
-- [Daniel-Marynicz/BehatParallelExtension](https://github.com/Daniel-Marynicz/BehatParallelExtension) - [v1.2.0](https://github.com/Daniel-Marynicz/BehatParallelExtension/releases/tag/v1.2.0) (1 week ago)
+- [phpDocumentor/ReflectionDocBlock](https://github.com/phpDocumentor/ReflectionDocBlock) - [6.0.1](https://github.com/phpDocumentor/ReflectionDocBlock/releases/tag/6.0.1) (2 weeks ago)
+- [Daniel-Marynicz/BehatParallelExtension](https://github.com/Daniel-Marynicz/BehatParallelExtension) - [v1.2.0](https://github.com/Daniel-Marynicz/BehatParallelExtension/releases/tag/v1.2.0) (2 weeks ago)
 - [MyParcelCOM/api-sdk-php](https://github.com/MyParcelCOM/api-sdk-php) - [v3.11.0](https://github.com/MyParcelCOM/api-sdk-php/releases/tag/v3.11.0) (3 weeks ago)
 - [infi-nl/timechimp-billability-chart](https://github.com/infi-nl/timechimp-billability-chart) - [v2.0.1](https://github.com/infi-nl/timechimp-billability-chart/releases/tag/v2.0.1) (3 weeks ago)
-- [phpDocumentor/TypeResolver](https://github.com/phpDocumentor/TypeResolver) - [2.0.0](https://github.com/phpDocumentor/TypeResolver/releases/tag/2.0.0) (3 weeks ago)
+- [phpDocumentor/TypeResolver](https://github.com/phpDocumentor/TypeResolver) - [2.0.0](https://github.com/phpDocumentor/TypeResolver/releases/tag/2.0.0) (4 weeks ago)
 - [bowtie-json-schema/bowtie](https://github.com/bowtie-json-schema/bowtie) - [v2026.1.1](https://github.com/bowtie-json-schema/bowtie/releases/tag/v2026.1.1) (1 month ago)
 - [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) - [6.6.4](https://github.com/jsonrainbow/json-schema/releases/tag/6.6.4) (1 month ago)
 - [picqer/exact-php-client](https://github.com/picqer/exact-php-client) - [v4.6.0](https://github.com/picqer/exact-php-client/releases/tag/v4.6.0) (1 month ago)
