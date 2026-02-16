@@ -50,8 +50,8 @@ title: 👨‍💻 Recent Work
 
 #### 🔭 Latest releases I've contributed to
 
+- [bowtie-json-schema/bowtie](https://github.com/bowtie-json-schema/bowtie) - [v2026.2.4](https://github.com/bowtie-json-schema/bowtie/releases/tag/v2026.2.4) (today)
 - [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) - [v6.7.2](https://github.com/jsonrainbow/json-schema/releases/tag/v6.7.2) (1 day ago)
-- [bowtie-json-schema/bowtie](https://github.com/bowtie-json-schema/bowtie) - [v2026.2.3](https://github.com/bowtie-json-schema/bowtie/releases/tag/v2026.2.3) (2 days ago)
 - [phpDocumentor/ReflectionDocBlock](https://github.com/phpDocumentor/ReflectionDocBlock) - [6.0.1](https://github.com/phpDocumentor/ReflectionDocBlock/releases/tag/6.0.1) (3 weeks ago)
 - [Daniel-Marynicz/BehatParallelExtension](https://github.com/Daniel-Marynicz/BehatParallelExtension) - [v1.2.0](https://github.com/Daniel-Marynicz/BehatParallelExtension/releases/tag/v1.2.0) (3 weeks ago)
 - [MyParcelCOM/api-sdk-php](https://github.com/MyParcelCOM/api-sdk-php) - [v3.11.0](https://github.com/MyParcelCOM/api-sdk-php/releases/tag/v3.11.0) (1 month ago)
