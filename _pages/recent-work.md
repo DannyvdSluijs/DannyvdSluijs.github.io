@@ -59,4 +59,4 @@ title: 👨‍💻 Recent Work
 - [phpDocumentor/TypeResolver](https://github.com/phpDocumentor/TypeResolver) - [2.0.0](https://github.com/phpDocumentor/TypeResolver/releases/tag/2.0.0) (1 month ago)
 - [picqer/exact-php-client](https://github.com/picqer/exact-php-client) - [v4.6.0](https://github.com/picqer/exact-php-client/releases/tag/v4.6.0) (2 months ago)
 - [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) - [2.25.1](https://github.com/JsonMapper/JsonMapper/releases/tag/2.25.1) (9 months ago)
-- [fedeisas/laravel-mail-css-inliner](https://github.com/fedeisas/laravel-mail-css-inliner) - [5.4.1](https://github.com/fedeisas/laravel-mail-css-inliner/releases/tag/5.4.1) (9 months ago)
+- [DannyvdSluijs/PicqerExactPhpClientGenerator](https://github.com/DannyvdSluijs/PicqerExactPhpClientGenerator) - [1.1.0](https://github.com/DannyvdSluijs/PicqerExactPhpClientGenerator/releases/tag/1.1.0) (1 year ago)
