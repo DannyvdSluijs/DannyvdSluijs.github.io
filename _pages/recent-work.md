@@ -41,7 +41,7 @@ title: 👨‍💻 Recent Work
 - [fix: Improve logging, correct theme url](https://github.com/infi-nl/timechimp-billability-chart/pull/30) on [infi-nl/timechimp-billability-chart](https://github.com/infi-nl/timechimp-billability-chart) (2 months ago)
 - [chore: update models from documentation 2025-12-10](https://github.com/picqer/exact-php-client/pull/688) on [picqer/exact-php-client](https://github.com/picqer/exact-php-client) (2 months ago)
 - [ci: Run workflows against 5.x.x branches](https://github.com/jsonrainbow/json-schema/pull/859) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (2 months ago)
-- [build: Move PHP 8.5 to default add PHP 8.6 as experimental](https://github.com/jsonrainbow/json-schema/pull/852) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (2 months ago)
+- [build: Move PHP 8.5 to default add PHP 8.6 as experimental](https://github.com/jsonrainbow/json-schema/pull/852) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (3 months ago)
 - [refactor: Add PHP 8.5 in build matrix](https://github.com/JsonMapper/JsonMapper/pull/204) on [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (3 months ago)
 - [refactor: Update to new Jetbrains logo](https://github.com/JsonMapper/JsonMapper/pull/203) on [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (3 months ago)
 - [Don&#39;t skip ref expanding for property called enum when child of property called  properties](https://github.com/jsonrainbow/json-schema/pull/851) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (3 months ago)
@@ -50,7 +50,7 @@ title: 👨‍💻 Recent Work
 
 #### 🔭 Latest releases I've contributed to
 
-- [bowtie-json-schema/bowtie](https://github.com/bowtie-json-schema/bowtie) - [v2026.2.4](https://github.com/bowtie-json-schema/bowtie/releases/tag/v2026.2.4) (6 days ago)
+- [bowtie-json-schema/bowtie](https://github.com/bowtie-json-schema/bowtie) - [v2026.2.4](https://github.com/bowtie-json-schema/bowtie/releases/tag/v2026.2.4) (1 week ago)
 - [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) - [v6.7.2](https://github.com/jsonrainbow/json-schema/releases/tag/v6.7.2) (1 week ago)
 - [phpDocumentor/ReflectionDocBlock](https://github.com/phpDocumentor/ReflectionDocBlock) - [6.0.1](https://github.com/phpDocumentor/ReflectionDocBlock/releases/tag/6.0.1) (1 month ago)
 - [Daniel-Marynicz/BehatParallelExtension](https://github.com/Daniel-Marynicz/BehatParallelExtension) - [v1.2.0](https://github.com/Daniel-Marynicz/BehatParallelExtension/releases/tag/v1.2.0) (1 month ago)
