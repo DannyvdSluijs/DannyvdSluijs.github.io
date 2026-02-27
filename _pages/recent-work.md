@@ -31,6 +31,7 @@ title: 👨‍💻 Recent Work
 
 #### 🔨 My recent Pull Requests
 
+- [Fix justinrainbow/json-schema checkmode mapping](https://github.com/bowtie-json-schema/bowtie/pull/2432) on [bowtie-json-schema/bowtie](https://github.com/bowtie-json-schema/bowtie) (today)
 - [Update justinrainbow/json-schema test harness](https://github.com/bowtie-json-schema/bowtie/pull/2431) on [bowtie-json-schema/bowtie](https://github.com/bowtie-json-schema/bowtie) (today)
 - [Fix issue when http headers are already present (#843) for 5.x.x branch](https://github.com/jsonrainbow/json-schema/pull/893) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (today)
 - [ci: Add Copilot setup steps](https://github.com/jsonrainbow/json-schema/pull/892) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (today)
@@ -45,7 +46,6 @@ title: 👨‍💻 Recent Work
 - [chore: update models from documentation 2025-12-10](https://github.com/picqer/exact-php-client/pull/688) on [picqer/exact-php-client](https://github.com/picqer/exact-php-client) (2 months ago)
 - [ci: Run workflows against 5.x.x branches](https://github.com/jsonrainbow/json-schema/pull/859) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (2 months ago)
 - [build: Move PHP 8.5 to default add PHP 8.6 as experimental](https://github.com/jsonrainbow/json-schema/pull/852) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (3 months ago)
-- [refactor: Add PHP 8.5 in build matrix](https://github.com/JsonMapper/JsonMapper/pull/204) on [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (3 months ago)
 
 
 #### 🔭 Latest releases I've contributed to
