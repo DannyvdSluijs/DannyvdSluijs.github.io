@@ -31,6 +31,7 @@ title: 👨‍💻 Recent Work
 
 #### 🔨 My recent Pull Requests
 
+- [ci: Add Copilot setup steps](https://github.com/jsonrainbow/json-schema/pull/892) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (today)
 - [feat: Add draft2019 as copy from draft07](https://github.com/jsonrainbow/json-schema/pull/885) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (1 week ago)
 - [docs: Mention draft 6 and 7 support](https://github.com/jsonrainbow/docs/pull/11) on [jsonrainbow/docs](https://github.com/jsonrainbow/docs) (1 week ago)
 - [feat: Update Json Schema for PHP to latest version and use non RC image for docker container](https://github.com/bowtie-json-schema/bowtie/pull/2405) on [bowtie-json-schema/bowtie](https://github.com/bowtie-json-schema/bowtie) (1 week ago)
@@ -45,7 +46,6 @@ title: 👨‍💻 Recent Work
 - [refactor: Add PHP 8.5 in build matrix](https://github.com/JsonMapper/JsonMapper/pull/204) on [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (3 months ago)
 - [refactor: Update to new Jetbrains logo](https://github.com/JsonMapper/JsonMapper/pull/203) on [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (3 months ago)
 - [Don&#39;t skip ref expanding for property called enum when child of property called  properties](https://github.com/jsonrainbow/json-schema/pull/851) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (3 months ago)
-- [Update nullable arguments to explicit allow null value](https://github.com/Daniel-Marynicz/BehatParallelExtension/pull/79) on [Daniel-Marynicz/BehatParallelExtension](https://github.com/Daniel-Marynicz/BehatParallelExtension) (4 months ago)
 
 
 #### 🔭 Latest releases I've contributed to
