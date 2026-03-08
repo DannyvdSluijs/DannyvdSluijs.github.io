@@ -21,7 +21,7 @@ jobs:
           template: "templates/recent-work.md.tpl"
           writeTo: "_pages/recent-work.md"
 
-      - uses: stefanzweifel/git-auto-commit-action@v4
+      - uses: stefanzweifel/git-auto-commit-action@v7
         env:
           GITHUB_TOKEN: ${{ secrets.PAT }}
         with:
