@@ -4,9 +4,9 @@ title: 👨‍💻 Recent Work
 
 #### 💻 Check out what I'm currently working on
 
-- [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (1 day ago)
+- [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (2 days ago)
 - [DannyvdSluijs/DannyvdSluijs.github.io](https://github.com/DannyvdSluijs/DannyvdSluijs.github.io) (1 week ago)
-- [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (1 week ago)
+- [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (2 weeks ago)
 - [JsonMapper/jsonmapper.github.io](https://github.com/JsonMapper/jsonmapper.github.io) (2 weeks ago)
 - [bowtie-json-schema/bowtie](https://github.com/bowtie-json-schema/bowtie) (2 weeks ago)
 - [jsonrainbow/docs](https://github.com/jsonrainbow/docs) (1 month ago)
@@ -42,7 +42,7 @@ title: 👨‍💻 Recent Work
 - [docs: prepare for release of v2.0.1](https://github.com/infi-nl/timechimp-billability-chart/pull/31) on [infi-nl/timechimp-billability-chart](https://github.com/infi-nl/timechimp-billability-chart) (2 months ago)
 - [feat: Add support for including service options from GET /service endpoint](https://github.com/MyParcelCOM/api-sdk-php/pull/260) on [MyParcelCOM/api-sdk-php](https://github.com/MyParcelCOM/api-sdk-php) (2 months ago)
 - [fix: Resolve Implicitly marking parameter $... as nullable is deprecated deprecation messages](https://github.com/MyParcelCOM/api-sdk-php/pull/259) on [MyParcelCOM/api-sdk-php](https://github.com/MyParcelCOM/api-sdk-php) (2 months ago)
-- [fix: Improve logging, correct theme url](https://github.com/infi-nl/timechimp-billability-chart/pull/30) on [infi-nl/timechimp-billability-chart](https://github.com/infi-nl/timechimp-billability-chart) (2 months ago)
+- [fix: Improve logging, correct theme url](https://github.com/infi-nl/timechimp-billability-chart/pull/30) on [infi-nl/timechimp-billability-chart](https://github.com/infi-nl/timechimp-billability-chart) (3 months ago)
 - [chore: update models from documentation 2025-12-10](https://github.com/picqer/exact-php-client/pull/688) on [picqer/exact-php-client](https://github.com/picqer/exact-php-client) (3 months ago)
 - [ci: Run workflows against 5.x.x branches](https://github.com/jsonrainbow/json-schema/pull/859) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (3 months ago)
 - [build: Move PHP 8.5 to default add PHP 8.6 as experimental](https://github.com/jsonrainbow/json-schema/pull/852) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (3 months ago)
@@ -50,13 +50,13 @@ title: 👨‍💻 Recent Work
 
 #### 🔭 Latest releases I've contributed to
 
-- [phpDocumentor/ReflectionDocBlock](https://github.com/phpDocumentor/ReflectionDocBlock) - [6.0.3](https://github.com/phpDocumentor/ReflectionDocBlock/releases/tag/6.0.3) (today)
+- [phpDocumentor/ReflectionDocBlock](https://github.com/phpDocumentor/ReflectionDocBlock) - [6.0.3](https://github.com/phpDocumentor/ReflectionDocBlock/releases/tag/6.0.3) (1 day ago)
 - [bowtie-json-schema/bowtie](https://github.com/bowtie-json-schema/bowtie) - [v2026.3.1](https://github.com/bowtie-json-schema/bowtie/releases/tag/v2026.3.1) (2 weeks ago)
 - [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) - [5.3.2](https://github.com/jsonrainbow/json-schema/releases/tag/5.3.2) (2 weeks ago)
 - [Daniel-Marynicz/BehatParallelExtension](https://github.com/Daniel-Marynicz/BehatParallelExtension) - [v1.2.0](https://github.com/Daniel-Marynicz/BehatParallelExtension/releases/tag/v1.2.0) (1 month ago)
 - [MyParcelCOM/api-sdk-php](https://github.com/MyParcelCOM/api-sdk-php) - [v3.11.0](https://github.com/MyParcelCOM/api-sdk-php/releases/tag/v3.11.0) (2 months ago)
 - [infi-nl/timechimp-billability-chart](https://github.com/infi-nl/timechimp-billability-chart) - [v2.0.1](https://github.com/infi-nl/timechimp-billability-chart/releases/tag/v2.0.1) (2 months ago)
 - [phpDocumentor/TypeResolver](https://github.com/phpDocumentor/TypeResolver) - [2.0.0](https://github.com/phpDocumentor/TypeResolver/releases/tag/2.0.0) (2 months ago)
-- [picqer/exact-php-client](https://github.com/picqer/exact-php-client) - [v4.6.0](https://github.com/picqer/exact-php-client/releases/tag/v4.6.0) (2 months ago)
+- [picqer/exact-php-client](https://github.com/picqer/exact-php-client) - [v4.6.0](https://github.com/picqer/exact-php-client/releases/tag/v4.6.0) (3 months ago)
 - [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) - [2.25.1](https://github.com/JsonMapper/JsonMapper/releases/tag/2.25.1) (9 months ago)
 - [DannyvdSluijs/PicqerExactPhpClientGenerator](https://github.com/DannyvdSluijs/PicqerExactPhpClientGenerator) - [1.1.0](https://github.com/DannyvdSluijs/PicqerExactPhpClientGenerator/releases/tag/1.1.0) (1 year ago)
