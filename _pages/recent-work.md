@@ -4,9 +4,9 @@ title: 👨‍💻 Recent Work
 
 #### 💻 Check out what I'm currently working on
 
-- [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (today)
-- [DannyvdSluijs/2fa-jackpot](https://github.com/DannyvdSluijs/2fa-jackpot) (3 days ago)
-- [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (5 days ago)
+- [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (1 day ago)
+- [DannyvdSluijs/2fa-jackpot](https://github.com/DannyvdSluijs/2fa-jackpot) (4 days ago)
+- [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (6 days ago)
 - [jsonrainbow/docs](https://github.com/jsonrainbow/docs) (1 week ago)
 - [DannyvdSluijs/DannyvdSluijs.github.io](https://github.com/DannyvdSluijs/DannyvdSluijs.github.io) (3 weeks ago)
 - [JsonMapper/jsonmapper.github.io](https://github.com/JsonMapper/jsonmapper.github.io) (1 month ago)
@@ -50,7 +50,7 @@ title: 👨‍💻 Recent Work
 
 #### 🔭 Latest releases I've contributed to
 
-- [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) - [6.8.0](https://github.com/jsonrainbow/json-schema/releases/tag/6.8.0) (today)
+- [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) - [6.8.0](https://github.com/jsonrainbow/json-schema/releases/tag/6.8.0) (1 day ago)
 - [phpDocumentor/ReflectionDocBlock](https://github.com/phpDocumentor/ReflectionDocBlock) - [6.0.3](https://github.com/phpDocumentor/ReflectionDocBlock/releases/tag/6.0.3) (2 weeks ago)
 - [bowtie-json-schema/bowtie](https://github.com/bowtie-json-schema/bowtie) - [v2026.3.1](https://github.com/bowtie-json-schema/bowtie/releases/tag/v2026.3.1) (1 month ago)
 - [Daniel-Marynicz/BehatParallelExtension](https://github.com/Daniel-Marynicz/BehatParallelExtension) - [v1.2.0](https://github.com/Daniel-Marynicz/BehatParallelExtension/releases/tag/v1.2.0) (2 months ago)
