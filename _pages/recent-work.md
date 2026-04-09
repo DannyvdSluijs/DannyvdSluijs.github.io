@@ -4,8 +4,8 @@ title: 👨‍💻 Recent Work
 
 #### 💻 Check out what I'm currently working on
 
-- [JsonMapper/LaravelPackage](https://github.com/JsonMapper/LaravelPackage) (3 days ago)
-- [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (6 days ago)
+- [JsonMapper/LaravelPackage](https://github.com/JsonMapper/LaravelPackage) (4 days ago)
+- [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (1 week ago)
 - [DannyvdSluijs/2fa-jackpot](https://github.com/DannyvdSluijs/2fa-jackpot) (1 week ago)
 - [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (1 week ago)
 - [jsonrainbow/docs](https://github.com/jsonrainbow/docs) (2 weeks ago)
@@ -31,11 +31,11 @@ title: 👨‍💻 Recent Work
 
 #### 🔨 My recent Pull Requests
 
-- [build: Restore support for Laravel  8,9 and 10](https://github.com/JsonMapper/LaravelPackage/pull/37) on [JsonMapper/LaravelPackage](https://github.com/JsonMapper/LaravelPackage) (3 days ago)
-- [build: Add workflows for changelog and release automation](https://github.com/JsonMapper/LaravelPackage/pull/36) on [JsonMapper/LaravelPackage](https://github.com/JsonMapper/LaravelPackage) (3 days ago)
-- [fix: Generally cleanup the repo from develop and master references, as well as some generic corrections](https://github.com/JsonMapper/LaravelPackage/pull/35) on [JsonMapper/LaravelPackage](https://github.com/JsonMapper/LaravelPackage) (3 days ago)
-- [ci: Add workflow to handle Copilot agent startup](https://github.com/JsonMapper/LaravelPackage/pull/34) on [JsonMapper/LaravelPackage](https://github.com/JsonMapper/LaravelPackage) (3 days ago)
-- [Merge develop into main](https://github.com/JsonMapper/LaravelPackage/pull/33) on [JsonMapper/LaravelPackage](https://github.com/JsonMapper/LaravelPackage) (3 days ago)
+- [build: Restore support for Laravel  8,9 and 10](https://github.com/JsonMapper/LaravelPackage/pull/37) on [JsonMapper/LaravelPackage](https://github.com/JsonMapper/LaravelPackage) (4 days ago)
+- [build: Add workflows for changelog and release automation](https://github.com/JsonMapper/LaravelPackage/pull/36) on [JsonMapper/LaravelPackage](https://github.com/JsonMapper/LaravelPackage) (4 days ago)
+- [fix: Generally cleanup the repo from develop and master references, as well as some generic corrections](https://github.com/JsonMapper/LaravelPackage/pull/35) on [JsonMapper/LaravelPackage](https://github.com/JsonMapper/LaravelPackage) (4 days ago)
+- [ci: Add workflow to handle Copilot agent startup](https://github.com/JsonMapper/LaravelPackage/pull/34) on [JsonMapper/LaravelPackage](https://github.com/JsonMapper/LaravelPackage) (4 days ago)
+- [Merge develop into main](https://github.com/JsonMapper/LaravelPackage/pull/33) on [JsonMapper/LaravelPackage](https://github.com/JsonMapper/LaravelPackage) (4 days ago)
 - [Add GitHub Actions CI for 5.x.x and fix curl_close deprecation on PHP 8&#43;](https://github.com/jsonrainbow/json-schema/pull/900) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (2 weeks ago)
 - [Update readme for draft 7](https://github.com/jsonrainbow/json-schema/pull/899) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (2 weeks ago)
 - [Fix justinrainbow/json-schema checkmode mapping](https://github.com/bowtie-json-schema/bowtie/pull/2432) on [bowtie-json-schema/bowtie](https://github.com/bowtie-json-schema/bowtie) (1 month ago)
@@ -50,12 +50,12 @@ title: 👨‍💻 Recent Work
 
 #### 🔭 Latest releases I've contributed to
 
-- [bowtie-json-schema/bowtie](https://github.com/bowtie-json-schema/bowtie) - [v2026.4.5](https://github.com/bowtie-json-schema/bowtie/releases/tag/v2026.4.5) (3 days ago)
-- [JsonMapper/LaravelPackage](https://github.com/JsonMapper/LaravelPackage) - [3.0.0](https://github.com/JsonMapper/LaravelPackage/releases/tag/3.0.0) (3 days ago)
-- [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) - [6.8.0](https://github.com/jsonrainbow/json-schema/releases/tag/6.8.0) (6 days ago)
+- [bowtie-json-schema/bowtie](https://github.com/bowtie-json-schema/bowtie) - [v2026.4.5](https://github.com/bowtie-json-schema/bowtie/releases/tag/v2026.4.5) (4 days ago)
+- [JsonMapper/LaravelPackage](https://github.com/JsonMapper/LaravelPackage) - [3.0.0](https://github.com/JsonMapper/LaravelPackage/releases/tag/3.0.0) (4 days ago)
+- [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) - [6.8.0](https://github.com/jsonrainbow/json-schema/releases/tag/6.8.0) (1 week ago)
 - [phpDocumentor/ReflectionDocBlock](https://github.com/phpDocumentor/ReflectionDocBlock) - [6.0.3](https://github.com/phpDocumentor/ReflectionDocBlock/releases/tag/6.0.3) (3 weeks ago)
 - [Daniel-Marynicz/BehatParallelExtension](https://github.com/Daniel-Marynicz/BehatParallelExtension) - [v1.2.0](https://github.com/Daniel-Marynicz/BehatParallelExtension/releases/tag/v1.2.0) (2 months ago)
-- [MyParcelCOM/api-sdk-php](https://github.com/MyParcelCOM/api-sdk-php) - [v3.11.0](https://github.com/MyParcelCOM/api-sdk-php/releases/tag/v3.11.0) (2 months ago)
+- [MyParcelCOM/api-sdk-php](https://github.com/MyParcelCOM/api-sdk-php) - [v3.11.0](https://github.com/MyParcelCOM/api-sdk-php/releases/tag/v3.11.0) (3 months ago)
 - [infi-nl/timechimp-billability-chart](https://github.com/infi-nl/timechimp-billability-chart) - [v2.0.1](https://github.com/infi-nl/timechimp-billability-chart/releases/tag/v2.0.1) (3 months ago)
 - [phpDocumentor/TypeResolver](https://github.com/phpDocumentor/TypeResolver) - [2.0.0](https://github.com/phpDocumentor/TypeResolver/releases/tag/2.0.0) (3 months ago)
 - [picqer/exact-php-client](https://github.com/picqer/exact-php-client) - [v4.6.0](https://github.com/picqer/exact-php-client/releases/tag/v4.6.0) (3 months ago)
