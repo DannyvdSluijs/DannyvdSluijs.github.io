@@ -31,6 +31,7 @@ title: 👨‍💻 Recent Work
 
 #### 🔨 My recent Pull Requests
 
+- [build: Raise vimeo/psalm and myclabs/php-enum version constraints](https://github.com/JsonMapper/JsonMapper/pull/207) on [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (today)
 - [build: Restore support for Laravel  8,9 and 10](https://github.com/JsonMapper/LaravelPackage/pull/37) on [JsonMapper/LaravelPackage](https://github.com/JsonMapper/LaravelPackage) (1 week ago)
 - [build: Add workflows for changelog and release automation](https://github.com/JsonMapper/LaravelPackage/pull/36) on [JsonMapper/LaravelPackage](https://github.com/JsonMapper/LaravelPackage) (1 week ago)
 - [fix: Generally cleanup the repo from develop and master references, as well as some generic corrections](https://github.com/JsonMapper/LaravelPackage/pull/35) on [JsonMapper/LaravelPackage](https://github.com/JsonMapper/LaravelPackage) (1 week ago)
@@ -45,7 +46,6 @@ title: 👨‍💻 Recent Work
 - [feat: Add draft2019 as copy from draft07](https://github.com/jsonrainbow/json-schema/pull/885) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (2 months ago)
 - [docs: Mention draft 6 and 7 support](https://github.com/jsonrainbow/docs/pull/11) on [jsonrainbow/docs](https://github.com/jsonrainbow/docs) (2 months ago)
 - [feat: Update Json Schema for PHP to latest version and use non RC image for docker container](https://github.com/bowtie-json-schema/bowtie/pull/2405) on [bowtie-json-schema/bowtie](https://github.com/bowtie-json-schema/bowtie) (2 months ago)
-- [docs: Correct trailing spaces in markdown files and add .editorconfig instruction file](https://github.com/jsonrainbow/json-schema/pull/873) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (2 months ago)
 
 
 #### 🔭 Latest releases I've contributed to
