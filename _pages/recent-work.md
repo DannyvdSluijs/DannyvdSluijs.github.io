@@ -4,10 +4,10 @@ title: 👨‍💻 Recent Work
 
 #### 💻 Check out what I'm currently working on
 
-- [DannyvdSluijs/DannyvdSluijs.github.io](https://github.com/DannyvdSluijs/DannyvdSluijs.github.io) (3 days ago)
-- [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (1 week ago)
+- [DannyvdSluijs/DannyvdSluijs.github.io](https://github.com/DannyvdSluijs/DannyvdSluijs.github.io) (4 days ago)
+- [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (2 weeks ago)
 - [JsonMapper/LaravelPackage](https://github.com/JsonMapper/LaravelPackage) (3 weeks ago)
-- [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (4 weeks ago)
+- [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (1 month ago)
 - [DannyvdSluijs/2fa-jackpot](https://github.com/DannyvdSluijs/2fa-jackpot) (1 month ago)
 - [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (1 month ago)
 - [jsonrainbow/docs](https://github.com/jsonrainbow/docs) (1 month ago)
@@ -31,7 +31,7 @@ title: 👨‍💻 Recent Work
 
 #### 🔨 My recent Pull Requests
 
-- [build: Raise myclabs/php-enum and phpunit/phpunit version constraints; Drop vimeo/psalm](https://github.com/JsonMapper/JsonMapper/pull/207) on [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (1 week ago)
+- [build: Raise myclabs/php-enum and phpunit/phpunit version constraints; Drop vimeo/psalm](https://github.com/JsonMapper/JsonMapper/pull/207) on [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (2 weeks ago)
 - [build: Restore support for Laravel  8,9 and 10](https://github.com/JsonMapper/LaravelPackage/pull/37) on [JsonMapper/LaravelPackage](https://github.com/JsonMapper/LaravelPackage) (3 weeks ago)
 - [build: Add workflows for changelog and release automation](https://github.com/JsonMapper/LaravelPackage/pull/36) on [JsonMapper/LaravelPackage](https://github.com/JsonMapper/LaravelPackage) (3 weeks ago)
 - [fix: Generally cleanup the repo from develop and master references, as well as some generic corrections](https://github.com/JsonMapper/LaravelPackage/pull/35) on [JsonMapper/LaravelPackage](https://github.com/JsonMapper/LaravelPackage) (3 weeks ago)
@@ -52,7 +52,7 @@ title: 👨‍💻 Recent Work
 
 - [bowtie-json-schema/bowtie](https://github.com/bowtie-json-schema/bowtie) - [v2026.4.16](https://github.com/bowtie-json-schema/bowtie/releases/tag/v2026.4.16) (1 week ago)
 - [JsonMapper/LaravelPackage](https://github.com/JsonMapper/LaravelPackage) - [3.0.0](https://github.com/JsonMapper/LaravelPackage/releases/tag/3.0.0) (3 weeks ago)
-- [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) - [6.8.0](https://github.com/jsonrainbow/json-schema/releases/tag/6.8.0) (4 weeks ago)
+- [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) - [6.8.0](https://github.com/jsonrainbow/json-schema/releases/tag/6.8.0) (1 month ago)
 - [Daniel-Marynicz/BehatParallelExtension](https://github.com/Daniel-Marynicz/BehatParallelExtension) - [v1.2.0](https://github.com/Daniel-Marynicz/BehatParallelExtension/releases/tag/v1.2.0) (3 months ago)
 - [MyParcelCOM/api-sdk-php](https://github.com/MyParcelCOM/api-sdk-php) - [v3.11.0](https://github.com/MyParcelCOM/api-sdk-php/releases/tag/v3.11.0) (3 months ago)
 - [infi-nl/timechimp-billability-chart](https://github.com/infi-nl/timechimp-billability-chart) - [v2.0.1](https://github.com/infi-nl/timechimp-billability-chart/releases/tag/v2.0.1) (3 months ago)
