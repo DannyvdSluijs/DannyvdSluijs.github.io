@@ -50,7 +50,7 @@ title: 👨‍💻 Recent Work
 
 #### 🔭 Latest releases I've contributed to
 
-- [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) - [5.3.4](https://github.com/jsonrainbow/json-schema/releases/tag/5.3.4) (today)
+- [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) - [6.8.1](https://github.com/jsonrainbow/json-schema/releases/tag/6.8.1) (today)
 - [bowtie-json-schema/bowtie](https://github.com/bowtie-json-schema/bowtie) - [v2026.4.16](https://github.com/bowtie-json-schema/bowtie/releases/tag/v2026.4.16) (1 week ago)
 - [JsonMapper/LaravelPackage](https://github.com/JsonMapper/LaravelPackage) - [3.0.0](https://github.com/JsonMapper/LaravelPackage/releases/tag/3.0.0) (4 weeks ago)
 - [Daniel-Marynicz/BehatParallelExtension](https://github.com/Daniel-Marynicz/BehatParallelExtension) - [v1.2.0](https://github.com/Daniel-Marynicz/BehatParallelExtension/releases/tag/v1.2.0) (3 months ago)
