@@ -4,10 +4,10 @@ title: 👨‍💻 Recent Work
 
 #### 💻 Check out what I'm currently working on
 
+- [DannyvdSluijs/DannyvdSluijs.github.io](https://github.com/DannyvdSluijs/DannyvdSluijs.github.io) (today)
 - [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (1 week ago)
 - [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (2 weeks ago)
 - [infi-nl/con.infi.nl](https://github.com/infi-nl/con.infi.nl) (2 weeks ago)
-- [DannyvdSluijs/DannyvdSluijs.github.io](https://github.com/DannyvdSluijs/DannyvdSluijs.github.io) (4 weeks ago)
 - [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (1 month ago)
 - [JsonMapper/LaravelPackage](https://github.com/JsonMapper/LaravelPackage) (1 month ago)
 - [DannyvdSluijs/2fa-jackpot](https://github.com/DannyvdSluijs/2fa-jackpot) (1 month ago)
