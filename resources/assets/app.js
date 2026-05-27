@@ -1,3 +1,5 @@
 /*
-* This is the main JavaScript used by webpack to build the app.js file.
+* This is the main JavaScript entry file for Vite.
 */
+
+import './app.css';
