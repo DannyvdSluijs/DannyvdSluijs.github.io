@@ -4,7 +4,7 @@
         "dev": "vite build && npm run copy:media",
         "prod": "vite build --mode production && npm run copy:media",
         "watch": "vite build --watch",
-        "copy:media": "mkdir -p _media && cp -R _site/media/. _media/"
+        "copy:media": "node -e \"const fs=require('node:fs');fs.mkdirSync('_media',{recursive:true});fs.cpSync('_site/media','_media',{recursive:true,force:true});\""
     },
     "devDependencies": {
         "@tailwindcss/typography": "^0.5.2",
