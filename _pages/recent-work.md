@@ -4,8 +4,8 @@ title: 👨‍💻 Recent Work
 
 #### 💻 Check out what I'm currently working on
 
-- [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (4 days ago)
-- [DannyvdSluijs/DannyvdSluijs.github.io](https://github.com/DannyvdSluijs/DannyvdSluijs.github.io) (5 days ago)
+- [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (5 days ago)
+- [DannyvdSluijs/DannyvdSluijs.github.io](https://github.com/DannyvdSluijs/DannyvdSluijs.github.io) (6 days ago)
 - [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (3 weeks ago)
 - [infi-nl/con.infi.nl](https://github.com/infi-nl/con.infi.nl) (3 weeks ago)
 - [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (1 month ago)
@@ -24,7 +24,7 @@ title: 👨‍💻 Recent Work
 {**}
 {*- [Figuring out how parallel processing works in PHP](https://www.dannyvandersluijs.nl/posts/2023-06-21-figuring-out-how-parallel-processing-works-in-php.html) (2 years ago)*}
 {**}
-{*- [Launching free open-source software](https://www.dannyvandersluijs.nl/posts/2020-07-02-launching-free-open-source-software.html) (5 years ago)*}
+{*- [Launching free open-source software](https://www.dannyvandersluijs.nl/posts/2020-07-02-launching-free-open-source-software.html) (6 years ago)*}
 {**}
 {*- [Securing the web at no cost](https://www.dannyvandersluijs.nl/posts/2019-02-04-securing-the-web-at-no-cost.html) (7 years ago)*}
 {**}
@@ -32,7 +32,7 @@ title: 👨‍💻 Recent Work
 #### 🔨 My recent Pull Requests
 
 - [Fix typo in keynote text](https://github.com/infi-nl/con.infi.nl/pull/24) on [infi-nl/con.infi.nl](https://github.com/infi-nl/con.infi.nl) (3 weeks ago)
-- [Update to json schema test suite main branch](https://github.com/jsonrainbow/json-schema/pull/906) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (3 weeks ago)
+- [Update to json schema test suite main branch](https://github.com/jsonrainbow/json-schema/pull/906) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (4 weeks ago)
 - [build: Raise myclabs/php-enum and phpunit/phpunit version constraints; Drop vimeo/psalm](https://github.com/JsonMapper/JsonMapper/pull/207) on [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (1 month ago)
 - [build: Restore support for Laravel  8,9 and 10](https://github.com/JsonMapper/LaravelPackage/pull/37) on [JsonMapper/LaravelPackage](https://github.com/JsonMapper/LaravelPackage) (1 month ago)
 - [build: Add workflows for changelog and release automation](https://github.com/JsonMapper/LaravelPackage/pull/36) on [JsonMapper/LaravelPackage](https://github.com/JsonMapper/LaravelPackage) (1 month ago)
