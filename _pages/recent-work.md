@@ -15,20 +15,6 @@ title: 👨‍💻 Recent Work
 - [JsonMapper/jsonmapper.github.io](https://github.com/JsonMapper/jsonmapper.github.io) (3 months ago)
 - [bowtie-json-schema/bowtie](https://github.com/bowtie-json-schema/bowtie) (3 months ago)
 
-
-{*#### 📜 My recent blog posts*}
-{**}
-{*- [Replacing Constants with Enums Using Rector](https://www.dannyvandersluijs.nl/posts/replacing-constants-with-enums-using-rector.html) (6 months ago)*}
-{**}
-{*- [The unknown Composer commands](https://www.dannyvandersluijs.nl/posts/2023-08-25-the-unknown-composer-commands.html) (2 years ago)*}
-{**}
-{*- [Figuring out how parallel processing works in PHP](https://www.dannyvandersluijs.nl/posts/2023-06-21-figuring-out-how-parallel-processing-works-in-php.html) (2 years ago)*}
-{**}
-{*- [Launching free open-source software](https://www.dannyvandersluijs.nl/posts/2020-07-02-launching-free-open-source-software.html) (6 years ago)*}
-{**}
-{*- [Securing the web at no cost](https://www.dannyvandersluijs.nl/posts/2019-02-04-securing-the-web-at-no-cost.html) (7 years ago)*}
-{**}
-
 #### 🔨 My recent Pull Requests
 
 - [feat: Upgrade to Hyde v2 using upgrade guide](https://github.com/DannyvdSluijs/DannyvdSluijs.github.io/pull/83) on [DannyvdSluijs/DannyvdSluijs.github.io](https://github.com/DannyvdSluijs/DannyvdSluijs.github.io) (today)
