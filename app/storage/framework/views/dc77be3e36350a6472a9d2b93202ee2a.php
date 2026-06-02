@@ -46,4 +46,4 @@
     </div>
 </body>
 </html>
-<?php /**PATH /Users/danny/Projects/Personal/DannyvdSluijs.github.io/_pages/404.blade.php ENDPATH**/ ?>
+<?php /**PATH /Users/dannyvandersluijs/Projects/DannyvdSluijs.github.io/_pages/404.blade.php ENDPATH**/ ?>

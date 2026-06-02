@@ -1,11 +1,11 @@
 <?php
-    $navigation = \Hyde\Framework\Features\Navigation\NavigationMenu::create();
+    $navigation = app('navigation.main');
 ?>
 
 <nav aria-label="Main navigation" id="main-navigation" class="flex flex-wrap items-center justify-between p-4 shadow-lg sm:shadow-xl md:shadow-none dark:bg-gray-800">
-    <div class="max-w-3xl mx-auto flex flex-grow items-center flex-shrink-0">
-        <div class="flex flex-grow items-center flex-shrink-0 text-gray-700 dark:text-gray-200">
-            <?php echo $__env->make('hyde::components.navigation.navigation-brand', \Illuminate\Support\Arr::except(get_defined_vars(), ['__data', '__path']))->render(); ?>
+    <div class="max-w-3xl mx-auto flex grow items-center shrink-0">
+        <div class="flex grow items-center shrink-0 text-gray-700 dark:text-gray-200">
+            <?php echo $__env->make('hyde::components.navigation.navigation-brand', array_diff_key(get_defined_vars(), ['__data' => 1, '__path' => 1]))->render(); ?>
 
         </div>
 
@@ -29,20 +29,20 @@
             </button>
         </div>
 
-        <div id="main-navigation-links" class="w-full x-uncloak-md md:flex flex-grow md:flex-grow-0 md:items-center md:w-auto px-6 -mx-4 border-t mt-3 pt-3 md:border-none md:mt-0 md:py-0 border-gray-200 dark:border-gray-700"
+        <div id="main-navigation-links" class="w-full x-uncloak-md md:flex grow md:grow-0 md:items-center md:w-auto px-6 -mx-4 border-t mt-3 pt-3 md:border-none md:mt-0 md:py-0 border-gray-200 dark:border-gray-700"
              :class="navigationOpen ? '' : 'hidden'" x-cloak>
-            <ul aria-label="Navigation links" class="md:flex-grow md:flex justify-end">
-                <?php $__currentLoopData = $navigation->items; $__env->addLoop($__currentLoopData); foreach($__currentLoopData as $item): $__env->incrementLoopIndices(); $loop = $__env->getLastLoop(); ?>
+            <ul aria-label="Navigation links" class="md:grow md:flex justify-end">
+                <?php $__currentLoopData = $navigation->getItems(); $__env->addLoop($__currentLoopData); foreach($__currentLoopData as $item): $__env->incrementLoopIndices(); $loop = $__env->getLastLoop(); ?>
                     <li class="md:mx-2">
                         <?php if($item instanceof \Hyde\Framework\Features\Navigation\DropdownNavItem): ?>
                             <?php if (isset($component)) { $__componentOriginald9e82732ca58b54a3cac3b3050ba2def = $component; } ?>
 <?php if (isset($attributes)) { $__attributesOriginald9e82732ca58b54a3cac3b3050ba2def = $attributes; } ?>
-<?php $component = Illuminate\View\AnonymousComponent::resolve(['view' => 'hyde::components.navigation.dropdown','data' => ['label' => \Hyde\Hyde::makeTitle($item->label),'items' => $item->items]] + (isset($attributes) && $attributes instanceof Illuminate\View\ComponentAttributeBag ? (array) $attributes->getIterator() : [])); ?>
+<?php $component = Illuminate\View\AnonymousComponent::resolve(['view' => 'hyde::components.navigation.dropdown','data' => ['label' => \Hyde\Hyde::makeTitle($item->label),'items' => $item->items]] + (isset($attributes) && $attributes instanceof Illuminate\View\ComponentAttributeBag ? $attributes->all() : [])); ?>
 <?php $component->withName('hyde::navigation.dropdown'); ?>
 <?php if ($component->shouldRender()): ?>
 <?php $__env->startComponent($component->resolveView(), $component->data()); ?>
-<?php if (isset($attributes) && $attributes instanceof Illuminate\View\ComponentAttributeBag && $constructor = (new ReflectionClass(Illuminate\View\AnonymousComponent::class))->getConstructor()): ?>
-<?php $attributes = $attributes->except(collect($constructor->getParameters())->map->getName()->all()); ?>
+<?php if (isset($attributes) && $attributes instanceof Illuminate\View\ComponentAttributeBag): ?>
+<?php $attributes = $attributes->except(\Illuminate\View\AnonymousComponent::ignoredParameterNames()); ?>
 <?php endif; ?>
 <?php $component->withAttributes(['label' => \Illuminate\View\Compilers\BladeCompiler::sanitizeComponentAttribute(\Hyde\Hyde::makeTitle($item->label)),'items' => \Illuminate\View\Compilers\BladeCompiler::sanitizeComponentAttribute($item->items)]); ?>
 <?php echo $__env->renderComponent(); ?>
@@ -56,7 +56,7 @@
 <?php unset($__componentOriginald9e82732ca58b54a3cac3b3050ba2def); ?>
 <?php endif; ?>
                         <?php else: ?>
-                            <?php echo $__env->make('hyde::components.navigation.navigation-link', \Illuminate\Support\Arr::except(get_defined_vars(), ['__data', '__path']))->render(); ?>
+                            <?php echo $__env->make('hyde::components.navigation.navigation-link', array_diff_key(get_defined_vars(), ['__data' => 1, '__path' => 1]))->render(); ?>
                         <?php endif; ?>
                     </li>
                 <?php endforeach; $__env->popLoop(); $loop = $__env->getLastLoop(); ?>
@@ -66,12 +66,12 @@
             <div class="ml-auto">
                 <?php if (isset($component)) { $__componentOriginal654d232195658b546dcd0b8c80e91773 = $component; } ?>
 <?php if (isset($attributes)) { $__attributesOriginal654d232195658b546dcd0b8c80e91773 = $attributes; } ?>
-<?php $component = Illuminate\View\AnonymousComponent::resolve(['view' => 'hyde::components.navigation.theme-toggle-button','data' => []] + (isset($attributes) && $attributes instanceof Illuminate\View\ComponentAttributeBag ? (array) $attributes->getIterator() : [])); ?>
+<?php $component = Illuminate\View\AnonymousComponent::resolve(['view' => 'hyde::components.navigation.theme-toggle-button','data' => []] + (isset($attributes) && $attributes instanceof Illuminate\View\ComponentAttributeBag ? $attributes->all() : [])); ?>
 <?php $component->withName('hyde::navigation.theme-toggle-button'); ?>
 <?php if ($component->shouldRender()): ?>
 <?php $__env->startComponent($component->resolveView(), $component->data()); ?>
-<?php if (isset($attributes) && $attributes instanceof Illuminate\View\ComponentAttributeBag && $constructor = (new ReflectionClass(Illuminate\View\AnonymousComponent::class))->getConstructor()): ?>
-<?php $attributes = $attributes->except(collect($constructor->getParameters())->map->getName()->all()); ?>
+<?php if (isset($attributes) && $attributes instanceof Illuminate\View\ComponentAttributeBag): ?>
+<?php $attributes = $attributes->except(\Illuminate\View\AnonymousComponent::ignoredParameterNames()); ?>
 <?php endif; ?>
 <?php $component->withAttributes([]); ?>
 <?php echo $__env->renderComponent(); ?>
@@ -87,4 +87,4 @@
             </div>
         </div>
     </div>
-</nav><?php /**PATH /Users/danny/Projects/Personal/DannyvdSluijs.github.io/resources/views/vendor/hyde/layouts/navigation.blade.php ENDPATH**/ ?>
+</nav><?php /**PATH /Users/dannyvandersluijs/Projects/DannyvdSluijs.github.io/resources/views/vendor/hyde/layouts/navigation.blade.php ENDPATH**/ ?>

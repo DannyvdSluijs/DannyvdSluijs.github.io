@@ -2,15 +2,15 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title><?php echo e($page->title()); ?></title>
 
-<?php if(file_exists(Hyde::mediaPath('favicon.ico'))): ?>
+<?php if(file_exists(MediaFile::sourcePath('favicon.ico'))): ?>
     <link rel="shortcut icon" href="<?php echo e(Hyde::relativeLink('media/favicon.ico')); ?>" type="image/x-icon">
 <?php endif; ?>
 
 
-<?php echo $__env->make('hyde::layouts.meta', \Illuminate\Support\Arr::except(get_defined_vars(), ['__data', '__path']))->render(); ?>
+<?php echo $__env->make('hyde::layouts.meta', array_diff_key(get_defined_vars(), ['__data' => 1, '__path' => 1]))->render(); ?>
 
 
-<?php echo $__env->make('hyde::layouts.styles', \Illuminate\Support\Arr::except(get_defined_vars(), ['__data', '__path']))->render(); ?>
+<?php echo $__env->make('hyde::layouts.styles', array_diff_key(get_defined_vars(), ['__data' => 1, '__path' => 1]))->render(); ?>
 
 <?php if(Features::hasDarkmode()): ?>
     
@@ -24,6 +24,7 @@
 
 <?php echo config('hyde.head'); ?>
 
-<?php echo Includes::html('head'); ?>
+<?php echo e(Includes::html('head')); ?>
 
-<?php /**PATH /Users/danny/Projects/Personal/DannyvdSluijs.github.io/resources/views/vendor/hyde/layouts/head.blade.php ENDPATH**/ ?>
+
+<?php /**PATH /Users/dannyvandersluijs/Projects/DannyvdSluijs.github.io/resources/views/vendor/hyde/layouts/head.blade.php ENDPATH**/ ?>

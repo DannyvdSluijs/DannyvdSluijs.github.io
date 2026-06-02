@@ -1,0 +1,4 @@
+<a href="<?php echo e($item); ?>" <?php echo $item->isActive() ? 'aria-current="page"' : ''; ?> class="<?php echo \Illuminate\Support\Arr::toCssClasses([
+    'block my-2 md:my-0 md:inline-block py-1 text-gray-700 hover:text-gray-900 dark:text-gray-100',
+    'border-l-4 border-indigo-500 md:border-none font-medium -ml-6 pl-5 md:ml-0 md:pl-0 bg-gray-100 dark:bg-gray-800 md:bg-transparent dark:md:bg-transparent' => $item->isActive()
+]); ?>"><?php echo e($item->getLabel()); ?></a><?php /**PATH /Users/dannyvandersluijs/Projects/DannyvdSluijs.github.io/resources/views/vendor/hyde/components/navigation/navigation-link.blade.php ENDPATH**/ ?>

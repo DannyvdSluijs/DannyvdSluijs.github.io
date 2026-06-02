@@ -72,6 +72,7 @@ return [
         App\Providers\AppServiceProvider::class,
         Hyde\Foundation\Providers\ConfigurationServiceProvider::class,
         Hyde\Framework\HydeServiceProvider::class,
+        Hyde\Foundation\Providers\NavigationServiceProvider::class,
         Hyde\Foundation\Providers\ViewServiceProvider::class,
         Hyde\Console\ConsoleServiceProvider::class,
     ],
@@ -105,6 +106,8 @@ return [
         'DataCollections' => \Hyde\Support\DataCollections::class,
         'Includes' => \Hyde\Support\Includes::class,
         'Feature' => \Hyde\Enums\Feature::class,
+        'vite' => \Hyde\Facades\Vite::class,
+        'MediaFile' => \Hyde\Support\Filesystem\MediaFile::class,
     ],
 
 ];
