@@ -7,12 +7,6 @@ title: 👨‍💻 Recent Work
 - [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .OccurredAt}})
 {{- end}}
 
-
-{*#### 📜 My recent blog posts*}
-{*{{range rss "https://dannyvandersluijs.nl/feed.xml" 5}}*}
-{*- [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})*}
-{*{{- end}}*}
-
 #### 🔨 My recent Pull Requests
 {{range recentPullRequests 15}}
 - [{{.Title}}]({{.URL}}) on [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .CreatedAt}})
