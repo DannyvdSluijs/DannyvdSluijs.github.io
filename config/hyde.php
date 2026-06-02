@@ -285,10 +285,12 @@ return [
     */
 
     'authors' => [
-        Author::create(
-            'Danny', // Required username
-            'Danny van der Sluijs', // Optional display name
-            'https://www.dannyvandersluijs.nl' // Optional website URL
+        'Danny' => Author::create(
+            name: 'Danny van der Sluijs',
+            website: 'https://www.dannyvandersluijs.nl',
+//            bio: 'Author bio', // @todo
+//            avatar: 'avatar.png',
+//            socials: ['twitter' => '@username']
         ),
     ],
 
@@ -355,7 +357,7 @@ return [
 
         // How should pages in subdirectories be displayed in the menu?
         // You can choose between 'dropdown', 'flat', and 'hidden'.
-        'subdirectories' => 'hidden',
+        'subdirectory_display' => 'hidden',
     ],
 
     /*
@@ -374,7 +376,7 @@ return [
     |
     */
 
-    'enable_cache_busting' => true,
+    'cache_busting' => true,
 
     /*
     |--------------------------------------------------------------------------
@@ -477,11 +479,6 @@ return [
 
     // Where should the build manifest be saved? (Relative to project root, for example _site/build-manifest.json)
     'build_manifest_path' => 'app/storage/framework/cache/build-manifest.json',
-
-    // Here you can specify HydeFront version and URL for when loading app.css from the CDN.
-    // Only change these if you know what you're doing as some versions may be incompatible with your Hyde version.
-    'hydefront_version' => \Hyde\Framework\Services\AssetService::HYDEFRONT_VERSION,
-    'hydefront_cdn_url' => \Hyde\Framework\Services\AssetService::HYDEFRONT_CDN_URL,
 
     // Should the theme toggle buttons be displayed in the layouts?
     'theme_toggle_buttons' => true,

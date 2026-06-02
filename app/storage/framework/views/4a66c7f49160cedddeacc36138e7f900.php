@@ -1,6 +1,6 @@
 
-<?php if(Asset::hasMediaFile('app.js')): ?>
-    <script defer src="<?php echo e(Asset::mediaLink('app.js')); ?>"></script>
+<?php if(Asset::exists('app.js')): ?>
+    <script defer src="<?php echo e(Asset::get('app.js')); ?>"></script>
 <?php endif; ?>
 
 
@@ -26,6 +26,6 @@
 
 <?php echo config('hyde.scripts'); ?>
 
-<?php echo Includes::html('scripts'); ?>
+<?php echo e(Includes::html('scripts')); ?>
 
-<?php /**PATH /Users/danny/Projects/Personal/DannyvdSluijs.github.io/resources/views/vendor/hyde/layouts/scripts.blade.php ENDPATH**/ ?>
+<?php /**PATH /Users/dannyvandersluijs/Projects/DannyvdSluijs.github.io/resources/views/vendor/hyde/layouts/scripts.blade.php ENDPATH**/ ?>

@@ -1,1 +1,0 @@
-<small class="filepath not-prose"><span class="sr-only">Filepath: </span><?php echo e($path); ?></small><?php /**PATH /Users/danny/Projects/Personal/DannyvdSluijs.github.io/resources/views/vendor/hyde/components/filepath-label.blade.php ENDPATH**/ ?>

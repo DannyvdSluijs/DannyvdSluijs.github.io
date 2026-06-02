@@ -1,1 +1,0 @@
-Posted <time itemprop="dateCreated datePublished" datetime="<?php echo e($page->date->datetime); ?>" title="<?php echo e($page->date->sentence); ?>"><?php echo e($page->date->short); ?></time><?php /**PATH /Users/danny/Projects/Personal/DannyvdSluijs.github.io/resources/views/vendor/hyde/components/post/date.blade.php ENDPATH**/ ?>

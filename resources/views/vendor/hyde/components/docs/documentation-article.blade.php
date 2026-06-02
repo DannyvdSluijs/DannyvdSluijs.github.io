@@ -3,7 +3,7 @@
 @endphp
 
 <article id="document" itemscope itemtype="https://schema.org/Article" @class([
-        'mx-auto lg:ml-8 max-w-3xl p-12 md:px-16 max-w-[1000px] min-h-[calc(100vh_-_4rem)]',
+        'mx-auto lg:ml-8 max-w-3xl p-12 md:px-16 max-w-[1000px] min-h-[calc(100vh-4rem)]',
         config('markdown.prose_classes', 'prose dark:prose-invert'),
         'torchlight-enabled' => $article->hasTorchlight()])>
     @yield('content')

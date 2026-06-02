@@ -31,7 +31,7 @@
                 </div>
 
                 <!-- About -->
-                <div class="text-gray-600 dark:text-gray-300 text-sm flex-1 break-words">
+                <div class="text-gray-600 dark:text-gray-300 text-sm flex-1 wrap-break-word">
                     <p> This site was build using <a href="https://hydephp.com/" class="text-indigo-600">HydePHP</a><br>
                         and <a href="https://torchlight.dev/" class="text-indigo-600">Torchlight.dev</a></p>
                 </div>

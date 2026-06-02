@@ -5,4 +5,4 @@
     >
     <?php echo e(config('hyde.name', 'HydePHP')); ?>
 
-</a><?php /**PATH /Users/danny/Projects/Personal/DannyvdSluijs.github.io/resources/views/vendor/hyde/components/navigation/navigation-brand.blade.php ENDPATH**/ ?>
+</a><?php /**PATH /Users/dannyvandersluijs/Projects/DannyvdSluijs.github.io/resources/views/vendor/hyde/components/navigation/navigation-brand.blade.php ENDPATH**/ ?>

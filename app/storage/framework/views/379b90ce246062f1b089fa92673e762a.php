@@ -30,4 +30,4 @@
     <script><?php echo $scripts; ?></script>
     <script>initLiveEdit()</script>
 </div>
-<?php /**PATH /Users/danny/Projects/Personal/DannyvdSluijs.github.io/app/storage/framework/views/497c111ce747c73ad80c899cbb414751.blade.php ENDPATH**/ ?>
+<?php /**PATH /Users/dannyvandersluijs/Projects/DannyvdSluijs.github.io/app/storage/framework/views/497c111ce747c73ad80c899cbb414751.blade.php ENDPATH**/ ?>

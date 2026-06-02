@@ -7,4 +7,4 @@ by author
             <?php if($page->author->website): ?>
         </a>
     <?php endif; ?>
-</address><?php /**PATH /Users/danny/Projects/Personal/DannyvdSluijs.github.io/resources/views/vendor/hyde/components/post/author.blade.php ENDPATH**/ ?>
+</address><?php /**PATH /Users/dannyvandersluijs/Projects/DannyvdSluijs.github.io/resources/views/vendor/hyde/components/post/author.blade.php ENDPATH**/ ?>

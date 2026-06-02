@@ -46,4 +46,4 @@
             Read post
         </a>
     </footer>
-</article><?php /**PATH /Users/danny/Projects/Personal/DannyvdSluijs.github.io/resources/views/vendor/hyde/components/article-excerpt.blade.php ENDPATH**/ ?>
+</article><?php /**PATH /Users/dannyvandersluijs/Projects/DannyvdSluijs.github.io/resources/views/vendor/hyde/components/article-excerpt.blade.php ENDPATH**/ ?>

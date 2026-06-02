@@ -29,10 +29,10 @@
         </header>
 
         <div id="post-feed" class="max-w-3xl mx-auto">
-            <?php echo $__env->make('hyde::components.blog-post-feed', \Illuminate\Support\Arr::except(get_defined_vars(), ['__data', '__path']))->render(); ?>
+            <?php echo $__env->make('hyde::components.blog-post-feed', array_diff_key(get_defined_vars(), ['__data' => 1, '__path' => 1]))->render(); ?>
         </div>
     </main>
 
 <?php $__env->stopSection(); ?>
 
-<?php echo $__env->make('hyde::layouts.app', \Illuminate\Support\Arr::except(get_defined_vars(), ['__data', '__path']))->render(); ?><?php /**PATH /Users/danny/Projects/Personal/DannyvdSluijs.github.io/_pages/index.blade.php ENDPATH**/ ?>
+<?php echo $__env->make('hyde::layouts.app', array_diff_key(get_defined_vars(), ['__data' => 1, '__path' => 1]))->render(); ?><?php /**PATH /Users/dannyvandersluijs/Projects/DannyvdSluijs.github.io/_pages/index.blade.php ENDPATH**/ ?>
