@@ -4,8 +4,8 @@ title: 👨‍💻 Recent Work
 
 #### 💻 Check out what I'm currently working on
 
+- [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (today)
 - [DannyvdSluijs/DannyvdSluijs.github.io](https://github.com/DannyvdSluijs/DannyvdSluijs.github.io) (1 day ago)
-- [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (1 week ago)
 - [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (3 weeks ago)
 - [infi-nl/con.infi.nl](https://github.com/infi-nl/con.infi.nl) (4 weeks ago)
 - [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (1 month ago)
@@ -17,6 +17,7 @@ title: 👨‍💻 Recent Work
 
 #### 🔨 My recent Pull Requests
 
+- [fix: treat optional JSON Schema test suite cases as real tests (#913)](https://github.com/jsonrainbow/json-schema/pull/915) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (today)
 - [feat: add bin/run-test-case to run a single test suite case by description](https://github.com/jsonrainbow/json-schema/pull/914) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (today)
 - [feat: Upgrade to Hyde v2 using upgrade guide](https://github.com/DannyvdSluijs/DannyvdSluijs.github.io/pull/83) on [DannyvdSluijs/DannyvdSluijs.github.io](https://github.com/DannyvdSluijs/DannyvdSluijs.github.io) (1 day ago)
 - [Fix typo in keynote text](https://github.com/infi-nl/con.infi.nl/pull/24) on [infi-nl/con.infi.nl](https://github.com/infi-nl/con.infi.nl) (4 weeks ago)
@@ -31,7 +32,6 @@ title: 👨‍💻 Recent Work
 - [Update readme for draft 7](https://github.com/jsonrainbow/json-schema/pull/899) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (2 months ago)
 - [Fix justinrainbow/json-schema checkmode mapping](https://github.com/bowtie-json-schema/bowtie/pull/2432) on [bowtie-json-schema/bowtie](https://github.com/bowtie-json-schema/bowtie) (3 months ago)
 - [Update justinrainbow/json-schema test harness](https://github.com/bowtie-json-schema/bowtie/pull/2431) on [bowtie-json-schema/bowtie](https://github.com/bowtie-json-schema/bowtie) (3 months ago)
-- [Fix issue when http headers are already present (#843) for 5.x.x branch](https://github.com/jsonrainbow/json-schema/pull/893) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (3 months ago)
 
 
 #### 🔭 Latest releases I've contributed to
