@@ -4,10 +4,10 @@ title: 👨‍💻 Recent Work
 
 #### 💻 Check out what I'm currently working on
 
-- [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (1 day ago)
-- [DannyvdSluijs/DannyvdSluijs.github.io](https://github.com/DannyvdSluijs/DannyvdSluijs.github.io) (2 days ago)
+- [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (2 days ago)
+- [DannyvdSluijs/DannyvdSluijs.github.io](https://github.com/DannyvdSluijs/DannyvdSluijs.github.io) (3 days ago)
 - [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (4 weeks ago)
-- [infi-nl/con.infi.nl](https://github.com/infi-nl/con.infi.nl) (4 weeks ago)
+- [infi-nl/con.infi.nl](https://github.com/infi-nl/con.infi.nl) (1 month ago)
 - [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (1 month ago)
 - [JsonMapper/LaravelPackage](https://github.com/JsonMapper/LaravelPackage) (2 months ago)
 - [DannyvdSluijs/2fa-jackpot](https://github.com/DannyvdSluijs/2fa-jackpot) (2 months ago)
@@ -17,10 +17,10 @@ title: 👨‍💻 Recent Work
 
 #### 🔨 My recent Pull Requests
 
-- [fix: treat optional JSON Schema test suite cases as real tests (#913)](https://github.com/jsonrainbow/json-schema/pull/915) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (1 day ago)
-- [feat: add bin/run-test-case to run a single test suite case by description](https://github.com/jsonrainbow/json-schema/pull/914) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (1 day ago)
-- [feat: Upgrade to Hyde v2 using upgrade guide](https://github.com/DannyvdSluijs/DannyvdSluijs.github.io/pull/83) on [DannyvdSluijs/DannyvdSluijs.github.io](https://github.com/DannyvdSluijs/DannyvdSluijs.github.io) (2 days ago)
-- [Fix typo in keynote text](https://github.com/infi-nl/con.infi.nl/pull/24) on [infi-nl/con.infi.nl](https://github.com/infi-nl/con.infi.nl) (4 weeks ago)
+- [fix: treat optional JSON Schema test suite cases as real tests (#913)](https://github.com/jsonrainbow/json-schema/pull/915) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (2 days ago)
+- [feat: add bin/run-test-case to run a single test suite case by description](https://github.com/jsonrainbow/json-schema/pull/914) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (2 days ago)
+- [feat: Upgrade to Hyde v2 using upgrade guide](https://github.com/DannyvdSluijs/DannyvdSluijs.github.io/pull/83) on [DannyvdSluijs/DannyvdSluijs.github.io](https://github.com/DannyvdSluijs/DannyvdSluijs.github.io) (3 days ago)
+- [Fix typo in keynote text](https://github.com/infi-nl/con.infi.nl/pull/24) on [infi-nl/con.infi.nl](https://github.com/infi-nl/con.infi.nl) (1 month ago)
 - [Update to json schema test suite main branch](https://github.com/jsonrainbow/json-schema/pull/906) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (1 month ago)
 - [build: Raise myclabs/php-enum and phpunit/phpunit version constraints; Drop vimeo/psalm](https://github.com/JsonMapper/JsonMapper/pull/207) on [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (1 month ago)
 - [build: Restore support for Laravel  8,9 and 10](https://github.com/JsonMapper/LaravelPackage/pull/37) on [JsonMapper/LaravelPackage](https://github.com/JsonMapper/LaravelPackage) (2 months ago)
@@ -36,7 +36,7 @@ title: 👨‍💻 Recent Work
 
 #### 🔭 Latest releases I've contributed to
 
-- [bowtie-json-schema/bowtie](https://github.com/bowtie-json-schema/bowtie) - [v2026.5.15](https://github.com/bowtie-json-schema/bowtie/releases/tag/v2026.5.15) (2 weeks ago)
+- [bowtie-json-schema/bowtie](https://github.com/bowtie-json-schema/bowtie) - [v2026.5.15](https://github.com/bowtie-json-schema/bowtie/releases/tag/v2026.5.15) (3 weeks ago)
 - [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) - [6.8.2](https://github.com/jsonrainbow/json-schema/releases/tag/6.8.2) (1 month ago)
 - [JsonMapper/LaravelPackage](https://github.com/JsonMapper/LaravelPackage) - [3.0.0](https://github.com/JsonMapper/LaravelPackage/releases/tag/3.0.0) (2 months ago)
 - [Daniel-Marynicz/BehatParallelExtension](https://github.com/Daniel-Marynicz/BehatParallelExtension) - [v1.2.0](https://github.com/Daniel-Marynicz/BehatParallelExtension/releases/tag/v1.2.0) (4 months ago)
