@@ -4,7 +4,7 @@ title: 👨‍💻 Recent Work
 
 #### 💻 Check out what I'm currently working on
 
-- [jsonrainbow/docs](https://github.com/jsonrainbow/docs) (2 days ago)
+- [jsonrainbow/docs](https://github.com/jsonrainbow/docs) (3 days ago)
 - [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (1 week ago)
 - [bowtie-json-schema/bowtie](https://github.com/bowtie-json-schema/bowtie) (1 week ago)
 - [DannyvdSluijs/DannyvdSluijs.github.io](https://github.com/DannyvdSluijs/DannyvdSluijs.github.io) (3 weeks ago)
@@ -17,8 +17,8 @@ title: 👨‍💻 Recent Work
 
 #### 🔨 My recent Pull Requests
 
-- [fix: Use specific PHP version and update actions/checkout](https://github.com/jsonrainbow/docs/pull/17) on [jsonrainbow/docs](https://github.com/jsonrainbow/docs) (2 days ago)
-- [Upgrade to HydePHP v2.0](https://github.com/jsonrainbow/docs/pull/16) on [jsonrainbow/docs](https://github.com/jsonrainbow/docs) (2 days ago)
+- [fix: Use specific PHP version and update actions/checkout](https://github.com/jsonrainbow/docs/pull/17) on [jsonrainbow/docs](https://github.com/jsonrainbow/docs) (3 days ago)
+- [Upgrade to HydePHP v2.0](https://github.com/jsonrainbow/docs/pull/16) on [jsonrainbow/docs](https://github.com/jsonrainbow/docs) (3 days ago)
 - [Update README with Draft 7 badge correction and include JetBrains logo](https://github.com/jsonrainbow/json-schema/pull/921) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (1 week ago)
 - [feat: Add Draft 2019-09 support](https://github.com/bowtie-json-schema/bowtie/pull/2818) on [bowtie-json-schema/bowtie](https://github.com/bowtie-json-schema/bowtie) (1 week ago)
 - [fix: treat optional JSON Schema test suite cases as real tests (#913)](https://github.com/jsonrainbow/json-schema/pull/915) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (3 weeks ago)
