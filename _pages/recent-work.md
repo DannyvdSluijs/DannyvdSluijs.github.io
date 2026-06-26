@@ -17,6 +17,7 @@ title: 👨‍💻 Recent Work
 
 #### 🔨 My recent Pull Requests
 
+- [fix: Applies fixes for justinrainbow/json-schema for draft 2019-09 once results of 2026.6.1 release where available](https://github.com/bowtie-json-schema/bowtie/pull/2880) on [bowtie-json-schema/bowtie](https://github.com/bowtie-json-schema/bowtie) (today)
 - [fix: Use specific PHP version and update actions/checkout](https://github.com/jsonrainbow/docs/pull/17) on [jsonrainbow/docs](https://github.com/jsonrainbow/docs) (4 days ago)
 - [Upgrade to HydePHP v2.0](https://github.com/jsonrainbow/docs/pull/16) on [jsonrainbow/docs](https://github.com/jsonrainbow/docs) (4 days ago)
 - [Update README with Draft 7 badge correction and include JetBrains logo](https://github.com/jsonrainbow/json-schema/pull/921) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (1 week ago)
@@ -31,7 +32,6 @@ title: 👨‍💻 Recent Work
 - [build: Add workflows for changelog and release automation](https://github.com/JsonMapper/LaravelPackage/pull/36) on [JsonMapper/LaravelPackage](https://github.com/JsonMapper/LaravelPackage) (2 months ago)
 - [fix: Generally cleanup the repo from develop and master references, as well as some generic corrections](https://github.com/JsonMapper/LaravelPackage/pull/35) on [JsonMapper/LaravelPackage](https://github.com/JsonMapper/LaravelPackage) (2 months ago)
 - [ci: Add workflow to handle Copilot agent startup](https://github.com/JsonMapper/LaravelPackage/pull/34) on [JsonMapper/LaravelPackage](https://github.com/JsonMapper/LaravelPackage) (2 months ago)
-- [Merge develop into main](https://github.com/JsonMapper/LaravelPackage/pull/33) on [JsonMapper/LaravelPackage](https://github.com/JsonMapper/LaravelPackage) (2 months ago)
 
 
 #### 🔭 Latest releases I've contributed to
