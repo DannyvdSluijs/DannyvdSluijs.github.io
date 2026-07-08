@@ -17,6 +17,7 @@ title: 👨‍💻 Recent Work
 
 #### 🔨 My recent Pull Requests
 
+- [feat: CI-762 - Add InPost custom contract instructions](https://github.com/myparcelnl/developer/pull/206) on [myparcelnl/developer](https://github.com/myparcelnl/developer) (today)
 - [fix: Applies fixes for justinrainbow/json-schema for draft 2019-09 once results of 2026.6.1 release where available](https://github.com/bowtie-json-schema/bowtie/pull/2880) on [bowtie-json-schema/bowtie](https://github.com/bowtie-json-schema/bowtie) (1 week ago)
 - [fix: Use specific PHP version and update actions/checkout](https://github.com/jsonrainbow/docs/pull/17) on [jsonrainbow/docs](https://github.com/jsonrainbow/docs) (2 weeks ago)
 - [Upgrade to HydePHP v2.0](https://github.com/jsonrainbow/docs/pull/16) on [jsonrainbow/docs](https://github.com/jsonrainbow/docs) (2 weeks ago)
@@ -31,7 +32,6 @@ title: 👨‍💻 Recent Work
 - [build: Restore support for Laravel  8,9 and 10](https://github.com/JsonMapper/LaravelPackage/pull/37) on [JsonMapper/LaravelPackage](https://github.com/JsonMapper/LaravelPackage) (3 months ago)
 - [build: Add workflows for changelog and release automation](https://github.com/JsonMapper/LaravelPackage/pull/36) on [JsonMapper/LaravelPackage](https://github.com/JsonMapper/LaravelPackage) (3 months ago)
 - [fix: Generally cleanup the repo from develop and master references, as well as some generic corrections](https://github.com/JsonMapper/LaravelPackage/pull/35) on [JsonMapper/LaravelPackage](https://github.com/JsonMapper/LaravelPackage) (3 months ago)
-- [ci: Add workflow to handle Copilot agent startup](https://github.com/JsonMapper/LaravelPackage/pull/34) on [JsonMapper/LaravelPackage](https://github.com/JsonMapper/LaravelPackage) (3 months ago)
 
 
 #### 🔭 Latest releases I've contributed to
