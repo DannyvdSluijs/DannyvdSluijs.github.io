@@ -17,7 +17,7 @@ title: 👨‍💻 Recent Work
 
 #### 🔨 My recent Pull Requests
 
-- [feat: CI-762 - Add InPost custom contract instructions](https://github.com/myparcelnl/developer/pull/206) on [myparcelnl/developer](https://github.com/myparcelnl/developer) (today)
+- [feat: CI-762 - Add InPost custom contract instructions](https://github.com/myparcelnl/developer/pull/206) on [myparcelnl/developer](https://github.com/myparcelnl/developer) (1 day ago)
 - [fix: Applies fixes for justinrainbow/json-schema for draft 2019-09 once results of 2026.6.1 release where available](https://github.com/bowtie-json-schema/bowtie/pull/2880) on [bowtie-json-schema/bowtie](https://github.com/bowtie-json-schema/bowtie) (1 week ago)
 - [fix: Use specific PHP version and update actions/checkout](https://github.com/jsonrainbow/docs/pull/17) on [jsonrainbow/docs](https://github.com/jsonrainbow/docs) (2 weeks ago)
 - [Upgrade to HydePHP v2.0](https://github.com/jsonrainbow/docs/pull/16) on [jsonrainbow/docs](https://github.com/jsonrainbow/docs) (2 weeks ago)
@@ -36,7 +36,7 @@ title: 👨‍💻 Recent Work
 
 #### 🔭 Latest releases I've contributed to
 
-- [bowtie-json-schema/bowtie](https://github.com/bowtie-json-schema/bowtie) - [v2026.6.1](https://github.com/bowtie-json-schema/bowtie/releases/tag/v2026.6.1) (1 week ago)
+- [bowtie-json-schema/bowtie](https://github.com/bowtie-json-schema/bowtie) - [v2026.6.1](https://github.com/bowtie-json-schema/bowtie/releases/tag/v2026.6.1) (2 weeks ago)
 - [MyParcelCOM/api-sdk-php](https://github.com/MyParcelCOM/api-sdk-php) - [v3.11.1](https://github.com/MyParcelCOM/api-sdk-php/releases/tag/v3.11.1) (3 weeks ago)
 - [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) - [6.10.0](https://github.com/jsonrainbow/json-schema/releases/tag/6.10.0) (3 weeks ago)
 - [JsonMapper/LaravelPackage](https://github.com/JsonMapper/LaravelPackage) - [3.0.0](https://github.com/JsonMapper/LaravelPackage/releases/tag/3.0.0) (3 months ago)
