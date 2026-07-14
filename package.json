@@ -13,7 +13,7 @@
         "hydefront": "^4.0.0",
         "postcss": "^8.5.0",
         "tailwindcss": "^4.3.0",
-        "vite": "^7.1.0"
+        "vite": "^7.3.6"
     },
     "overrides": {
         "glob": "^10.4.5",
