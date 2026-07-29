@@ -36,7 +36,7 @@ title: 👨‍💻 Recent Work
 
 #### 🔭 Latest releases I've contributed to
 
-- [bowtie-json-schema/bowtie](https://github.com/bowtie-json-schema/bowtie) - [v2026.7.2](https://github.com/bowtie-json-schema/bowtie/releases/tag/v2026.7.2) (2 days ago)
+- [bowtie-json-schema/bowtie](https://github.com/bowtie-json-schema/bowtie) - [v2026.7.3](https://github.com/bowtie-json-schema/bowtie/releases/tag/v2026.7.3) (today)
 - [MyParcelCOM/api-sdk-php](https://github.com/MyParcelCOM/api-sdk-php) - [v3.12.0](https://github.com/MyParcelCOM/api-sdk-php/releases/tag/v3.12.0) (2 days ago)
 - [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) - [6.10.0](https://github.com/jsonrainbow/json-schema/releases/tag/6.10.0) (1 month ago)
 - [JsonMapper/LaravelPackage](https://github.com/JsonMapper/LaravelPackage) - [3.0.0](https://github.com/JsonMapper/LaravelPackage/releases/tag/3.0.0) (3 months ago)
