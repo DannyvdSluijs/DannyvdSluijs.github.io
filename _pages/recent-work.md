@@ -4,6 +4,7 @@ title: 👨‍💻 Recent Work
 
 #### 💻 Check out what I'm currently working on
 
+- [infi-nl/the-infi-way](https://github.com/infi-nl/the-infi-way) (today)
 - [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (2 weeks ago)
 - [DannyvdSluijs/tom-auto-avontuur](https://github.com/DannyvdSluijs/tom-auto-avontuur) (3 weeks ago)
 - [DannyvdSluijs/lottes-obby](https://github.com/DannyvdSluijs/lottes-obby) (3 weeks ago)
@@ -13,7 +14,6 @@ title: 👨‍💻 Recent Work
 - [jsonrainbow/docs](https://github.com/jsonrainbow/docs) (1 month ago)
 - [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (3 months ago)
 - [infi-nl/con.infi.nl](https://github.com/infi-nl/con.infi.nl) (3 months ago)
-- [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (3 months ago)
 
 #### 🔨 My recent Pull Requests
 
