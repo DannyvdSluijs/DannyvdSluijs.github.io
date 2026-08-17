@@ -4,11 +4,11 @@ title: 👨‍💻 Recent Work
 
 #### 💻 Check out what I'm currently working on
 
-- [infi-nl/the-infi-way](https://github.com/infi-nl/the-infi-way) (5 days ago)
+- [infi-nl/the-infi-way](https://github.com/infi-nl/the-infi-way) (6 days ago)
 - [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (3 weeks ago)
 - [DannyvdSluijs/tom-auto-avontuur](https://github.com/DannyvdSluijs/tom-auto-avontuur) (4 weeks ago)
-- [DannyvdSluijs/lottes-obby](https://github.com/DannyvdSluijs/lottes-obby) (4 weeks ago)
-- [DannyvdSluijs/DannyvdSluijs.github.io](https://github.com/DannyvdSluijs/DannyvdSluijs.github.io) (4 weeks ago)
+- [DannyvdSluijs/lottes-obby](https://github.com/DannyvdSluijs/lottes-obby) (1 month ago)
+- [DannyvdSluijs/DannyvdSluijs.github.io](https://github.com/DannyvdSluijs/DannyvdSluijs.github.io) (1 month ago)
 - [myparcelnl/developer](https://github.com/myparcelnl/developer) (1 month ago)
 - [bowtie-json-schema/bowtie](https://github.com/bowtie-json-schema/bowtie) (1 month ago)
 - [jsonrainbow/docs](https://github.com/jsonrainbow/docs) (1 month ago)
@@ -36,7 +36,7 @@ title: 👨‍💻 Recent Work
 
 #### 🔭 Latest releases I've contributed to
 
-- [MyParcelCOM/api-sdk-php](https://github.com/MyParcelCOM/api-sdk-php) - [v3.12.1](https://github.com/MyParcelCOM/api-sdk-php/releases/tag/v3.12.1) (3 days ago)
+- [MyParcelCOM/api-sdk-php](https://github.com/MyParcelCOM/api-sdk-php) - [v3.12.1](https://github.com/MyParcelCOM/api-sdk-php/releases/tag/v3.12.1) (4 days ago)
 - [bowtie-json-schema/bowtie](https://github.com/bowtie-json-schema/bowtie) - [v2026.7.4](https://github.com/bowtie-json-schema/bowtie/releases/tag/v2026.7.4) (2 weeks ago)
 - [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) - [6.10.0](https://github.com/jsonrainbow/json-schema/releases/tag/6.10.0) (2 months ago)
 - [JsonMapper/LaravelPackage](https://github.com/JsonMapper/LaravelPackage) - [3.0.0](https://github.com/JsonMapper/LaravelPackage/releases/tag/3.0.0) (4 months ago)
