@@ -4,6 +4,7 @@ title: 👨‍💻 Recent Work
 
 #### 💻 Check out what I'm currently working on
 
+- [jsonrainbow/docs](https://github.com/jsonrainbow/docs) (today)
 - [infi-nl/the-infi-way](https://github.com/infi-nl/the-infi-way) (1 week ago)
 - [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (3 weeks ago)
 - [DannyvdSluijs/tom-auto-avontuur](https://github.com/DannyvdSluijs/tom-auto-avontuur) (1 month ago)
@@ -11,12 +12,12 @@ title: 👨‍💻 Recent Work
 - [DannyvdSluijs/DannyvdSluijs.github.io](https://github.com/DannyvdSluijs/DannyvdSluijs.github.io) (1 month ago)
 - [myparcelnl/developer](https://github.com/myparcelnl/developer) (1 month ago)
 - [bowtie-json-schema/bowtie](https://github.com/bowtie-json-schema/bowtie) (1 month ago)
-- [jsonrainbow/docs](https://github.com/jsonrainbow/docs) (1 month ago)
 - [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (3 months ago)
 - [infi-nl/con.infi.nl](https://github.com/infi-nl/con.infi.nl) (3 months ago)
 
 #### 🔨 My recent Pull Requests
 
+- [docs: Document strict validation for newer drafts](https://github.com/jsonrainbow/docs/pull/19) on [jsonrainbow/docs](https://github.com/jsonrainbow/docs) (today)
 - [Update composer.json authors to reflect current active maintainer](https://github.com/jsonrainbow/json-schema/pull/928) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (1 month ago)
 - [Avoid unconditional constraint instantiation in Draft06/07/2019 dispatch](https://github.com/jsonrainbow/json-schema/pull/926) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (1 month ago)
 - [fix: Dont use mb_detect_encoding for mb_string function calls](https://github.com/jsonrainbow/json-schema/pull/924) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (1 month ago)
@@ -31,7 +32,6 @@ title: 👨‍💻 Recent Work
 - [feat: Upgrade to Hyde v2 using upgrade guide](https://github.com/DannyvdSluijs/DannyvdSluijs.github.io/pull/83) on [DannyvdSluijs/DannyvdSluijs.github.io](https://github.com/DannyvdSluijs/DannyvdSluijs.github.io) (2 months ago)
 - [Fix typo in keynote text](https://github.com/infi-nl/con.infi.nl/pull/24) on [infi-nl/con.infi.nl](https://github.com/infi-nl/con.infi.nl) (3 months ago)
 - [Update to json schema test suite main branch](https://github.com/jsonrainbow/json-schema/pull/906) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (3 months ago)
-- [build: Raise myclabs/php-enum and phpunit/phpunit version constraints; Drop vimeo/psalm](https://github.com/JsonMapper/JsonMapper/pull/207) on [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (4 months ago)
 
 
 #### 🔭 Latest releases I've contributed to
