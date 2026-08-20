@@ -4,7 +4,7 @@ title: 👨‍💻 Recent Work
 
 #### 💻 Check out what I'm currently working on
 
-- [jsonrainbow/docs](https://github.com/jsonrainbow/docs) (today)
+- [jsonrainbow/docs](https://github.com/jsonrainbow/docs) (1 day ago)
 - [infi-nl/the-infi-way](https://github.com/infi-nl/the-infi-way) (1 week ago)
 - [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (3 weeks ago)
 - [DannyvdSluijs/tom-auto-avontuur](https://github.com/DannyvdSluijs/tom-auto-avontuur) (1 month ago)
@@ -17,10 +17,10 @@ title: 👨‍💻 Recent Work
 
 #### 🔨 My recent Pull Requests
 
-- [fix: Upgrade actions/configure-pages to version 6, resolving the node 20 deprecation message](https://github.com/hydephp/action/pull/67) on [hydephp/action](https://github.com/hydephp/action) (today)
-- [chore: Stop tracking the _site build output](https://github.com/jsonrainbow/docs/pull/21) on [jsonrainbow/docs](https://github.com/jsonrainbow/docs) (today)
-- [fix: Repair broken sitemap and RSS links in footer](https://github.com/jsonrainbow/docs/pull/20) on [jsonrainbow/docs](https://github.com/jsonrainbow/docs) (today)
-- [docs: Document strict validation for newer drafts](https://github.com/jsonrainbow/docs/pull/19) on [jsonrainbow/docs](https://github.com/jsonrainbow/docs) (1 day ago)
+- [fix: Upgrade actions/configure-pages to version 6, resolving the node 20 deprecation message](https://github.com/hydephp/action/pull/67) on [hydephp/action](https://github.com/hydephp/action) (1 day ago)
+- [chore: Stop tracking the _site build output](https://github.com/jsonrainbow/docs/pull/21) on [jsonrainbow/docs](https://github.com/jsonrainbow/docs) (1 day ago)
+- [fix: Repair broken sitemap and RSS links in footer](https://github.com/jsonrainbow/docs/pull/20) on [jsonrainbow/docs](https://github.com/jsonrainbow/docs) (1 day ago)
+- [docs: Document strict validation for newer drafts](https://github.com/jsonrainbow/docs/pull/19) on [jsonrainbow/docs](https://github.com/jsonrainbow/docs) (2 days ago)
 - [Update composer.json authors to reflect current active maintainer](https://github.com/jsonrainbow/json-schema/pull/928) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (1 month ago)
 - [Avoid unconditional constraint instantiation in Draft06/07/2019 dispatch](https://github.com/jsonrainbow/json-schema/pull/926) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (1 month ago)
 - [fix: Dont use mb_detect_encoding for mb_string function calls](https://github.com/jsonrainbow/json-schema/pull/924) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (1 month ago)
@@ -36,8 +36,8 @@ title: 👨‍💻 Recent Work
 
 #### 🔭 Latest releases I've contributed to
 
-- [MyParcelCOM/api-sdk-php](https://github.com/MyParcelCOM/api-sdk-php) - [v3.12.1](https://github.com/MyParcelCOM/api-sdk-php/releases/tag/v3.12.1) (6 days ago)
-- [bowtie-json-schema/bowtie](https://github.com/bowtie-json-schema/bowtie) - [v2026.7.4](https://github.com/bowtie-json-schema/bowtie/releases/tag/v2026.7.4) (2 weeks ago)
+- [MyParcelCOM/api-sdk-php](https://github.com/MyParcelCOM/api-sdk-php) - [v3.12.1](https://github.com/MyParcelCOM/api-sdk-php/releases/tag/v3.12.1) (1 week ago)
+- [bowtie-json-schema/bowtie](https://github.com/bowtie-json-schema/bowtie) - [v2026.7.4](https://github.com/bowtie-json-schema/bowtie/releases/tag/v2026.7.4) (3 weeks ago)
 - [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) - [6.10.0](https://github.com/jsonrainbow/json-schema/releases/tag/6.10.0) (2 months ago)
 - [JsonMapper/LaravelPackage](https://github.com/JsonMapper/LaravelPackage) - [3.0.0](https://github.com/JsonMapper/LaravelPackage/releases/tag/3.0.0) (4 months ago)
 - [Daniel-Marynicz/BehatParallelExtension](https://github.com/Daniel-Marynicz/BehatParallelExtension) - [v1.2.0](https://github.com/Daniel-Marynicz/BehatParallelExtension/releases/tag/v1.2.0) (7 months ago)
