@@ -36,9 +36,9 @@ title: 👨‍💻 Recent Work
 
 #### 🔭 Latest releases I've contributed to
 
+- [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) - [6.11.0](https://github.com/jsonrainbow/json-schema/releases/tag/6.11.0) (today)
 - [MyParcelCOM/api-sdk-php](https://github.com/MyParcelCOM/api-sdk-php) - [v3.12.1](https://github.com/MyParcelCOM/api-sdk-php/releases/tag/v3.12.1) (1 week ago)
 - [bowtie-json-schema/bowtie](https://github.com/bowtie-json-schema/bowtie) - [v2026.7.4](https://github.com/bowtie-json-schema/bowtie/releases/tag/v2026.7.4) (3 weeks ago)
-- [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) - [6.10.0](https://github.com/jsonrainbow/json-schema/releases/tag/6.10.0) (2 months ago)
 - [JsonMapper/LaravelPackage](https://github.com/JsonMapper/LaravelPackage) - [3.0.0](https://github.com/JsonMapper/LaravelPackage/releases/tag/3.0.0) (4 months ago)
 - [Daniel-Marynicz/BehatParallelExtension](https://github.com/Daniel-Marynicz/BehatParallelExtension) - [v1.2.0](https://github.com/Daniel-Marynicz/BehatParallelExtension/releases/tag/v1.2.0) (7 months ago)
 - [infi-nl/timechimp-billability-chart](https://github.com/infi-nl/timechimp-billability-chart) - [v2.0.1](https://github.com/infi-nl/timechimp-billability-chart/releases/tag/v2.0.1) (7 months ago)
