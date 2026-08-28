@@ -4,19 +4,25 @@ title: 👨‍💻 Recent Work
 
 #### 💻 Check out what I'm currently working on
 
+- [JsonMapper/jsonmapper.github.io](https://github.com/JsonMapper/jsonmapper.github.io) (today)
 - [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (1 week ago)
 - [jsonrainbow/docs](https://github.com/jsonrainbow/docs) (1 week ago)
 - [infi-nl/the-infi-way](https://github.com/infi-nl/the-infi-way) (2 weeks ago)
 - [DannyvdSluijs/tom-auto-avontuur](https://github.com/DannyvdSluijs/tom-auto-avontuur) (1 month ago)
-- [DannyvdSluijs/lottes-obby](https://github.com/DannyvdSluijs/lottes-obby) (1 month ago)
 - [DannyvdSluijs/DannyvdSluijs.github.io](https://github.com/DannyvdSluijs/DannyvdSluijs.github.io) (1 month ago)
+- [DannyvdSluijs/lottes-obby](https://github.com/DannyvdSluijs/lottes-obby) (1 month ago)
 - [myparcelnl/developer](https://github.com/myparcelnl/developer) (1 month ago)
 - [bowtie-json-schema/bowtie](https://github.com/bowtie-json-schema/bowtie) (2 months ago)
 - [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (3 months ago)
-- [infi-nl/con.infi.nl](https://github.com/infi-nl/con.infi.nl) (3 months ago)
 
 #### 🔨 My recent Pull Requests
 
+- [docs: Refresh the README feature list and examples](https://github.com/JsonMapper/JsonMapper/pull/212) on [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (today)
+- [ci: parse and analyse the documentation&#39;s PHP examples](https://github.com/JsonMapper/jsonmapper.github.io/pull/69) on [JsonMapper/jsonmapper.github.io](https://github.com/JsonMapper/jsonmapper.github.io) (today)
+- [docs: resolve the documentation drift reported in #63](https://github.com/JsonMapper/jsonmapper.github.io/pull/68) on [JsonMapper/jsonmapper.github.io](https://github.com/JsonMapper/jsonmapper.github.io) (today)
+- [fix: correct the invalid PHP in the constructor middleware example](https://github.com/JsonMapper/jsonmapper.github.io/pull/67) on [JsonMapper/jsonmapper.github.io](https://github.com/JsonMapper/jsonmapper.github.io) (today)
+- [fix: move the copy button clear of the code on narrow screens](https://github.com/JsonMapper/jsonmapper.github.io/pull/66) on [JsonMapper/jsonmapper.github.io](https://github.com/JsonMapper/jsonmapper.github.io) (today)
+- [Replace Jekyll with HydePHP](https://github.com/JsonMapper/jsonmapper.github.io/pull/65) on [JsonMapper/jsonmapper.github.io](https://github.com/JsonMapper/jsonmapper.github.io) (today)
 - [fix: Handle null byte when validating date/time formats](https://github.com/jsonrainbow/json-schema/pull/939) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (1 week ago)
 - [fix: Correct php-cs-fixer setup](https://github.com/jsonrainbow/json-schema/pull/938) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (1 week ago)
 - [fix: Upgrade actions/configure-pages to version 6, resolving the node 20 deprecation message](https://github.com/hydephp/action/pull/67) on [hydephp/action](https://github.com/hydephp/action) (1 week ago)
@@ -26,12 +32,6 @@ title: 👨‍💻 Recent Work
 - [Update composer.json authors to reflect current active maintainer](https://github.com/jsonrainbow/json-schema/pull/928) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (1 month ago)
 - [Avoid unconditional constraint instantiation in Draft06/07/2019 dispatch](https://github.com/jsonrainbow/json-schema/pull/926) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (1 month ago)
 - [fix: Dont use mb_detect_encoding for mb_string function calls](https://github.com/jsonrainbow/json-schema/pull/924) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (1 month ago)
-- [feat: CI-762 - Add InPost custom contract instructions](https://github.com/myparcelnl/developer/pull/206) on [myparcelnl/developer](https://github.com/myparcelnl/developer) (1 month ago)
-- [fix: Applies fixes for justinrainbow/json-schema for draft 2019-09 once results of 2026.6.1 release where available](https://github.com/bowtie-json-schema/bowtie/pull/2880) on [bowtie-json-schema/bowtie](https://github.com/bowtie-json-schema/bowtie) (2 months ago)
-- [fix: Use specific PHP version and update actions/checkout](https://github.com/jsonrainbow/docs/pull/17) on [jsonrainbow/docs](https://github.com/jsonrainbow/docs) (2 months ago)
-- [Upgrade to HydePHP v2.0](https://github.com/jsonrainbow/docs/pull/16) on [jsonrainbow/docs](https://github.com/jsonrainbow/docs) (2 months ago)
-- [Update README with Draft 7 badge correction and include JetBrains logo](https://github.com/jsonrainbow/json-schema/pull/921) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (2 months ago)
-- [feat: Add Draft 2019-09 support](https://github.com/bowtie-json-schema/bowtie/pull/2818) on [bowtie-json-schema/bowtie](https://github.com/bowtie-json-schema/bowtie) (2 months ago)
 
 
 #### 🔭 Latest releases I've contributed to
