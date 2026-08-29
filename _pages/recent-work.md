@@ -4,8 +4,8 @@ title: 👨‍💻 Recent Work
 
 #### 💻 Check out what I'm currently working on
 
-- [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (today)
-- [JsonMapper/jsonmapper.github.io](https://github.com/JsonMapper/jsonmapper.github.io) (today)
+- [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (1 day ago)
+- [JsonMapper/jsonmapper.github.io](https://github.com/JsonMapper/jsonmapper.github.io) (1 day ago)
 - [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (1 week ago)
 - [jsonrainbow/docs](https://github.com/jsonrainbow/docs) (1 week ago)
 - [infi-nl/the-infi-way](https://github.com/infi-nl/the-infi-way) (2 weeks ago)
@@ -17,13 +17,13 @@ title: 👨‍💻 Recent Work
 
 #### 🔨 My recent Pull Requests
 
-- [ci: Fix the PHP 8.0 build and update the checkout action](https://github.com/JsonMapper/JsonMapper/pull/213) on [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (today)
-- [docs: Refresh the README feature list and examples](https://github.com/JsonMapper/JsonMapper/pull/212) on [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (today)
-- [ci: parse and analyse the documentation&#39;s PHP examples](https://github.com/JsonMapper/jsonmapper.github.io/pull/69) on [JsonMapper/jsonmapper.github.io](https://github.com/JsonMapper/jsonmapper.github.io) (today)
-- [docs: resolve the documentation drift reported in #63](https://github.com/JsonMapper/jsonmapper.github.io/pull/68) on [JsonMapper/jsonmapper.github.io](https://github.com/JsonMapper/jsonmapper.github.io) (today)
-- [fix: correct the invalid PHP in the constructor middleware example](https://github.com/JsonMapper/jsonmapper.github.io/pull/67) on [JsonMapper/jsonmapper.github.io](https://github.com/JsonMapper/jsonmapper.github.io) (today)
-- [fix: move the copy button clear of the code on narrow screens](https://github.com/JsonMapper/jsonmapper.github.io/pull/66) on [JsonMapper/jsonmapper.github.io](https://github.com/JsonMapper/jsonmapper.github.io) (today)
-- [Replace Jekyll with HydePHP](https://github.com/JsonMapper/jsonmapper.github.io/pull/65) on [JsonMapper/jsonmapper.github.io](https://github.com/JsonMapper/jsonmapper.github.io) (today)
+- [ci: Fix the PHP 8.0 build and update the checkout action](https://github.com/JsonMapper/JsonMapper/pull/213) on [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (1 day ago)
+- [docs: Refresh the README feature list and examples](https://github.com/JsonMapper/JsonMapper/pull/212) on [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (1 day ago)
+- [ci: parse and analyse the documentation&#39;s PHP examples](https://github.com/JsonMapper/jsonmapper.github.io/pull/69) on [JsonMapper/jsonmapper.github.io](https://github.com/JsonMapper/jsonmapper.github.io) (1 day ago)
+- [docs: resolve the documentation drift reported in #63](https://github.com/JsonMapper/jsonmapper.github.io/pull/68) on [JsonMapper/jsonmapper.github.io](https://github.com/JsonMapper/jsonmapper.github.io) (1 day ago)
+- [fix: correct the invalid PHP in the constructor middleware example](https://github.com/JsonMapper/jsonmapper.github.io/pull/67) on [JsonMapper/jsonmapper.github.io](https://github.com/JsonMapper/jsonmapper.github.io) (1 day ago)
+- [fix: move the copy button clear of the code on narrow screens](https://github.com/JsonMapper/jsonmapper.github.io/pull/66) on [JsonMapper/jsonmapper.github.io](https://github.com/JsonMapper/jsonmapper.github.io) (1 day ago)
+- [Replace Jekyll with HydePHP](https://github.com/JsonMapper/jsonmapper.github.io/pull/65) on [JsonMapper/jsonmapper.github.io](https://github.com/JsonMapper/jsonmapper.github.io) (1 day ago)
 - [fix: Handle null byte when validating date/time formats](https://github.com/jsonrainbow/json-schema/pull/939) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (1 week ago)
 - [fix: Correct php-cs-fixer setup](https://github.com/jsonrainbow/json-schema/pull/938) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (1 week ago)
 - [fix: Upgrade actions/configure-pages to version 6, resolving the node 20 deprecation message](https://github.com/hydephp/action/pull/67) on [hydephp/action](https://github.com/hydephp/action) (1 week ago)
@@ -38,7 +38,7 @@ title: 👨‍💻 Recent Work
 
 - [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) - [6.11.0](https://github.com/jsonrainbow/json-schema/releases/tag/6.11.0) (1 week ago)
 - [MyParcelCOM/api-sdk-php](https://github.com/MyParcelCOM/api-sdk-php) - [v3.12.1](https://github.com/MyParcelCOM/api-sdk-php/releases/tag/v3.12.1) (2 weeks ago)
-- [bowtie-json-schema/bowtie](https://github.com/bowtie-json-schema/bowtie) - [v2026.7.4](https://github.com/bowtie-json-schema/bowtie/releases/tag/v2026.7.4) (4 weeks ago)
+- [bowtie-json-schema/bowtie](https://github.com/bowtie-json-schema/bowtie) - [v2026.7.4](https://github.com/bowtie-json-schema/bowtie/releases/tag/v2026.7.4) (1 month ago)
 - [JsonMapper/LaravelPackage](https://github.com/JsonMapper/LaravelPackage) - [3.0.0](https://github.com/JsonMapper/LaravelPackage/releases/tag/3.0.0) (4 months ago)
 - [Daniel-Marynicz/BehatParallelExtension](https://github.com/Daniel-Marynicz/BehatParallelExtension) - [v1.2.0](https://github.com/Daniel-Marynicz/BehatParallelExtension/releases/tag/v1.2.0) (7 months ago)
 - [infi-nl/timechimp-billability-chart](https://github.com/infi-nl/timechimp-billability-chart) - [v2.0.1](https://github.com/infi-nl/timechimp-billability-chart/releases/tag/v2.0.1) (7 months ago)
