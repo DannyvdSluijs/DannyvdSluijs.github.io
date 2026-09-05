@@ -18,7 +18,7 @@ title: 👨‍💻 Recent Work
 #### 🔨 My recent Pull Requests
 
 - [Report schema loading failures as an errored case](https://github.com/bowtie-json-schema/php-justinrainbow-json-schema/pull/19) on [bowtie-json-schema/php-justinrainbow-json-schema](https://github.com/bowtie-json-schema/php-justinrainbow-json-schema) (1 day ago)
-- [Resolve nested relative ids against their enclosing id](https://github.com/jsonrainbow/json-schema/pull/947) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (1 day ago)
+- [Resolve nested schema ids against their enclosing base uri](https://github.com/jsonrainbow/json-schema/pull/947) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (1 day ago)
 - [fix: Avoid restricted stargazers endpoint in Welcome workflow and avoid running for bot user types](https://github.com/jsonrainbow/json-schema/pull/946) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (1 day ago)
 - [fix: Correct changelog and changelog updates](https://github.com/jsonrainbow/json-schema/pull/945) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (1 day ago)
 - [ci: Fix the PHP 8.0 build and update the checkout action](https://github.com/JsonMapper/JsonMapper/pull/213) on [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (1 week ago)
