@@ -10,10 +10,10 @@ title: 👨‍💻 Recent Work
 - [jsonrainbow/docs](https://github.com/jsonrainbow/docs) (2 weeks ago)
 - [infi-nl/the-infi-way](https://github.com/infi-nl/the-infi-way) (3 weeks ago)
 - [DannyvdSluijs/tom-auto-avontuur](https://github.com/DannyvdSluijs/tom-auto-avontuur) (1 month ago)
-- [DannyvdSluijs/DannyvdSluijs.github.io](https://github.com/DannyvdSluijs/DannyvdSluijs.github.io) (1 month ago)
 - [DannyvdSluijs/lottes-obby](https://github.com/DannyvdSluijs/lottes-obby) (1 month ago)
+- [DannyvdSluijs/DannyvdSluijs.github.io](https://github.com/DannyvdSluijs/DannyvdSluijs.github.io) (1 month ago)
 - [myparcelnl/developer](https://github.com/myparcelnl/developer) (1 month ago)
-- [bowtie-json-schema/bowtie](https://github.com/bowtie-json-schema/bowtie) (2 months ago)
+- [bowtie-json-schema/php-justinrainbow-json-schema](https://github.com/bowtie-json-schema/php-justinrainbow-json-schema) (2 months ago)
 
 #### 🔨 My recent Pull Requests
 
