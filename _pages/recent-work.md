@@ -36,8 +36,8 @@ title: 👨‍💻 Recent Work
 
 #### 🔭 Latest releases I've contributed to
 
+- [MyParcelCOM/api-sdk-php](https://github.com/MyParcelCOM/api-sdk-php) - [v3.12.3](https://github.com/MyParcelCOM/api-sdk-php/releases/tag/v3.12.3) (today)
 - [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) - [6.12.0](https://github.com/jsonrainbow/json-schema/releases/tag/6.12.0) (5 days ago)
-- [MyParcelCOM/api-sdk-php](https://github.com/MyParcelCOM/api-sdk-php) - [v3.12.2](https://github.com/MyParcelCOM/api-sdk-php/releases/tag/v3.12.2) (1 week ago)
 - [bowtie-json-schema/bowtie](https://github.com/bowtie-json-schema/bowtie) - [v2026.7.4](https://github.com/bowtie-json-schema/bowtie/releases/tag/v2026.7.4) (1 month ago)
 - [bowtie-json-schema/php-justinrainbow-json-schema](https://github.com/bowtie-json-schema/php-justinrainbow-json-schema) - [report](https://github.com/bowtie-json-schema/php-justinrainbow-json-schema/releases/tag/report) (1 month ago)
 - [JsonMapper/LaravelPackage](https://github.com/JsonMapper/LaravelPackage) - [3.0.0](https://github.com/JsonMapper/LaravelPackage/releases/tag/3.0.0) (5 months ago)
