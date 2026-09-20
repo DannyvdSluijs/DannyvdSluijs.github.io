@@ -4,7 +4,7 @@ title: 👨‍💻 Recent Work
 
 #### 💻 Check out what I'm currently working on
 
-- [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (4 days ago)
+- [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (5 days ago)
 - [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (2 weeks ago)
 - [JsonMapper/jsonmapper.github.io](https://github.com/JsonMapper/jsonmapper.github.io) (3 weeks ago)
 - [jsonrainbow/docs](https://github.com/jsonrainbow/docs) (1 month ago)
@@ -17,7 +17,7 @@ title: 👨‍💻 Recent Work
 
 #### 🔨 My recent Pull Requests
 
-- [fix: Address warning on PHPUnit process due to upstream changes](https://github.com/jsonrainbow/json-schema/pull/956) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (4 days ago)
+- [fix: Address warning on PHPUnit process due to upstream changes](https://github.com/jsonrainbow/json-schema/pull/956) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (5 days ago)
 - [Report schema loading failures as an errored case](https://github.com/bowtie-json-schema/php-justinrainbow-json-schema/pull/19) on [bowtie-json-schema/php-justinrainbow-json-schema](https://github.com/bowtie-json-schema/php-justinrainbow-json-schema) (2 weeks ago)
 - [Resolve nested schema ids against their enclosing base uri](https://github.com/jsonrainbow/json-schema/pull/947) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (2 weeks ago)
 - [fix: Avoid restricted stargazers endpoint in Welcome workflow and avoid running for bot user types](https://github.com/jsonrainbow/json-schema/pull/946) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (2 weeks ago)
@@ -29,8 +29,8 @@ title: 👨‍💻 Recent Work
 - [fix: correct the invalid PHP in the constructor middleware example](https://github.com/JsonMapper/jsonmapper.github.io/pull/67) on [JsonMapper/jsonmapper.github.io](https://github.com/JsonMapper/jsonmapper.github.io) (3 weeks ago)
 - [fix: move the copy button clear of the code on narrow screens](https://github.com/JsonMapper/jsonmapper.github.io/pull/66) on [JsonMapper/jsonmapper.github.io](https://github.com/JsonMapper/jsonmapper.github.io) (3 weeks ago)
 - [Replace Jekyll with HydePHP](https://github.com/JsonMapper/jsonmapper.github.io/pull/65) on [JsonMapper/jsonmapper.github.io](https://github.com/JsonMapper/jsonmapper.github.io) (3 weeks ago)
-- [fix: Handle null byte when validating date/time formats](https://github.com/jsonrainbow/json-schema/pull/939) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (4 weeks ago)
-- [fix: Correct php-cs-fixer setup](https://github.com/jsonrainbow/json-schema/pull/938) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (4 weeks ago)
+- [fix: Handle null byte when validating date/time formats](https://github.com/jsonrainbow/json-schema/pull/939) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (1 month ago)
+- [fix: Correct php-cs-fixer setup](https://github.com/jsonrainbow/json-schema/pull/938) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (1 month ago)
 - [fix: Upgrade actions/configure-pages to version 6, resolving the node 20 deprecation message](https://github.com/hydephp/action/pull/67) on [hydephp/action](https://github.com/hydephp/action) (1 month ago)
 
 
