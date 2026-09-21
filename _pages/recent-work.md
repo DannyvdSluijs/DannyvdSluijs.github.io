@@ -4,8 +4,8 @@ title: 👨‍💻 Recent Work
 
 #### 💻 Check out what I'm currently working on
 
-- [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (5 days ago)
-- [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (2 weeks ago)
+- [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (6 days ago)
+- [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (3 weeks ago)
 - [JsonMapper/jsonmapper.github.io](https://github.com/JsonMapper/jsonmapper.github.io) (3 weeks ago)
 - [jsonrainbow/docs](https://github.com/jsonrainbow/docs) (1 month ago)
 - [infi-nl/the-infi-way](https://github.com/infi-nl/the-infi-way) (1 month ago)
@@ -17,7 +17,7 @@ title: 👨‍💻 Recent Work
 
 #### 🔨 My recent Pull Requests
 
-- [fix: Address warning on PHPUnit process due to upstream changes](https://github.com/jsonrainbow/json-schema/pull/956) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (5 days ago)
+- [fix: Address warning on PHPUnit process due to upstream changes](https://github.com/jsonrainbow/json-schema/pull/956) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (6 days ago)
 - [Report schema loading failures as an errored case](https://github.com/bowtie-json-schema/php-justinrainbow-json-schema/pull/19) on [bowtie-json-schema/php-justinrainbow-json-schema](https://github.com/bowtie-json-schema/php-justinrainbow-json-schema) (2 weeks ago)
 - [Resolve nested schema ids against their enclosing base uri](https://github.com/jsonrainbow/json-schema/pull/947) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (2 weeks ago)
 - [fix: Avoid restricted stargazers endpoint in Welcome workflow and avoid running for bot user types](https://github.com/jsonrainbow/json-schema/pull/946) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (2 weeks ago)
