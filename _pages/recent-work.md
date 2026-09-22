@@ -17,6 +17,8 @@ title: 👨‍💻 Recent Work
 
 #### 🔨 My recent Pull Requests
 
+- [Validate idn-email format](https://github.com/jsonrainbow/json-schema/pull/963) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (today)
+- [Validate iri and iri-reference formats according to RFC 3987](https://github.com/jsonrainbow/json-schema/pull/962) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (today)
 - [Fix uri-template rejecting non-Latin literals on PCRE2 10.46](https://github.com/jsonrainbow/json-schema/pull/961) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (today)
 - [Validate uri-template format according to RFC 6570](https://github.com/jsonrainbow/json-schema/pull/960) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (today)
 - [fix: Address warning on PHPUnit process due to upstream changes](https://github.com/jsonrainbow/json-schema/pull/956) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (1 week ago)
@@ -30,8 +32,6 @@ title: 👨‍💻 Recent Work
 - [docs: resolve the documentation drift reported in #63](https://github.com/JsonMapper/jsonmapper.github.io/pull/68) on [JsonMapper/jsonmapper.github.io](https://github.com/JsonMapper/jsonmapper.github.io) (3 weeks ago)
 - [fix: correct the invalid PHP in the constructor middleware example](https://github.com/JsonMapper/jsonmapper.github.io/pull/67) on [JsonMapper/jsonmapper.github.io](https://github.com/JsonMapper/jsonmapper.github.io) (3 weeks ago)
 - [fix: move the copy button clear of the code on narrow screens](https://github.com/JsonMapper/jsonmapper.github.io/pull/66) on [JsonMapper/jsonmapper.github.io](https://github.com/JsonMapper/jsonmapper.github.io) (3 weeks ago)
-- [Replace Jekyll with HydePHP](https://github.com/JsonMapper/jsonmapper.github.io/pull/65) on [JsonMapper/jsonmapper.github.io](https://github.com/JsonMapper/jsonmapper.github.io) (3 weeks ago)
-- [fix: Handle null byte when validating date/time formats](https://github.com/jsonrainbow/json-schema/pull/939) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (1 month ago)
 
 
 #### 🔭 Latest releases I've contributed to
