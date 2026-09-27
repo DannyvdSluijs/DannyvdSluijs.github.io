@@ -11,8 +11,8 @@ title: 👨‍💻 Recent Work
 - [jsonrainbow/docs](https://github.com/jsonrainbow/docs) (1 month ago)
 - [infi-nl/the-infi-way](https://github.com/infi-nl/the-infi-way) (1 month ago)
 - [DannyvdSluijs/tom-auto-avontuur](https://github.com/DannyvdSluijs/tom-auto-avontuur) (2 months ago)
-- [DannyvdSluijs/lottes-obby](https://github.com/DannyvdSluijs/lottes-obby) (2 months ago)
 - [DannyvdSluijs/DannyvdSluijs.github.io](https://github.com/DannyvdSluijs/DannyvdSluijs.github.io) (2 months ago)
+- [DannyvdSluijs/lottes-obby](https://github.com/DannyvdSluijs/lottes-obby) (2 months ago)
 - [myparcelnl/developer](https://github.com/myparcelnl/developer) (2 months ago)
 
 #### 🔨 My recent Pull Requests
