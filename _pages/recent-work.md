@@ -4,8 +4,8 @@ title: 👨‍💻 Recent Work
 
 #### 💻 Check out what I'm currently working on
 
-- [JsonMapper/SymfonyBundle](https://github.com/JsonMapper/SymfonyBundle) (1 day ago)
-- [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (6 days ago)
+- [JsonMapper/SymfonyBundle](https://github.com/JsonMapper/SymfonyBundle) (2 days ago)
+- [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (1 week ago)
 - [bowtie-json-schema/php-justinrainbow-json-schema](https://github.com/bowtie-json-schema/php-justinrainbow-json-schema) (1 week ago)
 - [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (1 month ago)
 - [JsonMapper/jsonmapper.github.io](https://github.com/JsonMapper/jsonmapper.github.io) (1 month ago)
@@ -17,9 +17,9 @@ title: 👨‍💻 Recent Work
 
 #### 🔨 My recent Pull Requests
 
-- [chore: Make main default branch](https://github.com/JsonMapper/SymfonyBundle/pull/11) on [JsonMapper/SymfonyBundle](https://github.com/JsonMapper/SymfonyBundle) (1 day ago)
-- [Merge develop into main](https://github.com/JsonMapper/SymfonyBundle/pull/10) on [JsonMapper/SymfonyBundle](https://github.com/JsonMapper/SymfonyBundle) (1 day ago)
-- [feat: Updates from the documentation d.d. 2026-09-25](https://github.com/picqer/exact-php-client/pull/702) on [picqer/exact-php-client](https://github.com/picqer/exact-php-client) (5 days ago)
+- [chore: Make main default branch](https://github.com/JsonMapper/SymfonyBundle/pull/11) on [JsonMapper/SymfonyBundle](https://github.com/JsonMapper/SymfonyBundle) (2 days ago)
+- [Merge develop into main](https://github.com/JsonMapper/SymfonyBundle/pull/10) on [JsonMapper/SymfonyBundle](https://github.com/JsonMapper/SymfonyBundle) (2 days ago)
+- [feat: Updates from the documentation d.d. 2026-09-25](https://github.com/picqer/exact-php-client/pull/702) on [picqer/exact-php-client](https://github.com/picqer/exact-php-client) (6 days ago)
 - [Fix badge URL for Draft 2019-09 in README](https://github.com/jsonrainbow/json-schema/pull/964) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (1 week ago)
 - [build(deps-dev): bump squizlabs/php_codesniffer from 4.0.1 to 4.0.2](https://github.com/bowtie-json-schema/php-justinrainbow-json-schema/pull/28) on [bowtie-json-schema/php-justinrainbow-json-schema](https://github.com/bowtie-json-schema/php-justinrainbow-json-schema) (1 week ago)
 - [build(deps): bump justinrainbow/json-schema from 6.10.0 to 6.13.0](https://github.com/bowtie-json-schema/php-justinrainbow-json-schema/pull/27) on [bowtie-json-schema/php-justinrainbow-json-schema](https://github.com/bowtie-json-schema/php-justinrainbow-json-schema) (1 week ago)
@@ -36,7 +36,7 @@ title: 👨‍💻 Recent Work
 
 #### 🔭 Latest releases I've contributed to
 
-- [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) - [6.13.1](https://github.com/jsonrainbow/json-schema/releases/tag/6.13.1) (today)
+- [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) - [6.13.1](https://github.com/jsonrainbow/json-schema/releases/tag/6.13.1) (1 day ago)
 - [bowtie-json-schema/php-justinrainbow-json-schema](https://github.com/bowtie-json-schema/php-justinrainbow-json-schema) - [harness-release-6.10.0.0](https://github.com/bowtie-json-schema/php-justinrainbow-json-schema/releases/tag/harness-release-6.10.0.0) (1 week ago)
 - [picqer/exact-php-client](https://github.com/picqer/exact-php-client) - [v4.10.0](https://github.com/picqer/exact-php-client/releases/tag/v4.10.0) (1 week ago)
 - [MyParcelCOM/api-sdk-php](https://github.com/MyParcelCOM/api-sdk-php) - [v3.12.3](https://github.com/MyParcelCOM/api-sdk-php/releases/tag/v3.12.3) (3 weeks ago)
