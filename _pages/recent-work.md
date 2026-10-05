@@ -4,8 +4,8 @@ title: 👨‍💻 Recent Work
 
 #### 💻 Check out what I'm currently working on
 
-- [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (3 days ago)
-- [JsonMapper/SymfonyBundle](https://github.com/JsonMapper/SymfonyBundle) (5 days ago)
+- [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (4 days ago)
+- [JsonMapper/SymfonyBundle](https://github.com/JsonMapper/SymfonyBundle) (6 days ago)
 - [bowtie-json-schema/php-justinrainbow-json-schema](https://github.com/bowtie-json-schema/php-justinrainbow-json-schema) (1 week ago)
 - [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (1 month ago)
 - [JsonMapper/jsonmapper.github.io](https://github.com/JsonMapper/jsonmapper.github.io) (1 month ago)
@@ -17,9 +17,9 @@ title: 👨‍💻 Recent Work
 
 #### 🔨 My recent Pull Requests
 
-- [Allow bin/run-test-case to run a complete test file](https://github.com/jsonrainbow/json-schema/pull/966) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (3 days ago)
-- [chore: Make main default branch](https://github.com/JsonMapper/SymfonyBundle/pull/11) on [JsonMapper/SymfonyBundle](https://github.com/JsonMapper/SymfonyBundle) (5 days ago)
-- [Merge develop into main](https://github.com/JsonMapper/SymfonyBundle/pull/10) on [JsonMapper/SymfonyBundle](https://github.com/JsonMapper/SymfonyBundle) (5 days ago)
+- [Allow bin/run-test-case to run a complete test file](https://github.com/jsonrainbow/json-schema/pull/966) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (4 days ago)
+- [chore: Make main default branch](https://github.com/JsonMapper/SymfonyBundle/pull/11) on [JsonMapper/SymfonyBundle](https://github.com/JsonMapper/SymfonyBundle) (6 days ago)
+- [Merge develop into main](https://github.com/JsonMapper/SymfonyBundle/pull/10) on [JsonMapper/SymfonyBundle](https://github.com/JsonMapper/SymfonyBundle) (6 days ago)
 - [feat: Updates from the documentation d.d. 2026-09-25](https://github.com/picqer/exact-php-client/pull/702) on [picqer/exact-php-client](https://github.com/picqer/exact-php-client) (1 week ago)
 - [Fix badge URL for Draft 2019-09 in README](https://github.com/jsonrainbow/json-schema/pull/964) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (1 week ago)
 - [build(deps-dev): bump squizlabs/php_codesniffer from 4.0.1 to 4.0.2](https://github.com/bowtie-json-schema/php-justinrainbow-json-schema/pull/28) on [bowtie-json-schema/php-justinrainbow-json-schema](https://github.com/bowtie-json-schema/php-justinrainbow-json-schema) (1 week ago)
@@ -36,13 +36,13 @@ title: 👨‍💻 Recent Work
 
 #### 🔭 Latest releases I've contributed to
 
-- [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) - [6.13.1](https://github.com/jsonrainbow/json-schema/releases/tag/6.13.1) (4 days ago)
+- [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) - [6.13.1](https://github.com/jsonrainbow/json-schema/releases/tag/6.13.1) (5 days ago)
 - [bowtie-json-schema/php-justinrainbow-json-schema](https://github.com/bowtie-json-schema/php-justinrainbow-json-schema) - [harness-release-6.10.0.0](https://github.com/bowtie-json-schema/php-justinrainbow-json-schema/releases/tag/harness-release-6.10.0.0) (1 week ago)
 - [picqer/exact-php-client](https://github.com/picqer/exact-php-client) - [v4.10.0](https://github.com/picqer/exact-php-client/releases/tag/v4.10.0) (1 week ago)
 - [MyParcelCOM/api-sdk-php](https://github.com/MyParcelCOM/api-sdk-php) - [v3.12.3](https://github.com/MyParcelCOM/api-sdk-php/releases/tag/v3.12.3) (3 weeks ago)
 - [bowtie-json-schema/bowtie](https://github.com/bowtie-json-schema/bowtie) - [v2026.7.4](https://github.com/bowtie-json-schema/bowtie/releases/tag/v2026.7.4) (2 months ago)
 - [JsonMapper/LaravelPackage](https://github.com/JsonMapper/LaravelPackage) - [3.0.0](https://github.com/JsonMapper/LaravelPackage/releases/tag/3.0.0) (6 months ago)
 - [Daniel-Marynicz/BehatParallelExtension](https://github.com/Daniel-Marynicz/BehatParallelExtension) - [v1.2.0](https://github.com/Daniel-Marynicz/BehatParallelExtension/releases/tag/v1.2.0) (8 months ago)
-- [infi-nl/timechimp-billability-chart](https://github.com/infi-nl/timechimp-billability-chart) - [v2.0.1](https://github.com/infi-nl/timechimp-billability-chart/releases/tag/v2.0.1) (8 months ago)
+- [infi-nl/timechimp-billability-chart](https://github.com/infi-nl/timechimp-billability-chart) - [v2.0.1](https://github.com/infi-nl/timechimp-billability-chart/releases/tag/v2.0.1) (9 months ago)
 - [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) - [2.25.1](https://github.com/JsonMapper/JsonMapper/releases/tag/2.25.1) (1 year ago)
 - [DannyvdSluijs/PicqerExactPhpClientGenerator](https://github.com/DannyvdSluijs/PicqerExactPhpClientGenerator) - [1.1.0](https://github.com/DannyvdSluijs/PicqerExactPhpClientGenerator/releases/tag/1.1.0) (2 years ago)
