@@ -4,7 +4,7 @@ title: 👨‍💻 Recent Work
 
 #### 💻 Check out what I'm currently working on
 
-- [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (6 days ago)
+- [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (1 week ago)
 - [JsonMapper/SymfonyBundle](https://github.com/JsonMapper/SymfonyBundle) (1 week ago)
 - [bowtie-json-schema/php-justinrainbow-json-schema](https://github.com/bowtie-json-schema/php-justinrainbow-json-schema) (2 weeks ago)
 - [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (1 month ago)
@@ -17,8 +17,8 @@ title: 👨‍💻 Recent Work
 
 #### 🔨 My recent Pull Requests
 
-- [Allow nullable end parameter in getUpdated and getDeleted](https://github.com/hanishsingla/salesforce-rest-sdk/pull/3) on [hanishsingla/salesforce-rest-sdk](https://github.com/hanishsingla/salesforce-rest-sdk) (2 days ago)
-- [Allow bin/run-test-case to run a complete test file](https://github.com/jsonrainbow/json-schema/pull/966) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (6 days ago)
+- [Allow nullable end parameter in getUpdated and getDeleted](https://github.com/hanishsingla/salesforce-rest-sdk/pull/3) on [hanishsingla/salesforce-rest-sdk](https://github.com/hanishsingla/salesforce-rest-sdk) (3 days ago)
+- [Allow bin/run-test-case to run a complete test file](https://github.com/jsonrainbow/json-schema/pull/966) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (1 week ago)
 - [chore: Make main default branch](https://github.com/JsonMapper/SymfonyBundle/pull/11) on [JsonMapper/SymfonyBundle](https://github.com/JsonMapper/SymfonyBundle) (1 week ago)
 - [Merge develop into main](https://github.com/JsonMapper/SymfonyBundle/pull/10) on [JsonMapper/SymfonyBundle](https://github.com/JsonMapper/SymfonyBundle) (1 week ago)
 - [feat: Updates from the documentation d.d. 2026-09-25](https://github.com/picqer/exact-php-client/pull/702) on [picqer/exact-php-client](https://github.com/picqer/exact-php-client) (1 week ago)
