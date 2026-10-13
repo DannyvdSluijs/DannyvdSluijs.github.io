@@ -17,6 +17,7 @@ title: 👨‍💻 Recent Work
 
 #### 🔨 My recent Pull Requests
 
+- [style: Remove trailling space](https://github.com/jsonrainbow/json-schema/pull/969) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (today)
 - [Allow nullable end parameter in getUpdated and getDeleted](https://github.com/hanishsingla/salesforce-rest-sdk/pull/3) on [hanishsingla/salesforce-rest-sdk](https://github.com/hanishsingla/salesforce-rest-sdk) (1 week ago)
 - [Allow bin/run-test-case to run a complete test file](https://github.com/jsonrainbow/json-schema/pull/966) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (1 week ago)
 - [chore: Make main default branch](https://github.com/JsonMapper/SymfonyBundle/pull/11) on [JsonMapper/SymfonyBundle](https://github.com/JsonMapper/SymfonyBundle) (2 weeks ago)
@@ -31,7 +32,6 @@ title: 👨‍💻 Recent Work
 - [Fix uri-template rejecting non-Latin literals on PCRE2 10.46](https://github.com/jsonrainbow/json-schema/pull/961) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (3 weeks ago)
 - [Validate uri-template format according to RFC 6570](https://github.com/jsonrainbow/json-schema/pull/960) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (3 weeks ago)
 - [fix: Address warning on PHPUnit process due to upstream changes](https://github.com/jsonrainbow/json-schema/pull/956) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (4 weeks ago)
-- [Report schema loading failures as an errored case](https://github.com/bowtie-json-schema/php-justinrainbow-json-schema/pull/19) on [bowtie-json-schema/php-justinrainbow-json-schema](https://github.com/bowtie-json-schema/php-justinrainbow-json-schema) (1 month ago)
 
 
 #### 🔭 Latest releases I've contributed to
