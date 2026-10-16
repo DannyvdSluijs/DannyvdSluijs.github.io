@@ -17,6 +17,10 @@ title: 👨‍💻 Recent Work
 
 #### 🔨 My recent Pull Requests
 
+- [fix: Report float limits in numeric error messages without casting to int](https://github.com/jsonrainbow/json-schema/pull/982) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (today)
+- [chore: Remove legacy Sphinx docs folder](https://github.com/jsonrainbow/json-schema/pull/981) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (today)
+- [chore: Enforce LF line endings via .gitattributes and .editorconfig](https://github.com/jsonrainbow/json-schema/pull/980) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (today)
+- [test: Clean up JSON Schema Test Suite skip list](https://github.com/jsonrainbow/json-schema/pull/978) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (today)
 - [fix: Handle invalid regex patterns from user input](https://github.com/jsonrainbow/json-schema/pull/969) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (3 days ago)
 - [Allow nullable end parameter in getUpdated and getDeleted](https://github.com/hanishsingla/salesforce-rest-sdk/pull/3) on [hanishsingla/salesforce-rest-sdk](https://github.com/hanishsingla/salesforce-rest-sdk) (1 week ago)
 - [Allow bin/run-test-case to run a complete test file](https://github.com/jsonrainbow/json-schema/pull/966) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (2 weeks ago)
@@ -28,10 +32,6 @@ title: 👨‍💻 Recent Work
 - [build(deps): bump justinrainbow/json-schema from 6.10.0 to 6.13.0](https://github.com/bowtie-json-schema/php-justinrainbow-json-schema/pull/27) on [bowtie-json-schema/php-justinrainbow-json-schema](https://github.com/bowtie-json-schema/php-justinrainbow-json-schema) (3 weeks ago)
 - [Refuse to retrieve non-local schemas](https://github.com/bowtie-json-schema/php-justinrainbow-json-schema/pull/26) on [bowtie-json-schema/php-justinrainbow-json-schema](https://github.com/bowtie-json-schema/php-justinrainbow-json-schema) (3 weeks ago)
 - [Validate idn-email format](https://github.com/jsonrainbow/json-schema/pull/963) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (3 weeks ago)
-- [Validate iri and iri-reference formats according to RFC 3987](https://github.com/jsonrainbow/json-schema/pull/962) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (3 weeks ago)
-- [Fix uri-template rejecting non-Latin literals on PCRE2 10.46](https://github.com/jsonrainbow/json-schema/pull/961) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (3 weeks ago)
-- [Validate uri-template format according to RFC 6570](https://github.com/jsonrainbow/json-schema/pull/960) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (3 weeks ago)
-- [fix: Address warning on PHPUnit process due to upstream changes](https://github.com/jsonrainbow/json-schema/pull/956) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (1 month ago)
 
 
 #### 🔭 Latest releases I've contributed to
