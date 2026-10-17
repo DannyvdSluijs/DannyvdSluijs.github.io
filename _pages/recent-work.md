@@ -4,7 +4,7 @@ title: 👨‍💻 Recent Work
 
 #### 💻 Check out what I'm currently working on
 
-- [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (today)
+- [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (1 day ago)
 - [DannyvdSluijs/AoC-2024](https://github.com/DannyvdSluijs/AoC-2024) (1 week ago)
 - [JsonMapper/SymfonyBundle](https://github.com/JsonMapper/SymfonyBundle) (2 weeks ago)
 - [bowtie-json-schema/php-justinrainbow-json-schema](https://github.com/bowtie-json-schema/php-justinrainbow-json-schema) (3 weeks ago)
@@ -12,16 +12,16 @@ title: 👨‍💻 Recent Work
 - [JsonMapper/jsonmapper.github.io](https://github.com/JsonMapper/jsonmapper.github.io) (1 month ago)
 - [jsonrainbow/docs](https://github.com/jsonrainbow/docs) (1 month ago)
 - [infi-nl/the-infi-way](https://github.com/infi-nl/the-infi-way) (2 months ago)
-- [DannyvdSluijs/tom-auto-avontuur](https://github.com/DannyvdSluijs/tom-auto-avontuur) (2 months ago)
+- [DannyvdSluijs/tom-auto-avontuur](https://github.com/DannyvdSluijs/tom-auto-avontuur) (3 months ago)
 - [DannyvdSluijs/DannyvdSluijs.github.io](https://github.com/DannyvdSluijs/DannyvdSluijs.github.io) (3 months ago)
 
 #### 🔨 My recent Pull Requests
 
-- [fix: Report float limits in numeric error messages without casting to int](https://github.com/jsonrainbow/json-schema/pull/982) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (today)
-- [chore: Remove legacy Sphinx docs folder](https://github.com/jsonrainbow/json-schema/pull/981) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (today)
-- [chore: Enforce LF line endings via .gitattributes and .editorconfig](https://github.com/jsonrainbow/json-schema/pull/980) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (today)
-- [test: Clean up JSON Schema Test Suite skip list](https://github.com/jsonrainbow/json-schema/pull/978) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (today)
-- [fix: Handle invalid regex patterns from user input](https://github.com/jsonrainbow/json-schema/pull/969) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (3 days ago)
+- [fix: Report float limits in numeric error messages without casting to int](https://github.com/jsonrainbow/json-schema/pull/982) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (1 day ago)
+- [chore: Remove legacy Sphinx docs folder](https://github.com/jsonrainbow/json-schema/pull/981) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (1 day ago)
+- [chore: Enforce LF line endings via .gitattributes and .editorconfig](https://github.com/jsonrainbow/json-schema/pull/980) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (1 day ago)
+- [test: Clean up JSON Schema Test Suite skip list](https://github.com/jsonrainbow/json-schema/pull/978) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (1 day ago)
+- [fix: Handle invalid regex patterns from user input](https://github.com/jsonrainbow/json-schema/pull/969) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (4 days ago)
 - [Allow nullable end parameter in getUpdated and getDeleted](https://github.com/hanishsingla/salesforce-rest-sdk/pull/3) on [hanishsingla/salesforce-rest-sdk](https://github.com/hanishsingla/salesforce-rest-sdk) (1 week ago)
 - [Allow bin/run-test-case to run a complete test file](https://github.com/jsonrainbow/json-schema/pull/966) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (2 weeks ago)
 - [chore: Make main default branch](https://github.com/JsonMapper/SymfonyBundle/pull/11) on [JsonMapper/SymfonyBundle](https://github.com/JsonMapper/SymfonyBundle) (2 weeks ago)
