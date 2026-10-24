@@ -36,8 +36,8 @@ title: 👨‍💻 Recent Work
 
 #### 🔭 Latest releases I've contributed to
 
-- [bowtie-json-schema/php-justinrainbow-json-schema](https://github.com/bowtie-json-schema/php-justinrainbow-json-schema) - [harness-release-6.13.0.0](https://github.com/bowtie-json-schema/php-justinrainbow-json-schema/releases/tag/harness-release-6.13.0.0) (today)
-- [bowtie-json-schema/bowtie](https://github.com/bowtie-json-schema/bowtie) - [v2026.10.2](https://github.com/bowtie-json-schema/bowtie/releases/tag/v2026.10.2) (4 days ago)
+- [bowtie-json-schema/php-justinrainbow-json-schema](https://github.com/bowtie-json-schema/php-justinrainbow-json-schema) - [harness-release-6.13.0.0](https://github.com/bowtie-json-schema/php-justinrainbow-json-schema/releases/tag/harness-release-6.13.0.0) (1 day ago)
+- [bowtie-json-schema/bowtie](https://github.com/bowtie-json-schema/bowtie) - [v2026.10.2](https://github.com/bowtie-json-schema/bowtie/releases/tag/v2026.10.2) (5 days ago)
 - [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) - [6.13.1](https://github.com/jsonrainbow/json-schema/releases/tag/6.13.1) (3 weeks ago)
 - [picqer/exact-php-client](https://github.com/picqer/exact-php-client) - [v4.10.0](https://github.com/picqer/exact-php-client/releases/tag/v4.10.0) (1 month ago)
 - [MyParcelCOM/api-sdk-php](https://github.com/MyParcelCOM/api-sdk-php) - [v3.12.3](https://github.com/MyParcelCOM/api-sdk-php/releases/tag/v3.12.3) (1 month ago)
