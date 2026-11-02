@@ -17,6 +17,7 @@ title: 👨‍💻 Recent Work
 
 #### 🔨 My recent Pull Requests
 
+- [fix: harden handling of untrusted PR titles](https://github.com/DannyvdSluijs/changelog-actions/pull/1) on [DannyvdSluijs/changelog-actions](https://github.com/DannyvdSluijs/changelog-actions) (today)
 - [feat: Allow symfony/cache ^8.0](https://github.com/JsonMapper/JsonMapper/pull/224) on [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (6 days ago)
 - [chore: Replace the unmaintained thenabeel/action-phpcs action](https://github.com/JsonMapper/JsonMapper/pull/223) on [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (6 days ago)
 - [chore: Update PHPStan to 2.x and run it in CI](https://github.com/JsonMapper/JsonMapper/pull/222) on [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (6 days ago)
@@ -31,7 +32,6 @@ title: 👨‍💻 Recent Work
 - [fix: Handle invalid regex patterns from user input](https://github.com/jsonrainbow/json-schema/pull/969) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (2 weeks ago)
 - [Allow nullable end parameter in getUpdated and getDeleted](https://github.com/hanishsingla/salesforce-rest-sdk/pull/3) on [hanishsingla/salesforce-rest-sdk](https://github.com/hanishsingla/salesforce-rest-sdk) (4 weeks ago)
 - [Allow bin/run-test-case to run a complete test file](https://github.com/jsonrainbow/json-schema/pull/966) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (1 month ago)
-- [chore: Make main default branch](https://github.com/JsonMapper/SymfonyBundle/pull/11) on [JsonMapper/SymfonyBundle](https://github.com/JsonMapper/SymfonyBundle) (1 month ago)
 
 
 #### 🔭 Latest releases I've contributed to
