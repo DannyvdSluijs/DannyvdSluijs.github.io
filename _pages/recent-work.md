@@ -17,6 +17,12 @@ title: 👨‍💻 Recent Work
 
 #### 🔨 My recent Pull Requests
 
+- [ci: keep the changelog up to date with the repo&#39;s own actions](https://github.com/DannyvdSluijs/changelog-actions/pull/12) on [DannyvdSluijs/changelog-actions](https://github.com/DannyvdSluijs/changelog-actions) (today)
+- [docs: drop the GITHUB_TOKEN permissions when passing an app token](https://github.com/DannyvdSluijs/changelog-actions/pull/11) on [DannyvdSluijs/changelog-actions](https://github.com/DannyvdSluijs/changelog-actions) (today)
+- [docs: use create-github-app-token v3 in the protected-branch example](https://github.com/DannyvdSluijs/changelog-actions/pull/10) on [DannyvdSluijs/changelog-actions](https://github.com/DannyvdSluijs/changelog-actions) (today)
+- [feat(release): add add-v-prefix input to tag releases as v7.0.0](https://github.com/DannyvdSluijs/changelog-actions/pull/9) on [DannyvdSluijs/changelog-actions](https://github.com/DannyvdSluijs/changelog-actions) (today)
+- [Add GitHub Sponsors username to FUNDING.yml](https://github.com/DannyvdSluijs/changelog-actions/pull/8) on [DannyvdSluijs/changelog-actions](https://github.com/DannyvdSluijs/changelog-actions) (today)
+- [ci: update pinned actions and keep them current with Dependabot](https://github.com/DannyvdSluijs/changelog-actions/pull/7) on [DannyvdSluijs/changelog-actions](https://github.com/DannyvdSluijs/changelog-actions) (today)
 - [ci: harden the workflow and the README examples](https://github.com/DannyvdSluijs/changelog-actions/pull/6) on [DannyvdSluijs/changelog-actions](https://github.com/DannyvdSluijs/changelog-actions) (1 day ago)
 - [fix(update): do not allow the PR title in the commit message](https://github.com/DannyvdSluijs/changelog-actions/pull/5) on [DannyvdSluijs/changelog-actions](https://github.com/DannyvdSluijs/changelog-actions) (1 day ago)
 - [fix(update): require the entry template to be a single list item](https://github.com/DannyvdSluijs/changelog-actions/pull/4) on [DannyvdSluijs/changelog-actions](https://github.com/DannyvdSluijs/changelog-actions) (1 day ago)
@@ -26,16 +32,11 @@ title: 👨‍💻 Recent Work
 - [feat: Allow symfony/cache ^8.0](https://github.com/JsonMapper/JsonMapper/pull/224) on [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (1 week ago)
 - [chore: Replace the unmaintained thenabeel/action-phpcs action](https://github.com/JsonMapper/JsonMapper/pull/223) on [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (1 week ago)
 - [chore: Update PHPStan to 2.x and run it in CI](https://github.com/JsonMapper/JsonMapper/pull/222) on [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (1 week ago)
-- [chore: Remove the benchmarks](https://github.com/JsonMapper/JsonMapper/pull/221) on [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (1 week ago)
-- [chore: Remove leftover psalm script and configuration](https://github.com/JsonMapper/JsonMapper/pull/220) on [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (1 week ago)
-- [fix: Rename integration tests so PHPUnit picks them up](https://github.com/JsonMapper/JsonMapper/pull/219) on [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (1 week ago)
-- [chore: Drop the develop branch in favour of main](https://github.com/JsonMapper/JsonMapper/pull/217) on [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (1 week ago)
-- [fix: Report float limits in numeric error messages without casting to int](https://github.com/jsonrainbow/json-schema/pull/982) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (2 weeks ago)
-- [chore: Remove legacy Sphinx docs folder](https://github.com/jsonrainbow/json-schema/pull/981) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (2 weeks ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
+- [DannyvdSluijs/changelog-actions](https://github.com/DannyvdSluijs/changelog-actions) - [v1.0.0](https://github.com/DannyvdSluijs/changelog-actions/releases/tag/v1.0.0) (today)
 - [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) - [2.27.0](https://github.com/JsonMapper/JsonMapper/releases/tag/2.27.0) (1 week ago)
 - [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) - [6.14.0](https://github.com/jsonrainbow/json-schema/releases/tag/6.14.0) (1 week ago)
 - [bowtie-json-schema/php-justinrainbow-json-schema](https://github.com/bowtie-json-schema/php-justinrainbow-json-schema) - [harness-release-6.13.0.0](https://github.com/bowtie-json-schema/php-justinrainbow-json-schema/releases/tag/harness-release-6.13.0.0) (1 week ago)
@@ -45,4 +46,3 @@ title: 👨‍💻 Recent Work
 - [JsonMapper/LaravelPackage](https://github.com/JsonMapper/LaravelPackage) - [3.0.0](https://github.com/JsonMapper/LaravelPackage/releases/tag/3.0.0) (7 months ago)
 - [infi-nl/timechimp-billability-chart](https://github.com/infi-nl/timechimp-billability-chart) - [v2.0.1](https://github.com/infi-nl/timechimp-billability-chart/releases/tag/v2.0.1) (9 months ago)
 - [DannyvdSluijs/PicqerExactPhpClientGenerator](https://github.com/DannyvdSluijs/PicqerExactPhpClientGenerator) - [1.1.0](https://github.com/DannyvdSluijs/PicqerExactPhpClientGenerator/releases/tag/1.1.0) (2 years ago)
-- [JsonMapper/SymfonyBundle](https://github.com/JsonMapper/SymfonyBundle) - [2.2.1](https://github.com/JsonMapper/SymfonyBundle/releases/tag/2.2.1) (3 years ago)
