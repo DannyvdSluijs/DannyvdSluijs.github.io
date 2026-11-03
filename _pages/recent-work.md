@@ -4,7 +4,7 @@ title: 👨‍💻 Recent Work
 
 #### 💻 Check out what I'm currently working on
 
-- [DannyvdSluijs/changelog-actions](https://github.com/DannyvdSluijs/changelog-actions) (1 day ago)
+- [DannyvdSluijs/changelog-actions](https://github.com/DannyvdSluijs/changelog-actions) (today)
 - [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (1 week ago)
 - [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (2 weeks ago)
 - [DannyvdSluijs/AoC-2024](https://github.com/DannyvdSluijs/AoC-2024) (3 weeks ago)
