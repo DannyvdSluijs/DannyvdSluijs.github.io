@@ -4,9 +4,9 @@ title: 👨‍💻 Recent Work
 
 #### 💻 Check out what I'm currently working on
 
+- [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (today)
 - [jsonrainbow/.github](https://github.com/jsonrainbow/.github) (1 day ago)
 - [DannyvdSluijs/changelog-actions](https://github.com/DannyvdSluijs/changelog-actions) (2 days ago)
-- [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (1 week ago)
 - [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (2 weeks ago)
 - [DannyvdSluijs/AoC-2024](https://github.com/DannyvdSluijs/AoC-2024) (3 weeks ago)
 - [JsonMapper/SymfonyBundle](https://github.com/JsonMapper/SymfonyBundle) (1 month ago)
@@ -17,6 +17,7 @@ title: 👨‍💻 Recent Work
 
 #### 🔨 My recent Pull Requests
 
+- [build: Add PHP 8.6 to workflow matrix; Switch phpcs/phpstan to latest official release](https://github.com/JsonMapper/JsonMapper/pull/225) on [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (today)
 - [ci: keep the changelog up to date with the repo&#39;s own actions](https://github.com/DannyvdSluijs/changelog-actions/pull/12) on [DannyvdSluijs/changelog-actions](https://github.com/DannyvdSluijs/changelog-actions) (2 days ago)
 - [docs: drop the GITHUB_TOKEN permissions when passing an app token](https://github.com/DannyvdSluijs/changelog-actions/pull/11) on [DannyvdSluijs/changelog-actions](https://github.com/DannyvdSluijs/changelog-actions) (2 days ago)
 - [docs: use create-github-app-token v3 in the protected-branch example](https://github.com/DannyvdSluijs/changelog-actions/pull/10) on [DannyvdSluijs/changelog-actions](https://github.com/DannyvdSluijs/changelog-actions) (2 days ago)
@@ -31,7 +32,6 @@ title: 👨‍💻 Recent Work
 - [fix: harden handling of untrusted PR titles](https://github.com/DannyvdSluijs/changelog-actions/pull/1) on [DannyvdSluijs/changelog-actions](https://github.com/DannyvdSluijs/changelog-actions) (3 days ago)
 - [feat: Allow symfony/cache ^8.0](https://github.com/JsonMapper/JsonMapper/pull/224) on [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (1 week ago)
 - [chore: Replace the unmaintained thenabeel/action-phpcs action](https://github.com/JsonMapper/JsonMapper/pull/223) on [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (1 week ago)
-- [chore: Update PHPStan to 2.x and run it in CI](https://github.com/JsonMapper/JsonMapper/pull/222) on [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
