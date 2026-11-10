@@ -4,6 +4,7 @@ title: 👨‍💻 Recent Work
 
 #### 💻 Check out what I'm currently working on
 
+- [myparcelnl/developer](https://github.com/myparcelnl/developer) (today)
 - [DannyvdSluijs/changelog-actions](https://github.com/DannyvdSluijs/changelog-actions) (1 day ago)
 - [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (5 days ago)
 - [jsonrainbow/.github](https://github.com/jsonrainbow/.github) (6 days ago)
@@ -13,10 +14,10 @@ title: 👨‍💻 Recent Work
 - [bowtie-json-schema/php-justinrainbow-json-schema](https://github.com/bowtie-json-schema/php-justinrainbow-json-schema) (1 month ago)
 - [JsonMapper/jsonmapper.github.io](https://github.com/JsonMapper/jsonmapper.github.io) (2 months ago)
 - [jsonrainbow/docs](https://github.com/jsonrainbow/docs) (2 months ago)
-- [infi-nl/the-infi-way](https://github.com/infi-nl/the-infi-way) (3 months ago)
 
 #### 🔨 My recent Pull Requests
 
+- [docs(backoffice): add the spring contract activation page](https://github.com/myparcelnl/developer/pull/291) on [myparcelnl/developer](https://github.com/myparcelnl/developer) (today)
 - [ci: update npm dependencies with Dependabot after a cooldown](https://github.com/DannyvdSluijs/changelog-actions/pull/16) on [DannyvdSluijs/changelog-actions](https://github.com/DannyvdSluijs/changelog-actions) (1 day ago)
 - [docs: explain how to set up the GitHub App for protected branches](https://github.com/DannyvdSluijs/changelog-actions/pull/15) on [DannyvdSluijs/changelog-actions](https://github.com/DannyvdSluijs/changelog-actions) (1 day ago)
 - [docs: pin the update action in the protected-branch example](https://github.com/DannyvdSluijs/changelog-actions/pull/14) on [DannyvdSluijs/changelog-actions](https://github.com/DannyvdSluijs/changelog-actions) (1 day ago)
@@ -31,7 +32,6 @@ title: 👨‍💻 Recent Work
 - [ci: harden the workflow and the README examples](https://github.com/DannyvdSluijs/changelog-actions/pull/6) on [DannyvdSluijs/changelog-actions](https://github.com/DannyvdSluijs/changelog-actions) (1 week ago)
 - [fix(update): do not allow the PR title in the commit message](https://github.com/DannyvdSluijs/changelog-actions/pull/5) on [DannyvdSluijs/changelog-actions](https://github.com/DannyvdSluijs/changelog-actions) (1 week ago)
 - [fix(update): require the entry template to be a single list item](https://github.com/DannyvdSluijs/changelog-actions/pull/4) on [DannyvdSluijs/changelog-actions](https://github.com/DannyvdSluijs/changelog-actions) (1 week ago)
-- [fix(update): only skip a PR when its exact entry is already present](https://github.com/DannyvdSluijs/changelog-actions/pull/3) on [DannyvdSluijs/changelog-actions](https://github.com/DannyvdSluijs/changelog-actions) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
