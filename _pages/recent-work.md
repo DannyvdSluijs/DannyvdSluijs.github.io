@@ -4,6 +4,7 @@ title: 👨‍💻 Recent Work
 
 #### 💻 Check out what I'm currently working on
 
+- [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (today)
 - [myparcelnl/developer](https://github.com/myparcelnl/developer) (1 day ago)
 - [DannyvdSluijs/changelog-actions](https://github.com/DannyvdSluijs/changelog-actions) (2 days ago)
 - [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (6 days ago)
@@ -13,7 +14,6 @@ title: 👨‍💻 Recent Work
 - [JsonMapper/SymfonyBundle](https://github.com/JsonMapper/SymfonyBundle) (1 month ago)
 - [bowtie-json-schema/php-justinrainbow-json-schema](https://github.com/bowtie-json-schema/php-justinrainbow-json-schema) (1 month ago)
 - [JsonMapper/jsonmapper.github.io](https://github.com/JsonMapper/jsonmapper.github.io) (2 months ago)
-- [jsonrainbow/docs](https://github.com/jsonrainbow/docs) (2 months ago)
 
 #### 🔨 My recent Pull Requests
 
