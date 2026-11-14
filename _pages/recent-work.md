@@ -4,9 +4,9 @@ title: 👨‍💻 Recent Work
 
 #### 💻 Check out what I'm currently working on
 
-- [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (1 day ago)
-- [myparcelnl/developer](https://github.com/myparcelnl/developer) (3 days ago)
-- [DannyvdSluijs/changelog-actions](https://github.com/DannyvdSluijs/changelog-actions) (4 days ago)
+- [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (2 days ago)
+- [myparcelnl/developer](https://github.com/myparcelnl/developer) (4 days ago)
+- [DannyvdSluijs/changelog-actions](https://github.com/DannyvdSluijs/changelog-actions) (5 days ago)
 - [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (1 week ago)
 - [jsonrainbow/.github](https://github.com/jsonrainbow/.github) (1 week ago)
 - [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (4 weeks ago)
@@ -17,11 +17,11 @@ title: 👨‍💻 Recent Work
 
 #### 🔨 My recent Pull Requests
 
-- [docs(backoffice): add the spring contract activation page](https://github.com/myparcelnl/developer/pull/291) on [myparcelnl/developer](https://github.com/myparcelnl/developer) (3 days ago)
-- [ci: update npm dependencies with Dependabot after a cooldown](https://github.com/DannyvdSluijs/changelog-actions/pull/16) on [DannyvdSluijs/changelog-actions](https://github.com/DannyvdSluijs/changelog-actions) (4 days ago)
-- [docs: explain how to set up the GitHub App for protected branches](https://github.com/DannyvdSluijs/changelog-actions/pull/15) on [DannyvdSluijs/changelog-actions](https://github.com/DannyvdSluijs/changelog-actions) (4 days ago)
-- [docs: pin the update action in the protected-branch example](https://github.com/DannyvdSluijs/changelog-actions/pull/14) on [DannyvdSluijs/changelog-actions](https://github.com/DannyvdSluijs/changelog-actions) (4 days ago)
-- [ci: move the major version tag on release](https://github.com/DannyvdSluijs/changelog-actions/pull/13) on [DannyvdSluijs/changelog-actions](https://github.com/DannyvdSluijs/changelog-actions) (4 days ago)
+- [docs(backoffice): add the spring contract activation page](https://github.com/myparcelnl/developer/pull/291) on [myparcelnl/developer](https://github.com/myparcelnl/developer) (4 days ago)
+- [ci: update npm dependencies with Dependabot after a cooldown](https://github.com/DannyvdSluijs/changelog-actions/pull/16) on [DannyvdSluijs/changelog-actions](https://github.com/DannyvdSluijs/changelog-actions) (5 days ago)
+- [docs: explain how to set up the GitHub App for protected branches](https://github.com/DannyvdSluijs/changelog-actions/pull/15) on [DannyvdSluijs/changelog-actions](https://github.com/DannyvdSluijs/changelog-actions) (5 days ago)
+- [docs: pin the update action in the protected-branch example](https://github.com/DannyvdSluijs/changelog-actions/pull/14) on [DannyvdSluijs/changelog-actions](https://github.com/DannyvdSluijs/changelog-actions) (5 days ago)
+- [ci: move the major version tag on release](https://github.com/DannyvdSluijs/changelog-actions/pull/13) on [DannyvdSluijs/changelog-actions](https://github.com/DannyvdSluijs/changelog-actions) (5 days ago)
 - [build: Add PHP 8.6 to workflow matrix; Switch phpcs/phpstan to latest official release](https://github.com/JsonMapper/JsonMapper/pull/225) on [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (1 week ago)
 - [ci: keep the changelog up to date with the repo&#39;s own actions](https://github.com/DannyvdSluijs/changelog-actions/pull/12) on [DannyvdSluijs/changelog-actions](https://github.com/DannyvdSluijs/changelog-actions) (1 week ago)
 - [docs: drop the GITHUB_TOKEN permissions when passing an app token](https://github.com/DannyvdSluijs/changelog-actions/pull/11) on [DannyvdSluijs/changelog-actions](https://github.com/DannyvdSluijs/changelog-actions) (1 week ago)
@@ -36,10 +36,10 @@ title: 👨‍💻 Recent Work
 
 #### 🔭 Latest releases I've contributed to
 
-- [bowtie-json-schema/bowtie](https://github.com/bowtie-json-schema/bowtie) - [v2026.11.3](https://github.com/bowtie-json-schema/bowtie/releases/tag/v2026.11.3) (2 days ago)
+- [bowtie-json-schema/bowtie](https://github.com/bowtie-json-schema/bowtie) - [v2026.11.3](https://github.com/bowtie-json-schema/bowtie/releases/tag/v2026.11.3) (3 days ago)
 - [DannyvdSluijs/changelog-actions](https://github.com/DannyvdSluijs/changelog-actions) - [v1.0.0](https://github.com/DannyvdSluijs/changelog-actions/releases/tag/v1.0.0) (1 week ago)
 - [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) - [2.27.0](https://github.com/JsonMapper/JsonMapper/releases/tag/2.27.0) (2 weeks ago)
-- [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) - [6.14.0](https://github.com/jsonrainbow/json-schema/releases/tag/6.14.0) (2 weeks ago)
+- [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) - [6.14.0](https://github.com/jsonrainbow/json-schema/releases/tag/6.14.0) (3 weeks ago)
 - [bowtie-json-schema/php-justinrainbow-json-schema](https://github.com/bowtie-json-schema/php-justinrainbow-json-schema) - [harness-release-6.13.0.0](https://github.com/bowtie-json-schema/php-justinrainbow-json-schema/releases/tag/harness-release-6.13.0.0) (3 weeks ago)
 - [picqer/exact-php-client](https://github.com/picqer/exact-php-client) - [v4.10.0](https://github.com/picqer/exact-php-client/releases/tag/v4.10.0) (1 month ago)
 - [MyParcelCOM/api-sdk-php](https://github.com/MyParcelCOM/api-sdk-php) - [v3.12.3](https://github.com/MyParcelCOM/api-sdk-php/releases/tag/v3.12.3) (2 months ago)
