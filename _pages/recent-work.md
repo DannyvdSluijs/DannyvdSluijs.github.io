@@ -4,6 +4,7 @@ title: 👨‍💻 Recent Work
 
 #### 💻 Check out what I'm currently working on
 
+- [DannyvdSluijs/AoC-2026](https://github.com/DannyvdSluijs/AoC-2026) (today)
 - [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (3 days ago)
 - [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (6 days ago)
 - [myparcelnl/developer](https://github.com/myparcelnl/developer) (1 week ago)
@@ -13,7 +14,6 @@ title: 👨‍💻 Recent Work
 - [DannyvdSluijs/AoC-2024](https://github.com/DannyvdSluijs/AoC-2024) (1 month ago)
 - [JsonMapper/SymfonyBundle](https://github.com/JsonMapper/SymfonyBundle) (1 month ago)
 - [bowtie-json-schema/php-justinrainbow-json-schema](https://github.com/bowtie-json-schema/php-justinrainbow-json-schema) (1 month ago)
-- [JsonMapper/jsonmapper.github.io](https://github.com/JsonMapper/jsonmapper.github.io) (2 months ago)
 
 #### 🔨 My recent Pull Requests
 
@@ -36,7 +36,7 @@ title: 👨‍💻 Recent Work
 
 #### 🔭 Latest releases I've contributed to
 
-- [bowtie-json-schema/bowtie](https://github.com/bowtie-json-schema/bowtie) - [v2026.11.3](https://github.com/bowtie-json-schema/bowtie/releases/tag/v2026.11.3) (1 week ago)
+- [bowtie-json-schema/bowtie](https://github.com/bowtie-json-schema/bowtie) - [v2026.11.4](https://github.com/bowtie-json-schema/bowtie/releases/tag/v2026.11.4) (today)
 - [DannyvdSluijs/changelog-actions](https://github.com/DannyvdSluijs/changelog-actions) - [v1.0.0](https://github.com/DannyvdSluijs/changelog-actions/releases/tag/v1.0.0) (2 weeks ago)
 - [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) - [2.27.0](https://github.com/JsonMapper/JsonMapper/releases/tag/2.27.0) (3 weeks ago)
 - [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) - [6.14.0](https://github.com/jsonrainbow/json-schema/releases/tag/6.14.0) (3 weeks ago)
