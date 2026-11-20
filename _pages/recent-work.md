@@ -4,6 +4,7 @@ title: 👨‍💻 Recent Work
 
 #### 💻 Check out what I'm currently working on
 
+- [DannyvdSluijs/AoC-2025](https://github.com/DannyvdSluijs/AoC-2025) (today)
 - [DannyvdSluijs/AoC-2026](https://github.com/DannyvdSluijs/AoC-2026) (2 days ago)
 - [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (5 days ago)
 - [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (1 week ago)
@@ -13,7 +14,6 @@ title: 👨‍💻 Recent Work
 - [jsonrainbow/.github](https://github.com/jsonrainbow/.github) (2 weeks ago)
 - [DannyvdSluijs/AoC-2024](https://github.com/DannyvdSluijs/AoC-2024) (1 month ago)
 - [JsonMapper/SymfonyBundle](https://github.com/JsonMapper/SymfonyBundle) (1 month ago)
-- [bowtie-json-schema/php-justinrainbow-json-schema](https://github.com/bowtie-json-schema/php-justinrainbow-json-schema) (1 month ago)
 
 #### 🔨 My recent Pull Requests
 
