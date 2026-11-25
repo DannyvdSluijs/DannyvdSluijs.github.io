@@ -4,8 +4,8 @@ title: 👨‍💻 Recent Work
 
 #### 💻 Check out what I'm currently working on
 
+- [DannyvdSluijs/AoC-2025](https://github.com/DannyvdSluijs/AoC-2025) (today)
 - [bowtie-json-schema/php-justinrainbow-json-schema](https://github.com/bowtie-json-schema/php-justinrainbow-json-schema) (1 day ago)
-- [DannyvdSluijs/AoC-2025](https://github.com/DannyvdSluijs/AoC-2025) (5 days ago)
 - [DannyvdSluijs/AoC-2026](https://github.com/DannyvdSluijs/AoC-2026) (1 week ago)
 - [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (1 week ago)
 - [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (1 week ago)
