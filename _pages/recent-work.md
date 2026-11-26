@@ -4,42 +4,42 @@ title: 👨‍💻 Recent Work
 
 #### 💻 Check out what I'm currently working on
 
-- [DannyvdSluijs/AoC-2025](https://github.com/DannyvdSluijs/AoC-2025) (today)
+- [DannyvdSluijs/AoC-2025](https://github.com/DannyvdSluijs/AoC-2025) (1 day ago)
 - [bowtie-json-schema/php-justinrainbow-json-schema](https://github.com/bowtie-json-schema/php-justinrainbow-json-schema) (1 day ago)
 - [DannyvdSluijs/AoC-2026](https://github.com/DannyvdSluijs/AoC-2026) (1 week ago)
 - [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (1 week ago)
-- [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (1 week ago)
+- [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (2 weeks ago)
 - [myparcelnl/developer](https://github.com/myparcelnl/developer) (2 weeks ago)
 - [DannyvdSluijs/changelog-actions](https://github.com/DannyvdSluijs/changelog-actions) (2 weeks ago)
-- [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (2 weeks ago)
+- [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (3 weeks ago)
 - [jsonrainbow/.github](https://github.com/jsonrainbow/.github) (3 weeks ago)
 - [DannyvdSluijs/AoC-2024](https://github.com/DannyvdSluijs/AoC-2024) (1 month ago)
 
 #### 🔨 My recent Pull Requests
 
-- [build: Update to the latest version justinrainbow/json-schema](https://github.com/bowtie-json-schema/php-justinrainbow-json-schema/pull/41) on [bowtie-json-schema/php-justinrainbow-json-schema](https://github.com/bowtie-json-schema/php-justinrainbow-json-schema) (1 day ago)
+- [fix: Throw a clear exception when idn-hostname validation lacks ext-intl](https://github.com/jsonrainbow/json-schema/pull/1009) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (1 day ago)
+- [build: Install intl extension in the harness image](https://github.com/bowtie-json-schema/php-justinrainbow-json-schema/pull/44) on [bowtie-json-schema/php-justinrainbow-json-schema](https://github.com/bowtie-json-schema/php-justinrainbow-json-schema) (1 day ago)
+- [build: Update to the latest version justinrainbow/json-schema](https://github.com/bowtie-json-schema/php-justinrainbow-json-schema/pull/41) on [bowtie-json-schema/php-justinrainbow-json-schema](https://github.com/bowtie-json-schema/php-justinrainbow-json-schema) (2 days ago)
 - [ci: Run the 32-bit job on ubuntu-24.04](https://github.com/jsonrainbow/json-schema/pull/996) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (1 week ago)
 - [docs(backoffice): add the spring contract activation page](https://github.com/myparcelnl/developer/pull/291) on [myparcelnl/developer](https://github.com/myparcelnl/developer) (2 weeks ago)
 - [ci: update npm dependencies with Dependabot after a cooldown](https://github.com/DannyvdSluijs/changelog-actions/pull/16) on [DannyvdSluijs/changelog-actions](https://github.com/DannyvdSluijs/changelog-actions) (2 weeks ago)
 - [docs: explain how to set up the GitHub App for protected branches](https://github.com/DannyvdSluijs/changelog-actions/pull/15) on [DannyvdSluijs/changelog-actions](https://github.com/DannyvdSluijs/changelog-actions) (2 weeks ago)
 - [docs: pin the update action in the protected-branch example](https://github.com/DannyvdSluijs/changelog-actions/pull/14) on [DannyvdSluijs/changelog-actions](https://github.com/DannyvdSluijs/changelog-actions) (2 weeks ago)
 - [ci: move the major version tag on release](https://github.com/DannyvdSluijs/changelog-actions/pull/13) on [DannyvdSluijs/changelog-actions](https://github.com/DannyvdSluijs/changelog-actions) (2 weeks ago)
-- [build: Add PHP 8.6 to workflow matrix; Switch phpcs/phpstan to latest official release](https://github.com/JsonMapper/JsonMapper/pull/225) on [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (2 weeks ago)
+- [build: Add PHP 8.6 to workflow matrix; Switch phpcs/phpstan to latest official release](https://github.com/JsonMapper/JsonMapper/pull/225) on [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (3 weeks ago)
 - [ci: keep the changelog up to date with the repo&#39;s own actions](https://github.com/DannyvdSluijs/changelog-actions/pull/12) on [DannyvdSluijs/changelog-actions](https://github.com/DannyvdSluijs/changelog-actions) (3 weeks ago)
 - [docs: drop the GITHUB_TOKEN permissions when passing an app token](https://github.com/DannyvdSluijs/changelog-actions/pull/11) on [DannyvdSluijs/changelog-actions](https://github.com/DannyvdSluijs/changelog-actions) (3 weeks ago)
 - [docs: use create-github-app-token v3 in the protected-branch example](https://github.com/DannyvdSluijs/changelog-actions/pull/10) on [DannyvdSluijs/changelog-actions](https://github.com/DannyvdSluijs/changelog-actions) (3 weeks ago)
 - [feat(release): add add-v-prefix input to tag releases as v7.0.0](https://github.com/DannyvdSluijs/changelog-actions/pull/9) on [DannyvdSluijs/changelog-actions](https://github.com/DannyvdSluijs/changelog-actions) (3 weeks ago)
 - [Add GitHub Sponsors username to FUNDING.yml](https://github.com/DannyvdSluijs/changelog-actions/pull/8) on [DannyvdSluijs/changelog-actions](https://github.com/DannyvdSluijs/changelog-actions) (3 weeks ago)
-- [ci: update pinned actions and keep them current with Dependabot](https://github.com/DannyvdSluijs/changelog-actions/pull/7) on [DannyvdSluijs/changelog-actions](https://github.com/DannyvdSluijs/changelog-actions) (3 weeks ago)
-- [ci: harden the workflow and the README examples](https://github.com/DannyvdSluijs/changelog-actions/pull/6) on [DannyvdSluijs/changelog-actions](https://github.com/DannyvdSluijs/changelog-actions) (3 weeks ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
-- [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) - [6.15.1](https://github.com/jsonrainbow/json-schema/releases/tag/6.15.1) (1 day ago)
+- [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) - [6.15.1](https://github.com/jsonrainbow/json-schema/releases/tag/6.15.1) (2 days ago)
 - [bowtie-json-schema/bowtie](https://github.com/bowtie-json-schema/bowtie) - [v2026.11.4](https://github.com/bowtie-json-schema/bowtie/releases/tag/v2026.11.4) (1 week ago)
 - [DannyvdSluijs/changelog-actions](https://github.com/DannyvdSluijs/changelog-actions) - [v1.0.0](https://github.com/DannyvdSluijs/changelog-actions/releases/tag/v1.0.0) (3 weeks ago)
-- [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) - [2.27.0](https://github.com/JsonMapper/JsonMapper/releases/tag/2.27.0) (4 weeks ago)
+- [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) - [2.27.0](https://github.com/JsonMapper/JsonMapper/releases/tag/2.27.0) (1 month ago)
 - [bowtie-json-schema/php-justinrainbow-json-schema](https://github.com/bowtie-json-schema/php-justinrainbow-json-schema) - [harness-release-6.13.0.0](https://github.com/bowtie-json-schema/php-justinrainbow-json-schema/releases/tag/harness-release-6.13.0.0) (1 month ago)
 - [picqer/exact-php-client](https://github.com/picqer/exact-php-client) - [v4.10.0](https://github.com/picqer/exact-php-client/releases/tag/v4.10.0) (2 months ago)
 - [MyParcelCOM/api-sdk-php](https://github.com/MyParcelCOM/api-sdk-php) - [v3.12.3](https://github.com/MyParcelCOM/api-sdk-php/releases/tag/v3.12.3) (2 months ago)
