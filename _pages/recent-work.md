@@ -36,11 +36,11 @@ title: 👨‍💻 Recent Work
 
 #### 🔭 Latest releases I've contributed to
 
-- [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) - [6.15.1](https://github.com/jsonrainbow/json-schema/releases/tag/6.15.1) (3 days ago)
+- [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) - [6.16.0](https://github.com/jsonrainbow/json-schema/releases/tag/6.16.0) (today)
+- [bowtie-json-schema/php-justinrainbow-json-schema](https://github.com/bowtie-json-schema/php-justinrainbow-json-schema) - [harness-release-6.15.1.0](https://github.com/bowtie-json-schema/php-justinrainbow-json-schema/releases/tag/harness-release-6.15.1.0) (today)
 - [bowtie-json-schema/bowtie](https://github.com/bowtie-json-schema/bowtie) - [v2026.11.4](https://github.com/bowtie-json-schema/bowtie/releases/tag/v2026.11.4) (1 week ago)
 - [DannyvdSluijs/changelog-actions](https://github.com/DannyvdSluijs/changelog-actions) - [v1.0.0](https://github.com/DannyvdSluijs/changelog-actions/releases/tag/v1.0.0) (3 weeks ago)
 - [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) - [2.27.0](https://github.com/JsonMapper/JsonMapper/releases/tag/2.27.0) (1 month ago)
-- [bowtie-json-schema/php-justinrainbow-json-schema](https://github.com/bowtie-json-schema/php-justinrainbow-json-schema) - [harness-release-6.13.0.0](https://github.com/bowtie-json-schema/php-justinrainbow-json-schema/releases/tag/harness-release-6.13.0.0) (1 month ago)
 - [picqer/exact-php-client](https://github.com/picqer/exact-php-client) - [v4.10.0](https://github.com/picqer/exact-php-client/releases/tag/v4.10.0) (2 months ago)
 - [MyParcelCOM/api-sdk-php](https://github.com/MyParcelCOM/api-sdk-php) - [v3.12.3](https://github.com/MyParcelCOM/api-sdk-php/releases/tag/v3.12.3) (2 months ago)
 - [JsonMapper/LaravelPackage](https://github.com/JsonMapper/LaravelPackage) - [3.0.0](https://github.com/JsonMapper/LaravelPackage/releases/tag/3.0.0) (7 months ago)
