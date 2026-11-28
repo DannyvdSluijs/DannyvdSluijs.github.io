@@ -4,9 +4,9 @@ title: 👨‍💻 Recent Work
 
 #### 💻 Check out what I'm currently working on
 
-- [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (1 day ago)
-- [bowtie-json-schema/php-justinrainbow-json-schema](https://github.com/bowtie-json-schema/php-justinrainbow-json-schema) (1 day ago)
-- [DannyvdSluijs/AoC-2025](https://github.com/DannyvdSluijs/AoC-2025) (2 days ago)
+- [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (2 days ago)
+- [bowtie-json-schema/php-justinrainbow-json-schema](https://github.com/bowtie-json-schema/php-justinrainbow-json-schema) (2 days ago)
+- [DannyvdSluijs/AoC-2025](https://github.com/DannyvdSluijs/AoC-2025) (3 days ago)
 - [DannyvdSluijs/AoC-2026](https://github.com/DannyvdSluijs/AoC-2026) (1 week ago)
 - [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (2 weeks ago)
 - [myparcelnl/developer](https://github.com/myparcelnl/developer) (2 weeks ago)
@@ -17,9 +17,9 @@ title: 👨‍💻 Recent Work
 
 #### 🔨 My recent Pull Requests
 
-- [fix: Throw a clear exception when idn-hostname validation lacks ext-intl](https://github.com/jsonrainbow/json-schema/pull/1009) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (2 days ago)
-- [build: Install intl extension in the harness image](https://github.com/bowtie-json-schema/php-justinrainbow-json-schema/pull/44) on [bowtie-json-schema/php-justinrainbow-json-schema](https://github.com/bowtie-json-schema/php-justinrainbow-json-schema) (2 days ago)
-- [build: Update to the latest version justinrainbow/json-schema](https://github.com/bowtie-json-schema/php-justinrainbow-json-schema/pull/41) on [bowtie-json-schema/php-justinrainbow-json-schema](https://github.com/bowtie-json-schema/php-justinrainbow-json-schema) (3 days ago)
+- [fix: Throw a clear exception when idn-hostname validation lacks ext-intl](https://github.com/jsonrainbow/json-schema/pull/1009) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (3 days ago)
+- [build: Install intl extension in the harness image](https://github.com/bowtie-json-schema/php-justinrainbow-json-schema/pull/44) on [bowtie-json-schema/php-justinrainbow-json-schema](https://github.com/bowtie-json-schema/php-justinrainbow-json-schema) (3 days ago)
+- [build: Update to the latest version justinrainbow/json-schema](https://github.com/bowtie-json-schema/php-justinrainbow-json-schema/pull/41) on [bowtie-json-schema/php-justinrainbow-json-schema](https://github.com/bowtie-json-schema/php-justinrainbow-json-schema) (4 days ago)
 - [ci: Run the 32-bit job on ubuntu-24.04](https://github.com/jsonrainbow/json-schema/pull/996) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (1 week ago)
 - [docs(backoffice): add the spring contract activation page](https://github.com/myparcelnl/developer/pull/291) on [myparcelnl/developer](https://github.com/myparcelnl/developer) (2 weeks ago)
 - [ci: update npm dependencies with Dependabot after a cooldown](https://github.com/DannyvdSluijs/changelog-actions/pull/16) on [DannyvdSluijs/changelog-actions](https://github.com/DannyvdSluijs/changelog-actions) (2 weeks ago)
@@ -36,8 +36,8 @@ title: 👨‍💻 Recent Work
 
 #### 🔭 Latest releases I've contributed to
 
-- [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) - [6.16.0](https://github.com/jsonrainbow/json-schema/releases/tag/6.16.0) (today)
-- [bowtie-json-schema/php-justinrainbow-json-schema](https://github.com/bowtie-json-schema/php-justinrainbow-json-schema) - [harness-release-6.15.1.0](https://github.com/bowtie-json-schema/php-justinrainbow-json-schema/releases/tag/harness-release-6.15.1.0) (today)
+- [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) - [6.16.0](https://github.com/jsonrainbow/json-schema/releases/tag/6.16.0) (1 day ago)
+- [bowtie-json-schema/php-justinrainbow-json-schema](https://github.com/bowtie-json-schema/php-justinrainbow-json-schema) - [harness-release-6.15.1.0](https://github.com/bowtie-json-schema/php-justinrainbow-json-schema/releases/tag/harness-release-6.15.1.0) (1 day ago)
 - [bowtie-json-schema/bowtie](https://github.com/bowtie-json-schema/bowtie) - [v2026.11.4](https://github.com/bowtie-json-schema/bowtie/releases/tag/v2026.11.4) (1 week ago)
 - [DannyvdSluijs/changelog-actions](https://github.com/DannyvdSluijs/changelog-actions) - [v1.0.0](https://github.com/DannyvdSluijs/changelog-actions/releases/tag/v1.0.0) (3 weeks ago)
 - [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) - [2.27.0](https://github.com/JsonMapper/JsonMapper/releases/tag/2.27.0) (1 month ago)
